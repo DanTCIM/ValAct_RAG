@@ -48,6 +48,7 @@ def scan_directory(base_path):
                 # Exclude system files like .DS_Store
                 if file != ".DS_Store":
                     files.append(file)
+            files[1:] = sorted(files[1:])
             folders_files[folder] = files
     return folders_files
 

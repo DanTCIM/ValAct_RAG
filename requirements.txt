@@ -15,7 +15,7 @@ ipython  # For display, Markdown, Latex functionalities
 gpt4all # for embedding
 # glob  # Assuming you're using glob, but glob2 is an extended version compatible with more patterns
 PyPDF2  # For PDF parsing
-pypdf
+pypdf # FOr PDF parsing
 chromadb  # Specific package, ensure correct name and version as needed
 
-semantic_text_splitter # used for semantic text splitter
+# semantic_text_splitter # currently not used for semantic text splitter

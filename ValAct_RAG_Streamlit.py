@@ -45,7 +45,7 @@ with st.sidebar:
 
     collection_name = st.selectbox(
         "Select your document collection",
-        ("ASOP_life", "Bermuda", "CFT", "VM21", "VM22"),
+        ("ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"),
     )
 
     col1, col2 = st.columns(2)

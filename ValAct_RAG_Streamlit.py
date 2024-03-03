@@ -27,7 +27,34 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 st.header(
     "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
 )
-st.write("Please see sidebar for further information.")
+st.write(
+    "Please see the sidebar to select a collection of documents. You can choose a specific document for an exclusive search within that document only."
+)
+
+## Set file names as a dictionary
+base_path = "./data"
+
+
+@st.cache_data  # Add the caching decorator
+def scan_directory(base_path):
+    folders_files = {}
+    for folder in os.listdir(base_path):
+        if folder == "chroma":  # Skip the "chroma" folder
+            continue
+        folder_path = os.path.join(base_path, folder)
+        if os.path.isdir(folder_path):
+            files = ["All"]
+            for file in os.listdir(folder_path):
+                # Exclude system files like .DS_Store
+                if file != ".DS_Store":
+                    files.append(file)
+            folders_files[folder] = files
+    return folders_files
+
+
+document_list = scan_directory(base_path)
+collection_list = ["ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"]
+
 
 # Store LLM generated responses
 if "messages" not in st.session_state.keys():
@@ -45,8 +72,29 @@ with st.sidebar:
 
     collection_name = st.selectbox(
         "Select your document collection",
-        ("ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"),
+        collection_list,
+        # ("ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"),
     )
+
+    document_name = st.selectbox(
+        "Select your document ",
+        document_list[collection_name],
+    )
+
+    if document_name != "All":
+        pdf_file_path = base_path + "/" + collection_name + "/" + document_name
+        # Open the file in binary mode
+        with open(pdf_file_path, "rb") as pdf_file:
+            # Read the PDF file's binary data
+            pdf_bytes = pdf_file.read()
+
+            # Create the download button
+            st.download_button(
+                label="Download selected document",
+                data=pdf_bytes,
+                file_name=pdf_file_path,
+                mime="application/octet-stream",
+            )
 
     col1, col2 = st.columns(2)
     with col1:
@@ -127,9 +175,15 @@ vectorstore = Chroma(
 
 # # Retrieve and RAG chain
 # Create a retriever using the vector database as the search source
+search_kwargs = {"k": num_source}
+
+# Only add the filter if the value is not "All"
+if document_name != "All":
+    search_kwargs["filter"] = {"source": document_name}
+
 if flag_mmr:
     retriever = vectorstore.as_retriever(
-        search_type="mmr", search_kwargs={"k": num_source, "lambda_mult": _lambda_mult}
+        search_type="mmr", search_kwargs={**search_kwargs, "lambda_mult": _lambda_mult}
     )
     # Use MMR (Maximum Marginal Relevance) to find a set of documents
     # that are both similar to the input query and diverse among themselves
@@ -137,8 +191,8 @@ if flag_mmr:
     # (lambda mult 0.5 being default, 0 being the most diverse, 1 being the least)
 else:
     retriever = vectorstore.as_retriever(
-        search_kwargs={"k": num_source}
-    )  # use similarity
+        search_kwargs=search_kwargs
+    )  # use similarity search
 
 # Load the RAG (Retrieval-Augmented Generation) prompt
 # prompt_concise = hub.pull("rlm/rag-prompt")

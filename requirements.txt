@@ -1,0 +1,21 @@
+### For langchain and its related packages, if they are not standard PyPI packages, you may need a direct link or specify them differently
+langchain
+langchainhub
+langchain_openai
+
+### For streamlit app run
+streamlit
+pysqlite3-binary
+
+### The following requirements for local run
+python-dotenv
+ipython  # For display, Markdown, Latex functionalities
+
+### The following requirements for local LLM
+gpt4all # for embedding
+# glob  # Assuming you're using glob, but glob2 is an extended version compatible with more patterns
+PyPDF2  # For PDF parsing
+pypdf
+chromadb  # Specific package, ensure correct name and version as needed
+
+semantic_text_splitter # used for semantic text splitter

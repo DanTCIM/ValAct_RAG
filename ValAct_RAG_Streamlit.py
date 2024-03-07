@@ -23,6 +23,10 @@ import pandas as pd
 ## API key setup
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
+st.set_page_config(
+    page_title="Actuarial Doc Q&A Model",
+)
+
 # # Set up the title and input
 st.header(
     "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"

@@ -137,8 +137,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
         for idx, doc in enumerate(documents):
             source = os.path.basename(doc.metadata["source"])
             page = doc.metadata["page"] + 1
-
-            self.status.write(f"**Document {idx+1} from {source}, page {page}**")
+            self.status.write(f"**Source: {idx+1} from {source}, page {page}**")
             self.status.markdown(doc.page_content)
         self.status.update(state="complete")
 

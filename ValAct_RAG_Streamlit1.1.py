@@ -1,5 +1,10 @@
+# sqlite3 related (for Streamlit)
+# import pysqlite3
+# import sys
+
+# sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+
 import os
-import tempfile
 import streamlit as st
 from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
@@ -10,10 +15,16 @@ from langchain.chains import ConversationalRetrievalChain
 # DK
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
+import pandas as pd
 
-st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
-st.title("🦜 LangChain: Chat with Documents")
+st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖")
 
+st.header(
+    "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
+)
+st.write(
+    "Please see the sidebar to select a collection of documents. You can choose a specific document for an exclusive search within that document only."
+)
 
 ## Set file names as a dictionary
 base_path = "./data"
@@ -132,6 +143,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
     def on_retriever_start(self, serialized: dict, query: str, **kwargs):
         self.status.write(f"**Question:** {query}")
         self.status.update(label=f"**Context Retrieval:** {query}")
+        self.msgs.add_ai_message(f"Query**Context retrieval question:** {query}")
 
     def on_retriever_end(self, documents, **kwargs):
         source_msgs = ""
@@ -167,17 +179,46 @@ qa_chain = ConversationalRetrievalChain.from_llm(
     llm, retriever=retriever, memory=memory, verbose=True
 )
 
-if len(msgs.messages) == 0 or st.sidebar.button("Clear message history"):
+if len(msgs.messages) == 0:
     msgs.clear()
     msgs.add_ai_message("How can I help you?")
 
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     if msg.content.startswith("**Source"):
-        with st.expander("Context retrieval to the question below", expanded=False):
+        with st.expander("**Context Retrieval:**", expanded=False):
             st.write(msg.content)
+    elif msg.content.startswith("Query"):
+        st.chat_message("assistant", avatar="ℹ️").write(msg.content.lstrip("Query"))
     else:
         st.chat_message(avatars[msg.type]).write(msg.content)
+if document_name != "All":
+    pdf_file_path = base_path + "/" + collection_name + "/" + document_name
+    # Open the file in binary mode
+    with open(pdf_file_path, "rb") as pdf_file:
+        # Read the PDF file's binary data
+        pdf_bytes = pdf_file.read()
+
+        # Create the download button
+        st.sidebar.download_button(
+            label="Download selected document",
+            data=pdf_bytes,
+            file_name=pdf_file_path,
+            mime="application/octet-stream",
+            use_container_width=True,
+        )
+    if st.sidebar.button(
+        "Get main themes",
+        use_container_width=True,
+    ):
+        user_query = "What are the main themes of the documents?"
+        st.chat_message("user").write(user_query)
+        with st.chat_message("assistant"):
+            retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
+            stream_handler = StreamHandler(st.empty())
+            response = qa_chain.run(
+                user_query, callbacks=[retrieval_handler, stream_handler]
+            )
 
 if user_query := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(user_query)
@@ -187,4 +228,33 @@ if user_query := st.chat_input(placeholder="Ask me anything!"):
         stream_handler = StreamHandler(st.empty())
         response = qa_chain.run(
             user_query, callbacks=[retrieval_handler, stream_handler]
+        )
+
+with st.sidebar:
+    col1, col2 = st.columns(2)
+    with col1:
+
+        def clear_chat_history():
+            msgs.clear()
+            msgs.add_ai_message("How can I help you?")
+
+        st.button(
+            label="Clear history",
+            use_container_width=True,
+            on_click=clear_chat_history,
+            help="Clear chat history",
+        )
+    with col2:
+
+        def convert_df():
+            df = pd.DataFrame(msgs.messages)
+            return df.to_csv().encode("utf-8")
+
+        st.download_button(
+            label="Download",
+            help="Download chat history in CSV",
+            data=convert_df(),
+            file_name="chat_history.csv",
+            mime="text/csv",
+            use_container_width=True,
         )

@@ -1,33 +1,23 @@
-# # Initial set up
-# Import the necessary modules
-import streamlit as st
-import os
-
-# sqlite3 related (for Streamlit)
+## sqlite3 related (for Streamlit)
 import pysqlite3
 import sys
 
 sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
-# Langchain and Vector DB
-from langchain import hub
+import os
+import streamlit as st
+from langchain.chat_models import ChatOpenAI
+from langchain.memory import ConversationBufferMemory
+from langchain.memory.chat_message_histories import StreamlitChatMessageHistory
+from langchain.callbacks.base import BaseCallbackHandler
+from langchain.chains import ConversationalRetrievalChain
+from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough
-from langchain_core.runnables import RunnableParallel  # for RAG with source
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-import chromadb
-from langchain_core.prompts import ChatPromptTemplate
 import pandas as pd
 
-## API key setup
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+# Start Streamlit session
+st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖")
 
-st.set_page_config(
-    page_title="Actuarial Doc Q&A Model",
-)
-
-# # Set up the title and input
 st.header(
     "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
 )
@@ -35,10 +25,12 @@ st.write(
     "Please see the sidebar to select a collection of documents. You can choose a specific document for an exclusive search within that document only."
 )
 
-## Set file names as a dictionary
+# Set variables
 base_path = "./data"
+model_name = "gpt-3.5-turbo"  ##gpt-4-0125-preview
 
 
+# Define a function to scan a directory and return a dictionary of folders and files.
 @st.cache_data  # Add the caching decorator
 def scan_directory(base_path):
     folders_files = {}
@@ -60,39 +52,33 @@ def scan_directory(base_path):
 document_list = scan_directory(base_path)
 collection_list = ["ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"]
 
-
-# Store LLM generated responses
-if "messages" not in st.session_state.keys():
-    st.session_state.messages = [
-        {"role": "ai", "content": "What is your question?", "type": "text"}
-    ]
-
 ## Sidebar
 with st.sidebar:
-    st.title("Life Valuation Actuary Document Q&A Machine")
-    st.write("**Built for educational purposes only.**")
+    st.header("**Built for educational purposes only**")
     st.write(
-        "Powered by OpenAI's GPT 3.5-Turbo: Harness the capabilities of LLM to search for and retrieve information on actuarial documents."
+        f"Harness the power of LLM to search for and retrieve information on actuarial documents: powered by **{model_name}**"
+    )
+    st.write(
+        "**Responses should not be relied upon as accurate or error-free.** Users are encouraged to review the source contexts carefully. The quality of the retrieved contexts and responses may depend on LLM algorithms, RAG parameters, and how questions are asked."
     )
 
     collection_name = st.selectbox(
         "Select your document collection",
         collection_list,
-        # ("ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"),
     )
 
     document_name = st.selectbox(
-        "Select your document ",
+        "Select your document",
         document_list[collection_name],
     )
 
-    with st.container(border=True):
-        st.subheader("⚙️ RAG Parameters")
+    with st.expander("⚙️ RAG Parameters"):
         num_source = st.slider(
             "Top N sources to view:", min_value=4, max_value=20, value=5, step=1
         )
         flag_mmr = st.toggle(
             "Diversity search",
+            value=True,
             help="Diversity search, i.e., Maximal Marginal Relevance (MMR) tries to reduce redundancy of fetched documents and increase diversity. 0 being the most diverse, 1 being the least diverse. 0.5 is a balanced state.",
         )
         _lambda_mult = st.slider(
@@ -103,25 +89,14 @@ with st.sidebar:
             step=0.25,
         )
 
-        # with st.expander("What is diversity?"):
-        #    st.caption("Maximal Marginal Relevance (MMR) tries to reduce redundancy of fetched documents and increase diversity. 0 being the most diverse, 1 being the least diverse. 0.5 is a balanced state.")
-
-
-# # Model and directory setup
-embeddings_model = OpenAIEmbeddings()
-db_directory = "./data/chroma"
-llm = ChatOpenAI(
-    model_name="gpt-3.5-turbo-0125", temperature=0
-)  # context window size 16k for GPT 3.5 Turbo
-
-# # Get a Chroma vector database with specified parameters
+# Create a vector store for the document collection
 vectorstore = Chroma(
-    embedding_function=embeddings_model,
-    persist_directory=db_directory,
+    embedding_function=OpenAIEmbeddings(),
+    persist_directory="./data/chroma",
     collection_name=collection_name,
 )
 
-# # Retrieve and RAG chain
+# Retrieve and RAG chain
 # Create a retriever using the vector database as the search source
 search_kwargs = {"k": num_source}
 
@@ -142,111 +117,93 @@ else:
         search_kwargs=search_kwargs
     )  # use similarity search
 
-# Load the RAG (Retrieval-Augmented Generation) prompt
-# prompt_concise = hub.pull("rlm/rag-prompt")
 
-qa_system_prompt = """You are a helpful assistant to help actuaries with question-answering tasks. \
-Use the following pieces of retrieved context to answer the question. \
-ASOP or asop means Actuarial Standards of Practice. \
-CFT means Cash Flow Testing. AAT means Asset Adequacy Testing. \
-BMA means Bermuda Monetary Authority. \
-SBA means scenario-based approach. BEL means best estimate liabilities.\
-After you answer, provide the sources you used to answer the question. \
-If you don't know the answer, just say that you don't know. \
+# Chat model stream handler
+class StreamHandler(BaseCallbackHandler):
+    def __init__(
+        self, container: st.delta_generator.DeltaGenerator, initial_text: str = ""
+    ):
+        self.container = container
+        self.text = initial_text
+        self.run_id_ignore_token = None
 
-{context}"""
-prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", qa_system_prompt),
-        ("human", "{question}"),
-    ]
+    def on_llm_start(self, serialized: dict, prompts: list, **kwargs):
+        # Workaround to prevent showing the rephrased question as output
+        if prompts[0].startswith("Human"):
+            self.run_id_ignore_token = kwargs.get("run_id")
+
+    def on_llm_new_token(self, token: str, **kwargs) -> None:
+        if self.run_id_ignore_token == kwargs.get("run_id", False):
+            return
+        self.text += token
+        self.container.markdown(self.text)
+
+
+# Retrieval handler
+class PrintRetrievalHandler(BaseCallbackHandler):
+    def __init__(self, container, msgs):
+        self.status = container.status("**Context Retrieval**")
+        self.msgs = msgs
+
+    def on_retriever_start(self, serialized: dict, query: str, **kwargs):
+        self.status.write(f"**Question:** {query}")
+        self.status.update(label=f"**Context Retrieval:** {query}")
+        self.msgs.add_ai_message(f"Query: {query}")
+
+    def on_retriever_end(self, documents, **kwargs):
+        source_msgs = ""
+        for idx, doc in enumerate(documents):
+            source = os.path.basename(doc.metadata["source"])
+            page = doc.metadata["page"] + 1
+            contents = doc.page_content
+            source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
+            self.status.write(source_msg)
+            source_msgs += source_msg
+        self.msgs.add_ai_message(source_msgs)
+        self.status.update(state="complete")
+
+
+# Setup memory for contextual conversation
+msgs = StreamlitChatMessageHistory()
+memory = ConversationBufferMemory(
+    memory_key="chat_history",
+    chat_memory=msgs,
+    return_messages=True,
 )
 
+# Setup LLM and QA chain
+openai_api_key = st.secrets["OPENAI_API_KEY"]
 
-# Define a function to format the documents with their sources and pages
-def format_docs_with_sources(docs):
-    formatted_docs = "\n\n".join(doc.page_content for doc in docs)
-    sources_pages = "\n".join(
-        f"{doc.metadata['source']} (Page {doc.metadata['page'] + 1})" for doc in docs
-    )
-    # Added 1 to the page number assuming 'page' starts at 0 and we want to present it in a user-friendly way
-
-    return f"Documents:\n{formatted_docs}\n\nSources and Pages:\n{sources_pages}"
-
-
-# Create a RAG chain using the formatted documents as the context
-rag_chain_from_docs = (
-    RunnablePassthrough.assign(
-        context=(lambda x: format_docs_with_sources(x["context"]))
-    )
-    | prompt
-    | llm
-    | StrOutputParser()
+llm = ChatOpenAI(
+    model_name=model_name,
+    openai_api_key=openai_api_key,
+    temperature=0,
+    streaming=True,
 )
 
-# Create a parallel chain for retrieving and generating answers
-rag_chain_with_source = RunnableParallel(
-    {"context": retriever, "question": RunnablePassthrough()}
-).assign(answer=rag_chain_from_docs)
+qa_chain = ConversationalRetrievalChain.from_llm(
+    llm, retriever=retriever, memory=memory, verbose=True
+)
 
+# Initialize the chat history
+if len(msgs.messages) == 0:
+    msgs.clear()
+    msgs.add_ai_message("Welcome to life actuarial document Q&A machine!")
 
-# # Generate output
-def generate_output(prompt_input):
-    # Invoke the RAG chain with the user input as the question
-    output = rag_chain_with_source.invoke(prompt_input)
-
-    # Generate the Markdown output with the question, answer, and context
-    markdown_output = "{}".format(output["answer"])
-
-    last_page_content = None  # Variable to store the last page content
-    i = 1  # Source indicator
-    markdown_source_output = ""
-
-    # Iterate over the context documents to format and include them in the output
-    for doc in output["context"]:
-        current_page_content = doc.page_content.replace(
-            "\n", "  \n"
-        )  # Get the current page content
-
-        # Check if the current content is different from the last one
-        if current_page_content != last_page_content:
-            markdown_source_output += "#### Source {}: {}, page {}\n\n{}\n".format(
-                i,
-                doc.metadata["source"],
-                doc.metadata["page"],
-                current_page_content,
-            )
-            i = i + 1
-        last_page_content = current_page_content  # Update the last page content
-
-    # Display the output for markdown
-    return markdown_output, markdown_source_output
-
-
-# Store LLM generated responses
-if "messages" not in st.session_state.keys():
-    st.session_state.messages = [
-        {"role": "ai", "content": "What is your question?", "type": "text"}
-    ]
-
-# Display or clear chat messages
-for message in st.session_state.messages:
-    if message["type"] == "source":
-        with st.expander("Review the top N sources"):
-            st.write(message["content"])
+# Show the chat history
+tmp_query = ""
+avatars = {"human": "user", "ai": "assistant"}
+for msg in msgs.messages:
+    if msg.content.startswith("Query:"):
+        tmp_query = msg.content.lstrip("Query: ")
+    elif msg.content.startswith("**Source"):
+        with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
+            st.write(msg.content)
     else:
-        with st.chat_message(message["role"]):
-            if message["type"] == "text":
-                st.write(message["content"])
+        tmp_query = ""
+        st.chat_message(avatars[msg.type]).write(msg.content)
 
-# User-provided prompt
-if user_prompt := st.chat_input("What is your question?"):
-    st.session_state.messages.append(
-        {"role": "user", "content": user_prompt, "type": "text"}
-    )
-    with st.chat_message("user"):
-        st.write(user_prompt)
-
+# Download or get the main themes of the selected document
 if document_name != "All":
     pdf_file_path = base_path + "/" + collection_name + "/" + document_name
     # Open the file in binary mode
@@ -263,70 +220,68 @@ if document_name != "All":
             use_container_width=True,
         )
     if st.sidebar.button(
-        "Get main themes",
+        "Get main themes of selected document",
         use_container_width=True,
     ):
-        user_prompt = "What are the main themes of the documents?"
-        st.session_state.messages.append(
-            {"role": "user", "content": user_prompt, "type": "text"}
+        user_query = (
+            "What are the main themes in the document named " + document_name + "?"
         )
-        with st.chat_message("user"):
-            st.write(user_prompt)
+        st.chat_message("user").write(user_query)
+        with st.chat_message("assistant"):
+            retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
+            stream_handler = StreamHandler(st.empty())
+            response = qa_chain.run(
+                user_query, callbacks=[retrieval_handler, stream_handler]
+            )
 
-# Generate a new response if last message is not from assistant
-if st.session_state.messages[-1]["role"] != "ai":
-    with st.chat_message("ai"):
-        with st.spinner("Retrieving info and generating response..."):
-            response, sources = generate_output(user_prompt)
-            st.write(response)
-    with st.expander("Review the top N sources", expanded=False):
-        st.write(sources)
-    message = {"role": "ai", "content": response, "type": "text"}
-    source_expand = {"role": "ai", "content": sources, "type": "source"}
-    st.session_state.messages.append(message)
-    st.session_state.messages.append(source_expand)
+# Ask the user for a question
+if user_query := st.chat_input(
+    placeholder="What is your question on the selected collection/document?"
+):
+    st.chat_message("user").write(user_query)
 
+    with st.chat_message("assistant"):
+        retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
+        stream_handler = StreamHandler(st.empty())
+        response = qa_chain.run(
+            user_query, callbacks=[retrieval_handler, stream_handler]
+        )
 
+# Clear chat history or download the chat history in CSV
 with st.sidebar:
     col1, col2 = st.columns(2)
     with col1:
 
-        def convert_df():
-            df = pd.DataFrame(st.session_state.messages)
+        def clear_chat_history():
+            msgs.clear()
+            msgs.add_ai_message("Welcome to life actuarial document Q&A machine!")
+
+        st.button(
+            label="Clear history",
+            use_container_width=True,
+            on_click=clear_chat_history,
+            help="Clear chat history",
+        )
+    with col2:
+
+        def convert_df(msgs):
+            df = []
+            for msg in msgs.messages:
+                df.append({"type": msg.type, "content": msg.content})
+
+            df = pd.DataFrame(df)
             return df.to_csv().encode("utf-8")
 
         st.download_button(
-            label="Download Chat",
+            label="Download history",
             help="Download chat history in CSV",
-            data=convert_df(),
+            data=convert_df(msgs),
             file_name="chat_history.csv",
             mime="text/csv",
             use_container_width=True,
         )
-    with col2:
 
-        def clear_chat_history():
-            st.session_state.messages = [
-                {
-                    "role": "ai",
-                    "content": "What is your question on ASOP?",
-                    "type": "text",
-                }
-            ]
-
-        st.button(
-            "Clear Chat",
-            help="Clear chat history",
-            on_click=clear_chat_history,
-            use_container_width=True,
-        )
-
-    st.subheader("📖 Further Notes")
-    st.write(
-        "Responses are based on LLM's features and search algorithms, and should not be relied upon as definitive or error-free. Users are encouraged to review the source contexts carefully. The sources may appear less relevant to the question due to the diversity of the search."
-    )
-
-    link3 = "https://github.com/DanTCIM/ValAct_RAG"
-    st.write(
-        f"The Python codes and documentation of the project are in [GitHub]({link3})."
+    link = "https://github.com/DanTCIM/ValAct_RAG"
+    st.caption(
+        f"🖋️ The Python code and documentation of the project are in [GitHub]({link})."
     )

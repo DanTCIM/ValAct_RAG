@@ -54,12 +54,15 @@ collection_list = ["ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS
 
 ## Sidebar
 with st.sidebar:
-    st.header("**Built for educational purposes only**")
+    st.header("**Show me the evidence, AI**")
     st.write(
-        f"Harness the power of LLM to search for and retrieve information on actuarial documents: powered by **{model_name}**"
+        f"The {model_name}-powered RAG process searches for and retrieves information on actuarial documents. Harness its power but **with accountability and responsibility**."
     )
     st.write(
-        "**Responses should not be relied upon as accurate or error-free.** Users are encouraged to review the source contexts carefully. The quality of the retrieved contexts and responses may depend on LLM algorithms, RAG parameters, and how questions are asked."
+        "**AI's responses should not be relied upon as accurate or error-free.** The quality of the retrieved contexts and responses may depend on LLM algorithms, RAG parameters, and how questions are asked."
+    )
+    st.write(
+        "Actuaries are strongly advised to **evaluate for accuracy** when using AI. Download the documents to read and review the source. Read the retrieved contexts to compare to AI's responses. The process is built for educational purposes only."
     )
 
     collection_name = st.selectbox(

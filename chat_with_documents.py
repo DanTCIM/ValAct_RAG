@@ -11,7 +11,6 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 
-
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
 st.title("🦜 LangChain: Chat with Documents")
 
@@ -126,28 +125,28 @@ class StreamHandler(BaseCallbackHandler):
 
 
 class PrintRetrievalHandler(BaseCallbackHandler):
-    def __init__(self, container):
+    def __init__(self, container, msgs):
         self.status = container.status("**Context Retrieval**")
+        self.msgs = msgs
 
     def on_retriever_start(self, serialized: dict, query: str, **kwargs):
         self.status.write(f"**Question:** {query}")
         self.status.update(label=f"**Context Retrieval:** {query}")
 
     def on_retriever_end(self, documents, **kwargs):
+        source_msgs = ""
         for idx, doc in enumerate(documents):
             source = os.path.basename(doc.metadata["source"])
             page = doc.metadata["page"] + 1
-            self.status.write(f"**Source: {idx+1} from {source}, page {page}**")
-            self.status.markdown(doc.page_content)
+            contents = doc.page_content
+            source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
+            self.status.write(source_msg)
+            source_msgs += source_msg
+        self.msgs.add_ai_message(source_msgs)
         self.status.update(state="complete")
 
 
 openai_api_key = st.secrets["OPENAI_API_KEY"]
-if not openai_api_key:
-    st.info("Please add your OpenAI API key to continue.")
-    st.stop()
-
-# retriever = configure_retriever(uploaded_files)
 
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
@@ -155,12 +154,11 @@ memory = ConversationBufferMemory(
     memory_key="chat_history",
     chat_memory=msgs,
     return_messages=True,
-    # output_key="output",
 )
 
 # Setup LLM and QA chain
 llm = ChatOpenAI(
-    model_name="gpt-4-0125-preview",
+    model_name="gpt-3.5-turbo",  ##gpt-4-0125-preview
     openai_api_key=openai_api_key,
     temperature=0,
     streaming=True,
@@ -175,13 +173,17 @@ if len(msgs.messages) == 0 or st.sidebar.button("Clear message history"):
 
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
-    st.chat_message(avatars[msg.type]).write(msg.content)
+    if msg.content.startswith("**Source"):
+        with st.expander("Context retrieval to the question below", expanded=False):
+            st.write(msg.content)
+    else:
+        st.chat_message(avatars[msg.type]).write(msg.content)
 
 if user_query := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(user_query)
 
     with st.chat_message("assistant"):
-        retrieval_handler = PrintRetrievalHandler(st.container())
+        retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
         stream_handler = StreamHandler(st.empty())
         response = qa_chain.run(
             user_query, callbacks=[retrieval_handler, stream_handler]

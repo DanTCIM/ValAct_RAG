@@ -187,13 +187,8 @@ qa_chain = ConversationalRetrievalChain.from_llm(
 
 
 # Initialize the chat history
-def clear_chat_history():
-    msgs.clear()
-    msgs.add_ai_message("Welcome to life actuarial document Q&A machine!")
-
-
 if len(msgs.messages) == 0:
-    clear_chat_history()
+    msgs.add_ai_message("Welcome to life actuarial document Q&A machine!")
 
 # Show the chat history
 tmp_query = ""
@@ -257,10 +252,14 @@ with st.sidebar:
     col1, col2 = st.columns(2)
     with col1:
 
+        def clear_chat_history():
+            msgs.clear()
+            msgs.add_ai_message("Welcome to life actuarial document Q&A machine!")
+
         st.button(
             label="Clear history",
             use_container_width=True,
-            on_click=clear_chat_history(),
+            on_click=clear_chat_history,
             help="Clear chat history",
         )
     with col2:

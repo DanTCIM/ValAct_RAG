@@ -1,7 +1,8 @@
 ### For langchain and its related packages, if they are not standard PyPI packages, you may need a direct link or specify them differently
 langchain
-langchainhub
+#langchainhub
 langchain_openai
+langchain_community
 
 ### For streamlit app run
 streamlit

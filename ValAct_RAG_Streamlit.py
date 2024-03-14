@@ -29,7 +29,7 @@ st.write(
 )
 
 # Set variables
-base_path = "./data"
+base_path = "./data/pdf"
 # LLM flag for augmented generation (always use OpenAI embeddings)
 USE_Anthropic = True
 

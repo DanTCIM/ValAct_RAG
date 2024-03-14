@@ -45,7 +45,7 @@ else:
 def scan_directory(base_path):
     folders_files = {}
     for folder in os.listdir(base_path):
-        if folder == "chroma":  # Skip the "chroma" folder
+        if folder == "chroma_semantic":  # Skip the "chroma" folder
             continue
         folder_path = os.path.join(base_path, folder)
         if os.path.isdir(folder_path):

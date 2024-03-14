@@ -9,7 +9,7 @@ import streamlit as st
 from langchain.chat_models import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 from langchain.memory import ConversationBufferMemory
-from langchain.memory.chat_message_histories import StreamlitChatMessageHistory
+from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain.callbacks.base import BaseCallbackHandler
 from langchain.chains import ConversationalRetrievalChain
 from langchain_openai import OpenAIEmbeddings
@@ -168,8 +168,10 @@ class PrintRetrievalHandler(BaseCallbackHandler):
             # page = doc.metadata["page"] + 1
             contents = doc.page_content
             # source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
-            source_msg = f"**Source {idx+1}: {source}**\n\n {contents}\n\n"
-            self.status.write(source_msg)
+            # source_msg = f"**Source {idx+1}: {source}**\n\n {contents}\n\n"
+            source_msg = f'<span style="color: navy; font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
+
+            self.status.write(source_msg, unsafe_allow_html=True)
             source_msgs += source_msg
         self.msgs.add_ai_message(source_msgs)
         self.status.update(state="complete")
@@ -214,9 +216,9 @@ avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     if msg.content.startswith("Query:"):
         tmp_query = msg.content.lstrip("Query: ")
-    elif msg.content.startswith("**Source"):
+    elif msg.content.startswith("<span style"):
         with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
-            st.write(msg.content)
+            st.write(msg.content, unsafe_allow_html=True)
     else:
         tmp_query = ""
         st.chat_message(avatars[msg.type]).write(msg.content)

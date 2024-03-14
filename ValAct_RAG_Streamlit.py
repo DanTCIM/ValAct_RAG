@@ -1,8 +1,8 @@
 ## sqlite3 related (for Streamlit)
-import pysqlite3
-import sys
+# import pysqlite3
+# import sys
 
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+# sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 import os
 import streamlit as st
@@ -102,8 +102,8 @@ with st.sidebar:
 
 # Create a vector store for the document collection
 vectorstore = Chroma(
-    embedding_function=OpenAIEmbeddings(),
-    persist_directory="./data/chroma_new",
+    embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"),
+    persist_directory="./data/chroma_semantic",
     collection_name=collection_name,
 )
 

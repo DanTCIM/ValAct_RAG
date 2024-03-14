@@ -6,7 +6,9 @@ sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 import os
 import streamlit as st
-from langchain.chat_models import ChatOpenAI
+
+# from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 from langchain.memory import ConversationBufferMemory
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory

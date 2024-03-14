@@ -7,6 +7,7 @@ sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 import os
 import streamlit as st
 from langchain.chat_models import ChatOpenAI
+from langchain_anthropic import ChatAnthropic
 from langchain.memory import ConversationBufferMemory
 from langchain.memory.chat_message_histories import StreamlitChatMessageHistory
 from langchain.callbacks.base import BaseCallbackHandler
@@ -27,7 +28,14 @@ st.write(
 
 # Set variables
 base_path = "./data"
-model_name = "gpt-3.5-turbo"  ##gpt-4-0125-preview
+# LLM flag for augmented generation (always use OpenAI embeddings)
+USE_Anthropic = True
+
+if USE_Anthropic:
+    model_name = "claude-3-sonnet-20240229"
+else:
+    # model_name = "gpt-3.5-turbo"
+    model_name = "gpt-4-0125-preview"
 
 
 # Define a function to scan a directory and return a dictionary of folders and files.
@@ -56,7 +64,7 @@ collection_list = ["ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS
 with st.sidebar:
     st.header("**Show me the evidence, AI**")
     st.write(
-        f"The {model_name}-powered RAG process searches for and retrieves information on actuarial documents. Harness its power but **with accountability and responsibility**."
+        f"The *{model_name}*-powered RAG process searches for and retrieves information on actuarial documents. Harness its power but **with accountability and responsibility**."
     )
     st.write(
         "**AI's responses should not be relied upon as accurate or error-free.** The quality of the retrieved contexts and responses may depend on LLM algorithms, RAG parameters, and how questions are asked."
@@ -95,7 +103,7 @@ with st.sidebar:
 # Create a vector store for the document collection
 vectorstore = Chroma(
     embedding_function=OpenAIEmbeddings(),
-    persist_directory="./data/chroma",
+    persist_directory="./data/chroma_new",
     collection_name=collection_name,
 )
 
@@ -157,9 +165,10 @@ class PrintRetrievalHandler(BaseCallbackHandler):
         source_msgs = ""
         for idx, doc in enumerate(documents):
             source = os.path.basename(doc.metadata["source"])
-            page = doc.metadata["page"] + 1
+            # page = doc.metadata["page"] + 1
             contents = doc.page_content
-            source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
+            # source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
+            source_msg = f"**Source {idx+1}: {source}**\n\n {contents}\n\n"
             self.status.write(source_msg)
             source_msgs += source_msg
         self.msgs.add_ai_message(source_msgs)
@@ -175,14 +184,20 @@ memory = ConversationBufferMemory(
 )
 
 # Setup LLM and QA chain
-openai_api_key = st.secrets["OPENAI_API_KEY"]
-
-llm = ChatOpenAI(
-    model_name=model_name,
-    openai_api_key=openai_api_key,
-    temperature=0,
-    streaming=True,
-)
+if USE_Anthropic:
+    llm = ChatAnthropic(
+        model_name=model_name,
+        anthropic_api_key=st.secrets["ANTHROPIC_API_KEY"],
+        temperature=0,
+        streaming=True,
+    )
+else:
+    llm_notUsed = ChatOpenAI(
+        model_name=model_name,
+        openai_api_key=st.secrets["OPENAI_API_KEY"],
+        temperature=0,
+        streaming=True,
+    )
 
 qa_chain = ConversationalRetrievalChain.from_llm(
     llm, retriever=retriever, memory=memory, verbose=True
@@ -263,7 +278,7 @@ with st.sidebar:
             label="Clear history",
             use_container_width=True,
             on_click=clear_chat_history,
-            help="Clear chat history",
+            help="Retrievals use your conversation history, which will influence future outcomes. Clear history to start fresh on a new topic.",
         )
     with col2:
 

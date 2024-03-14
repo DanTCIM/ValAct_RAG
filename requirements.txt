@@ -3,6 +3,7 @@ langchain
 #langchainhub
 langchain_openai
 langchain_community
+langchain_anthropic
 
 ### For streamlit app run
 streamlit

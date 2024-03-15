@@ -1,8 +1,8 @@
 ## sqlite3 related (for Streamlit)
-import pysqlite3
-import sys
+# import pysqlite3
+# import sys
 
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+# sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 import os
 import streamlit as st
@@ -45,8 +45,6 @@ else:
 def scan_directory(base_path):
     folders_files = {}
     for folder in os.listdir(base_path):
-        if folder == "chroma_semantic":  # Skip the "chroma" folder
-            continue
         folder_path = os.path.join(base_path, folder)
         if os.path.isdir(folder_path):
             files = ["All"]
@@ -180,7 +178,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
             contents = doc.page_content
             # source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
             # source_msg = f"**Source {idx+1}: {source}**\n\n {contents}\n\n"
-            source_msg = f'<span style="color: navy; font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
+            source_msg = f'<span style="font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
 
             self.status.write(source_msg, unsafe_allow_html=True)
             source_msgs += source_msg

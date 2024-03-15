@@ -60,7 +60,16 @@ def scan_directory(base_path):
 
 
 document_list = scan_directory(base_path)
-collection_list = ["ASOP_life", "CFT", "VM21", "VM22", "Asset", "Bermuda", "IFRS17"]
+collection_list = [
+    "ASOP_life",
+    "CFT",
+    "VM20",
+    "VM21",
+    "VM22",
+    "Asset",
+    "Bermuda",
+    "IFRS17",
+]
 
 ## Sidebar
 with st.sidebar:

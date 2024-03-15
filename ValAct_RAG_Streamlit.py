@@ -61,7 +61,7 @@ document_list = scan_directory(base_path)
 collection_list = [
     "ASOP_life",
     "CFT",
-    "VM20",
+    "PBR",
     "VM21",
     "VM22",
     "Asset",

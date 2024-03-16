@@ -30,14 +30,14 @@ st.write(
 
 # Set variables
 base_path = "./data/pdf"
-# LLM flag for augmented generation (always use OpenAI embeddings)
+# LLM flag for augmented generation (the flag only applied to llm, not embedding model)
 USE_Anthropic = True
 
 if USE_Anthropic:
     model_name = "claude-3-sonnet-20240229"
 else:
     # model_name = "gpt-3.5-turbo"
-    model_name = "gpt-4-0125-preview"
+    model_name = "gpt-4-0125-preview"  # gpt-4 seems to be slow
 
 
 # Define a function to scan a directory and return a dictionary of folders and files.
@@ -166,7 +166,6 @@ class PrintRetrievalHandler(BaseCallbackHandler):
         self.msgs = msgs
 
     def on_retriever_start(self, serialized: dict, query: str, **kwargs):
-        self.status.write(f"**Question:** {query}")
         self.status.update(label=f"**Context Retrieval:** {query}")
         self.msgs.add_ai_message(f"Query: {query}")
 
@@ -174,11 +173,11 @@ class PrintRetrievalHandler(BaseCallbackHandler):
         source_msgs = ""
         for idx, doc in enumerate(documents):
             source = os.path.basename(doc.metadata["source"])
-            # page = doc.metadata["page"] + 1
+            # page = doc.metadata["page"] + 1 # use when page-info is available
             contents = doc.page_content
-            # source_msg = f"**Source {idx+1}: {source}, page {page}**\n\n {contents}\n\n"
-            # source_msg = f"**Source {idx+1}: {source}**\n\n {contents}\n\n"
-            source_msg = f'<span style="font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
+            # source_msg = f"# *Source {idx+1}: {source}, page {page}*\n\n {contents}\n\n" # use when page-info is available
+            source_msg = f"# *Source {idx+1}: {source}*\n\n {contents}\n\n"
+            # source_msg = f'<span style="font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
 
             self.status.write(source_msg, unsafe_allow_html=True)
             source_msgs += source_msg
@@ -203,7 +202,7 @@ if USE_Anthropic:
         streaming=True,
     )
 else:
-    llm_notUsed = ChatOpenAI(
+    llm = ChatOpenAI(
         model_name=model_name,
         openai_api_key=st.secrets["OPENAI_API_KEY"],
         temperature=0,
@@ -225,9 +224,10 @@ avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     if msg.content.startswith("Query:"):
         tmp_query = msg.content.lstrip("Query: ")
-    elif msg.content.startswith("<span style"):
+    elif msg.content.startswith("# *Source"):
         with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
             st.write(msg.content, unsafe_allow_html=True)
+
     else:
         tmp_query = ""
         st.chat_message(avatars[msg.type]).write(msg.content)
@@ -244,7 +244,7 @@ if document_name != "All":
         st.sidebar.download_button(
             label="Download selected document",
             data=pdf_bytes,
-            file_name=pdf_file_path,
+            file_name=document_name,
             mime="application/octet-stream",
             use_container_width=True,
         )

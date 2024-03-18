@@ -17,6 +17,7 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 import pandas as pd
+import numpy as np
 
 # Start Streamlit session
 st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖")
@@ -108,6 +109,11 @@ with st.sidebar:
             value=0.5,
             step=0.25,
         )
+        flag_similarity_out = st.toggle(
+            "Output similarity score",
+            value=False,
+            help="The retrieval process may become slower due to the cosine similarity calculations. A similarity score of 100% indicates the highest level of similarity between the query and the retrieved chunk.",
+        )
 
 # Create a vector store for the document collection
 vectorstore = Chroma(
@@ -161,28 +167,46 @@ class StreamHandler(BaseCallbackHandler):
 
 # Retrieval handler
 class PrintRetrievalHandler(BaseCallbackHandler):
-    def __init__(self, container, msgs):
+    def __init__(self, container, msgs, calculate_similarity=False):
         self.status = container.status("**Context Retrieval**")
         self.msgs = msgs
+        self.embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+        self.calculate_similarity = calculate_similarity
 
     def on_retriever_start(self, serialized: dict, query: str, **kwargs):
         self.status.update(label=f"**Context Retrieval:** {query}")
         self.msgs.add_ai_message(f"Query: {query}")
+        if self.calculate_similarity:
+            self.query_embedding = self.embeddings.embed_query(query)
 
     def on_retriever_end(self, documents, **kwargs):
         source_msgs = ""
         for idx, doc in enumerate(documents):
             source = os.path.basename(doc.metadata["source"])
             # page = doc.metadata["page"] + 1 # use when page-info is available
+            page_txt = ""  # if available page_txt = f", page {page}"
             contents = doc.page_content
-            # source_msg = f"# *Source {idx+1}: {source}, page {page}*\n\n {contents}\n\n" # use when page-info is available
-            source_msg = f"# *Source {idx+1}: {source}*\n\n {contents}\n\n"
-            # source_msg = f'<span style="font-size: 24px; font-weight: bold;">Source {idx+1}: {source}</span><br> {contents}<br><br>'
+
+            similarity_txt = ""
+            if self.calculate_similarity:
+                content_embedding = self.embeddings.embed_query(contents)
+                similarity = round(
+                    self.cosine_similarity(self.query_embedding, content_embedding)
+                    * 100
+                )
+                similarity_txt = f" \n* **Similarity score: {similarity}%**"
+
+            source_msg = f"# Retrieval {idx+1}\n* **Document: {source}{page_txt}**{similarity_txt}\n\n {contents}\n\n"
 
             self.status.write(source_msg, unsafe_allow_html=True)
             source_msgs += source_msg
         self.msgs.add_ai_message(source_msgs)
         self.status.update(state="complete")
+
+    def cosine_similarity(self, embedding1, embedding2):
+        return np.dot(embedding1, embedding2) / (
+            np.linalg.norm(embedding1) * np.linalg.norm(embedding2)
+        )
 
 
 # Setup memory for contextual conversation
@@ -224,7 +248,7 @@ avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     if msg.content.startswith("Query:"):
         tmp_query = msg.content.lstrip("Query: ")
-    elif msg.content.startswith("# *Source"):
+    elif msg.content.startswith("# Retrieval"):
         with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
             st.write(msg.content, unsafe_allow_html=True)
 
@@ -257,7 +281,9 @@ if document_name != "All":
         )
         st.chat_message("user").write(user_query)
         with st.chat_message("assistant"):
-            retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
+            retrieval_handler = PrintRetrievalHandler(
+                st.container(), msgs, calculate_similarity=flag_similarity_out
+            )
             stream_handler = StreamHandler(st.empty())
             response = qa_chain.run(
                 user_query, callbacks=[retrieval_handler, stream_handler]
@@ -270,7 +296,9 @@ if user_query := st.chat_input(
     st.chat_message("user").write(user_query)
 
     with st.chat_message("assistant"):
-        retrieval_handler = PrintRetrievalHandler(st.container(), msgs)
+        retrieval_handler = PrintRetrievalHandler(
+            st.container(), msgs, calculate_similarity=flag_similarity_out
+        )
         stream_handler = StreamHandler(st.empty())
         response = qa_chain.run(
             user_query, callbacks=[retrieval_handler, stream_handler]

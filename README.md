@@ -3,7 +3,7 @@
 This project aims to create a Retrieval-Augmented Generation (RAG) process for actuaries to ask questions about a set of Life Valuation Actuarial documents. The RAG process utilizes the power of the large language model (LLM) to provide quick answers to questions about the documents.
 
 The collections include:
-- [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_Life)
+- [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_life)
 - [Cash Flow Testing and Asset Adequacy Testing](./data/pdf/CFT)
 - [PBR including NAIC Valuation Manual 20 and other documents](./data/pdf/PBR)
 - [NAIC Valuation Manual 21](./data/pdf/VM21)

@@ -21,7 +21,7 @@ The RAG process used LangChain, a framework for developing applications powered 
 ## 2. Output
 ### 2.1 Demo App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://valact-search.streamlit.app/)  
-Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/) powered by GPT 3.5 turbo.
+Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/) powered by Claude 3.
 
 ## 3. Model
 ### 3.1 Conceptual Flow
@@ -37,7 +37,7 @@ For applications in practice, one should note that RAG is not perfect and can st
     1. Select PDF documents from a collection to perform RAG (use Jupyter Notebook)
     2. Transform PDF into texts and divide them into chunks (use Jupyter Notebook)
     3. Convert the chunks into a vector database (Chroma DB) using the OpenAI embedding model (text-embedding-3-large) (use Jupyter Notebook)
-    4. Retrieve and use LLM (GPT 3.5 Instruct) to generate
+    4. Retrieve and use LLM to generate
     5. Output responses and context for a user to verify
 
 ## 4. Author

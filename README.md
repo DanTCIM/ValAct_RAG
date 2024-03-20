@@ -34,11 +34,12 @@ For applications in practice, one should note that RAG is not perfect and can st
 ![RAG concept](./images/RAG_concept.png)
 
 ### 3.2 RAG Implementation Steps
-    1. Select PDF documents from a collection to perform RAG (use Jupyter Notebook)
-    2. Transform PDF into texts and divide them into chunks (use Jupyter Notebook)
-    3. Convert the chunks into a vector database (Chroma DB) using the OpenAI embedding model (text-embedding-3-large) (use Jupyter Notebook)
-    4. Retrieve and use LLM to generate
-    5. Output responses and context for a user to verify
+    1. Select PDF documents from a collection to perform RAG 
+    2. Convert PDF into markdown files for effective loading (MathPix service seems superior to open source processes)
+    3. Load markdown files to texts and split them into chunks using semantics method
+    4. Convert the chunks into a vector database (Chroma DB) using the OpenAI embedding model (text-embedding-3-large)
+    5. Retrieve and use LLM to generate
+    6. Output responses and context for a user to verify
 
 ## 4. Author
 Dan Kim 

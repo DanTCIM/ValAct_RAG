@@ -5,6 +5,7 @@ import sys
 sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 import os
+import json
 import streamlit as st
 
 # from langchain.chat_models import ChatOpenAI
@@ -69,6 +70,17 @@ collection_list = [
     "Bermuda",
     "IFRS17",
 ]
+
+
+@st.cache_data  # Add the caching decorator
+def get_json(file_path):
+    # Open and load the json file
+    with open(file_path, "r") as file:
+        data = json.load(file)
+    return data
+
+
+summary_data = get_json("summary.json")
 
 ## Sidebar
 with st.sidebar:
@@ -272,22 +284,29 @@ if document_name != "All":
             mime="application/octet-stream",
             use_container_width=True,
         )
-    if st.sidebar.button(
-        "Get main themes of selected document",
-        use_container_width=True,
-    ):
-        user_query = (
-            "What are the main themes in the document named " + document_name + "?"
-        )
-        st.chat_message("user").write(user_query)
-        with st.chat_message("assistant"):
-            retrieval_handler = PrintRetrievalHandler(
-                st.container(), msgs, calculate_similarity=flag_similarity_out
-            )
-            stream_handler = StreamHandler(st.empty())
-            response = qa_chain.run(
-                user_query, callbacks=[retrieval_handler, stream_handler]
-            )
+    summary = summary_data.get(document_name)
+    with st.sidebar.expander("AI generated summary of the document", expanded=False):
+        if summary:
+            st.write(summary.get("summary", "Summary not available."))
+        else:
+            st.write(f"Summary of '{document_name}' not found in the file.")
+
+    # if st.sidebar.button(
+    #     "Get main themes of selected document",
+    #     use_container_width=True,
+    # ):
+    #     user_query = (
+    #         "What are the main themes in the document named " + document_name + "?"
+    #     )
+    #     st.chat_message("user").write(user_query)
+    #     with st.chat_message("assistant"):
+    #         retrieval_handler = PrintRetrievalHandler(
+    #             st.container(), msgs, calculate_similarity=flag_similarity_out
+    #         )
+    #         stream_handler = StreamHandler(st.empty())
+    #         response = qa_chain.run(
+    #             user_query, callbacks=[retrieval_handler, stream_handler]
+    #         )
 
 # Ask the user for a question
 if user_query := st.chat_input(

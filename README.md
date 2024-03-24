@@ -8,6 +8,7 @@ The collections include:
 - [PBR including NAIC Valuation Manual 20 and other documents](./data/pdf/PBR)
 - [NAIC Valuation Manual 21](./data/pdf/VM21)
 - [NAIC Valuation Manual 22](./data/pdf/VM22)
+- [US GAAP](./data/pdf/GAAP)
 - [NAIC Asset Primers](./data/pdf/Asset)
 - [Bermuda Economic Balance Sheet framework for Long-term Insurers](./data/pdf/Bermuda)
 - [IFRS 17](./data/pdf/IFRS17)

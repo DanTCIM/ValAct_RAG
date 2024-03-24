@@ -66,6 +66,7 @@ collection_list = [
     "PBR",
     "VM21",
     "VM22",
+    "GAAP",
     "Asset",
     "Bermuda",
     "IFRS17",

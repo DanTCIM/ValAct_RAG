@@ -286,7 +286,7 @@ if document_name != "All":
             use_container_width=True,
         )
     summary = summary_data.get(document_name)
-    with st.sidebar.expander("AI generated summary of the document", expanded=False):
+    with st.sidebar.expander("AI generated summary of the document", expanded=True):
         if summary:
             st.write(summary.get("summary", "Summary not available."))
         else:

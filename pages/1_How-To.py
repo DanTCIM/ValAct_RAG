@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import json
 
-st.set_page_config(page_title="How-to", page_icon="✅")
+st.set_page_config(page_title="How-to", page_icon="📖")
 
 
 # Define a function to scan a directory and return a dictionary of folders and files.

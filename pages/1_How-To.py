@@ -29,6 +29,7 @@ def scan_directory(base_path):
 
 document_list = scan_directory(base_path)
 collection_list = [
+    "AI_BigData",
     "ASOP_life",
     "CFT",
     "PBR",
@@ -65,6 +66,7 @@ st.write(
 )
 st.write("Here is a list of available document collections:")
 collection = [
+    "AI_BigData",
     "ASOP_life",
     "CFT",
     "PBR (VM20 falls under PBR)",

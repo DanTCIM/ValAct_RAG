@@ -61,6 +61,7 @@ def scan_directory(base_path):
 
 document_list = scan_directory(base_path)
 collection_list = [
+    "AI_BigData",
     "ASOP_life",
     "CFT",
     "PBR",

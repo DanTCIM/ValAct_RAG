@@ -38,6 +38,7 @@ collection_list = [
     "GAAP",
     "Asset",
     "Bermuda",
+    "Cayman",
     "IFRS17",
 ]
 
@@ -75,6 +76,7 @@ collection = [
     "GAAP",
     "Asset",
     "Bermuda",
+    "Cayman",
     "IFRS17",
 ]
 st.write("- " + "\n- ".join(collection))

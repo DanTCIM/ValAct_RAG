@@ -70,6 +70,7 @@ collection_list = [
     "GAAP",
     "Asset",
     "Bermuda",
+    "Cayman",
     "IFRS17",
 ]
 

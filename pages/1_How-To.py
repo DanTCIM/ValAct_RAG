@@ -40,6 +40,7 @@ collection_list = [
     "Bermuda",
     "Cayman",
     "IFRS17",
+    "RiskFinance",
 ]
 
 
@@ -78,6 +79,7 @@ collection = [
     "Bermuda",
     "Cayman",
     "IFRS17",
+    "RiskFinance (Risk and finance including capital, reinsurance topics)",
 ]
 st.write("- " + "\n- ".join(collection))
 

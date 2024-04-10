@@ -1,4 +1,6 @@
 # Adjusted (Non-GAAP) Earnings Under LDTI
+https://www.soa.org/sections/financial-reporting/financial-reporting-newsletter/2023/september/fr-2023-09-perelman/
+
 By Paul San Valentin, Benjamin Hanley and Maya Perelman
 The Financial Reporter, September 2023
 

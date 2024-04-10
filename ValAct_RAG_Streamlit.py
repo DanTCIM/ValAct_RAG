@@ -72,6 +72,7 @@ collection_list = [
     "Bermuda",
     "Cayman",
     "IFRS17",
+    "RiskFinance",
 ]
 
 

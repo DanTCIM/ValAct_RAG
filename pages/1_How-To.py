@@ -1,59 +1,13 @@
 import streamlit as st
-import os
-import json
+from common.config import (
+    base_path,
+    document_list,
+    collection_list,
+    collection,
+    summary_data,
+)
 
 st.set_page_config(page_title="How-to", page_icon="📖")
-
-
-# Define a function to scan a directory and return a dictionary of folders and files.
-
-# Set variables
-base_path = "./data/pdf"
-
-
-@st.cache_data  # Add the caching decorator
-def scan_directory(base_path):
-    folders_files = {}
-    for folder in os.listdir(base_path):
-        folder_path = os.path.join(base_path, folder)
-        if os.path.isdir(folder_path):
-            files = ["All"]
-            for file in os.listdir(folder_path):
-                # Exclude system files like .DS_Store
-                if file != ".DS_Store":
-                    files.append(file)
-            files[1:] = sorted(files[1:])
-            folders_files[folder] = files
-    return folders_files
-
-
-document_list = scan_directory(base_path)
-collection_list = [
-    "AI_BigData",
-    "ASOP_life",
-    "CFT",
-    "PBR",
-    "VM21",
-    "VM22",
-    "GAAP",
-    "Asset",
-    "Bermuda",
-    "Cayman",
-    "IFRS17",
-    "RiskFinance",
-    "Product",
-]
-
-
-@st.cache_data  # Add the caching decorator
-def get_json(file_path):
-    # Open and load the json file
-    with open(file_path, "r") as file:
-        data = json.load(file)
-    return data
-
-
-summary_data = get_json("summary.json")
 
 st.title("How to use the Q&A Machine")
 st.write(
@@ -68,21 +22,7 @@ st.write(
     "The responses you receive may differ depending on the domain your question pertains to. Therefore, it's important to select which domain your question falls under."
 )
 st.write("Here is a list of available document collections:")
-collection = [
-    "AI_BigData",
-    "ASOP_life",
-    "CFT",
-    "PBR (VM20 falls under PBR)",
-    "VM21 (set as an independent collection to differentiate from VM20)",
-    "VM22 (set as an independent collection due to evolving nature)",
-    "GAAP",
-    "Asset",
-    "Bermuda",
-    "Cayman",
-    "IFRS17",
-    "RiskFinance (Risk and finance including capital, reinsurance topics)",
-    "Product",
-]
+
 st.write("- " + "\n- ".join(collection))
 
 st.header("Step 2: Decide Whether to Ask About a Specific Document")

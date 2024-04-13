@@ -5,8 +5,13 @@ import sys
 sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 import os
-import json
 import streamlit as st
+from common.config import (
+    base_path,
+    document_list,
+    collection_list,
+    summary_data,
+)
 
 # from langchain.chat_models import ChatOpenAI
 from langchain_community.chat_models import ChatOpenAI
@@ -31,7 +36,6 @@ st.write(
 )
 
 # Set variables
-base_path = "./data/pdf"
 # LLM flag for augmented generation (the flag only applied to llm, not embedding model)
 USE_Anthropic = True
 
@@ -40,52 +44,6 @@ if USE_Anthropic:
 else:
     # model_name = "gpt-3.5-turbo"
     model_name = "gpt-4-0125-preview"  # gpt-4 seems to be slow
-
-
-# Define a function to scan a directory and return a dictionary of folders and files.
-@st.cache_data  # Add the caching decorator
-def scan_directory(base_path):
-    folders_files = {}
-    for folder in os.listdir(base_path):
-        folder_path = os.path.join(base_path, folder)
-        if os.path.isdir(folder_path):
-            files = ["All"]
-            for file in os.listdir(folder_path):
-                # Exclude system files like .DS_Store
-                if file != ".DS_Store":
-                    files.append(file)
-            files[1:] = sorted(files[1:])
-            folders_files[folder] = files
-    return folders_files
-
-
-document_list = scan_directory(base_path)
-collection_list = [
-    "AI_BigData",
-    "ASOP_life",
-    "CFT",
-    "PBR",
-    "VM21",
-    "VM22",
-    "GAAP",
-    "Asset",
-    "Bermuda",
-    "Cayman",
-    "IFRS17",
-    "RiskFinance",
-    "Product",
-]
-
-
-@st.cache_data  # Add the caching decorator
-def get_json(file_path):
-    # Open and load the json file
-    with open(file_path, "r") as file:
-        data = json.load(file)
-    return data
-
-
-summary_data = get_json("summary.json")
 
 ## Sidebar
 with st.sidebar:
@@ -295,23 +253,6 @@ if document_name != "All":
             st.write(summary.get("summary", "Summary not available."))
         else:
             st.write(f"Summary of '{document_name}' not found in the file.")
-
-    # if st.sidebar.button(
-    #     "Get main themes of selected document",
-    #     use_container_width=True,
-    # ):
-    #     user_query = (
-    #         "What are the main themes in the document named " + document_name + "?"
-    #     )
-    #     st.chat_message("user").write(user_query)
-    #     with st.chat_message("assistant"):
-    #         retrieval_handler = PrintRetrievalHandler(
-    #             st.container(), msgs, calculate_similarity=flag_similarity_out
-    #         )
-    #         stream_handler = StreamHandler(st.empty())
-    #         response = qa_chain.run(
-    #             user_query, callbacks=[retrieval_handler, stream_handler]
-    #         )
 
 # Ask the user for a question
 if user_query := st.chat_input(

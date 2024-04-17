@@ -1,0 +1,26 @@
+# ACTUARIAL GUIDELINE XXXVIII (AG 38)
+https://content.naic.org/cipr-topics/actuarial-guideline-xxxviii-ag-38
+
+Last Updated 9/8/2022
+
+Actuarial Guideline XXXVIII—The Application of the Valuation of Life Insurance Policies Model Regulation (AG 38) was created in 2003 to clarify the Valuation of Life Insurance Policies Regulation (#830). Model #830 is commonly referred to as Regulation XXX. It sets forth reserve requirements for all universal life products that employ secondary guarantees (ULSG), with or without shadow account funds. Contracts that used specified-premium secondary guarantees were captured by Regulation XXX, which treated them similarly to guaranteed level term contracts.
+
+AG 38 was a regulatory response to more complex contracts that opted for a shadow fund account design in order to compensate for the increased XXX reserve requirements. The design of ULSG products continued to evolve, so another revision of AG 38 became necessary. In 2005, AG 38 was revised to deal with the existence of certain ambiguities in the guideline that sophisticated shadow fund designs used.
+
+Despite this revision, insurers did not implement AG 38 the same way. Regulators recognized that many companies used an alternative interpretation of AG 38 to design contracts. This may have resulted in an imbalance of guarantees and reserves. The prospect of contracts with inadequate reserves for ULSG policies led some regulators to bring the issue to the NAIC Life Actuarial (A) Task Force. In September 2011, the Task Force issued a statement on AG 38 to caution about the possibility of some insurers holding “reserves [that] do not properly reflect the full benefits of the secondary guarantee as required by the law, regulation and guideline.”
+
+The Life Insurance and Annuities (A) Committee and the Financial Condition (E) Committee joined forces to form the Joint Working Group. Its goals were to: 
+1) address the issues surrounding AG 38; and 
+2) examine the adequacy of the reserve requirements for ULSG and term universal life products. 
+The Joint Working Group, which is now disbanded, issued the draft framework of how to evaluate: 
+1) policies issued before a specified date (in-force business); and 
+2) policies issued on and after a specified date (prospective business). Policies issued after the effective date of the NAIC’s adoption of principle-based reserving (PBR) would be reserved using PBR methodology.
+
+Two alternative revisions to AG 38 have since been adopted. These revisions are consistent with the draft framework that the NAIC previously adopted. These alternative revisions to AG 38 take a two-part approach to in-force and prospective business. With respect to in-force business, the Joint Working Group adopted a PBR-type gross premium approach that specifies the process to determine minimum reserves, with certain additional safeguards to make sure the reserves are sufficiently conservative. With respect to prospective business, new rules apply to policies written on or after Jan. 1, 2013. Consistent with these new requirements, most policies now follow a safe-harbor reserving methodology that results in reserves closely approximating the reserves you would get under the Life Actuarial (A) Task Force statement. On Sept. 12, 2012, the NAIC Executive (EX) Committee and Plenary voted unanimously to adopt the revisions to AG 38.
+
+The Executive (EX) Committee charged the Financial Condition (E) Committee with forming the Emerging Actuarial Issues (E) Working Group. The Financial Condition (E) Committee did just that in October 2012. The goal of the Emerging Actuarial Issues (E) Working Group, which has since disbanded, was to deal with questions of application, interpretation, and clarification to AG 38. The Working Group provided 42 Actuarial Interpretations of AG 38.
+
+Section 8D of AG 38 provides requirements for specified ULSG business issued prior to Jan. 1, 2013. Section 8E provides requirements for ULSG business issued on and after Jan. 1, 2013. The exception is ULSG business issued on or after Jan. 1, 2017; in this case, the company elects or is required to apply VM-20, Requirements for Principle-Based Reserves for Life Products, as the reserve standard. Both Section 8D and Section 8E require filings to be submitted to the domestic state. The domestic state will then submit the filings to the Financial Analysis (E) Working Group.
+
+In accordance with Section 8E, domestic states will submit the actuarial opinion and company representation filings to the Financial Analysis (E) Working Group. Other filings are also required, such as filings regarding an AG 38, Section 8E, Method II submission. In accordance with Section 8D, domestic states will submit reports regarding specified reserve calculations to the Financial Analysis (E) Working Group. These reports are due on April 30 for the preceding year end. When reviewing AG 38 filings, the Financial Analysis (E) Working Group uses the interpretations that the Emerging Actuarial Issues (E) Working Group and the Financial Condition (E) Committee adopted. The Financial Analysis (E) Working Group and its represented consultants began reviewing Section 8D and Section 8E reports in 2013, and that process continues.
+

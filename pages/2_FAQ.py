@@ -56,7 +56,7 @@ with st.expander("What is a vector database?"):
 with st.expander("What vector database is used?"):
     st.write(
         """
-        Chroma is used. It is an open-source vector database used in this application. It is chosen because it is an efficient and scalable solution for storing and querying vector embeddings. Being open-source, it offers transparency, flexibility, and freedom from vendor lock-in.
+        Pinecone vector database is used in this application. While open-source databases such as Chroma can be utilized, Pinecone is chosen for its scalability and serverless features. Pinecone is a managed vector database that allows for efficient storage and retrieval of high-dimensional vectors, making it suitable for applications dealing with large-scale vector data. Its serverless architecture, hosted on AWS, eliminates the need for managing infrastructure, enabling developers to focus on building the application. 
     """
     )
 

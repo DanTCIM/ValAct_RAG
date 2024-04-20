@@ -1,17 +1,10 @@
-Ethical Use of Artificial Intelligence for Actuaries
+# Ethical Use of Artificial Intelligence for Actuaries
 
-## SOCIETY OF
-
- ACTUARIES
-## Ethical Use of Artificial Intelligence
-
-## for Actuaries
+SOCIETY OF ACTUARIES
 
 AUTHOR
 
-Neil Raden
-
-Founder/Principal Analyst
+Neil Raden, Founder/Principal Analyst
 
 Hired Brains Research
 
@@ -682,7 +675,7 @@ Advanced Analytics, Big Data and Data Science are all on an analytics "spectrum"
 
 ### 8.5 Some Misconceptions about Machine Learning
 
-## - $\quad$ ML Is Just about Summarizing Data
+- $\quad$ ML Is Just about Summarizing Data
 
 Not True. The primary purpose of ML is to predict the future. Knowing the movies someone watched is only a means for figuring out which ones they would like to watch next. A credit report is a guide to whether someone will pay their bills on time. Learning algorithms formulate hypotheses, refine them and believe them only when their predictions come true. Learning algorithms are not yet as smart as scientists. However, they are a million times faster.
 
@@ -698,7 +691,7 @@ Sort of. If something has never happened before, its predicted probability might
 
 True. ML experts should keep mining more attributes of the same entities to a minimum. On the other hand, mining more entities with the same set of attributes decreases the risk because the rules learned will have stronger support. For example, a person videotaping New York City Hall may not be suspicious and another buying a large quantity of ammonium nitrate may not be either, but if the two are in close phone contact, perhaps the FBI should take a look.
 
-## - $\quad \mathrm{ML}$ ignores preexisting knowledge
+- $\quad \mathrm{ML}$ ignores preexisting knowledge
 
 Not true. The popular concept that ML is a blank slate and just crunches through data mindlessly is
 incorrect. Done well, ML is the result of a long process of reasoning and experimentation. Some $\mathrm{ML}$ is used to refine a preexisting body of knowledge.
@@ -707,7 +700,7 @@ incorrect. Done well, ML is the result of a long process of reasoning and experi
 
 If a learning algorithm is a black box, how can one trust its recommendations? Some types of models are hard to impossible to understand, like deep learning neural networks (though current research is starting to unwind this problem). However, most are easy to understand but hard to explain to nonexperts.
 
-## - Simpler models are more accurate.
+- Simpler models are more accurate.
 
 Mostly not true. However, sometimes, the simplest hypothesis consistent with the data is less accurate for production than a more complicated one. A significant error in some ML modeling is starting with the data. There are two ways of looking at a problem: data-driven or model-driven. In the latter case, you start with what you know and build a model around it and see if the data support it. This can be simple if-then-else rules or more thorough approaches like Bayesian networks. The other alternative is to recognize some sources of data and run essentially curve fitting (most ML is curve-fitting) to see what emerges. In our consulting experience we find that being purely data-driven is more likely to introduce other effects like false positives.
 

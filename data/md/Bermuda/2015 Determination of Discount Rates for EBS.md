@@ -1,22 +1,16 @@
 ![](https://cdn.mathpix.com/cropped/2024_03_14_9aa67a64e4af0a42b65bg-1.jpg?height=295&width=586&top_left_y=221&top_left_x=1279)
 
-BERMUDA MONETARY AUTHORITY
+# DETERMINATION OF DISCOUNT RATES FOR ECONOMIC BALANCE SHEET FRAMEWORK
 
-\title{
-BERMUDA MONETARY AUTHORITY
-}
+BERMUDA MONETARY AUTHORITY, July 2015
 
-\section*{DETERMINATION OF DISCOUNT RATES FOR ECONOMIC BALANCE SHEET FRAMEWORK}
-
-July 2015
-
-\section*{Contents}
+## Contents
 I. BACKGROUND ..... 3
 II. DETERMINATION OF DISCOUNT RATES ..... 4
 III. STANDARD APPROACH .....  .5
 IV. SCENARIO BASED APPROACH .....  6
 
-\section*{I. BACKGROUND}
+## I. BACKGROUND
 
 1. The introduction of an Economic Balance Sheet (EBS) approach to the assessment of solvency is a key part of the Bermuda regime for commercial Insurers ${ }^{1}$ and insurance groups. An important component of this process is the determination of the appropriate discount rates. The instructions contained in Schedule XIV of the various Prudential Standards Rules affecting Form 1EBS and Form 4EBS identify the EBS Valuation Principles for Technical Provisions. These principles state that:
 
@@ -25,11 +19,10 @@ a. The valuation shall reflect the time value of money, using a risk free discou
 b. Commercial insurers and insurance groups will be permitted to include an adjustment to the risk-free discount rate curve to partially reflect the illiquidity premium implicit in typical underlying assets, as well as making allowance for the prevention of pro-cyclical investment behaviour (the 'standard approach'). The Authority will supply discount curves including this adjustment for a number of major currencies, and provide further details of the approach adopted so that commercial insurers and insurance groups can produce rates for other currencies if needed. Details of the approach used for determining the 'standard approach' discount rate curves will be directed by the Authority.
 
 c. Commercial insurers and insurance groups may also elect to adopt the 'scenario based approach' for some or all of their business. This approach is designed to capture both the sensitivity to interest rates and the degree to which assets and liabilities are cash flow matched. It consists of a base scenario using the actual portfolio of assets supporting the business (adjusted for expected default costs) and a range of interest rate stresses to determine the amount by which the market yield should be reduced to reflect interest rate risk and assetliability mismatching. Details of the approach, including the conditions under which it can be adopted will be directed by the Authority.
-\footnotetext{
-${ }^{1}$ Commercial Insurers are Class 3A, Class 3B, Class 4, Class C, Class D and Class E insurers.
-}
 
-\section*{II. DETERMINATION OF DISCOUNT RATES}
+footnotetext: 1 Commercial Insurers are Class 3A, Class 3B, Class 4, Class C, Class D and Class E insurers.
+
+## II. DETERMINATION OF DISCOUNT RATES
 
 2. Supporting the above Principles, the Authority is using the following method to determine the risk free discount rates:
 
@@ -52,7 +45,7 @@ v. The smoothed and interpolated spreads are adjusted down to reflect a 10bp cre
 
 vi. A final linear adjustment is applied to the spot rates between the LLP and year 60 to ensure that the final UFR is equal to the pre-specified value.
 
-\section*{III. STANDARD APPROACH}
+## III. STANDARD APPROACH
 
 3. In recognition of the fact that a significant number of commercial insurers and insurance groups have liabilities that are often not fully liquid, commercial insurers and insurance groups will be permitted to include an adjustment to the risk-free rate to partially reflect the illiquidity premium implicit in the underlying assets held and avoid artificial volatility on their balance sheets. This also has the aim of preventing procyclical investment behaviour by mitigating the effect of exaggerations of bond spreads.
 
@@ -69,7 +62,7 @@ e. The uncertainty margin is currently $35 \%$.
 
 f. The spread net of default costs and transitions is calculated as above for durations 1-15 and remains level thereafter. This approach mitigates against noise in the results.
 
-\section*{IV. SCENARIO BASED APPROACH}
+## IV. SCENARIO BASED APPROACH
 
 5. Bermuda has a number of Long-Term commercial insurers with a significant volume of highly bespoke reinsurance structures and asset portfolios. For these commercial insurers, the Standard approach may be too blunt an instrument to properly capture the market sensitivity of their business.
 

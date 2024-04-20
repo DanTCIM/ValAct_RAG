@@ -48,12 +48,7 @@ C Effective date and transition
 D Amendments to other IFRS Standards
 APPROVAL BY THE BOARD OF IFRS 17 INSURANCE CONTRACTS
 APPROVAL BY THE BOARD OF AMENDMENTS TO IFRS 17 ISSUED IN JUNE 2020
-
-## ...continued
-
-APPROVAL BY THE BOARD OF INITIAL APPLICATION OF IFRS 17 AND IFRS 9-COMPARATIVE INFORMATION ISSUED IN DECEMBER 2021
-
-FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION
+APPROVAL BY THE BOARD OF INITIAL APPLICATION OF IFRS 17 AND IFRS 9-COMPARATIVE INFORMATION ISSUED IN DECEMBER 2021 FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION
 
 ILLUSTRATIVE EXAMPLES
 
@@ -67,11 +62,7 @@ the Preface to IFRS Standards and the Conceptual Framework for Financial Reporti
 
 ## International Financial Reporting Standard 17 Insurance Contracts
 
-## Objective
-
-1
-
-## Scope
+## Objective & Scope
 
 IFRS 17 Insurance Contracts establishes principles for the recognition, measurement, presentation and disclosure of insurance contracts within the scope of the Standard. The objective of IFRS 17 is to ensure that an entity provides relevant information that faithfully represents those contracts. This information gives a basis for users of financial statements to assess the effect that insurance contracts have on the entity's financial position, financial performance and cash flows.
 
@@ -562,7 +553,7 @@ An investment contract with discretionary participation features does not includ
 
 ## Modification and derecognition
 
-## Modification of an insurance contract
+### Modification of an insurance contract
 
 If the terms of an insurance contract are modified, for example by agreement between the parties to the contract or by a change in regulation, an entity shall derecognise the original contract and recognise the modified contract as a new contract, applying IFRS 17 or other applicable Standards if, and only if, any of the conditions in (a)-(c) are satisfied. The exercise of a right included in the terms of a contract is not a modification. The conditions are that:
 
@@ -581,7 +572,7 @@ the original contract met the definition of an insurance contract with direct pa
 
 If a contract modification meets none of the conditions in paragraph 72 , the entity shall treat changes in cash flows caused by the modification as changes in estimates of fulfilment cash flows by applying paragraphs 40-52.
 
-## Derecognition
+### Derecognition
 
 An entity shall derecognise an insurance contract when, and only when:
 
@@ -1257,7 +1248,7 @@ Credit-related guarantees and credit insurance contracts that require payment, e
 
 ## Separating components from an insurance contract (paragraphs 10-13)
 
-## Investment components (paragraph 11(b))
+### Investment components (paragraph 11(b))
 
 Paragraph 11(b) requires an entity to separate a distinct investment component from the host insurance contract. An investment component is distinct if, and only if, both the following conditions are met:
 
@@ -1271,7 +1262,7 @@ An investment component and an insurance component are highly interrelated if, a
 
 (b) the policyholder is unable to benefit from one component unless the other is also present. Thus, if the lapse or maturity of one component in a contract causes the lapse or maturity of the other, the entity shall apply IFRS 17 to account for the combined investment component and insurance component.
 
-## Promises to transfer distinct goods or services other than insurance contract services (paragraph 12)
+### Promises to transfer distinct goods or services other than insurance contract services (paragraph 12)
 
 Paragraph 12 requires an entity to separate from an insurance contract a promise to transfer distinct goods or services other than insurance contract services to a policyholder. For the purpose of separation, an entity shall not consider activities that an entity must undertake to fulfil a contract unless the entity transfers a good or service other than insurance contract services to the policyholder as those activities occur. For example, an entity may need to perform various administrative tasks to set up a contract. The performance of those tasks does not transfer a service to the policyholder as the tasks are performed.
 

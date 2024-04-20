@@ -83,7 +83,7 @@ FIGURE 2: $\quad$ COMMON AREAS OF FOCUS FOR DIVERSE STAKEHOLDERS \& PRODUCT LINE
 
 Another way to summarize the various differing ways that the service model can be impacted is shown in the following image:
 
-## FIGURE 3: $\quad$ OPPORTUNITIES FOR INNOVATION
+### FIGURE 3: $\quad$ OPPORTUNITIES FOR INNOVATION
 
 ![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-10.jpg?height=574&width=1342&top_left_y=1838&top_left_x=478)
 
@@ -117,7 +117,7 @@ Transformational Impacts of Big Data and AI on the 54 Future of Insurance and So
 
 Appendix A: Recommended Reading 65
 
-## Terms and Their Usage in the Issue Paper
+# Terms and Their Usage in the Issue Paper
 
 This section of the paper will provide definitions to terms to ensure a consistent understanding of the ensuing discussion.
 
@@ -179,7 +179,7 @@ Sensitivity-The ability of a test to correctly identify those with a condition.
 
 Social Determinants of Health-The attributes associated with where people are born, grow, live, work, and their age, which then shape their health. They include attributes like socioeconomic status, education, neighborhood and physical environment, employment, and social support networks, as well as access to health care.
 
-## Specificity-The ability of a test to correctly identify those without a condition.
+# Specificity-The ability of a test to correctly identify those without a condition.
 
 Structured Data-Data that conforms to a tabular format with relationships between the rows, columns, and tables. It is easy to access with programming code because of this organization. Relational databases and flat files are common examples of structured data.
 
@@ -201,7 +201,7 @@ Unstructured Data-Data that lacks the row, column, and table structure of struct
 
 Unsupervised Learning-Learning that is not supervised to reproduce known values (or labels). Unsupervised learning can infer the natural structure or patterns present within a dataset. For example, a cluster analysis finds groups in data such that within group differences are small but between groups differences are great.
 
-## Guiding Actuarial Standards, Practices, and Other Considerations
+# Guiding Actuarial Standards, Practices, and Other Considerations
 
 To ensure that professions meet their obligations to the public, some are regulated and licensed by government entities. Alternatively, governments may rely on a profession to regulate itself because of its specialized knowledge and understanding of standard practices, provided that the self-regulation assures competent and ethical services. The actuarial profession is a self-regulated profession that generally sets its own rules for admission, education, standards of practice, and disciplinary processes to best serve the needs of the public.
 
@@ -234,7 +234,7 @@ The following lists of ASOPs may be applicable to actuaries working with big dat
 - ASOP No. 56, Modeling. Provides guidance when performing actuarial services with respect to designing, developing, selecting, modifying, using, reviewing, or evaluating models.
 
 
-## Ethics and AI
+# Ethics and AI
 
 The need for model builders to be ethical in the design and use of big data and algorithms deployed in the heavily regulated field of insurance
 
@@ -272,7 +272,7 @@ Both interpretability and explainability are essential to allow consumers the ab
 - Diversity in Model Development and Review-Those working with models find that to protect against unintended biases and model drift over time, it is good practice to have a diverse set of reviewers (e.g., by gender, ethnicity, race, age, technical training, and experience) of the various AI inputs, decisioning, and outputs relevant to the targeted purpose, as part of a well-defined monitoring plan. This provides greater perspective regarding potential biases and unintended consequences.
 
 
-## Actuarial Risk Classification \& Pricing
+# Actuarial Risk Classification \& Pricing
 
 ## Background
 
@@ -299,7 +299,7 @@ While AI models can finely segment risks, resulting in granular risk classificat
 
 The use of AI in underwriting algorithms and pricing is transforming the business of insurance from initial risk selection, risk pool assignment, and claim management to claim fraud prevention. These advanced tools and analytics are improving the identification of significant drivers of claims and the extricating of volatility from trend to enable fine-tuning in the rate setting. It is expected that insurance will develop advanced AI applications to improve customer engagement and interactions and improve bottom-line company performance. Given the velocity of big data and sophisticated machine learning algorithms, continuous underwriting is emerging as a viable technology, allowing for a more dynamic and responsive relationship between risk selection and pricing.
 
-## Validation \& Veracity Modeling That Changes the Application Process
+# Validation \& Veracity Modeling That Changes the Application Process
 
 The insurance application is often the most relevant and important source of data about the insured in the insurance underwriting and risk classification process. ${ }^{32}$ Innovations in technology are now allowing insurers to better process insurance policy applications online and evaluate them for accuracy before the policy is issued. However, application data can be subject to manipulation, fraud, or misrepresentation that could be uncovered by AI tools and third-party data for verification. There are several ways AI is being deployed to test the accuracy of traditional data supplied by the insurance application, such as:
 
@@ -358,7 +358,7 @@ a. The model may lack sufficient generalization to withstand subtle changes in v
 
 b. Model parameters may be unstable due to training models with highly correlated variables. Some modeling techniques can eliminate or reduce the impact of correlated variables on parameter stability, while others cannot.
 
-## 3. Model Risks
+3. Model Risks
 
 a. The model may lack sufficient generalization to withstand subtle changes in variables, environment, and human behavior, because of overfitting.
 
@@ -384,7 +384,7 @@ vi. Be used inappropriately
 
 It is important to not take a "set it and forget it" approach to models after they are put in production. Models degrade over time for a variety of reasons as previously discussed and they must be monitored with regular frequency for continued fit. A prevalent tool for assessing model fit is the lift curve.
 
-## FIGURE 5: $\quad$ MODEL DEGRADATION LIFT CHART
+FIGURE 5: $\quad$ MODEL DEGRADATION LIFT CHART
 
 ![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-32.jpg?height=821&width=1135&top_left_y=706&top_left_x=625)
 
@@ -392,7 +392,7 @@ A lift curve is a graphical visualization of the performance gains that result f
 
 Once the model has degraded beyond its tolerance, the company must decide whether a refresh or rebuild of the model is justified. A model refresh employs the same variables as the old model but uses fresh data to update the model parameters. A model rebuild may introduce completely new variables or use a combination of new and old variables. A model rebuild may have many implications for other dependent company systems and procedures and may not be an optimal choice for company expense reasons. For example, banks rely on loan scorecards, which are based on predictive models, to score loans for risk. If a new scoring variable is discovered, it may not make its way into the scorecard unless the benefit significantly outweighs the cost to retrain loan underwriters and upgrade banking systems to accommodate the new variable. There are similar issues in underwriting insurance policies along with the hurdle of getting underwriters to trust algorithms that are often viewed as threats to their job security. Actuaries often take the role of exponent for the benefits of the algorithm and work with management to build trust in the results of the algorithm among underwriters and other stakeholders throughout the model lifecycle, from initial deployment through model rebuilds and even model depreciation.
 
-## Power of Big Data and Algorithms to Identify \& Influence Risk Profiles
+# Power of Big Data and Algorithms to Identify \& Influence Risk Profiles
 
 Sherry Turkle of the Massachusetts Institute of Technology (MIT) says, "Technology does not just change what we do, it changes who we are."41 This statement reminds us that we have to be mindful and watchful of the behavioral effects of technology to shape the data we study and the models built upon that data. Technology is increasing connectedness through media and decreasing connectedness through interpersonal contact, with consequences not yet fully understood. A prime example of this is the use of self-quantification devices like the Fitbit, which has driven psychological imperatives to achieve 10,000 steps before bedtime, taking those last few needed laps around the dining room table to do so. An arbitrary benchmark of 10,000 steps-while considered an admirable goal-has become a powerful fitness norm because of such wearable devices. Reportedly this benchmark has its roots more in marketing than in science, with its significance stemming from a Japanese pedometer with a name that means " 10,000 step meter" and the character for 10,000 in Japanese looks like a running man. ${ }^{42}$ While there is a positive health benefit with increased activity, a daily 10,000-step goal illustrates the powerful psychological effects of technologydriven algorithms to change behavior, and with it the potential to generate new data, and the utility of that new data for insurance applications.
 
@@ -495,7 +495,7 @@ The Brookings Institution published public policy recommendations, self-regulato
 
 These best practices and suggested policies as set forth by the Brookings Institution may be worth considering by actuaries attempting to understand human behavior using algorithms. It is important to make sure inferences are not adversely affected by algorithmic bias, especially when they can be effectively mitigated as suggested above.
 
-## Assessing Sources of Nontraditional Data to Improve Consumer Experience
+# Assessing Sources of Nontraditional Data to Improve Consumer Experience
 
 Insurance companies are increasingly using nontraditional data and machine learning to streamline insurance operations and processes to develop efficient delivery systems and products customized to target markets and consumers. Prior to the emergence of big data, the collection of underwriting data was mostly limited to traditional sources such as the insurance applications, medical records and lab results, home and building inspections records, credit reports, and publicly available data. It still remains true that the underwriting data are primarily collected from the consumer through the insurance policy application and underwriting process, and if the consumer consents, the insurance company can collect data on medical records, property records, and motor vehicle records. Today, a variety of nontraditional data sources-such as social media, smartphones, activity trackers, and thirdparty sources that are easy to access-are used to augment traditional data sets, yielding richer behavioral insights. These new data sources have been used to increase the predictive power of risk classification models and improve the alignment of risk to price. Life and health insurance underwriting processes are leveraging activity and biometric tracking data with medical electronic health record (EHR) data, as illustrated in Figure $7 .{ }^{75}$ Electronic health records are static, capturing key health indicators at discrete points in time. Tracking data is more continuous in its velocity and more predictive of an imminent health event, an important distinction over EHR data. Continuous data can prevent a health event from becoming catastrophic by signaling health professionals of needed care. Insurers use activity data to identify long periods of inactivity so they can "nudge" insureds to get moving to improve their health. ${ }^{76}$
 
@@ -521,7 +521,7 @@ frequently than annually. Individual underwriting may not be allowed in some sta
 
 The wider the range of data insurance companies have access to, the better they can identify appropriate markets and their understanding of consumers; this can benefit both insurers and insureds. Smart technology, social media, and internet technologies constantly produce new information about consumers that insurers can harness to better understand consumer needs and predict behavior. The result may be a better alignment of product needs and risk profiles, and more direct engagement with consumers, accelerating policy issue.
 
-## Controlling for Systemic Influences and Socioeconomics
+# Controlling for Systemic Influences and Socioeconomics
 
 Practitioners and policymakers alike know algorithmic decision-making-based data analytics can have biased and discriminatory effects if, for example, the data or algorithmic process are not carefully constructed and evaluated. While human biases based on preferences and socioeconomics have always existed, it is hoped that by replacing human judgment with technology, the decision-making process can be more neutral to systemic influences and socioeconomics. Indeed, studies have shown that machine-learning-based algorithms can outperform humans in making unbiased and discrimination-free decisions in various applications. One such area is bank lending decisions, where it has been shown machine-learning-based algorithms can lead to higher profits for the lender and at the same time reduce biases with respect to minority borrowers. ${ }^{79}$ Yet many experts continue to be concerned that replacing human decision-making with algorithms may actually perpetuate the biases that currently exist in society in hiring, retail, and the criminal justice system. ${ }^{80}$[^5]
 
@@ -571,7 +571,7 @@ One measure of fairness looks at predicted outcomes only, such as group fairness
 
 There is no automatic means for detecting unwanted systemic influences and biases, and human judgment is still needed. It is important to consider the social context in which models are deployed and use a variety of measures to assess them for unwanted systemic influences and biases. Some ways actuaries might control systemic influences, biases, and socioeconomic impacts include being aware of the complexity of this issue as a first step and enlisting a diverse project team as a second. The diversity is beneficial for understanding model results from different perspectives of fairness and biases. Finally, developing an explainable and transparent model allows actuaries to better access and communicate any model effects of systemic influences, biases and socioeconomic impacts to users, regulators, and the public.
 
-## Evaluating Nontraditional Data
+# Evaluating Nontraditional Data
 
 Insurance companies are finding great value in the variety and velocity of nontraditional data sources for product development and pricing, underwriting, and marketing purposes. Emerging technology allows consumers of data to directly access social media and publicly available data and purchase lifestyle, demographic, environmental, sociographic, socioeconomic, and catastrophic data from third parties. Many insurance companies are building in-house centers specializing in data acquisition and machine learning technologies to support AI driven insurance innovations. Internal analytics teams may or may not include actuaries, but the preferred choice of regulators is for oversight and team integration with actuaries. The United States Government Accountability Office (GAO) released a report in 2019 on the benefits and challenges of the innovative uses of big data and machine learning that address this wish. ${ }^{89}$ The GAO concluded:
 
@@ -598,7 +598,7 @@ New York State Insurance Circular Letter No. $1^{92}$ issued in 2019 can be a us
 
 National Association of Insurance Commissioners (NAIC) groups are engaged in issues emerging in the use of nontraditional data and data technology and artificial intelligence. The Innovation and Technology (EX) Task Force and its subcommittee, the Big Data and Artificial Intelligence (EX) Working Group, coordinate the NAIC'S efforts on these topics and consider the need for overall regulatory guidance on insurer's use of consumer data and industry practices around data technologies. ${ }^{93}$
 
-## Regulatory Concerns Impacting the Work of the Actuary
+# Regulatory Concerns Impacting the Work of the Actuary
 
 Actuaries working as regulators and for insurance companies each have a unique mission to bring innovative solutions to consumers without compromising consumer protections. The industry recognizes the need for effective regulation overseeing an environment of robust innovation and has indicated it wants to work with regulators to identify and institute mechanisms that will satisfy regulatory concerns and continue to encourage innovations in the field.
 
@@ -624,7 +624,7 @@ There is a lot of work to do on the part of insurers and regulators to find comm
 
 95 Cyber Risk Insurance-A Resource Guide for Actuaries; American Academy of Actuaries; May 2019.
 
-## Transformational Impacts of Big Data and Al on the Future of Insurance and Society
+# Transformational Impacts of Big Data and Al on the Future of Insurance and Society
 
 Compared to other sectors, the insurance industry is relatively in its infancy in the use of big data and algorithms to develop insurance applications, with property and casualty insurance beginning to apply advanced modeling techniques toward the end of the $20^{\text {th }}$ century. ${ }^{96}$ It was not long before health and life insurers followed suit. There is much to learn from other fields, including the health care sector, of the pitfalls and benefits of applying big data and algorithms to human-centered problems. Precision medicine applies big data and algorithms to diagnose and manage diseases while tackling complex ethical issues related to biased training data and faulty modeling approaches. The high-tech/information technology industry similarly has come under immense criticism for algorithms biased by nonrepresentative training data and a nondiverse workforce of data modelers. This section of the paper explores the lessons learned that the actuarial profession might find instructive when building predictive models in the insurance sector.
 
@@ -662,7 +662,7 @@ If the desire to increase accessibility to sustainable insurance is to be met, p
 
 There is ample evidence that diverse teams outperform homogenous teams. Companies with diverse management teams are $35 \%$ more likely to outperform their industry financial averages, and gender diversity in the top quartile further improves the likelihood of outperformance by $15 \% .{ }^{104}$ Analogous improvements have been observed with respect to diversity of modelers building predictive models, ${ }^{105}$ but instead of focusing on financial metrics as the standard of performance, fairness (they should not unfairly discriminate) and unbiasedness are the metrics. While the insurance industry lags other industries in the deployment of AI technologies, it is in prime position to improve its deployment by observing lessons learned in other sectors. Even within the insurance industry, the missteps experienced have resulted in backlash that was swift and sharp. One health algorithm indicated Black individuals were less of a health risk than white clients and referred Black patients for improvement programs less often than white clients. ${ }^{106}$ Critics of the algorithm say the bias is due in part to "a lack of diversity among algorithm designers, and a lack of training about the social and historical context of their work.".107
 
-## FIGURE 11: $\quad$ RACIAL DIVERSITY IN SILICON VALLEY
+FIGURE 11: $\quad$ RACIAL DIVERSITY IN SILICON VALLEY
 
 How major tech companies stack up against each other
 
@@ -679,7 +679,7 @@ and in 2019 , the numbers were $54.4 \%$ and $68.4 \%$, respectively, ${ }^{108}
 
 These efforts will aid a positive transformation of the insurance industry as the uses of big data and algorithms continue to evolve and find more applications.
 
-## Conclusion
+# Conclusion
 
 The analysis presented in this paper strongly underscores the future of insurance will be grounded in predictive analytics, ${ }^{111}$ with all the promise and potential hazards big data and algorithms present for insurance practitioners and regulators. There is consensus on the importance and necessity of innovation for the positive transformation of the insurance industry not only to facilitate its vibrancy and efficiency, but also to benefit consumers while ensuring consumer protections.
 
@@ -697,7 +697,7 @@ While insurance serves many socially useful functions, it may not be able to add
 
 This paper has summarized key developments in the use of big data and algorithms in insurance modeling since the publication of the American Academy of Actuaries' Big Data Task Force monograph, Big Data and the Role of the Actuary. Continued education and awareness of these issues is foundational, and the pivotal role of actuaries and regulators in supporting the public's trust and contributing to sound public policy decision making is essential.
 
-## References
+# References
 
 American Academy of Actuaries (Academy). (2020). Self-Regulation and the Actuarial Profession. Committee of Professional Responsibility. American Academy of Actuaries. Washington, D.C.
 

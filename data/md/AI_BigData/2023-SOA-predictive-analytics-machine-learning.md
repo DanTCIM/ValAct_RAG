@@ -2,9 +2,9 @@ Predictive Analytics and Machine Learning - Practical Applications for Actuarial
 
 May | 2023
 
-## (2)SOA <br> Research <br> INSTITUTE
+SOA <br> Research <br> INSTITUTE
 
-## Predictive Analytics and Machine Learning Practical Applications for Actuarial Modeling (Nested Stochastic)
+# Predictive Analytics and Machine Learning Practical Applications for Actuarial Modeling (Nested Stochastic)
 
 AUTHORS Jean-Philippe Larochelle, FSA, MAAA, CERA
 
@@ -25,7 +25,7 @@ SPONSOR
 
 Actuarial Innovation and Technology Strategic Research Program Steering Committee
 
-## CONTENTS
+# CONTENTS
 
 Executive Summary ..... 6
 Background. ..... 6
@@ -607,7 +607,7 @@ The survey results are organized in the paper as follows:
 
 This paper found that advanced data visualization techniques and their use is expanding among actuaries, and then gave a brief overview of several data analytic techniques. In addition, this paper found that enhanced data analytic technologies are rising and their use is spreading in all areas of actuarial science. Open-source data analytic software can help actuarial practitioners and researchers efficiently take advantage of these new opportunities.
 
-### 2.1.3 LITERATURE REVIEW: ARTIFICIAL INTELLIGENCE AND ITS USE IN ACTUARIAL WORK
+# 2.1.3 LITERATURE REVIEW: ARTIFICIAL INTELLIGENCE AND ITS USE IN ACTUARIAL WORK
 
 ## Authors: Nicholas Yeo, Raymond Lai, Min Jyeh Ooi, Jie Yin Liew
 
@@ -621,7 +621,7 @@ This paper can be accessed through the link below:
 
 This paper highlighted the AIML technologies that will interact with the actuarial profession to provide a frame of reference for actuaries to use in actuarial work. First, the paper gave a brief introduction to Al, and described the history of Al. Then, the paper talked about the literature review of how Al can be used in different lines of actuarial work, including motor insurance pricing, loss reserving, mortality modeling, underwriting, and fraud and claims. At the end, the paper summarized the conclusions regarding the impact of Al on actuarial work and discussed the benefits, drawbacks, and challenges of implementing Al in actuarial work.
 
-### 2.1.4 CLOUD COMPUTING AND MACHINE LEARNING USES IN THE ACTUARIAL PROFESSION
+# 2.1.4 CLOUD COMPUTING AND MACHINE LEARNING USES IN THE ACTUARIAL PROFESSION
 
 Authors: Van Beach, Alexandre Boumezoued, Josh Dobiac, Jonathan B. Glowacki, Joe Long, Antoine Ly, Makho Mashoba, Zohair Motiwalla, David South, Benjamin Buttin
 
@@ -646,7 +646,7 @@ Below are the future opportunities that actuaries can potentially apply the clou
 3. Assist with the development of algorithms to target specific potential policyholders, and
 4. Optimize pricing to maximize the risk / reward trade-off of products
 
-### 2.1.5 CONSIDERATIONS FOR PREDICTIVE MODELING IN INSURANCE APPLICATIONS
+# 2.1.5 CONSIDERATIONS FOR PREDICTIVE MODELING IN INSURANCE APPLICATIONS
 
 ## Authors: Eileen Burns, Gene Dan, Anders Larson, Bob Meyer, Zohair Motiwalla, Guy Yollin
 
@@ -665,7 +665,7 @@ question of defining leading practices in each area was approached from a few an
 
 At last, the paper summarized their guidance as a compilation of concerns practitioners should address, with suggestions offered for how one might make the necessary decisions in a given application.
 
-### 2.1.6 NESTED STOCHASTIC MODELING FOR INSURANCE COMPANIES
+# 2.1.6 NESTED STOCHASTIC MODELING FOR INSURANCE COMPANIES
 
 ## Authors: Runhuan Feng, Zhenyu Cui, Peng Li
 
@@ -720,7 +720,7 @@ For future work directions, all mathematical formulation and methods in this rep
 
 # 2.2 ACADEMIC PAPERS EXPLORING AIML FOR ACTUARIAL MODELING 
 
-### 2.2.1 EFFICIENT DYNAMIC HEDGING FOR LARGE VARIABLE ANNUITY PORTFOLIOS WITH MULTIPLE UNDERLYING ASSETS
+## 2.2.1 EFFICIENT DYNAMIC HEDGING FOR LARGE VARIABLE ANNUITY PORTFOLIOS WITH MULTIPLE UNDERLYING ASSETS
 
 Authors: X. Sheldon Lin, Shuai Yang
 

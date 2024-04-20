@@ -1,9 +1,3 @@
-## sqlite3 related (for Streamlit)
-import pysqlite3
-import sys
-
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
-
 import os
 import streamlit as st
 from common.config import (
@@ -21,7 +15,9 @@ from langchain_community.chat_message_histories import StreamlitChatMessageHisto
 from langchain.callbacks.base import BaseCallbackHandler
 from langchain.chains import ConversationalRetrievalChain
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_pinecone import PineconeVectorStore
+from pinecone import Pinecone
+
 import pandas as pd
 import numpy as np
 
@@ -91,10 +87,11 @@ with st.sidebar:
         )
 
 # Create a vector store for the document collection
-vectorstore = Chroma(
-    embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"),
-    persist_directory="./data/chroma_semantic",
-    collection_name=collection_name,
+pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
+vectorstore = PineconeVectorStore(
+    index=pc.Index("valact-rag"),
+    embedding=OpenAIEmbeddings(model="text-embedding-3-large"),
+    namespace=collection_name,
 )
 
 # Retrieve and RAG chain

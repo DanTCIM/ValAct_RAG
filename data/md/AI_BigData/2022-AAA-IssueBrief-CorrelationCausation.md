@@ -33,7 +33,7 @@ The concepts of correlation and causation are highly relevant to the ongoing dis
 - What considerations should regulators and legislators have in determining laws and regulations for insurers to demonstrate that risk classification systems are not creating unfairly discriminatory results for protected classes?
 
 
-## Establishing Causation
+# Establishing Causation
 
 ## What are the difficulties in establishing causation?
 
@@ -51,7 +51,7 @@ Predictive models do not offer the same causative insights as randomized control
 
 The NAIC has deemed "rational explanations" as defensible narratives, in lieu of causation, to explain rating variable selections to consumers, legislators, and the media. As will be discussed in detail later in this issue brief, the definition of "rational explanation" excludes the requirement of causality, recognizing the limitation of predictive models to prove causeand-effect relationships. A natural question to ask is what makes for a "good" rational explanation? Determining the criteria will require close collaboration between industry and regulators to ensure the interests of the public are served.
 
-## Correlation versus Causation
+# Correlation versus Causation
 
 ## What is the difference between correlation and causation?
 
@@ -137,7 +137,7 @@ More recently, Colorado Gov. Jared Polis signed Senate Bill 21-169, Restrict Ins
 
 What life regulatory and legislative activity is going on with respect to model rating variables? As life risk classification practices have incorporated a broader variety of data typessuch as public records, wearables, credit attributes, and professional licenses-regulators and legislative bodies are revisiting standards to ensure that these new variables are used in a intuitive manner and do not introduce unfair bias into risk classification processes. Much of the regulatory attention on these new data sources has been focused on their use in accelerated underwriting. However, it is important to bear in mind that accelerated underwriting is just one aspect of risk classification. Existing regulations from New York and Colorado place particular focus on the use of "external data sources" and "predictive models." Specifically, these regulations focus on ensuring that customers have confidence and transparency into the ways in which these new data sources impact their underwriting outcomes.
 
-## Detecting Spurious Correlations
+# Detecting Spurious Correlations
 
 ## Telling the difference between spurious and "real" correlations
 
@@ -174,7 +174,7 @@ There are several ways of detecting spurious correlations to prevent faulty conc
 In practice, it is inevitable that one will encounter spurious correlations. However, being vigilant and applying common sense modeling habits while constructing and validating models can help reduce the risk that a spurious correlation makes it "out of the lab." Starting in the data-gathering phase, the modeler should take care to review the relevant domain literature to ensure that only relevant variables, where plausible relationships may exist, are included among potential predictor variables. Moreover, as spurious correlations are often the result of datasets that are too small or where the features are improperly specified, it is critical that the modeler ensure that there are enough data to support all the features included in the model and that the features are well formed for the purpose and structure of the model. There is also a risk of spurious correlations when dealing with
 large datasets if there are too many candidate variables. The modeling team should also take care, both during data set construction and model development, to directly inspect and interrogate the correlations both between predictors and outcomes as well as among the predictor variables.
 
-## Next Steps
+# Next Steps
 
 The questions raised in this issue brief provide a context and framework for understanding the limitations of predictive models to explain causation and why correlation is a viable mechanism for supporting the inclusion of predictive variables in insurance risk classification models. However, when selecting model variables, it may be useful to consider the rational basis for their inclusion. A plausible relationship between model variables and the risk being insured may aid in promoting transparency and understandability to consumers, regulators, and other laypersons.
 

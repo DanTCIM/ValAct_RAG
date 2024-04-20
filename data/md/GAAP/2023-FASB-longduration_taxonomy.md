@@ -173,7 +173,7 @@ This example illustrates the modeling for the information that an insurance enti
 
 ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-12.jpg?height=1707&width=1612&top_left_y=735&top_left_x=251)
 
-Figure 2a. 1
+### Figure 2a. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -200,7 +200,7 @@ The legend for the elements used to tag these facts follows:
 | L19 | Liability for Future Policy Benefit, Expected Future Benefit, Original <br> Discount Rate, before Reinsurance, after Cash Flow Change | Credit | Instant | LiabilityForFuturePolicyBenefitExpectedFutureBenefitOriginalDiscoun <br> tRateBeforeReinsuranceAfterCashFlowChange |
 | L2o | Liability for Future Policy Benefit, Expected Future Policy Benefit, <br> Issuance | Credit | Duration | LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitIssuance |
 
-Figure 2a.2 (continues)
+### Figure 2a.2 (continues)
 
 |  | Standard Label | Balance Type | Period Type | Element Name |
 | :---: | :---: | :---: | :---: | :---: |
@@ -212,7 +212,7 @@ Figure 2a.2 (continues)
 | L26 | Liability for Future Policy Benefit, Reinsurance Recoverable, after <br> Allowance | Debit | Instant | LiabilityForFuturePolicyBenefitReinsuranceRecoverableAfterAllowan <br> ce |
 | L27 | Liability for Future Policy Benefit, after Reinsurance | Credit | Instant | LiabilityForFuturePolicyBenefitAfterReinsurance |
 
-Figure 2a. 2 (continued)
+### Figure 2a. 2 (continued)
 
 The XBRL report view created using the modeling structure is provided here:
 
@@ -235,7 +235,7 @@ The XBRL report view created using the modeling structure is provided here:
 | L19 | Liability for Future Policy Benefit, Expected Future Benefit, <br> Original Discount Rate, before Reinsurance, after Cash Flow <br> Change | Expected future policy benefits, adjusted beginning of <br> year balance |  |  | 768528000 | 2605400000 |
 | L20 | Liability for Future Policy Benefit, Expected Future Policy <br> Benefit, Issuance | Expected future policy benefits, issuances | 90000000 | 300000000 | 369200000 | 1420000000 |
 
-Figure 2a.3 (continues)
+### Figure 2a.3 (continues)
 
 | Standard Label |  | Preferred Label |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -273,7 +273,7 @@ This example illustrates the modeling of the reconciliation of the liability for
 | Other | L25, A1:M6 |  | 50,000 |  | 55,000 |
 | Balance, End of Year | L25 | $\$$ | $1,175,978$ | $\$$ | 922,600 |
 
-Figure $2 b .1$
+### Figure $2 b .1$
 
 The legend for the elements used to tag these facts follows:
 
@@ -314,7 +314,7 @@ This example illustrates the modeling for the amount of undiscounted expected fu
 | Expected future gross premiums, undiscounted | L29, A1:M2 \$ | $5,550,000$ | $\$$ | 5,000,000 |
 | Expected future gross premiums, discounted | L30, A1:M2 \$ | $4,950,000$ | $\$$ | $3,970,000$ |
 
-Figure 2c. 1
+### Figure 2c. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -354,7 +354,7 @@ This example illustrates the modeling for the amount of gross premium income and
 | Other | L31, A1:M6 |  | 20,000 |  | 25,000 | Other | L32, A1:M6 |  | 2,000 |  | 1,000 |
 | Total | L31 | $\$$ | 256,000 | $\$$ | 274,300 | Total | $\mathbf{L} 32$ | $\$$ | 47,700 | $\$$ | 22,000 |
 
-Figure 2d. 1
+### Figure 2d. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -423,7 +423,7 @@ Figure 3a. 1 (continues)
 
 ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-28.jpg?height=1458&width=1870&top_left_y=239&top_left_x=125)
 
-Figure 3a. 1 (continued)
+### Figure 3a. 1 (continued)
 
 The legend for the elements used to tag these facts follows:
 
@@ -452,7 +452,7 @@ The legend for the elements used to tag these facts follows:
 | L36 | Policyholder Account Balance, Guaranteed Minimum Credit Rating |  | Instant | PolicyholderAccountBalanceGuaranteedMinimumCreditRating |
 | L37 | Policyholder Account Balance, above Guaranteed Minimum Crediting <br> Rate |  | Instant | PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRat <br> e |
 
-Figure 3a. 2
+### Figure 3a. 2
 
 The XBRL report view created using the modeling structure is provided here:
 
@@ -494,7 +494,7 @@ Figure 3a.3 (continues)
 |  |  |  | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate, Range from ooo1 to <br> oo50 [Member] <br> M15 |  | 350000 |  |  |
 |  |  |  | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate, Range from o051 to <br> o15o [Member] <br> M16 |  | 3400000 |  |  |
 
-Figure 3a. 3 (continues)
+### Figure 3a. 3 (continues)
 
 | Standard <br> Label | Product <br> and Service <br>  <br> A1 | Policyholder Account <br> Balance, Guaranteed <br> Minimum Crediting Rate <br> Range [Axis] <br> A3 | Policyholder Account Balance, <br> above Guaranted Minimum <br> Crediting Rate [Axis] <br> A4 | Statistical Measurement <br>  <br> A2 | $20 X_{3}$ |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -515,7 +515,7 @@ Figure 3a. 3 (continues)
 |  |  |  | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate, Range from ooo1 to <br> oo50 [Member] <br> M15 |  | 5810000 |  |  |
 |  |  |  |  | Maximum [Member] <br> M10 |  |  | 0.0050 |
 
-Figure 3a.3 (continues)
+### Figure 3a.3 (continues)
 
 | $\underset{\text { Label }}{\text { Standard }}$ | Product <br> and Service <br>  <br> A1 | Policyholder Account <br> Balance, Guaranteed <br> Minimum Crediting Rate <br> Range [Axis] <br> A3 | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate [Axis] <br> A4 | Statistical Measurement <br>  <br> A2 | $20 \times 3$ |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -535,7 +535,7 @@ Figure 3a.3 (continues)
 |  |  |  | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate, Range from ooo1 to <br> oo50 [Member] <br> M15 |  | 1475000 |  |  |
 |  |  |  | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-33.jpg?height=161&width=465&top_left_y=1603&top_left_x=827) |  | 1350000 |  |  |
 
-Figure 3a.3 (continues)
+### Figure 3a.3 (continues)
 
 | Standard <br> Label | Product <br> and Service <br>  <br> A1 | Policyholder Account <br> Balance, Guaranteed <br> Minimum Crediting Rate <br> Range [Axis] <br> A3 | Policyholder Account Balance, <br> above Guaranted Minimum <br> Crediting Rate [Axis] <br> A4 | Statistical Measurement <br>  <br> A2 | $20 X_{3}$ |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -585,7 +585,7 @@ This example illustrates the modeling for the balances of and changes in policyh
 
 ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-38.jpg?height=1171&width=1553&top_left_y=561&top_left_x=278)
 
-Figure 3b. 1
+### Figure 3b. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -607,7 +607,7 @@ The legend for the elements used to tag these facts follows:
 | L46 | Policyholder Account Balance, Net Amount at Risk | Credit | Instant | PolicyholderAccountBalanceNetAmountAtRisk |
 | L47 | Policyholder Account Balance, Cash Surrender Value | Credit | Instant | CashSurrenderValueDuePolicyholdersAmount |
 
-Figure 3b. 2
+### Figure 3b. 2
 
 The XBRL report view created using the modeling structure is provided here:
 
@@ -648,7 +648,7 @@ This example illustrates the modeling for the reconciliation of policyholders' a
 | Other | L35, A1:M6 |  | 2,500 |  | 2,250 |
 | Balance, end of year | L35 | $\$$ | 43,310 | $\$$ | 30,280 |
 
-Figure 3c. 1
+### Figure 3c. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -726,7 +726,7 @@ The legend for the elements used to tag these facts follows:
 | L61 | Market Risk Benefit, Reinsurance Recoverable, after Allowance | Debit | Instant | MarketRiskBenefitReinsuranceRecoverableAfterAllowance |
 | L62 | Market Risk Benefit, after Reinsurance and Cumulative Increase <br> (Decrease) from Instrument-Specific Credit Risk Change | Credit | Instant | MarketRiskBenefitAfterReinsuranceAndCumulativeIncreaseDe <br> creaseFromInstrumentSpecificCreditRiskChange |
 
-Figure 4a. 2
+### Figure 4a. 2
 
 The XBRL report view created using the modeling structure is provided here (and continues on the following page):
 
@@ -813,7 +813,7 @@ This example illustrates the modeling for the balances of and changes in separat
 | Balance, end of year | L65 | $\$$ | 111,250 | $\$$ | $1,403,200$ | $\$$ | 20,760 | 47,400 | 890,640 | $\$$ | 19,510 |
 | Cash surrender value | $\mathbf{L} 72$ | \$ | 104,480 | $\$$ | $1,113,832$ | $\$$ | 12,750 | 43,000 | 600,000 | $\$$ | 11,000 |
 
-Figure 5a. 1
+### Figure 5a. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -834,7 +834,7 @@ The legend for the elements used to tag these facts follows:
 | $\mathbf{L 7 1}$ | Separate Account, Liability, Increase (Decrease) from Other <br> Change | Credit | Duration | SeparateAccountLiabilityIncreaseDecreaseFromOtherChange |
 | L72 | Separate Account, Liability, Cash Surrender Value, Amount | Credit | Instant | SeparateAccountLiabilityCashSurrenderValueAmount |
 
-Figure 5a.2
+### Figure 5a.2
 
 The XBRL report view created using the modeling structure is provided here:
 
@@ -981,7 +981,7 @@ Legend: This legend is provided to illustrate the elements associated with value
 
 [1] XL78
 
-Figure 6b. 1
+### Figure 6b. 1
 
 The legend for the elements used to tag these facts follows:
 
@@ -999,7 +999,7 @@ The legend for the elements used to tag these facts follows:
 | L17 | Liability for Future Policy Benefit, Expected Future Policy Benefit, <br> Cumulative Increase (Decrease) from Cash Flow Change | Credit | Instant | LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitCumulati <br> veIncreaseDecreaseFromCashFlowChange |
 | XL78 | Accounting Standards Update [Extensible Enumeration] |  | Duration | AccountingStandardsUpdateExtensibleList |
 
-Figure 6b. 2
+### Figure 6b. 2
 
 The XBRL report view created using the modeling structure is provided here:
 
@@ -1012,7 +1012,7 @@ The XBRL report view created using the modeling structure is provided here:
 | Liability for Future Policy <br> Benefit, Expected Future <br> Policy Benefit, before <br> Reinsurance, after <br> Discount Rate Change | Present value of <br> expected future policy <br> benefits, balance, end <br> of year | 330000000 |  |  |  | 375000000 |
 | Liability for Future Policy <br> Benefit, Expected Future <br> Policy Benefit, <br> Cumulative Increase <br> (Decrease) from Cash <br> Flow Change | Present value of <br> expected future policy <br> benefits, effect of <br> changes in cash flow <br> assumptions, total |  | 45000000 | 18000000 | 27000000 |  |
 
-Figure 6b.3a
+### Figure 6b.3a
 
 | XL78 | {Standard Label <br> Date Context} |  |  |
 | :---: | :---: | :---: | :---: |

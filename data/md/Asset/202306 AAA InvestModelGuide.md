@@ -229,11 +229,3 @@ A CFA Research Foundation book that provides high-level information on hedge fun
 
 Due to the increasing complexity of the assets that many insurance companies are now buying, the considerations in this resource and discussion guide will help the actuary increase their knowledge of the assets the company may be purchasing and prepare for discussions with various stakeholders.
 
-For more information on the American Academy of Actuaries and resources available on life-related topics, visit the Life section of the Academy's website. If you have any feedback on this document, please contact the Academy's life policy analyst.
-
-## AMERICAN Academy $\triangle$ of ACTUARIES
-
-1850 M STREET NW, SUITE 300, WASHINGTON, D.C. 20036 202-223-8196 | ACTUARY.ORG
-
-2023 American Academy of Actuaries. All rights reserved.
-

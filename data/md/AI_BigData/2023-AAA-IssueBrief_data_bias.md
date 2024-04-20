@@ -19,7 +19,7 @@ American Academy of ACTUARIES
 
 ## Introduction
 
-## What is the purpose of and who is the intended audience for this issue brief?
+What is the purpose of and who is the intended audience for this issue brief?
 
 Advancing technology has led to increased volume, variety, and velocity of the data being utilized in actuarial work. Because the actuary may be further from the collection of data than in the past, understanding what the data represents, its suitability, and its potential deficienciesincluding bias-can be challenging.
 
@@ -136,7 +136,7 @@ Effective January 1, 2022, the Qualification Standards for Actuaries Issuing Sta
 
 ## Understanding bias analyses
 
-## Basic Approaches
+Basic Approaches
 
 There are two basic approaches to examining bias: quantitative and qualitative. First, quantitative approaches can be reduced to statistical analyses that measure, for example, the sufficiency, balance, credibility, and representativeness of the modeling or training data. ${ }^{17}$ Even certain data biases, such as sampling, measurement, evaluation, historical, and selection bias, as well as bias imposed by outliers, can all be analyzed statistically, which can allow decision-making based on these analytical findings about appropriate and inappropriate uses of the data. Second, quantitative approaches lend themselves to systematic error measurement and scenario testing of models to determine how sensitive results are to small changes in model parameters and cross-validation with testing data sets. ${ }^{18}$ Third, quantitative approaches can provide estimates of uncertainty arising from systematic errors to prevent overconfidence in results. ${ }^{19}$[^2]
 
@@ -144,15 +144,15 @@ Qualitative methods are better than quantitative approaches at identifying the r
 
 ## Components of a bias analysis
 
-## What should be included in a bias analysis?
+### What should be included in a bias analysis?
 
 While there is not a universally accepted approach to conducting a bias analysis, there are some elements common to most bias analyses. The following is a discussion of those common elements.[^3]
 
-## Objectives of the Analysis
+### Objectives of the Analysis
 
 The objectives of the analysis should identify the biases the analysis is intended to detect and provide a clear definition of each bias in terms of a measure of fairness. The overall approach should be specified and indicate whether bias analysis is focused on the data, the algorithm, the outcomes, or a combination of the three. Emerging approaches to bias detection are focusing more on the modeling data and the outcome produced by the algorithm, rather than focusing on the algorithm, which presents challenges to understanding the complexities of the underlying mathematics.
 
-## The Fairness Tree
+### The Fairness Tree
 
 The Center for Data Science and Public Policy of the University of Chicago developed a "Fairness Tree,", ${ }^{26}$ (see Figure 1) in order to help identify a fairness standard suitable for the objectives of the analysis and the selection of a metric.
 
@@ -169,7 +169,7 @@ Group definitions: This issue brief uses the term protected class in the discuss
 5. False Omission Rate Parity or Negative Predictive Value is the fraction of positive cases predicted to be negative relative to all the predicted cases.
 6. False Negative Rate Parity means all protected groups have the same false-negative rate as the reference group.
 
-## Selection of the Bias Metric
+### Selection of the Bias Metric
 
 The Fairness Tree can be a useful tool to determine the appropriate bias metric. The first decision in the design of a bias analysis is the basis of fairness, either disparate representation or disparate errors in the model. Disparate impact metrics used by federal enforcement agencies attempt to measure the proportion of people in a protected class (here referring to specifically protected classes defined in federal law) receiving a positive outcome in relation to the proportion of people not in the protected class receiving a positive outcome. If this ratio is less than $80 \%$, i.e., the four-fifths rule, federal agencies would generally regard the result as evidence of adverse impact. ${ }^{31}$ The four-fifths rule was established by the Uniform Guidelines on Employee Selection Procedures developed by the federal government not as a legal definition, but as a practical means for determining whether there may be serious discrepancies in rates of hiring, promotion and other selection decisions. To determine whether a selection procedure violates the four-fifths or $80 \%$ rule, the selection rate (or passing rate, where applicable) for the group with the highest selection rate is compared to the selection rates for the other groups. ${ }^{32}$ If the selection rate for other groups is less than $80 \%$ of the rate for the highest selected group, then the four-fifths rule would be deemed violated.[^4]
 
@@ -231,13 +231,13 @@ It is important to understand where in the ML pipeline mitigation can occur befo
 
 ## Diagnostic questions
 
-## Interrogating a bias analysis
+### Interrogating a bias analysis
 
 The following is a discussion of several questions to consider when performing or reviewing a bias analysis. This is not an exhaustive list of questions, but they may help determine whether a bias analysis is complete and where there are deficiencies. The questions fall into four categories: General, Data-Related, Model-Related, and Socially Based. The general questions are intended to understand the design and purpose of the bias analysis. The data questions are designed to understand how well the predictor variables were examined and researched for inherent bias. The model questions focus on the patterns uncovered by the algorithm and how outcomes are grouped, and parity tested. Finally, the socially based questions are intended to help understand how
 
 predictors variables that are responsible for the biased results are related to discriminatory policies and practices in society.
 
-## General Questions
+### General Questions
 
 1. What was the original purpose of the algorithm targeted in the bias analysis?
 2. What are the measures of fairness used in the bias analysis?
@@ -254,7 +254,7 @@ predictors variables that are responsible for the biased results are related to 
 13. Is there a robust feedback loop in place to monitor the algorithm for future bias generation? How was it assessed?
 14. How were the edge cases identified?
 
-## Data-Related Questions
+### Data-Related Questions
 
 1. What were the types of biases in the data that were tested?
 2. What selection bias may exist in the underlying data?
@@ -270,7 +270,7 @@ predictors variables that are responsible for the biased results are related to 
 12. What biases resulted from the weight assignment?
 13. Did outliers distort the weight assignment? How were they controlled?
 
-## Modeling-Related Questions
+### Modeling-Related Questions
 
 1. How were statistical parity, conditional statistical parity, or predictive equality established?
 2. How were model parameters assigned? How were they assessed for bias?
@@ -286,7 +286,7 @@ predictors variables that are responsible for the biased results are related to 
 12. Did the analysis include a demonstration of error rates?
 13. How much human oversight is required to implement the model?
 
-## Socially Based Questions
+### Socially Based Questions
 
 1. Can any of the model variables be linked to a history of systemic discrimination?
 2. Do any of the variables fall into one or more of the following categories:
@@ -315,7 +315,7 @@ h. Medical-related data
 
 Prior Academy papers have underscored that the future of insurance will be grounded in predictive analytics. ${ }^{46}$ While innovations in artificial intelligence and machine learning techniques have the potential to increase fairness by reducing human judgment and biases, the models are dependent on the quality of the training data. Fairness can be increased by a well-intentioned analysis of the data, review of key diagnostic questions, application of the latest artificial intelligence and machine learning innovations, and strategic use of the bias analysis. Actuaries are well positioned to lead this work for the benefit of the public, profession, industry, and users of financial systems.
 
-## APPENDIX
+# APPENDIX
 
 ## Numerical examples for statistical measures of bias in data
 

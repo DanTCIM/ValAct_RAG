@@ -21,3 +21,6 @@ pypdf # For PDF parsing
 chromadb  # Specific package, ensure correct name and version as needed
 
 # semantic_text_splitter # currently not used for semantic text splitter
+
+pinecone-client==3.2.2
+langchain-pinecone==0.1.0

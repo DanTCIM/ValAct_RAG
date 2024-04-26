@@ -6,7 +6,7 @@ base_path = "./data/pdf"
 
 
 # Define a function to scan a directory and return a dictionary of folders and files.
-@st.cache_data  # Add the caching decorator
+@st.cache_data
 def scan_directory(base_path):
     folders_files = {}
     for folder in os.listdir(base_path):
@@ -55,9 +55,8 @@ collection = [
 ]
 
 
-@st.cache_data  # Add the caching decorator
+@st.cache_data
 def get_json(file_path):
-    # Open and load the json file
     with open(file_path, "r") as file:
         data = json.load(file)
     return data

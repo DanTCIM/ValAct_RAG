@@ -1,26 +1,9 @@
-### For langchain and its related packages, if they are not standard PyPI packages, you may need a direct link or specify them differently
 langchain
-#langchainhub
-langchain_openai
-langchain_community
-langchain_anthropic
-
-### For streamlit app run
-streamlit
-pysqlite3-binary
-
-### The following requirements for local run
-python-dotenv
-ipython  # For display, Markdown, Latex functionalities
-
-### The following requirements for local LLM
-gpt4all # for embedding
-# glob  # Assuming you're using glob, but glob2 is an extended version compatible with more patterns
-PyPDF2  # For PDF parsing
-pypdf # For PDF parsing
-chromadb  # Specific package, ensure correct name and version as needed
-
-# semantic_text_splitter # currently not used for semantic text splitter
-
-pinecone-client==3.2.2
+langchain-openai
+langchain-community
+langchain-anthropic
 langchain-pinecone==0.1.0
+streamlit
+pinecone-client==3.2.2
+ipython  # For display, Markdown, Latex functionalities
+python-dotenv

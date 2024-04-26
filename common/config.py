@@ -5,7 +5,7 @@ import json
 base_path = "./data/pdf"
 
 
-# Scan a directory and return a dictionary of folders and files.
+# Scan a directory and return a dictionary of folders and files
 @st.cache_data
 def scan_directory(base_path):
     folders_files = {}

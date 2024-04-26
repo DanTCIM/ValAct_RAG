@@ -25,33 +25,33 @@ def scan_directory(base_path):
 document_list = scan_directory(base_path)
 
 collection_list = [
-    "AI_BigData",
-    "ASOP_life",
     "SAP",
+    "ASOP_life",
     "CFT",
     "PBR",
     "GAAP",
-    "Asset",
+    "IFRS17",
     "Bermuda",
     "Cayman",
-    "IFRS17",
-    "RiskFinance",
+    "Asset",
     "Product",
+    "RiskFinance",
+    "AI_BigData",
 ]
 
 collection = [
-    "AI_BigData",
-    "ASOP_life",
     "Statutory Accounting Principles (SAP)",
+    "ASOP_life",
     "CFT",
     "PBR",
     "GAAP",
-    "Asset",
+    "IFRS17",
     "Bermuda",
     "Cayman",
-    "IFRS17",
-    "RiskFinance (Risk and finance including capital, reinsurance topics)",
+    "Asset",
     "Product",
+    "RiskFinance (Risk and finance including capital, reinsurance topics)",
+    "AI_BigData",
 ]
 
 

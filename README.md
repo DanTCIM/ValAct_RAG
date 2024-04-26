@@ -3,19 +3,18 @@
 This project aims to create a Retrieval-Augmented Generation (RAG) process for actuaries to ask questions about a set of Life Valuation Actuarial documents. The RAG process utilizes the power of the large language model (LLM) to provide quick answers to questions about the documents.
 
 The collections include:
-- [AI and Big Data](./data/pdf/AI_BigData)
+- [Statutory Accounting Principles](./data/pdf/SAP)
 - [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_life)
 - [Cash Flow Testing and Asset Adequacy Testing](./data/pdf/CFT)
-- [PBR including NAIC Valuation Manual 20 and other documents](./data/pdf/PBR)
-- [NAIC Valuation Manual 21](./data/pdf/VM21)
-- [NAIC Valuation Manual 22](./data/pdf/VM22)
+- [Principle-Based Reserving](./data/pdf/PBR)
 - [US GAAP](./data/pdf/GAAP)
-- [Asset related documents including NAIC Asset Primers](./data/pdf/Asset)
-- [Bermuda Economic Balance Sheet framework for Long-term Insurers](./data/pdf/Bermuda)
-- [Cayman and CIMA documents](./data/pdf/Cayman/)
 - [IFRS 17](./data/pdf/IFRS17)
+- [Bermuda](./data/pdf/Bermuda)
+- [Cayman and CIMA documents](./data/pdf/Cayman/)
+- [Asset related documents](./data/pdf/Asset)
+- [Liability Products](./data/pdf/Product)
 - [Risk and Finance including Capital and Reinsurance](./data/pdf/RiskFinance)
-- [Product](./data/pdf/Product)
+- [AI and Big Data](./data/pdf/AI_BigData)
 
 However, RAG is not without challenges, i.e., hallucination and inaccuracy. The project allows verifiability by providing the context an LLM used to arrive at those answers. This process enables actuaries to validate the LLM's answers, empowering them to make informed decisions. By combining the capabilities of LLM with verifiability, this RAG process offers actuaries a robust tool to leverage LLM technology effectively and extract maximum value.
 

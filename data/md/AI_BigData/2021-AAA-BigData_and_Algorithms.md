@@ -60,7 +60,7 @@ In addition, each of the above items will be of more or less importance based on
 
 FIGURE 2: $\quad$ COMMON AREAS OF FOCUS FOR DIVERSE STAKEHOLDERS \& PRODUCT LINES
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-09.jpg?height=838&width=835&top_left_y=611&top_left_x=778)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-09.jpg?height=838&width=835&top_left_y=611&top_left_x=778" alt="image" style="width:100%;height:auto;">
 
 2. Understanding Risk versus Uncertainty-Frank Knight, a 20th century economist, is recognized as the first person to draw a distinction between risk and uncertainty. ${ }^{4}$ Risk applies to situations where one does not know the outcomes of a given situation but can measure the probability of each outcome, i.e., measurable uncertainty. Uncertainty applies to situations where one does not know the outcomes of a given situation and cannot measure the probability of each outcome, i.e., unmeasurable uncertainty. All insurance lies on a spectrum bounded by measurable risk and complete uncertainty. Depending where on the spectrum a specific kind of insurance risk lies, the tools used to price and structure the insurance offering will shift and differ. For instance, life insurance offers longer term premium guarantees to accommodate long-duration risks. Auto insurance rates are more predictably steady as the risk is measurable and typically a shorter-duration kind of event. In contrast, consider an example with some catastrophic coverages where due to the lack of experience and data this may be a situation more in line with uncertainty.
 3. Efficiency vs. Transformation-Does a big data analytic solution focus more on cost savings or speed? Or does it transform the way a service is provided-whether it be a transformation of the sales, underwriting, pricing or administration policies and procedures (as occurred with Uber \& Lyft for taxi services)?
@@ -77,7 +77,7 @@ Another way to summarize the various differing ways that the service model can b
 
 ### FIGURE 3: $\quad$ OPPORTUNITIES FOR INNOVATION
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-10.jpg?height=574&width=1342&top_left_y=1838&top_left_x=478)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-10.jpg?height=574&width=1342&top_left_y=1838&top_left_x=478" alt="image" style="width:100%;height:auto;">
 
 The role of the actuary continues to evolve along with the tools used to perform actuarial work. There have been many developments in actuarial practice since the days where assumption setting relied solely on data from a company's policy master files. Using big data, we can explore and investigate additional patterns of behavior that can drive the risk being insured and the manner of its delivery and servicing.
 
@@ -287,7 +287,7 @@ As the use of AI becomes more prevalent in insurance underwriting and pricing, t
 
 While AI models can finely segment risks, resulting in granular risk classifications thereby reducing dispersion around mean losses for pricing cohorts, highly granular models suffer from weaknesses as well. They may result in risk classifications that differ from more traditional models for identical cohorts, with some individuals or businesses paying higher costs than others. Misclassification risk can be easily visualized using a simple confusion matrix which is an $\mathrm{N} \mathrm{x} \mathrm{N}$ matrix that classifies prediction error. Diagonal elements represent model predictions that exactly replicate observed values and off-diagonal elements represent prediction errors. The smaller the prediction errors, the greater the confidence in the model to predict actual outcomes, while the greater the misclassification, the greater the costs associated with risk charges, premiums and expected claims. Figure 4 illustrates these concepts for a $4 \mathrm{x} 4$ confusion matrix.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-27.jpg?height=708&width=1116&top_left_y=459&top_left_x=583)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-27.jpg?height=708&width=1116&top_left_y=459&top_left_x=583" alt="image" style="width:100%;height:auto;">
 
 The use of AI in underwriting algorithms and pricing is transforming the business of insurance from initial risk selection, risk pool assignment, and claim management to claim fraud prevention. These advanced tools and analytics are improving the identification of significant drivers of claims and the extricating of volatility from trend to enable fine-tuning in the rate setting. It is expected that insurance will develop advanced AI applications to improve customer engagement and interactions and improve bottom-line company performance. Given the velocity of big data and sophisticated machine learning algorithms, continuous underwriting is emerging as a viable technology, allowing for a more dynamic and responsive relationship between risk selection and pricing.
 
@@ -378,7 +378,7 @@ It is important to not take a "set it and forget it" approach to models after th
 
 FIGURE 5: $\quad$ MODEL DEGRADATION LIFT CHART
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-32.jpg?height=821&width=1135&top_left_y=706&top_left_x=625)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-32.jpg?height=821&width=1135&top_left_y=706&top_left_x=625" alt="image" style="width:100%;height:auto;">
 
 A lift curve is a graphical visualization of the performance gains that result from a classification model. The lift curve achieved at initial implementation of the model, the top curve, sets the standard against which to measure model degradation. To measure the continued fit of the model, new data is introduced into the model and a new lift curve is constructed and plotted alongside the prior lift curve, as depicted in Figure 5. The cumulative difference between the area under the two curves represents a measure of degradation in fit. ${ }^{39}$ The company needs to incorporate a decision rule to alert when the degradation is outside the tolerance set for the model. Another method to assess model degradation is recreating models on fresh data at a desired frequency and measuring changes in parameter estimates. ${ }^{40}$[^2]
 
@@ -413,7 +413,7 @@ $\cdot$ average number of claims
 The target variable was engineered based on total health care costs for the 12-month period coded as a dichotomous variable where 0 indicated a "low-cost" insured (claims less than \$20,000) and 1 a "high-cost" insured (claims greater than $\$ 20,000$ ). The model was a neural network classifier model validated on 100,000 insureds. The full model with all the consumer data was compared to a baseline model based only on age and gender. The performance metrics included sensitivity, specificity, and positive predictive value. The chart below summarizes the results.
 
 FIGURE 6: $\quad$ MODEL PERFORMANCE METRICS
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-36.jpg?height=496&width=1392&top_left_y=1384&top_left_x=454)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-36.jpg?height=496&width=1392&top_left_y=1384&top_left_x=454" alt="image" style="width:100%;height:auto;">
 
 The age \& gender model is the baseline model that serves as the reference model for the performance of the consumer data model. The consumer data model includes age and gender plus the consumer variables discussed above. If the consumer model performs better than the baseline model, then it can be concluded the consumer variables improve the differentiation of risks into "high-cost" versus "low-cost." The performance metrics for the comparison are Sensitivity (the true positive rate), 1-Specificity (the false positive rate), and the Positive Predictive Value (the proportion of positive results in statistical and diagnostic tests that are true positive results). To be considered better than the reference model, the sensitivity of the consumer model will increase over that of the reference model, the false positive rate will decrease, and the positive predictive power will increase. The comparison in Figure 6 reflects this directionality, implying the addition of consumer data improves the segmentation of health care risks.
 
@@ -493,7 +493,7 @@ Insurance companies are increasingly using nontraditional data and machine learn
 
 75 "Speed the development of wearable devices with a solid, targeted platform"; Electronic Products \& Technology. 76 "Insurers want to nudge you to better health. So they're data mining your shopping lists"; Stat; Dec. 15, 2015.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-43.jpg?height=832&width=943&top_left_y=451&top_left_x=488)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-43.jpg?height=832&width=943&top_left_y=451&top_left_x=488" alt="image" style="width:100%;height:auto;">
 
 While insurance companies can collect directly from these nontraditional data sources, they more often rely on third-party vendors to collect and provide data from nontraditional data sources. Insurers merge nontraditional data with traditional data sources to identify patterns of risk that can inform the underwriting process. The patterns may also point to demographic and lifestyle indications to better engage customers to manage their health and environmental risks. These new data sources may lead to different risk pooling than that based on more traditional data and underwriting approaches alone, for better or worse. Big data analytics can save life insurers the expense of time-consuming, invasive, and costly medical tests and procedures in underwriting, benefitting both the insured and the insurer. A major concern with nontraditional data is the risk it may drive unfair discriminatory underwriting consequences. Nontraditional data may have been collected in a biased manner and not be representative of the cohorts to which it is applied, further biasing any analysis that uses it. When biased underwriting is applied to insurance consumers, risks may be inappropriately priced with financially adverse impacts to both insureds and insurers. Underwriting with nontraditional data can result in unfair and disparate treatment of consumers and unintended discrimination, when
 
@@ -535,7 +535,7 @@ A case that illustrates this point is an algorithm called COMPAS, designed to as
 
 Because the algorithm has similar positive predictive accuracy for Black and white defendants, it can be argued that the algorithm is race-agnostic, and the judge using it does not need to consider the race of the defendant. However, it can also be argued that misclassifying defendants results in more harm, and therefore a fair algorithm should not misclassify more Black defendants than white defendants. The problem is that in this situation it is mathematically impossible to achieve a positive predictive accuracy value and a false positive error rate that results in the equal treatment of defendants at the same time. It is often difficult for an algorithm to have a zero false positive rate and a zero false negative rate, as depicted in Figure 10. ${ }^{84}$ If that were the case, the graphs of innocent people and guilty people would not overlap and there would be no false positives or false negatives as depicted in Figure 8. In criminal justice cases, setting the standard of proof makes the difference between sending innocent people to jail (sensitivity) and letting guilty people go free (specificity), and where the standard of proof line is drawn is critical to jury outcomes, as depicted in Figure 10. ${ }^{85}$[^6]
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-48.jpg?height=534&width=1068&top_left_y=405&top_left_x=493)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-48.jpg?height=534&width=1068&top_left_y=405&top_left_x=493" alt="image" style="width:100%;height:auto;">
 
 Therefore, whether an algorithm appears to be biased may depend on the metric that is used to measure such bias.
 
@@ -551,11 +551,11 @@ Null Hypothsis $(\mathrm{H} 0)$ :
 
 Alternative Hypotheses $(\mathrm{H} 1)$ :
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-49.jpg?height=399&width=740&top_left_y=500&top_left_x=714)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-49.jpg?height=399&width=740&top_left_y=500&top_left_x=714" alt="image" style="width:100%;height:auto;">
 
 FIGURE 10: APPEARANCE OF GUILT
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-49.jpg?height=630&width=775&top_left_y=1035&top_left_x=770)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-49.jpg?height=630&width=775&top_left_y=1035&top_left_x=770" alt="image" style="width:100%;height:auto;">
 
 Another approach is to set up a "fairness constraint" that either transforms some of the model's predictions to satisfy the fairness constraint or imposes the constraint during the model's optimization process. It is also possible to add more data points to improve performance for protected classes; ${ }^{87}$ however, this may not always be possible. Mitigating biases is an area of active and ongoing research in building AI models. Thus, actuaries may look at a variety of measures to assess biases and systemic influences, and the measures chosen should reflect the social and the business context in which the model is to be used. It is also important to consider the potential trade-offs in predictive accuracy of any such model and the resulting negative impact on outcomes such as cost-based prices.
 
@@ -658,7 +658,7 @@ FIGURE 11: $\quad$ RACIAL DIVERSITY IN SILICON VALLEY
 
 How major tech companies stack up against each other
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-59.jpg?height=591&width=1244&top_left_y=1382&top_left_x=489)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-59.jpg?height=591&width=1244&top_left_y=1382&top_left_x=489" alt="image" style="width:100%;height:auto;">
 
 The AI industry is transforming the insurance industry, while at the same time it needs transformation in the very area that would aid in mitigating algorithmic bias-diversity among programmers. Figure 11 depicts the ethnic mix of the top tech companies of Silicon Valley as reported in 2019. For many of these companies, the mix had not changed much over the five years prior. For example, in 2014 Google was $61.3 \%$ white and $69.4 \%$ male
 and in 2019 , the numbers were $54.4 \%$ and $68.4 \%$, respectively, ${ }^{108}$ and similar patterns hold for the other firms. It is notable the numbers for Apple and Amazon are inflated by their warehouse staff. Similar trends exist in data scientist roles. Less than $20 \%$ of the roles are filled by women, $55 \%$ are filled by whites, $27 \%$ by Asians, $8 \%$ by Hispanics, $6.9 \%$ by Blacks, 0.3\% American Indian and Alaska Native, and 2.6\% unknown. ${ }^{109}$ These numbers do not bode well for preventing biases due to a lack of programmer diversity. One study ${ }^{110}$ suggests that bias due to a lack of programmer diversity is more than just a "pipeline" problem. When there is a lack of programmer diversity, other measures to mitigate bias become even more important to build trust between insurers, the public and regulators. They include:

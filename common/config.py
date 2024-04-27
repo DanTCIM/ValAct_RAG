@@ -6,7 +6,7 @@ base_path = "./data/pdf"
 md_path = "./data/md"
 
 
-# Scan a directory and return a dictionary of folders and files.
+# Scan a directory and return a dictionary of folders and files
 @st.cache_data
 def scan_directory(base_path):
     folders_files = {}

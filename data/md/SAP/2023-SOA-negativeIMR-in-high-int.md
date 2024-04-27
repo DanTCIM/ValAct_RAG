@@ -24,8 +24,6 @@ With the advent of principle-based reserving (PBR), IMR must be included for PBR
 Table 1
 Regulatory References to IMR for Actuarial Items
 
-Here is the content transcribed into Markdown format:
-
 | Regulation | Section | IMR references |
 |------------|---------|----------------|
 | VM-20 (Requirements for PBR for Life Products) | Section 4 Deterministic Reserve | Calculate the Deterministic Reserve equal to the actuarial present value of benefits, expenses, and related amounts less the actuarial present value of premiums and related amounts, less the positive or negative PIMR balance at the valuation date allocated to the group of one or more policies being modeled. |

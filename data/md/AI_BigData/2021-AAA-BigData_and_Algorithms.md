@@ -1,16 +1,8 @@
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=1570&width=2123&top_left_y=1&top_left_x=1)
-
 ## BIG DATA AND ALGORITHMS IN ACTUARIAL MODELING AND CONSUMER IMPACTS
 
 American Academy of Actuaries
 
 ![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=111&width=155&top_left_y=1891&top_left_x=1603)
-
-AMERICAN ACADEMy of ActUARIES Objective. Independent. Effective.'m
-
-The American Academy of Actuaries is a 19,500-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policy makers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United State $\triangle$
-
-AMERICAN ACADEmY of ACTUARIES Objective. Independent. Effective. AMERICAN ACADEMY OF ACTUARIES 1850 M STREET NW, SUITE 300, WASHINGTON, D.C. 20036 202-223-8196 | ACTUARY.ORG
 
 (C) 2021 American Academy of Actuaries. All rights reserved.
 
@@ -45,7 +37,7 @@ The framework for traditional insurance is based on the need to manage the volat
 - Cost of Uncertainty About the Mean and the Volatility-When this cost is hard to quantify or estimates are subject to significant uncertainty, it is often addressed through product designs via limits on coverage, the use of dividends or nonguaranteed elements, or the use of premiums that reset each year.
 - Costs to Market, Sell, Build and Service Product, Fund Payments (Including Investment Risk) and Monitor Emerging Risk Expenses and Disclose Performance of OperationsThese costs are added to the average expected claims when setting the premiums for the coverage and may also be included in additional required capital.
 
-FIGURE1: DRIVERS OF VALUE FOR INSURANCE PRODUCTS
+FIGURE 1: DRIVERS OF VALUE FOR INSURANCE PRODUCTS
 
 ![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-07.jpg?height=813&width=1393&top_left_y=949&top_left_x=491)
 

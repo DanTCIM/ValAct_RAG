@@ -2,13 +2,9 @@
 
 SOCIETY OF ACTUARIES
 
-AUTHOR
-
-Neil Raden, Founder/Principal Analyst
+AUTHOR: Neil Raden, Founder/Principal Analyst
 
 Hired Brains Research
-
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-02.jpg?height=279&width=1735&top_left_y=1850&top_left_x=192)
 
 ## Caveat and Disclaimer
 
@@ -18,71 +14,71 @@ Copyright (C) 2019 Society of Actuaries. All Rights Reserved.
 
 ## CONTENTS
 
-1 Executive Summary
-2 Al, the Social Context and the Five Pillars of Ethical AI ..... 7
-2.1 Defining Al ..... 7
-2.2 The Social Context ..... 8
-2.3 The Five Pillars of Ethical Al ..... 10
-2.3.1 Responsibility ..... 10
-2.3.2 Transparency ..... 11
-2.3.3 Predictability ..... 11
-2.3.4 Auditability ..... 11
-2.3.5 Incorruptibility ..... 11
-2.4 Macro Al Ethics Obligations ..... 11
-3 Digital Transformation Drives AI Adoption ..... 12
-3.1 The Motivation for Digital Transformation. ..... 12
-3.2 Future Technologies and InsurTech ..... 13
-Ethical Risk in General: Data, Bias and Do-It-Yourself Risk ..... 14
-4
-4.1 Defining Ethical Risk with Al ..... 14
-4.2 Ethical Considerations for Actuaries Using AI ..... 15
-4.2.1 Accelerated Underwriting ..... 15
-4.2.2 Access to Third-Party Data beyond Marketing Data ..... 15
-4.2.3 Reliance on Spurious Medical Markers from New Sources ..... 15
-4.3 Data Risk ..... 16
-4.4 Bias ..... 16
-4.4.1 "People" questions to ask about Al Bias ..... 17
-4.4.2 Data Questions to Ask about Al Bias ..... 18
-4.4.3 Management Questions to Ask about Al bias ..... 18
-4.5 Ethical Aspects of Automation ..... 18
-4.6 Personally Identifiable Information (PII) ..... 18
-4.7 Reliance on Repeatable Algorithms without Human Oversight ..... 19
-4.8 Amateurish Development ..... 19
-4.9 Insurance Circular Letter No. 1 (2019) ..... 20
-5 Organizing the Actuarial Department for Al: Skills, Team, Diversity ..... 21
-5.1 Skills Needed for Actuarial Development of Al ..... 21
-5.1.1 GLM (Generalized Linear Model) ..... 21
-5.1.2 Technology around AI ..... 21
-5.1 Technology Skills for Actuaries ..... 22
-5.2 Graph Analysis. ..... 22
-5.2.1 Pricing Analysis ..... 23
-5.2.2 Agent Compensation ..... 23
-5.3 IT and Al Engineer Team ..... 23
-5.4 IT Role in Actuarial Al Team ..... 23
-5.5 Ethical Review Board ..... 25
-6 Government and Regulatory Initiatives Concerning Ethics in Al ..... 26
-7 Conclusion: Suggested Path Forward ..... 27
-8 Appendix 1: Advanced Analytics Categories ..... 28
-8.1 What Is Predictive Analytics? ..... 28
-8.2 What Is Data Science? ..... 28
-8.3 Predictive Analytics versus Data Science ..... 28
-8.4 What Is Machine Learning? ..... 29
-8.5 Some Misconceptions about Machine Learning ..... 29
-Appendix II: Examples of Review Boards ..... 30
-9.1 American Psychological Association ..... 30
-9.2 PSI (Population Services international) ..... 30
-9.3 National Society of Professional Engineers ..... 31
-9.4 Swedbank ..... 31
-9.5 Software Developers ..... 31
-9.6 Ethics Review Board: Roles Required ..... 31
-9.7 Other Codes of Ethics Examples ..... 32
-10 Additional Suggestions for Reading ..... 33
-10.1 Light Reading. ..... 33
-10.2 Ethics Articles by Neil Raden ..... 33
-10.3 More In-Depth ..... 33
-10.4 Books ..... 34
-10.5 Resources for Frameworks for Ethical Analysis ..... 35
-11 Endnotes ..... 36
+* 1 Executive Summary
+* 2 Al, the Social Context and the Five Pillars of Ethical AI ..... 7
+* 2.1 Defining Al ..... 7
+* 2.2 The Social Context ..... 8
+* 2.3 The Five Pillars of Ethical Al ..... 10
+* 2.3.1 Responsibility ..... 10
+* 2.3.2 Transparency ..... 11
+* 2.3.3 Predictability ..... 11
+* 2.3.4 Auditability ..... 11
+* 2.3.5 Incorruptibility ..... 11
+* 2.4 Macro Al Ethics Obligations ..... 11
+* 3 Digital Transformation Drives AI Adoption ..... 12
+* 3.1 The Motivation for Digital Transformation. ..... 12
+* 3.2 Future Technologies and InsurTech ..... 13
+* Ethical Risk in General: Data, Bias and Do-It-Yourself Risk ..... 14
+* 4
+* 4.1 Defining Ethical Risk with Al ..... 14
+* 4.2 Ethical Considerations for Actuaries Using AI ..... 15
+* 4.2.1 Accelerated Underwriting ..... 15
+* 4.2.2 Access to Third-Party Data beyond Marketing Data ..... 15
+* 4.2.3 Reliance on Spurious Medical Markers from New Sources ..... 15
+* 4.3 Data Risk ..... 16
+* 4.4 Bias ..... 16
+* 4.4.1 "People" questions to ask about Al Bias ..... 17
+* 4.4.2 Data Questions to Ask about Al Bias ..... 18
+* 4.4.3 Management Questions to Ask about Al bias ..... 18
+* 4.5 Ethical Aspects of Automation ..... 18
+* 4.6 Personally Identifiable Information (PII) ..... 18
+* 4.7 Reliance on Repeatable Algorithms without Human Oversight ..... 19
+* 4.8 Amateurish Development ..... 19
+* 4.9 Insurance Circular Letter No. 1 (2019) ..... 20
+* 5 Organizing the Actuarial Department for Al: Skills, Team, Diversity ..... 21
+* 5.1 Skills Needed for Actuarial Development of Al ..... 21
+* 5.1.1 GLM (Generalized Linear Model) ..... 21
+* 5.1.2 Technology around AI ..... 21
+* 5.1 Technology Skills for Actuaries ..... 22
+* 5.2 Graph Analysis. ..... 22
+* 5.2.1 Pricing Analysis ..... 23
+* 5.2.2 Agent Compensation ..... 23
+* 5.3 IT and Al Engineer Team ..... 23
+* 5.4 IT Role in Actuarial Al Team ..... 23
+* 5.5 Ethical Review Board ..... 25
+* 6 Government and Regulatory Initiatives Concerning Ethics in Al ..... 26
+* 7 Conclusion: Suggested Path Forward ..... 27
+* 8 Appendix 1: Advanced Analytics Categories ..... 28
+* 8.1 What Is Predictive Analytics? ..... 28
+* 8.2 What Is Data Science? ..... 28
+* 8.3 Predictive Analytics versus Data Science ..... 28
+* 8.4 What Is Machine Learning? ..... 29
+* 8.5 Some Misconceptions about Machine Learning ..... 29
+* Appendix II: Examples of Review Boards ..... 30
+* 9.1 American Psychological Association ..... 30
+* 9.2 PSI (Population Services international) ..... 30
+* 9.3 National Society of Professional Engineers ..... 31
+* 9.4 Swedbank ..... 31
+* 9.5 Software Developers ..... 31
+* 9.6 Ethics Review Board: Roles Required ..... 31
+* 9.7 Other Codes of Ethics Examples ..... 32
+* 10 Additional Suggestions for Reading ..... 33
+* 10.1 Light Reading. ..... 33
+* 10.2 Ethics Articles by Neil Raden ..... 33
+* 10.3 More In-Depth ..... 33
+* 10.4 Books ..... 34
+* 10.5 Resources for Frameworks for Ethical Analysis ..... 35
+* 11 Endnotes ..... 36
 
 ## 1 Executive Summary
 
@@ -116,8 +112,6 @@ To address the risks associated with an Al system implementation, this paper pro
 - Ensuring that Al systems have Incorruptibility and are protected from manipulation.
 
 These five pillars provide a fundamental oversight framework for developing and implementing an Al system. By considering any implementation from the viewpoint of each one of these pillars, risks associated with $\mathrm{Al}$ implementations can be minimized.
-
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-06.jpg?height=263&width=1634&top_left_y=649&top_left_x=251)
 
 ## 2 Al, the Social Context and the Five Pillars of Ethical AI
 
@@ -625,8 +619,6 @@ Al systems should be as explainable as technically possible:
 - Al operator organizations should consider providing affected Al subjects with a means to request explanations for specific significant decisions to the extent possible given the state of present research and the choice of model
 - In the case that such explanations are available, they should be easily and quickly accessible, free of charge and user-friendly
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-27.jpg?height=257&width=1634&top_left_y=2029&top_left_x=251)
-
 ## 8 Appendix 1: Advanced Analytics Categories
 
 Advanced Analytics, Big Data and Data Science are all on an analytics "spectrum" with "narrow Al." There are fundamental characteristics of each, but from an ethical practical perspective, they all share concerns and best practices. The ethical line between data science and Al is pretty thin. There is no unanimity about these terms; many analysts consider Machine Learning as a subset of data science. For our purposes, we do not because data scientists have more skills at data management and computer science than those who apply aspects of Al and ML to their work, whereas AI practitioners have in-depth domain knowledge relevant to their investigations and somewhat less computer science background. In either case, the results of these models are predictions that can affect the organization, people, the environment, even government policy. All of these outcomes require ethical analysis
@@ -956,8 +948,6 @@ Quality: The SOA aspires to the highest ethical and quality standards in all of 
 Relevance: The SOA provides timely research on public policy issues. Our research advances actuarial knowledge while providing critical insights on key policy issues, and thereby provides value to stakeholders and decision makers.
 
 Quantification: The SOA leverages the diverse skill sets of actuaries to provide research and findings that are driven by the best available data and methods. Actuaries use detailed modeling to analyze financial risk and provide distinct insight and quantification. Further, actuarial standards require transparency and the disclosure of the assumptions and analytic approach underlying the work.
-
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-38.jpg?height=265&width=1637&top_left_y=1979&top_left_x=247)
 
 Society of Actuaries
 

@@ -2,7 +2,7 @@
 
 American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=111&width=155&top_left_y=1891&top_left_x=1603)
+![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=111&width=155&top_left_y=1891&top_left_x=1603 =300x)
 
 (C) 2021 American Academy of Actuaries. All rights reserved.
 

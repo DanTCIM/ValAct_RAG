@@ -5,6 +5,7 @@ from common.config import (
     collection_list,
     collection,
     summary_data,
+    clear_cache,
 )
 
 st.set_page_config(page_title="How-to", page_icon="📖")
@@ -45,6 +46,13 @@ with st.sidebar:
     document_name = st.selectbox(
         "Select your document",
         document_list[collection_name],
+    )
+
+    st.button(
+        label="Clear cache",
+        use_container_width=True,
+        on_click=clear_cache,
+        help="Updates list of documents and summaries",
     )
 
 if document_name != "All":
@@ -105,7 +113,7 @@ st.write(
     "Review the language model's response as well as the retrieved document chunks that the response is based on. Always verify the response against the source material - the language model's output should not replace your own actuarial judgment and interpretation."
 )
 
-st.header("Step 5: Download and Review Documents")
+st.header("Step 5: Review Source Documents")
 st.write(
     "The ultimate goal is for you to review the relevant sections of the source documents related to your question. Use the app's responses and retrievals to narrow down where to focus, but ensure you read and interpret the official documentation yourself."
 )

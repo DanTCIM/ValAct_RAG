@@ -66,6 +66,11 @@ def get_json(file_path):
 summary_data = get_json("summary.json")
 
 
+def clear_cache():
+    get_json.cache_clear()
+    scan_directory.cache_clear()
+
+
 def md_path_creator(path, collection_name, document_name):
     base_name, _ = os.path.splitext(document_name)
     return os.path.join(path, collection_name, f"{base_name}.md")

@@ -1,10 +1,10 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_a7ab89788300673c2b7fg-01.jpg?height=1279&width=1993&top_left_y=0&top_left_x=131)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_a7ab89788300673c2b7fg-01.jpg?height=1279&width=1993&top_left_y=0&top_left_x=131" alt="image" style="width:100%;height:auto;">
 
 Actuarial Review of Investments in Actuarial Modeling-
 
 A Resource \& Discussion Guide
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_a7ab89788300673c2b7fg-01.jpg?height=583&width=634&top_left_y=1584&top_left_x=1315)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_a7ab89788300673c2b7fg-01.jpg?height=583&width=634&top_left_y=1584&top_left_x=1315" alt="image" style="width:100%;height:auto;">
 
 # American Academy of Actuaries Life Experience Committee 
 

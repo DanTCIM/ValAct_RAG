@@ -152,7 +152,7 @@ Section I discusses reinsurance issues in more detail.
 
 A A19. ASC 944-40-25-25B describes the guidance to determine the accounting model for contract feature in insurance and investment contracts that provide potential benefits in addition to accountbalance. The decision tree below may be helpful.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_7c683a37a19fc39b95b1g-13.jpg?height=2413&width=1594&top_left_y=157&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_7c683a37a19fc39b95b1g-13.jpg?height=2413&width=1594&top_left_y=157&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 # Section B: Valuation of MRBs (General) 
 

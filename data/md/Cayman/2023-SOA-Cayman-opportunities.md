@@ -28,7 +28,7 @@ Cayman has seen rapid growth in life and annuity reinsurance business. Figure 1 
 
 Figure 1 - Total Assets of Cayman Life Reinsurers
 
-![](https://www.soa.org/4ae384/globalassets/images/library/newsletters/reinsurance-news/2023/december/rsn-2023-12-sun-fig1.jpg)
+<img src="https://www.soa.org/4ae384/globalassets/images/library/newsletters/reinsurance-news/2023/december/rsn-2023-12-sun-fig1.jpg" alt="image" style="width:100%;height:auto;">
 
 Table 1 - Some Recent Life and Annuity Reinsurance Transactions to Cayman Reinsurers
 

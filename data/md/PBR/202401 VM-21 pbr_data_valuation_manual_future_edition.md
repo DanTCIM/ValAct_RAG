@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_11e6241e770585912814g-01.jpg?height=216&width=415&top_left_y=117&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_11e6241e770585912814g-01.jpg?height=216&width=415&top_left_y=117&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 National Association of Insurance Commissioners
 
@@ -834,7 +834,7 @@ f. For non-qualified hybrid GMIB contracts, scale each of the adjusted $\mathrm{
 
 g. For contracts that offer guaranteed growth in the benefit basis or one-time bonuses to the benefit basis, add the following to the adjusted and scaled $\mathrm{GAPV}^{2}$ values corresponding to the initial withdrawal age that occurs immediately after the termination of the guaranteed growth or the one-time bonus. If there is more than one such initial withdrawal age, the addition shall be made to the initial withdrawal age with the higher GAPV.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_11e6241e770585912814g-35.jpg?height=532&width=1279&top_left_y=1336&top_left_x=542)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_11e6241e770585912814g-35.jpg?height=532&width=1279&top_left_y=1336&top_left_x=542" alt="image" style="width:100%;height:auto;">
 
 h. Scale the adjusted and scaled $\mathrm{GAPV}^{2}$ values at all future initial withdrawal ages-i.e., all ages greater than the initial withdrawal age that occurs immediately after the termination of the guaranteed growth or the one-time bonus with the greatest GAPV, as identified in the preceding step - such that the sum of the revised $\mathrm{GAPV}^{2}$ values equals 0.95 for tax-qualified GMWB contracts, 0.80 for non-qualified GMWB contracts, 0.85 for taxqualified hybrid GMIB contracts, and 0.60 for non-qualified hybrid GMIB contracts.
 

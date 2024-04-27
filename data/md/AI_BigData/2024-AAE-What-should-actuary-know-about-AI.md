@@ -523,7 +523,7 @@ An illustrative application of a PDP within the insurance context involves an ex
 
 To create a PDP it is necessary first to fit a model. This could be a decision tree, random forest, or any other type of model. Once the model is trained, it can be used to make predictions on a grid of values for the feature of interest. For example, if we are looking at the effect of age on the predicted probability of a claim, we could make predictions for a range of ages from 20 to 70 . Next, we plot the predicted severity of a claim on the $y$-axis and the age of the policy holder on the $x$-axis. This will show us how the predicted probability changes with age.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-30.jpg?height=677&width=1542&top_left_y=375&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-30.jpg?height=677&width=1542&top_left_y=375&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 Source: Example performed using public available car dataset - French Use Case
 
@@ -545,7 +545,7 @@ Following the same example done above:
 
 FIGURE 2: ICE PLOT
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-31.jpg?height=777&width=1562&top_left_y=871&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-31.jpg?height=777&width=1562&top_left_y=871&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 The Figure 2 shows the partial dependency and the relationship between policyholder age and the predicted target for each individual observation.
 
@@ -565,7 +565,7 @@ We can use LIME to explain the model's prediction for a specific data instance, 
 
 FIGURE 3: LIME CHART
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-32.jpg?height=791&width=1549&top_left_y=1538&top_left_x=356)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-32.jpg?height=791&width=1549&top_left_y=1538&top_left_x=356" alt="image" style="width:100%;height:auto;">
 
 The Figure 3 displays the regression coefficient (estimate) for the inputs selected in the local surrogate linear regression model for fitting the predicted value of the target Average Claim Amount for each individual observation. The inputs are ordered by significance in the chart (GRP stands for grouped), with the most significant input for the local regression model appearing at the bottom of the chart.
 
@@ -591,7 +591,7 @@ Still following the example considered in the previous paragraphs on the predict
 
 ## FIGURE 4: CHAP VALUE
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-34.jpg?height=1162&width=1654&top_left_y=610&top_left_x=272)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_d4cd0921b5646fd21b8dg-34.jpg?height=1162&width=1654&top_left_y=610&top_left_x=272" alt="image" style="width:100%;height:auto;">
 
 Source: Example performed using public available car dataset - French Use Case
 

@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_1d4b2d0e287b009cd4b6g-01.jpg?height=309&width=339&top_left_y=233&top_left_x=904)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1d4b2d0e287b009cd4b6g-01.jpg?height=309&width=339&top_left_y=233&top_left_x=904" alt="image" style="width:100%;height:auto;">
 
 # ActUARIAL StANDARDS BoARD 
 

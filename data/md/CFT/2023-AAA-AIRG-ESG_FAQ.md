@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_10_32a86db207c052644d1fg-1.jpg?height=323&width=1542&top_left_y=191&top_left_x=232)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_32a86db207c052644d1fg-1.jpg?height=323&width=1542&top_left_y=191&top_left_x=232" alt="image" style="width:100%;height:auto;">
 
 # Academy Interest Rate Generator: Frequently Asked Questions (FAQ) 
 

@@ -4,13 +4,13 @@
 
 A Joint Study Sponsored by the Society of Actuaries and LIMRA
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-001.jpg?height=79&width=365&top_left_y=2389&top_left_x=1563)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-001.jpg?height=79&width=365&top_left_y=2389&top_left_x=1563" alt="image" style="width:100%;height:auto;">
 
 Secure
 
 ## Variable Annuity Guaranteed Living Benefits Utilization
 
- 2015 EXPERIENCE Participants' Report A Joint Study Sponsored by The Society of Actuaries and LIMRA![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-003.jpg?height=266&width=1262&top_left_y=1035&top_left_x=392)
+ 2015 EXPERIENCE Participants' Report A Joint Study Sponsored by The Society of Actuaries and LIMRA<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-003.jpg?height=266&width=1262&top_left_y=1035&top_left_x=392" alt="image" style="width:100%;height:auto;">
 
 ## Project Team:
 
@@ -266,7 +266,7 @@ Figure 1-32: GLWB Overall Utilization Rates by Contract Duration ...............
 
 Figure 1-33: GLWB Overall Utilization Rates by Contract Duration and Source of Funds............ 96
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-008.jpg?height=82&width=1390&top_left_y=2024&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-008.jpg?height=82&width=1390&top_left_y=2024&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Figure 1-35: GLWB Amount of Withdrawals by Owners' Current Age........................................ 100
 
@@ -316,9 +316,9 @@ Figure 1-57: GLWB Cash Value Surrender Rate by Owners Taking Withdrawals in 2015
 
 Figure 1-58: GLWB Cash Value Surrender Rate by Owners Taking Withdrawals Before 2015 ..... 126
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-009.jpg?height=81&width=1387&top_left_y=1090&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-009.jpg?height=81&width=1387&top_left_y=1090&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-009.jpg?height=87&width=1388&top_left_y=1168&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-009.jpg?height=87&width=1388&top_left_y=1168&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 Figure 1-61: GLWB Contract Surrender Rates by Withdrawal Methods ..................................... 129
 
@@ -418,7 +418,7 @@ Figure 3-8: $\quad$ GMIB Benefit Bases to Contract Value Ratios by Age — EOY 2
 
 Figure 3-9: $\quad$ GMIB Average Contract Value, Average Benefit Base for Contracts
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-010.jpg?height=82&width=1385&top_left_y=1905&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-010.jpg?height=82&width=1385&top_left_y=1905&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 $\begin{aligned} \text { Figure 3-11: } & \text { Ratio of GMIB Payout to SPIA Payout, for Life With 10-Year Period-Certain } \\ & \text { Payouts by all Benefit Maturity Years....................................................................... } 209\end{aligned}$
 
@@ -458,9 +458,9 @@ $\begin{aligned} \text { Figure 3-27: } & \text { GMIB Withdrawals as a Percenta
 
 $\begin{aligned} \text { Figure 3-28: } & \text { GMIB Withdrawals to Benefit Maximum Amount by Withdrawal Method } \\ & \text { and Age............................................................................................................................ } 235\end{aligned}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-011.jpg?height=74&width=1385&top_left_y=749&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-011.jpg?height=74&width=1385&top_left_y=749&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-011.jpg?height=81&width=1387&top_left_y=827&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-011.jpg?height=81&width=1387&top_left_y=827&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Figure 3-31: GMIB Overall Utilization Rates of Withdrawal by Contract Duration...................... 238
 
@@ -615,7 +615,7 @@ Table 1-14: GLWB First SWP Withdrawals (and Continued Thereafter) for 2007 IRA B
 
 Table 1-15: GLWB First Withdrawals (and Continued Thereafter) for 2007 Nonqualified
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-013.jpg?height=43&width=1192&top_left_y=976&top_left_x=434)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-013.jpg?height=43&width=1192&top_left_y=976&top_left_x=434" alt="image" style="width:100%;height:auto;">
 
 Table 1-16: Percentage of GLWB Owners Taking Withdrawals as Percent of Benefit Maximum... 91
 
@@ -721,7 +721,7 @@ Table B2-3: $\quad$ GMWB Contract Surrender Rates by Owners Taking Withdrawals B
 
 Table B2-4: GMWB Cash Value Surrender Rates by Owners Taking Withdrawals Before 2015 and by Presence of Surrender Charge. ..... 319
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-014.jpg?height=95&width=1390&top_left_y=1733&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-014.jpg?height=95&width=1390&top_left_y=1733&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Table B2-6: GMWB Cash Value Surrender Rates by Owners Taking Withdrawals in Relation to Annual Benefit Maximum Allowed and by Presence of Surrender Charge .......... 321
 
@@ -1086,7 +1086,7 @@ In 2015, the average age of GLWB buyers was 63 years (Table 1-1). Since 2011, th
 
 ## Figure 1-1: GLWB Buyers by Age at Time of Purchase, $2011-2015$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-037.jpg?height=577&width=1424&top_left_y=492&top_left_x=253)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-037.jpg?height=577&width=1424&top_left_y=492&top_left_x=253" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,524,669 contracts issued between 2011 and 2015, and still in force at EOY 2015.
 
@@ -1095,7 +1095,7 @@ GLWBs are popular with pre-retirees for a couple of reasons. First, pre-retirees
 Since 2009, the percentage of buyers aged 60 and older has been increasing (Figure 1-2). One reason for this is companies focusing their marketing efforts toward individuals nearing retirement. Some companies have also changed their products to carefully manage risk, and this includes increasing their minimum purchase ages and reducing withdrawal percentages for younger consumers.
 
 Figure 1-2: Percentage of GLWB Buyers Over and Under Age 60 at Time of Purchase
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-038.jpg?height=662&width=1298&top_left_y=824&top_left_x=500)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-038.jpg?height=662&width=1298&top_left_y=824&top_left_x=500" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,778,402 contracts issued and still in force at EOY 2015.
 
@@ -1118,7 +1118,7 @@ Each year, customer behavior adds another layer of uncertainty that may change t
 
 New GLWB buyers in 2015 followed a similar age profile as in years past. GLWB riders have appealed primarily to Baby Boomers (ages 51-69) preparing for retirement, and this group accounted for over three fourths of GLWB sales in 2015 (Figure 1-3). Two distinct peaks are seen at age 61 and age 64, showing GLWB buying decisions are triggered as consumers near important life-stage retirement inflection points.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-040.jpg?height=734&width=1457&top_left_y=793&top_left_x=429)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-040.jpg?height=734&width=1457&top_left_y=793&top_left_x=429" alt="image" style="width:100%;height:auto;">
 
 ## $77 \%$ of GLWB buyers in 2015 were Baby Boomers.
 
@@ -1130,7 +1130,7 @@ In 2015, 68 percent of contracts were funded from qualified sources of money, a 
 
 ## Figure 1-4: GLWB Contracts by Source of Funds
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-041.jpg?height=415&width=437&top_left_y=866&top_left_x=470)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-041.jpg?height=415&width=437&top_left_y=866&top_left_x=470" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,783,951 GLWB contracts still in force at EOY 2015.
 More rollover dollars are significant to insurance companies for two reasons. First, LIMRA studies show that rollover dollars are a significant source of VA funding. ${ }^{5}$ As Boomers start to retire or plan for retirement income, their use of qualified savings will play an increasingly important role.
@@ -1193,7 +1193,7 @@ Individuals under age 70 who use qualified savings to make their purchase emerge
 
 ## Figure 1-5: GLWB Ownership by Sources of Funds and Age Groups
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-044.jpg?height=581&width=743&top_left_y=978&top_left_x=775)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-044.jpg?height=581&width=743&top_left_y=978&top_left_x=775" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,778,386 GLWB contracts still in force at EOY 2015
 
@@ -1286,7 +1286,7 @@ Calendar year 2015 started with equity markets experiencing volatility as weakne
 
 ## Figure 1-6: S\&P 500 Index, January - December 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-048.jpg?height=653&width=1331&top_left_y=1148&top_left_x=489)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-048.jpg?height=653&width=1331&top_left_y=1148&top_left_x=489" alt="image" style="width:100%;height:auto;">
 
 Note: Yahoo Finance
 
@@ -1330,7 +1330,7 @@ For example, the contracts issued in 2004 experienced robust market gains in 200
 
 ## Figure 1-7: GLWB Median Contract Value vs. Benefit Base, BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-051.jpg?height=670&width=1420&top_left_y=1058&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-051.jpg?height=670&width=1420&top_left_y=1058&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,510,039 GLWB contracts issued between 2004 and 2014. Excludes contracts for which the GLWB benefit bases could not be determined.
 
@@ -1338,7 +1338,7 @@ Looking at the quartile ranges of the benefit base to contract value ( $\mathrm{
 
 Figure 1-8: GLWB Benefit Base to Contract Value, BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-052.jpg?height=678&width=1397&top_left_y=664&top_left_x=451)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-052.jpg?height=678&width=1397&top_left_y=664&top_left_x=451" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,510,039 GLWB contracts issued between 2004 and 2014. Excludes contracts for which the GLWB benefit bases could not be determined.
 
@@ -1350,7 +1350,7 @@ Due to the relatively flat equity markets and negative investment returns after 
 
 ## Figure 1-9: GLWB Median Contract Value vs. Benefit Base, EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-053.jpg?height=681&width=1436&top_left_y=814&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-053.jpg?height=681&width=1436&top_left_y=814&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,521,012 GLWB contracts issued in 2004 through 2014 and still in force at EOY 2015. Excludes contracts for which the GLWB benefit bases could not be determined.
 
@@ -1360,7 +1360,7 @@ The inter-quartile analysis at EOY 2015 shows an increase in BB/CV ratios compar
 
 ## Figure 1-10: GLWB Benefit Base to Contract Value, EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-054.jpg?height=678&width=1379&top_left_y=710&top_left_x=468)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-054.jpg?height=678&width=1379&top_left_y=710&top_left_x=468" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,521,012 GLWB contracts issued between 2004 and 2014. Excludes contracts for which the GLWB benefit bases could not be determined.
 
@@ -1368,7 +1368,7 @@ Comparing average contract values and benefit base amounts at BOY, on the annive
 
 Figure 1-11: GLWB Average Contract Values and Benefit Bases at BOY, on Anniversary Date, and at EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-055.jpg?height=415&width=788&top_left_y=535&top_left_x=560)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-055.jpg?height=415&width=788&top_left_y=535&top_left_x=560" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,211,320 GLWB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GLWB benefit bases (as of BOY, the contract's anniversary date, or EOY) could not be determined.
 
@@ -1382,7 +1382,7 @@ The analysis of $\mathrm{BB} / \mathrm{CV}$ ratios can be expanded to include ag
 
 ## Figure 1-12: GLWB Benefit Base to Contract Value Ratios by Age - at BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-056.jpg?height=583&width=1440&top_left_y=744&top_left_x=429)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-056.jpg?height=583&width=1440&top_left_y=744&top_left_x=429" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,516,846 GLWB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GLWB benefit bases or contract values could not be determined.
 
@@ -1396,11 +1396,11 @@ However, owners aged 70 or older had comparatively more contracts with BB/CV rat
 
 Figure 1-13 shows the distribution of BB/CV ratios by age at EOY 2015. The contracts with $\mathrm{BB} / \mathrm{CV}$ ratios (less than 100 percent) have decreased from 26 percent at BOY to only 2 percent by EOY.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-057.jpg?height=819&width=1461&top_left_y=1095&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-057.jpg?height=819&width=1461&top_left_y=1095&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 At the end of 2015, only 30 percent of the contracts had a BB/ CV ratio under 110 percent. This was a significant shift from the over three quarters of contracts the have a $\mathrm{BB} / \mathrm{CV}$ ratio under 110 percent at the BOY, driven by the lack of investment performance and fee-loads reducing cash values.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-057.jpg?height=227&width=515&top_left_y=1986&top_left_x=1312)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-057.jpg?height=227&width=515&top_left_y=1986&top_left_x=1312" alt="image" style="width:100%;height:auto;">
 
 ## Benefit Base for Contracts with Withdrawals versus without Withdrawals
 
@@ -1410,7 +1410,7 @@ For in-force contracts issued before 2015 that did not have withdrawals in 2015,
 
 ## Figure 1-14: GLWB Average Contract Values and Benefit Bases for Contracts Without Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-058.jpg?height=436&width=791&top_left_y=1522&top_left_x=751)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-058.jpg?height=436&width=791&top_left_y=1522&top_left_x=751" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,556,992 GLWB contracts issued before 2015 and still in force at EOY 2015 where there were no withdrawals made or current-year premium received. Excludes contracts for which the GLWB benefit bases or contract values could not be determined.
 
@@ -1454,7 +1454,7 @@ For VA contracts with GLWBs issued before 2015 and still in force at EOY 2015, o
 
 ## Figure 1-16: GLWB Overall Utilization of Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-061.jpg?height=429&width=965&top_left_y=1016&top_left_x=488)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-061.jpg?height=429&width=965&top_left_y=1016&top_left_x=488" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,555,746 GLWB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -1482,7 +1482,7 @@ Based on a constant group of 13 companies that participated in LIMRA's VAGLB Uti
 
 ## Figure 1-17: Overall GLWB Utilization Rates
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-062.jpg?height=482&width=1131&top_left_y=1510&top_left_x=581)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-062.jpg?height=482&width=1131&top_left_y=1510&top_left_x=581" alt="image" style="width:100%;height:auto;">
 
 Based on a constant group of 13 companies that participated in LIMRA's VA GLB Utilization Study from 2009 to 2015 .
 
@@ -1507,7 +1507,7 @@ Examining withdrawal activity by source of funds and customer age shows that the
 
 ## Figure 1-18: GLWB Utilization by Source of Funds and Age of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-064.jpg?height=783&width=1290&top_left_y=950&top_left_x=510)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-064.jpg?height=783&width=1290&top_left_y=950&top_left_x=510" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,551,551 GLWB contracts issued before 2015 and still in force at EOY 2015
 
@@ -1521,7 +1521,7 @@ While 71 percent of contracts issued before 2015 that are owned by individuals u
 
 ## Figure 1-19: GLWB Utilization by IRA Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-065.jpg?height=626&width=1160&top_left_y=1487&top_left_x=388)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-065.jpg?height=626&width=1160&top_left_y=1487&top_left_x=388" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,650,975 GLWB contracts, funded by IRA money, issued before 2015 and still in force at EOY 2015 .
 
@@ -1539,7 +1539,7 @@ In comparison, 40 percent of nonqualified annuity owners were aged 70 or above. 
 
 Figure 1-20: GLWB Utilization by Owners With Nonqualified Funds
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-067.jpg?height=561&width=1195&top_left_y=451&top_left_x=362)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-067.jpg?height=561&width=1195&top_left_y=451&top_left_x=362" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 834,650 GLWB contracts, funded by nonqualified savings, issued before 2015 and still in force at EOY 2015.
 
@@ -1558,7 +1558,7 @@ There is a distinct pattern of withdrawal behavior from IRA-funded GLWB annuitie
 
 Figure 1-21: GLWB First Withdrawals in 2015 (IRA Contracts Only)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-069.jpg?height=1560&width=1478&top_left_y=366&top_left_x=220)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-069.jpg?height=1560&width=1478&top_left_y=366&top_left_x=220" alt="image" style="width:100%;height:auto;">
 
 Issue Year 2013
 
@@ -1593,7 +1593,7 @@ A few highlights from Table 1-6 include:
 
 The percent of nonqualified annuity owners taking their first withdrawals in 2015 reflects a more streamlined withdrawal behavior. Figure 1-22 shows the percent of nonqualified owners taking withdrawals in 2015 by individual issue years from the prior four years.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-071.jpg?height=1593&width=1458&top_left_y=678&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-071.jpg?height=1593&width=1458&top_left_y=678&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Because there is no need to take RMDs, the percent of nonqualified owners taking first withdrawals increases in a slow, linear way based on age. Only a small percent of owners aged 70 or under took their first withdrawals in 2015. The percent of owners taking withdrawals rises slightly with each increment in age; however, it remains roughly within a range of 1 to 9 percent, similar to the behavior we saw with IRA owners under age 70.
 
@@ -1601,7 +1601,7 @@ More GLWB contracts offer age-banded withdrawal rates that increase based on the
 
 ## Figure 1-23: Percentage of Nonqualified Owners Taking First Withdrawal in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-072.jpg?height=605&width=1374&top_left_y=1275&top_left_x=473)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-072.jpg?height=605&width=1374&top_left_y=1275&top_left_x=473" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 817,034 nonqualified GLWB contracts issued from 2006 to 2014 and remaining in force at EOY 2015.
 
@@ -1633,7 +1633,7 @@ Annual withdrawal \% increases in 2015
 
 Annual withdrawal \% will increase in 2016
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-074.jpg?height=314&width=789&top_left_y=1014&top_left_x=755)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-074.jpg?height=314&width=789&top_left_y=1014&top_left_x=755" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 122,328 nonqualified and 158,843 IRA-GLWB contracts issued before 2015 , still in force at year-end 2015 and with no withdrawal activity before 2015. The IRA owners were between age 60 and 69 to exclude the influence of RMD rules.
 
@@ -1643,7 +1643,7 @@ For both qualified and non-qualified owners, the percentage of owners initiating
 
 In order to get a clear and consistent picture of when owners first start to take withdrawals, and how many start to take their first withdrawals in the following years, we followed 2007 VA GLWB buyers and tracked their withdrawal behavior. Table 1-8 shows the withdrawal behavior of 2007 IRA buyers aged 57 to 75 from 2007 to 2015 (nine years of withdrawal history), and what percent of those buyers began taking their first withdrawals from 2007 to 2015.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-075.jpg?height=1932&width=1551&top_left_y=362&top_left_x=230)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-075.jpg?height=1932&width=1551&top_left_y=362&top_left_x=230" alt="image" style="width:100%;height:auto;">
 
 Table 1-8 shows an analysis of nine years of first withdrawal history of 2007 owners, and reveals some important insights:
 
@@ -1663,7 +1663,7 @@ The last row of Table 1-8 provides the percent of owners taking withdrawals in a
 
 We see a similar first-year withdrawal pattern for nonqualified annuity owners, aged 57 to 69 (Table 1-9). However we do not see a spike in withdrawals for ages 70 or 71.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-078.jpg?height=1924&width=1537&top_left_y=626&top_left_x=354)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-078.jpg?height=1924&width=1537&top_left_y=626&top_left_x=354" alt="image" style="width:100%;height:auto;">
 
 Overall, similar to IRA annuities, nearly 10 percent of owners initiate withdrawals from their nonqualified annuities in their first year of ownership.
 
@@ -1674,9 +1674,9 @@ After the first year, approximately 2 to 9 percent of owners aged 60 and older t
 
 Tables 1-10 and 1-11 show the history of first withdrawals of 2008 buyers over the last eight years. These tables confirm the conclusions we reached with 2007 buyers, and illustrate that source of funds and age are the two most important drivers of GLWB owner withdrawal behavior.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-080.jpg?height=1889&width=1548&top_left_y=565&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-080.jpg?height=1889&width=1548&top_left_y=565&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-081.jpg?height=1894&width=1551&top_left_y=365&top_left_x=230)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-081.jpg?height=1894&width=1551&top_left_y=365&top_left_x=230" alt="image" style="width:100%;height:auto;">
 
 ## Systematic Withdrawal Activity
 
@@ -1686,7 +1686,7 @@ Overall, 79 percent of owners took withdrawals using an SWP (Figure 1-25). ${ }^
 
 ## Figure 1-25: GLWB Withdrawals With SWPs
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-082.jpg?height=783&width=1317&top_left_y=1278&top_left_x=491)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-082.jpg?height=783&width=1317&top_left_y=1278&top_left_x=491" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 651,597 GLWB contracts that were issued before 2015, still in force at EOY 2015, and had withdrawals in 2015.
 
@@ -1758,7 +1758,7 @@ We have constructed a step-chart based on historical SWP withdrawal behaviors in
 | Age 82 |  | First $\mathrm{U}$ | Withdra | awals it | in 9th | Year - | -2015 |  |  |  |  |  |  |  |  |  |  | $2 \%$ | $3 \%$ | $4 \%$ |
 | Age 83 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | $2 \%$ | $4 \%$ |
 | Cumulative | $26 \%$ | $32 \%$ | $35 \%$ | $39 \%$ | $40 \%$ | $53 \%$ | $62 \%$ | $64 \%$ | $65 \%$ | $64 \%$ | $63 \%$ | $63 \%$ | $63 \%$ | $61 \%$ | $58 \%$ | $58 \%$ | $60 \%$ | $59 \%$ | $60 \%$ | $39 \%$ |
-| Note: Ba <br> ${ }^{*}$ All age | en | c | . | पic | c. | 103 | 325 |  | ![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-085.jpg?height=91&width=57&top_left_y=1947&top_left_x=911) | 13 | Je | 1 | 18 | $d s$ | $\mathrm{r}$ | $\mathrm{rc}$ |  |  |  |  |
+| Note: Ba <br> ${ }^{*}$ All age | en | c | . | पic | c. | 103 | 325 |  | <img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-085.jpg?height=91&width=57&top_left_y=1947&top_left_x=911" alt="image" style="width:100%;height:auto;"> | 13 | Je | 1 | 18 | $d s$ | $\mathrm{r}$ | $\mathrm{rc}$ |  |  |  |  |
 
 The above table expands on the overall withdrawal activity illustrated in Table 1-8. Some issues worth noting:
 
@@ -1771,7 +1771,7 @@ The above table expands on the overall withdrawal activity illustrated in Table 
 
 For nonqualified annuity owners aged 57 to 69 , a similar first-year withdrawal pattern exists for SWPs (Table 1-15). However, there is no spike in withdrawals for ages 70 or 71.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-087.jpg?height=1735&width=1548&top_left_y=363&top_left_x=229)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-087.jpg?height=1735&width=1548&top_left_y=363&top_left_x=229" alt="image" style="width:100%;height:auto;">
 
 The percent of nonqualified owners taking first withdrawals through SWPS are not influenced at age 70 or 71 by RMD-related issues. The percent of owners taking withdrawals in the very first year of ownership is higher than in subsequent years for owners aged 65 or above and 2009 was not an anomaly for nonqualified owners.
 
@@ -1794,7 +1794,7 @@ Figure 1-26 shows the degree to which withdrawals were higher or lower than maxi
 
 ## Figure 1-26: GLWB Actual Withdrawals as a Percentage of Benefit Maximum
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-089.jpg?height=626&width=791&top_left_y=652&top_left_x=556)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-089.jpg?height=626&width=791&top_left_y=652&top_left_x=556" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 670,675 GLWB contracts issued before 2015 and remaining in force at EOY 2015 with withdrawals in 2015.
 
@@ -1802,7 +1802,7 @@ Overall, 81 percent of owners who took withdrawals in 2015 withdrew income that 
 
 When we look at the age of owners and their withdrawal amount in relation to maximum amounts allowed, we see that younger owners are more likely to take 150 percent or more of the maximum amount allowed (top two bars of Figure 1-27).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-090.jpg?height=881&width=1455&top_left_y=573&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-090.jpg?height=881&width=1455&top_left_y=573&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 There are some salient insights from the above chart:
 
@@ -1836,7 +1836,7 @@ The method used for withdrawal — systematic or occasional — is a strong indi
 
 ## Figure 1-28: GLWB Withdrawals to Annual Benefit Maximum Amount by Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-092.jpg?height=556&width=1114&top_left_y=736&top_left_x=603)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-092.jpg?height=556&width=1114&top_left_y=736&top_left_x=603" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 645,297 GLWB contracts issued before 2015, still in force at EOY 2015, with withdrawals in 2015 .
 
@@ -1855,17 +1855,17 @@ As noted earlier, the relationship between efficiency and contract size is limit
 
 Owners of VAs with higher contract values especially younger owners - are less likely than those with lower contract values to significantly exceed the benefit maximum. taking amounts well above the benefit maximum. In short, owners of VAs with higher contract values, especially younger owners, are less likely than those with lower contract values to significantly exceed the benefit maximum.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-093.jpg?height=927&width=1439&top_left_y=1512&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-093.jpg?height=927&width=1439&top_left_y=1512&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 Figure 1-30: GLWB Withdrawals to Benefit Maximum Amount by Age, Contract Sizes $\$ 100,000$ to $\$ 249,999$
 
 ## Percent of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-094.jpg?height=542&width=1290&top_left_y=610&top_left_x=512)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-094.jpg?height=542&width=1290&top_left_y=610&top_left_x=512" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 238,683 GLWB contracts issued before 2015, still in force at EOY 2015 with withdrawals in 2015 .
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-094.jpg?height=937&width=1453&top_left_y=1361&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-094.jpg?height=937&width=1453&top_left_y=1361&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 ## Withdrawal Activity by Duration
 
@@ -1873,7 +1873,7 @@ Contract duration (i.e., the number of years since contract purchase) is an impo
 
 Owners who bought their GLWB annuity in Q4 2015 had only three months, maximum, to set up withdrawals and receive payments, thus only a small portion of these owners took withdrawals from their annuities (Figure 1-32). As the contract duration increases, withdrawal activity increases. The overall utilization rate on a full-year basis exceeded 25 percent for contracts that are older than five years (Table 1-17).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-095.jpg?height=1009&width=1456&top_left_y=1344&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-095.jpg?height=1009&width=1456&top_left_y=1344&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 Table 1-17: GLWB Overall Percentage of Contracts Taking Withdrawals by Year of Issue
 
@@ -1897,7 +1897,7 @@ How do the overall utilization rates by contract duration periods differ between
 
 ## Figure 1-33: GLWB Overall Utilization Rates by Contract Duration and Source of Funds
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-096.jpg?height=759&width=1380&top_left_y=1686&top_left_x=470)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-096.jpg?height=759&width=1380&top_left_y=1686&top_left_x=470" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,542,078 GLWB contracts issued from 2004 to 2015 and still in force at EOY 2015.
 
@@ -1940,7 +1940,7 @@ When we examined contracts that offer both a deferral bonus and no increase to t
 
 ## Figure 1-34: GLWB Withdrawal Activity in Contracts With/Without
 
- Non-Withdrawal Incentives![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-099.jpg?height=602&width=656&top_left_y=1577&top_left_x=672)
+ Non-Withdrawal Incentives<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-099.jpg?height=602&width=656&top_left_y=1577&top_left_x=672" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,557,886 GLWB contracts issued by 11 insurance companies which offer both types bonus for non-withdrawals or no bonus. All contracts were issued before 2015 and still in force at EOY 2015.
 
@@ -1956,7 +1956,7 @@ Owners aged 60 and under took median withdrawals ranging from $\$ 9,200$ to $\$ 
 
 ## Figure 1-35: GLWB Amount of Withdrawals by Owners' Current Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-100.jpg?height=816&width=1439&top_left_y=1454&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-100.jpg?height=816&width=1439&top_left_y=1454&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 655,977 GLWB contracts issued before 2015, still in force at EOY 2015 that had partial withdrawals in 2014.
 
@@ -1970,7 +1970,7 @@ in $2015=\$ 6,000$. volume of withdrawals rises considerably. Average withdrawal
 
 In order to provide some context, we assessed the withdrawal amount in relation to both contract value and the benefit base. Figure 1-36 shows the median withdrawal amount for all ages and also the quartile distribution of the withdrawal amounts in 2015.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-101.jpg?height=1154&width=1458&top_left_y=1231&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-101.jpg?height=1154&width=1458&top_left_y=1231&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 The distribution of the withdrawals as a percent of average contract value withdrawn shows that, for owners aged 65 or over, the median, the upper quartile, and the lower quartile values are almost identical. The pattern also indicates that the majority of older owners taking withdrawals do so at similar ratios from their contract values. Also there is a wide difference between the median and the upper quartile values, indicating that the majority of these owners are taking more than the maximum allowed in the contracts. Only a small number of owners under age 60 - mostly below the lower quartile line - are withdrawing a sustainable rate without impairing the benefit base. The median of the contract value ratios begins to increase for owners over age 75 due to age banded benefits.
 
@@ -1978,7 +1978,7 @@ The distribution of withdrawal amount to the average benefit base ratio supports
 
 ## Figure 1-37: GLWB Withdrawals to Average Benefit Base Ratio (For Contracts With Withdrawals Only)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-102.jpg?height=818&width=1374&top_left_y=1564&top_left_x=470)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-102.jpg?height=818&width=1374&top_left_y=1564&top_left_x=470" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 684,132 GLWB contracts issued before 2015, still in force at EOY 2015 that had partial withdrawals in 2015 . Percent of average benefit base (BB) withdrawn is calculated for every contract: as partial withdrawals divided by (BOY BB + EOY BB)/2.
 
@@ -1990,7 +1990,7 @@ For all contracts in force in 2015, the ratio of total withdrawals to BOY contra
 
 ## Figure 1-38: GLWB Total Withdrawals to Total Contract Value (All Contracts)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-103.jpg?height=789&width=1263&top_left_y=1584&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-103.jpg?height=789&width=1263&top_left_y=1584&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,551,567 GLWB contracts issued before 2015 and in force at EOY 2015.
 
@@ -1998,7 +1998,7 @@ Insurance companies can also examine the risks associated with the subset of con
 
 ## Figure 1-39: GLWB Total Withdrawals to Total Contract Value (For Contracts With Withdrawals Only)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-104.jpg?height=794&width=1275&top_left_y=855&top_left_x=512)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-104.jpg?height=794&width=1275&top_left_y=855&top_left_x=512" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 678,597 GLWB contracts issued before 2015, in force at EOY 2015, with partial withdrawals in 2015 .
 
@@ -2011,7 +2011,7 @@ Overall, a quarter of IRA owners take withdrawals from joint-lives contracts, sl
 
 ## Figure 1-40: GLWB Withdrawal Rates for Single- and Joint-Lives IRA Contracts
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-105.jpg?height=648&width=1027&top_left_y=500&top_left_x=446)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-105.jpg?height=648&width=1027&top_left_y=500&top_left_x=446" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,617,223 GLWB qualified contracts issued in or before 2015 and still in force at EOY 2015. Percentages refer to the number of contracts in each category that had partial withdrawals during 2015.
 
@@ -2021,7 +2021,7 @@ For all age groups, the percent of owners of nonqualified GLWBs taking withdrawa
 
 Percentage of Contracts With Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-105.jpg?height=490&width=1019&top_left_y=1739&top_left_x=453)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-105.jpg?height=490&width=1019&top_left_y=1739&top_left_x=453" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 782,236 GLWB nonqualified contracts issued in or before 2015 and still in force at EOY 2015. Percentages refer to the number of contracts in each category that had partial withdrawals during 2015.
 
@@ -2031,7 +2031,7 @@ Note: Based on 782,236 GLWB nonqualified contracts issued in or before 2015 and 
 
 If we look at distribution channels, we find that more bank GLWB owners took withdrawals in 2015 than in any other channel (Figure 1-42). Overall, 31 percent of bank channel owners took withdrawals, four percentage points higher than the independent B-D channel. Twenty-four percent of owners in full-service national B-D channel and 23 percent in the career agent channel took withdrawals.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-106.jpg?height=997&width=1475&top_left_y=908&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-106.jpg?height=997&width=1475&top_left_y=908&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 Withdrawal behavior by individual age and distribution channel shows the same pattern that we have already seen - the percent of owners taking withdrawals remains modest up to age 69; increasing at age 70 and over due to RMDs. Differences in withdrawal activity across channel can be partly explained by the different mix of qualified and non-qualified business - 19 percent of bank channel business were IRA contracts owned by individuals aged 70 or older (and therefore are likely to be taking RMDs) while 17 percent of contracts in the other distribution channels were IRA contracts owned by individuals age 70 or older.
 
@@ -2070,7 +2070,7 @@ The percent of owners aged 65 or older who took withdrawals in 2015 was higher a
 
 ## Figure 1-43: GLWB Withdrawal Rates for Contracts In-the-Money vs. Not In-the-Money
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-109.jpg?height=661&width=1200&top_left_y=1163&top_left_x=365)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-109.jpg?height=661&width=1200&top_left_y=1163&top_left_x=365" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,519,413 GLWB contracts issued before 2015 and still in force at the end of 2015. Percentages refer to the number of contracts in each category that had partial withdrawals during 2015. In-the-money = benefit base was greater than contract value at the beginning of the year.
 
@@ -2083,7 +2083,7 @@ Although looking at contracts being in-the-money by their magnitude and age, in 
 
 Percentage of Contracts With Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-110.jpg?height=643&width=987&top_left_y=1424&top_left_x=683)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-110.jpg?height=643&width=987&top_left_y=1424&top_left_x=683" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,519,413 GLWB contracts issued before 2015 and still in force at the end of 2015. Percentages refer to the number of contracts in each category that had partial withdrawals during 2015. In-the-money = benefit base divided by contract value at the beginning-of-year.
 
@@ -2167,7 +2167,7 @@ Figure 1-45 presents an actuarial present value (APV) analysis of benefit-maximu
 
 ## Figure 1-45: GLWB Average Actuarial Present Value (APV) vs. Average Contract Value by Age at EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-114.jpg?height=843&width=1315&top_left_y=858&top_left_x=492)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-114.jpg?height=843&width=1315&top_left_y=858&top_left_x=492" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,464,757 GLWB contracts issued in 2015 or earlier and still in force at the end of 2015.
 
@@ -2184,7 +2184,7 @@ In aggregate, the APVs were close to contract values among contracts owned by in
 
 Figure 1-46 shows that not all of the GLWB contract values exceed their APV. Ten percent of all GLWB contracts had APVs above their contract values.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-115.jpg?height=775&width=1458&top_left_y=1534&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-115.jpg?height=775&width=1458&top_left_y=1534&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 $\overline{13} 2015$ Prescribed U.S. Statutory and Tax Interest Rates for the Valuation of Life Insurance and Annuity Products, Tower Watson, August 2016. The rate is for annuities issued in 2015, without cash settlements, issue year valuations, with or without interest guarantees on considerations, received more than one year after issue with guarantee duration of more than 10 years but not more than 20 years.
 
@@ -2202,7 +2202,7 @@ Many retail VAs allow owners to add premium after issue, though in practice most
 
 ## Figure 1-47: GLWB Percentage of Contracts Receiving Additional Premium
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-116.jpg?height=474&width=1160&top_left_y=1557&top_left_x=561)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-116.jpg?height=474&width=1160&top_left_y=1557&top_left_x=561" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,555,746 contracts issued before 2015 and still in force at EOY 2015.
 
@@ -2212,14 +2212,14 @@ One in 12 contracts that had BOY contract values under $\$ 5,000$ received addit
 
 ## Figure 1-48: GLWB Percentage of Contracts Receiving Additional Premium by Size of Contract
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-117.jpg?height=491&width=1116&top_left_y=974&top_left_x=407)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-117.jpg?height=491&width=1116&top_left_y=974&top_left_x=407" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,555,746 contracts issued before 2015 and still in force at EOY 2015.
 
 Owners rarely add premium after the second year of owning a GLWB contract.
 Owners rarely add premium after the second year of owning a GLWB contract (Figure 1-49). Based on a constant group of contracts issued in 2007, 14.6 percent added premium in one of the calendar years after issue, and only 6.4 percent added premium two or more years after the year of issue. In addition, younger owners are more likely to put additional premiums into their contracts. In the first year, owners under age 60 were more than two times as likely to put additional money into their contracts as owners aged 70 or older. In the second and future years, owners under age 60 were only slightly more likely to contribute additional premiums than older owners. We found a very similar pattern for a constant group of contracts issued in 2008 and 2009.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-118.jpg?height=721&width=1461&top_left_y=970&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-118.jpg?height=721&width=1461&top_left_y=970&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 144,194 constant group of contracts in 2007 and still in force at EOY 2015.
 
@@ -2268,7 +2268,7 @@ $\square-$ Weighted by BOY Contract Value
 
 Expiration of
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-120.jpg?height=627&width=1344&top_left_y=1172&top_left_x=488)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-120.jpg?height=627&width=1344&top_left_y=1172&top_left_x=488" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,775,095 GLWB contracts issued in 2015 or earlier.
 
@@ -2282,11 +2282,11 @@ Looking at the surrender rates by the presence of surrender charges shows that p
 
 ## Figure 1-51: GLWB Contract Surrender Rates in 2015 by Share Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-121.jpg?height=601&width=1431&top_left_y=1304&top_left_x=247)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-121.jpg?height=601&width=1431&top_left_y=1304&top_left_x=247" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,281,925 B-share and L-share GLWB contracts issued before 2015.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-122.jpg?height=786&width=1458&top_left_y=366&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-122.jpg?height=786&width=1458&top_left_y=366&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 - With B- and L-share combined, 71 percent of GLWB contracts were under surrender penalty.
 - The overall contract surrender rate for B-share and L-share contracts that did not have surrender charges or came out of the surrender charge period was 7.1 percent compared with 2.0 percent for contracts that had surrender charges.
@@ -2295,13 +2295,13 @@ The surrender rates of GLWB contracts are also influenced by the surrender charg
 
 ## Figure 1-53: GLWB Contract Surrender Rate by Surrender Charge Percentage
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-123.jpg?height=586&width=1246&top_left_y=493&top_left_x=342)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-123.jpg?height=586&width=1246&top_left_y=493&top_left_x=342" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,489,721 GLWB contracts issued before 2015. This analysis excludes C-share and other types of contracts that did not have any surrender charge schedule.
 
 ## Figure 1-54: GLWB Cash Value Surrender Rate by Surrender Charge Percentage
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-123.jpg?height=583&width=1182&top_left_y=1411&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-123.jpg?height=583&width=1182&top_left_y=1411&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,489,721 GLWB contracts issued before 2015. This analysis excludes C-share and other types of contracts that did not have any surrender charge schedule.
 
@@ -2311,7 +2311,7 @@ Younger owners have higher surrender rates, particularly those under age 60 who 
 
 ## Figure 1-55: GLWB Contract Surrender Rate by Owners Taking Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-124.jpg?height=748&width=1326&top_left_y=1044&top_left_x=432)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-124.jpg?height=748&width=1326&top_left_y=1044&top_left_x=432" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-1 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 2,655,247 GLWB contracts issued before 2015.
 
@@ -2326,7 +2326,7 @@ Figure 1-56 shows the surrender rate for owners who took withdrawals before 2015
 
 ## Figure 1-56: GLWB Contract Surrender Rate by Owners Taking Withdrawals Before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-125.jpg?height=702&width=1182&top_left_y=760&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-125.jpg?height=702&width=1182&top_left_y=760&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-3 for a breakdown of the data in this figure by presence of surrender charges. Note: Based on 2,613,912 GLWB contracts issued before 2015.
 
@@ -2338,7 +2338,7 @@ We also looked at the cash value surrender rates of contracts with withdrawals i
 
 ## Figure 1-57: GLWB Cash Value Surrender Rate by Owners Taking Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-126.jpg?height=716&width=1347&top_left_y=740&top_left_x=411)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-126.jpg?height=716&width=1347&top_left_y=740&top_left_x=411" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-2 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 2,655,247 GLWB contracts issued before 2015.
 
@@ -2349,7 +2349,7 @@ Percent of Cash Value Fully Surrendered
 -     - Took Withdrawals before 2015
 -     - Did Not Take Withdrawals before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-126.jpg?height=515&width=1174&top_left_y=1895&top_left_x=562)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-126.jpg?height=515&width=1174&top_left_y=1895&top_left_x=562" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-4 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 2,613,912 GLWB contracts issued before 2015.
 
@@ -2357,7 +2357,7 @@ See Appendix Table B 1-4 for a breakdown of the data in this Figure by presence 
 
 Figure 1-59 shows the contract surrender rates for owners who took withdrawals in 2015, based on the percentage of annual benefit maximum withdrawn. Contract surrender rates for owners who took withdrawals under 75 percent of the maximum allowed in the contracts, and for owners who took 200 percent or more of the maximum allowed, are quite high.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-127.jpg?height=900&width=1450&top_left_y=743&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-127.jpg?height=900&width=1450&top_left_y=743&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
 The surrender rates show a U-shaped relationship to percent of benefit maximum withdrawn - those with very low and very high ratios of withdrawals to maximum allowed have higher surrender rates than those in the middle categories.
 
@@ -2379,7 +2379,7 @@ In summary, the GLWB owners in two extremes - those taking less than 75 percent 
 
 The cash value surrender rates among owners who took withdrawals in 2015 by the percentage of benefit maximum withdrawn follow a very similar pattern to the contract surrender rates. The only difference is that cash value surrender rates are typically slightly lower, particularly for younger owners under age 60 taking withdrawals that are under 75 percent or 200 percent or more than the benefit maximum (Figure 1-60).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-129.jpg?height=927&width=1458&top_left_y=366&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-129.jpg?height=927&width=1458&top_left_y=366&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Surrender Activity by Owners Taking Systematic Withdrawals
 
@@ -2387,7 +2387,7 @@ Another strong indicator of whether owners are likely to surrender their contrac
 
 Figure 1-61: GLWB Contract Surrender Rates by Withdrawal Methods
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-129.jpg?height=493&width=1009&top_left_y=1751&top_left_x=493)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-129.jpg?height=493&width=1009&top_left_y=1751&top_left_x=493" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-7 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 676,172 GLWB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -2402,7 +2402,7 @@ The cash value surrender rates by withdrawal methods follow a very similar patte
 
 ## Figure 1-62: GLWB Cash Value Surrender Rates by Withdrawal Methods
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-130.jpg?height=526&width=1022&top_left_y=1466&top_left_x=649)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-130.jpg?height=526&width=1022&top_left_y=1466&top_left_x=649" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B 1-8 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 676,172 GLWB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -2412,11 +2412,11 @@ Another important analysis of surrender rates involves whether or not the benefi
 
 Figure 1-63: GLWB Contract Surrender Rate by Amount Benefit Base Exceeds Contract Value
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-131.jpg?height=480&width=1421&top_left_y=519&top_left_x=257)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-131.jpg?height=480&width=1421&top_left_y=519&top_left_x=257" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 2,595,158 GLWB contracts issued before 2015. We have not shown some measures related to certain issue years either because of low sample size or to preserve confidentiality and avoid revealing companyspecific information as data in those characteristics were heavily weighted for one company or a very limited number of participating companies - but this data generally followed a similar pattern.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-131.jpg?height=892&width=1456&top_left_y=1278&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-131.jpg?height=892&width=1456&top_left_y=1278&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 GLWB owners appear to be sensitive to how much the benefit base exceeds the contract value when deciding whether to surrender their contracts.
 
@@ -2668,7 +2668,7 @@ Table 2-1 provides a summary of GMWB owner and contract characteristics at EOY 2
 
 At beginning-of-year (BOY) 2015, 29 percent of contracts with GMWBs issued before 2015 had benefit base balances that exceeded contract values. Of these contracts, the average difference between the benefit base balance and contract value was aproximately $\$ 6,500$. On average, contract values were around 106 percent of the benefit base balances (Table 2-2).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-144.jpg?height=574&width=1458&top_left_y=743&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-144.jpg?height=574&width=1458&top_left_y=743&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Over half of the contracts had benefit base balances that exceeded contract values at EOY 2015.
 In 2015, the S\&P 500 index was down 1 percent, excluding dividends. Given that half of the contract owners took withdrawals, the average contract value decreased 7 percent and the average benefit base decreased 2 percent. As a result, over half of the GMWB contracts had a benefit base balance amount greater than the contract value at EOY 2015 (Table 2-3).
@@ -2688,13 +2688,13 @@ For in-force contracts issued before 2015 that did not have withdrawals in 2015,
 
 ## Figure 2-1: GMWB Average Contract Value and Benefit Base Balance for Contracts Without Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-145.jpg?height=420&width=805&top_left_y=977&top_left_x=562)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-145.jpg?height=420&width=805&top_left_y=977&top_left_x=562" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 61,226 contracts issued before 2015 and still in force at EOY 2015 where there were no withdrawals made or current-year premium received. Excludes contracts for which the GMWB benefit base balances or contract values on anniversary days could not be determined.
 
 For GMWB contracts that incurred withdrawals in 2015, the average benefit base balance dropped 5.7 percent during the year. The lack of investment performance, combined with contract fees lead to a decrease in the contract value. The average contract value decreased 10.9 percent during the year, making the average benefit base higher than the average contract value (Figure 2-2).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-146.jpg?height=738&width=1455&top_left_y=688&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-146.jpg?height=738&width=1455&top_left_y=688&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 ## Benefit Base Balance to Contract Value Ratios by Age
 
@@ -2704,7 +2704,7 @@ Figure 2-3 shows the $\mathrm{BB} / \mathrm{CV}$ ratios by age at $\mathrm{BOY}$
 
 Figure 2-3: GMWB Benefit Base Balance to Contract Value Ratios by Age - at BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-147.jpg?height=577&width=1442&top_left_y=492&top_left_x=249)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-147.jpg?height=577&width=1442&top_left_y=492&top_left_x=249" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 167,778 GMWB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMWB benefit base balances or contract values could not be determined.
 
@@ -2713,7 +2713,7 @@ The percentage of contracts with $\mathrm{BB} / \mathrm{CV}$ ratios less than $1
 
 Figure 2-4: GMWB Benefit Base Balance to Contract Value Ratios by Age - at EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-147.jpg?height=580&width=1428&top_left_y=1713&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-147.jpg?height=580&width=1428&top_left_y=1713&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 167,778 GMWB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMWB benefit base balances or contract values could not be determined.
 
@@ -2727,7 +2727,7 @@ Half of contracts with GMWB riders issued before 2015 and still in force at EOY 
 
 ## Figure 2-5: GMWB Overall Utilization of Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-148.jpg?height=431&width=979&top_left_y=1037&top_left_x=649)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-148.jpg?height=431&width=979&top_left_y=1037&top_left_x=649" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 175,102 GMWB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -2753,7 +2753,7 @@ GMWB owners aged 5 and older took whithaws from with IRA money.
 
 ## Figure 2-6: GMWB Utilization by Source of Funds and Age of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-149.jpg?height=824&width=1309&top_left_y=1128&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-149.jpg?height=824&width=1309&top_left_y=1128&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 170,597 GMWB contracts issued before 2015 and still in force at EOY 2015. Percentages refer to the number of contracts in each age that had partial withdrawals during 2015.
 
@@ -2768,7 +2768,7 @@ However, it helps to assess the withdrawal behavior in the context of the propor
 
 By EOY 2015, GMWB IRA contracts constituted 59 percent of all GMWB contracts while 41 percent of GMWB contracts were sourced from nonqualified savings. IRA contracts are more likely to have owners under age 70 (Figure 2-7).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-150.jpg?height=1060&width=1455&top_left_y=1123&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-150.jpg?height=1060&width=1455&top_left_y=1123&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 This reflects broader industry developments, with a majority of annuities being funded with qualified money - particularly younger owners using rollovers from retirement plans. Two thirds of owners aged 70 or younger funded their GMWB annuities with qualified money. At EOY 2015, just over half of the GMWB owners over age 70 funded their contracts with qualified money. Nearly 6 in 10 of all nonqualified GMWB owners were over age 70.
 
@@ -2777,7 +2777,7 @@ The need to take RMDs drives the percent of owners taking withdrawals at ages 70
 
 ## Figure 2-8: GMWB Withdrawals by IRA Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-151.jpg?height=586&width=1151&top_left_y=978&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-151.jpg?height=586&width=1151&top_left_y=978&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 92,466 GMWB IRA contracts issued before 2015 and still in force at EOY 2015.
 
@@ -2789,7 +2789,7 @@ In contrast to the 47 percent of IRA GMWB owners over age 70, 59 percent of nonq
 
 ## Figure 2-9: GMWB Withdrawals by Nonqualified Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-152.jpg?height=542&width=1157&top_left_y=729&top_left_x=576)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-152.jpg?height=542&width=1157&top_left_y=729&top_left_x=576" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 57,486 GMWB contracts, funded by nonqualified savings, issued before 2015 , and still in force at EOY 2015.
 
@@ -2803,7 +2803,7 @@ Analysis of when owners are likely to take first withdrawals provides important 
 
 There is a distinct pattern of withdrawal behavior from IRA-funded GMWB annuities, principally driven by age and the need to take RMDs. Figure 2-10 shows the percent of owners taking their first withdrawals in 2015 for GMWB contracts issued in $2006 .{ }^{17}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-153.jpg?height=935&width=1445&top_left_y=682&top_left_x=248)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-153.jpg?height=935&width=1445&top_left_y=682&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 This analysis — based on owners who bought their GMWB annuities in 2006 - gives us a much clearer picture of IRA owner withdrawal behavior. Owners who bought their annuities in 2006 had eight to nine years to take withdrawals. The marginal increases in the percentage of owners taking their first withdrawals remain almost uniform for owners between ages 60 and 69 - within a close single digit range - with the cumulative percent rising with age. A jump in owners taking their first withdrawals is seen at ages 70 and 71 . After age 71, the percent of owners taking their first withdrawals drops quickly to the low single digits.
 
@@ -2815,7 +2815,7 @@ $\overline{17}$ Due to constraints with sample sizes for contracts issued in yea
 
 The percent of nonqualified annuity owners who took their first withdrawals in 2015 reflects more streamlined behavior. Figure 2-11 shows the percent of these owners, for contracts issued in $2006 .{ }^{18}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-154.jpg?height=929&width=1453&top_left_y=690&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-154.jpg?height=929&width=1453&top_left_y=690&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 Because there were no RMDs, the percent of nonqualified owners taking their first withdrawals remained within a tight single digit range irrespective of age.
 
@@ -2823,7 +2823,7 @@ Because there were no RMDs, the percent of nonqualified owners taking their firs
 
 In order to get a clear and consistent picture of when owners first start to take withdrawals, and how many start to take their first withdrawals in the following years, we followed 2007 VA GMWB buyers and tracked their withdrawal behaviors. We looked at withdrawal behavior of 2007 buyers aged 57 to 75 from 2007 to 2015 (nine years of withdrawal history), and assessed what percent of those buyers began taking their first withdrawals from 2007 to 2015 (Table $2-4$ ). We are unable to separate the data by source of funds (IRA vs. nonqualified) due to the limited sample sizes.[^10]
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-155.jpg?height=1935&width=1545&top_left_y=363&top_left_x=230)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-155.jpg?height=1935&width=1545&top_left_y=363&top_left_x=230" alt="image" style="width:100%;height:auto;">
 
 The last row of the Table 2-4 provides the percent of owners taking withdrawals in all subsequent years, based on contracts where the first withdrawal occurred between 2007 and 2015 and with withdrawals continuing every year through 2015. Overall, once owners begin to take withdrawals, they are more likely to continue utilizing the withdrawal benefit.
 
@@ -2845,7 +2845,7 @@ Table 2-5 shows the median withdrawal amount for occasional and SWP withdrawals 
 
 ## Figure 2-12: GMWB Owners Taking Withdrawals With SWPs
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-157.jpg?height=780&width=1133&top_left_y=499&top_left_x=404)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-157.jpg?height=780&width=1133&top_left_y=499&top_left_x=404" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 86,559 contracts issued before 2015, remaining in force at EOY 2015, and that had withdrawal activity in 2015.
 
@@ -2884,7 +2884,7 @@ Figure 2-13 shows the percent of owners taking withdrawals - and their withdrawa
 
  Benefit AmountPercent of Owners Taking Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-159.jpg?height=566&width=849&top_left_y=1316&top_left_x=535)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-159.jpg?height=566&width=849&top_left_y=1316&top_left_x=535" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 88,893 GMWB contracts issued before 2015 and remaining in force at EOY 2015 that had withdrawals.
 
@@ -2892,7 +2892,7 @@ Looking at the age of owners and their withdrawal amount in relation to maximum 
 
 ## Figure 2-14: GMWB Withdrawals as a Percentage of Maximum Annual Benefit Amount by Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-160.jpg?height=580&width=1446&top_left_y=805&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-160.jpg?height=580&width=1446&top_left_y=805&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 85,472 GMWB contracts issued before 2015 and remaining in force at EOY 2015 that had withdrawals.
 
@@ -2919,7 +2919,7 @@ Which method owners use for withdrawals - systematic or occasional - is a strong
 
 ## Figure 2-15: GMWB Withdrawals to Maximum Annual Benefit Amount by Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-162.jpg?height=561&width=984&top_left_y=771&top_left_x=668)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-162.jpg?height=561&width=984&top_left_y=771&top_left_x=668" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 85,391 GMWB contracts issued before 2015 and remaining in force at EOY 2015 that had withdrawals.
 
@@ -2931,7 +2931,7 @@ Figure 2-16: GMWB Withdrawals to Maximum Annual Benefit Amount by Age, Contracts
 
 ## Percent of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-163.jpg?height=526&width=1130&top_left_y=583&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-163.jpg?height=526&width=1130&top_left_y=583&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 50,632 GMWB contracts issued before 2015, still in force at EOY 2015, with withdrawals in 2015.
 
@@ -2939,7 +2939,7 @@ Note: Based on 50,632 GMWB contracts issued before 2015, still in force at EOY 2
 
 ## Percent of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-163.jpg?height=524&width=899&top_left_y=1554&top_left_x=388)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-163.jpg?height=524&width=899&top_left_y=1554&top_left_x=388" alt="image" style="width:100%;height:auto;">
 
 $200 \%$ or more
 $150 \%$ to $<200 \%$
@@ -2974,7 +2974,7 @@ Just over half of the GMWB owners who bought their contracts in 2008 took withdr
 
 Figure 2-18: GMWB Overall Utilization Rates by Contract Duration
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-165.jpg?height=694&width=1176&top_left_y=1469&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-165.jpg?height=694&width=1176&top_left_y=1469&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 132,116 GMWB contracts issued between 2004 and 2008 and still in force at EOY 2015. Percentages refer to the number of contracts in each quarter that had partial withdrawals during 2015. We are not showing data for contracts issued before 2004 or after 2008 because of the limited number of companies issuing GMWB riders and small sample sizes.
 
@@ -2992,7 +2992,7 @@ Some owners in their 50s took withdrawals of more than $\$ 20,000$ from their co
 
 Figure 2-19: GMWB Amount of Withdrawals by Owner's Current Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-167.jpg?height=811&width=1225&top_left_y=462&top_left_x=342)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-167.jpg?height=811&width=1225&top_left_y=462&top_left_x=342" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 76,703 GMWB contracts issued before 2015, still in force at EOY 2015 that had incurred withdrawals.
 
@@ -3004,7 +3004,7 @@ In order to provide some context, we assessed withdrawal amounts in relation to 
 
 ## Figure 2-20: GMWB Withdrawals to Average Contract Value Ratio (For Contracts With Withdrawals Only)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-168.jpg?height=784&width=1117&top_left_y=844&top_left_x=577)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-168.jpg?height=784&width=1117&top_left_y=844&top_left_x=577" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 85,983 GMWB contracts issued before 2015, still in force at EOY 2015 that had incurred withdrawals. Percent of average contract value (CV) withdrawn is calculated for every contract: as partial withdrawals divided by (BOY CV + EOY CV) 2 .
 
@@ -3016,7 +3016,7 @@ The distribution of withdrawal amount to the average benefit base balance ratio 
 
 (For Contracts With Withdrawals Only)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-169.jpg?height=764&width=1128&top_left_y=1014&top_left_x=390)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-169.jpg?height=764&width=1128&top_left_y=1014&top_left_x=390" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 85,983 GMWB contracts issued before 2015, still in force at EOY 2015 that had incurred withdrawals. Percent of average benefit base balance (BB) withdrawn is calculated for every contract: as partial withdrawals divided by (BOY BB + EOY BB)/2.
 
@@ -3026,7 +3026,7 @@ For most GMWB contracts, the ratio of average withdrawal amount to average contr
 
 ## Figure 2-22: GMWB Withdrawal Amount to Average Contract Value and Benefit Base Balance
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-170.jpg?height=759&width=1089&top_left_y=903&top_left_x=602)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-170.jpg?height=759&width=1089&top_left_y=903&top_left_x=602" alt="image" style="width:100%;height:auto;">
 
 Note: The ratio of withdrawals to average contract values is calculated as the average of withdrawal amounts divided by the average of beginning and ending contract values. The ratio of withdrawals to average benefit base balances is calculated as the average of withdrawal amounts divided by the average of beginning and ending benefit base balances. In both cases, only the 85,208 GMWB contracts that were sold before 2015, were still in force at EOY 2015, had withdrawals in 2015, and with benefit base balance information were considered.
 
@@ -3038,7 +3038,7 @@ In 2015, the ratio of total withdrawal amounts to BOY contract values for all co
 
 ## Figure 2-23: GMWB Total Withdrawals to Total Contract Value (All Contracts)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-171.jpg?height=767&width=1114&top_left_y=1514&top_left_x=386)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-171.jpg?height=767&width=1114&top_left_y=1514&top_left_x=386" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 170,598 contracts sold before 2015 that were still in force at EOY 2015.
 
@@ -3047,7 +3047,7 @@ Companies can also examine the risks associated with the subset of contracts tha
 
 BOY to EOY for contracts that had withdrawals (Figure 2-24). Overall, for all contracts that had withdrawals in 2015, there was an average 11 percent decline in contract values.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-172.jpg?height=1057&width=1453&top_left_y=800&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-172.jpg?height=1057&width=1453&top_left_y=800&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 A contract where the benefit base balance exceeded the contract value did not experience any noticeable difference in withdrawal behavior.
 
@@ -3070,7 +3070,7 @@ The percentage of owners who took withdrawals in 2015 was higher for contracts w
 
 The fact that the vast majority of owners who start withdrawals are likely to continue withdrawals in subsequent years influences the trend shown in the Figure 2-25. The contracts where the contract values were greater than or equal to the benefit base balance were likely issued recently and have not been exposed to the market volatility, or are contracts issued years ago that did not have withdrawals and have experienced growth in their contract value. This helps to explain why contracts owned by older owners taking withdrawals from longer duration contracts have a widening gap.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-174.jpg?height=1076&width=1431&top_left_y=1191&top_left_x=442)[^12] for additional discussion of the relationship between the benefit base, the contract value, and withdrawal activity.
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-174.jpg?height=1076&width=1431&top_left_y=1191&top_left_x=442" alt="image" style="width:100%;height:auto;">[^12] for additional discussion of the relationship between the benefit base, the contract value, and withdrawal activity.
 
 GMWB contracts, by design, have a limited number of guaranteed income payments and do not provide guaranteed income for life. As a result, a higher percentage of owners are likely to take withdrawals compared to the percentage of owners taking withdrawals from GLWB contracts. It can be argued that GMWB contract owners might be more sensitive regarding initiating withdrawals when the benefit base balance exceeds the contract value so that they could take advantage of guaranteed withdrawals over a certain number of years at a time when their contract values are lower.
 
@@ -3143,7 +3143,7 @@ Many retail VAs allow owners to add premium after issue, though in practice most
 
 ## Figure 2-26: GMWB Percentage of Contracts Receiving Additional Premium by <br> Size of Contract
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-178.jpg?height=406&width=895&top_left_y=1445&top_left_x=729)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-178.jpg?height=406&width=895&top_left_y=1445&top_left_x=729" alt="image" style="width:100%;height:auto;">
 
 Contract Size, BOY 2015
 
@@ -3189,7 +3189,7 @@ Younger owners who take withdrawals, particularly those under age 65, have highe
 -     - Took Withdrawals in 2015
 - O— Did Not Take Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-180.jpg?height=529&width=1160&top_left_y=1535&top_left_x=583)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-180.jpg?height=529&width=1160&top_left_y=1535&top_left_x=583" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-1 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 186,972 GMWB contracts issued before 2015.
 
@@ -3200,7 +3200,7 @@ Percent of Cash Value Fully Surrendered
 -     - Took Withdrawals in 2015
 -     - Did Not Take Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-181.jpg?height=442&width=1171&top_left_y=733&top_left_x=390)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-181.jpg?height=442&width=1171&top_left_y=733&top_left_x=390" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-2 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 186,972 GMWB contracts issued before 2015 .
 
@@ -3214,7 +3214,7 @@ Percent of Contracts Fully Surrendered
 
 -O- Did Not Take Withdrawals before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-181.jpg?height=450&width=1174&top_left_y=1946&top_left_x=389)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-181.jpg?height=450&width=1174&top_left_y=1946&top_left_x=389" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-3 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 186,970 GMWB contracts issued before 2015.
 
@@ -3224,7 +3224,7 @@ Percent of Cash Value Fully Surrendered
 
 -     - Took Withdrawals before 2015
 -     - Did Not Take Withdrawals before 2015
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-182.jpg?height=434&width=1160&top_left_y=726&top_left_x=602)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-182.jpg?height=434&width=1160&top_left_y=726&top_left_x=602" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-4 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 186,970 GMWB contracts issued before 2015.
 
@@ -3240,13 +3240,13 @@ Figures 2-31 and 2-32 illustrate the contract and cash value surrender rates by 
 
 B-share L-share $\square$ C-share
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-183.jpg?height=342&width=870&top_left_y=672&top_left_x=541)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-183.jpg?height=342&width=870&top_left_y=672&top_left_x=541" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 170,191 GMWB contracts issued in or before 2015. We have not shared some surrender rate data in order to preserve confidentiality and avoid revealing company-specific information, as data are heavily weighted for one company or contain data from a very limited number of companies.
 
 ## Figure 2-32: GMWB Cash Value Surrender Rates in 2015 by Share Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-183.jpg?height=540&width=876&top_left_y=1405&top_left_x=519)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-183.jpg?height=540&width=876&top_left_y=1405&top_left_x=519" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 170,191 GMWB contracts issued in or before 2015. We have not shared some surrender rate data in order to preserve confidentiality and avoid revealing company-specific information, as data are heavily weighted for one company or contain data from a very limited number of companies.
 
@@ -3258,7 +3258,7 @@ Figure 2-33 shows the contract surrender rates among owners who took withdrawals
 
 ## Figure 2-33: GMWB Contract Surrender Rates by Owners Who Took 2015 Withdrawals, in Relation to Annual Benefit Maximum Allowed
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-184.jpg?height=667&width=1445&top_left_y=1390&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-184.jpg?height=667&width=1445&top_left_y=1390&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-5 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 91,080 GMWB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -3271,7 +3271,7 @@ The cash value surrender rates among owners who took withdrawals in 2015, split 
 
 ## Figure 2-34: GMWB Cash Value Surrender Rates by Owners Who Took 2015 Withdrawals,
 
- in Relation to Annual Benefit Maximum Allowed![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-185.jpg?height=764&width=1444&top_left_y=1469&top_left_x=248)
+ in Relation to Annual Benefit Maximum Allowed<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-185.jpg?height=764&width=1444&top_left_y=1469&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-6 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 91,080 GMWB contracts issued before 2015 that also had withdrawals in 2015.
 Owners who withdrew either less than $75 \%$ or $200 \%$ or more of the maximum withdrawal amount allowed accounted for $71 \%$ of all contracts surrendered in 2015.
@@ -3282,7 +3282,7 @@ Another strong indicator of whether owners are likely to surrender their contrac
 
 ## Figure 2-35: GMWB Contract Surrender Rates by Withdrawal Method
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-186.jpg?height=507&width=845&top_left_y=869&top_left_x=735)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-186.jpg?height=507&width=845&top_left_y=869&top_left_x=735" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-7 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 91,008 GMWB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -3297,7 +3297,7 @@ Owners using a non-systematic withdrawal method accounted for a third of all own
 
 Figure 2-36: GMWB Cash Value Surrender Rates by Withdrawal Method
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-187.jpg?height=521&width=840&top_left_y=718&top_left_x=575)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-187.jpg?height=521&width=840&top_left_y=718&top_left_x=575" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B2-8 for a breakdown of the data in this Figure by presence of surrender charges. Note: Based on 91,008 GMWB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -3460,7 +3460,7 @@ Two-thirds of GMIB contracts were funded from qualified sources of money, part o
 
 Figure 3-1: GMIB Ownership of Annuity by Sources of Funds and Age Groups
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-196.jpg?height=477&width=618&top_left_y=1041&top_left_x=843)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-196.jpg?height=477&width=618&top_left_y=1041&top_left_x=843" alt="image" style="width:100%;height:auto;">
 
 Based on 1,473,831 contracts issued before or in 2015 and still in force at EOY 2015.
 
@@ -3580,7 +3580,7 @@ As investment performance was minimal in 2015, the average contract value declin
 
 The average benefit base was $\mathbf{2 8 \%}$ higher than the average contract value at EOY 2015. and contract value grew from $\$ 12,500$ at BOY to $\$ 21,200$ by EOY. At EOY, the median benefit base stood was, 29 percent higher than the median contract value.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-199.jpg?height=558&width=1458&top_left_y=1838&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-199.jpg?height=558&width=1458&top_left_y=1838&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Benefit Bases by Quarter and Year of Issue
 
@@ -3592,7 +3592,7 @@ New benefit calculation methods were introduced in 2003 and later. Older benefit
 
 ## Figure 3-2: GMIB Median Contract Value vs. Median Benefit Base, BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-200.jpg?height=656&width=1440&top_left_y=1453&top_left_x=432)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-200.jpg?height=656&width=1440&top_left_y=1453&top_left_x=432" alt="image" style="width:100%;height:auto;">
 
 Quarter of Issue
 
@@ -3604,7 +3604,7 @@ The upper and lower quartiles refer to the distribution of BB/CV ratios at BOY 2
 
 ## Figure 3-3: GMIB Benefit Base to Contract Value Inter-Quartile Range, BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-201.jpg?height=697&width=1263&top_left_y=1142&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-201.jpg?height=697&width=1263&top_left_y=1142&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 731,244 GMIB contracts issued between 2001 and 2008. Excludes contracts for which the GMIB benefit bases could not be determined, quarters in which there was low sample size, or in order to preserve confidentiality and avoid revealing company-specific information, as that data was heavily weighted for one company or a very limited number of participating companies.
 
@@ -3612,7 +3612,7 @@ By EOY 2015, the difference between the benefit base amount and contract value f
 
 ## Figure 3-4: GMIB Contract Value and Benefit Base, EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-202.jpg?height=699&width=1439&top_left_y=794&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-202.jpg?height=699&width=1439&top_left_y=794&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 740,473 GMIB contracts issued between 2000 and 2008. Excludes contracts for which the GMIB benefit bases could not be determined.
 
@@ -3620,7 +3620,7 @@ The inter-quartile range analysis at EOY 2015 shows an increase in BB/CV ratios 
 
 Figure 3-5: GMIB Benefit Base to Contract Value Inter-Quartile Range, EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-203.jpg?height=696&width=1239&top_left_y=476&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-203.jpg?height=696&width=1239&top_left_y=476&top_left_x=343" alt="image" style="width:100%;height:auto;">
 
 Quarter of Issue
 
@@ -3630,7 +3630,7 @@ The average contract value declined 6 percent during 2015 (Figure 3-6). On the a
 
 ## Figure 3-6: GMIB Average Contract Value and Average Benefit Base Values
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-203.jpg?height=482&width=786&top_left_y=1811&top_left_x=602)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-203.jpg?height=482&width=786&top_left_y=1811&top_left_x=602" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 676,470 GMIB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMIB benefit bases (as of BOY, the contract's anniversary date, or EOY) could not be determined.
 
@@ -3641,7 +3641,7 @@ The analysis of $\mathrm{BB} / \mathrm{CV}$ ratios can be expanded to include ag
 $19 \%$ of the contracts had $\mathrm{BOY} \mathrm{BB} / \mathrm{CV}$ ratios of less than $100 \%$, while $\mathbf{4} \%$ had EOY ratios of less than $100 \%$.
 CV ratios are impacted by factors like the duration of contracts and the impact of market returns on the contract values, infusion of new contracts into the book by age groups, richness of in-force contract features like automatic roll-up percentages, and impact of withdrawals on the contract values and benefit bases. This analysis can allow companies to assess withdrawal risks associated with each age or age cohort in relation to the industry.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-204.jpg?height=821&width=1458&top_left_y=1080&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-204.jpg?height=821&width=1458&top_left_y=1080&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Figure 3-7 shows the BB/CV ratios by age at BOY 2015. Only 4 percent of contracts had $\mathrm{BB} / \mathrm{CV}$ ratios below 90 percent and 16 percent had ratios of 90 to less than 100 percent; 39 percent of the contracts had $\mathrm{BB} / \mathrm{CV}$ ratios of 100 to less than 110 percent; and 14 percent of contracts had their benefit bases exceeding contract values by 110 to less than 125 percent. Twenty-seven percent of the contracts had BB/CV ratios of 125 percent or more.
 
@@ -3649,7 +3649,7 @@ Owners aged 70 or older had comparatively more contracts with BB/CV ratios of 12
 
 Figure 3-8 shows the distribution of BB/CV ratios by age at EOY 2015. There were 4 percent of contracts having $\mathrm{BB} / \mathrm{CV}$ ratios below 100 percent; 19 percent had $\mathrm{BB} / \mathrm{CV}$ ratios of 100 to less than 110 percent; 39 percent had benefit bases exceeding contract values by 110 to less than 125 percent, and 38 percent had $\mathrm{BB} / \mathrm{CV}$ ratios of 125 percent or more. ${ }^{24}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-205.jpg?height=835&width=1461&top_left_y=954&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-205.jpg?height=835&width=1461&top_left_y=954&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 $\overline{24}$ Refer to "Benefit Base to Contract Value Ratios by Age" in GLWB chapter for additional discussion of the relationship between $\mathrm{BB} / \mathrm{CV}$ ratios and age.
 
@@ -3657,7 +3657,7 @@ $\overline{24}$ Refer to "Benefit Base to Contract Value Ratios by Age" in GLWB 
 
 For in-force contracts issued before 2015 that did not have withdrawals (or additional premium) during the year, the average benefit base rose steadily, registering a 6.7 percent overall increase by EOY (Figure 3-9). The reason for such increases can be attributed to automatic roll-up of benefit bases in the case of non-withdrawals. The average contract value declined 3.7 percent during 2015 for contracts without withdrawals.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-206.jpg?height=802&width=1455&top_left_y=797&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-206.jpg?height=802&width=1455&top_left_y=797&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Among contracts that incurred withdrawals in 2015, the average benefit base remained level from BOY to EOY while the average contract value decreased 11 percent.
 
@@ -3684,7 +3684,7 @@ Figure 3-10 illustrates the average GMIB-to-SPIA payout ratios for life-only pay
 
 ## Figure 3-10: Ratio of GMIB Payout to SPIA Payout, for Life-Only Payouts by All Benefit Maturity Years
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-208.jpg?height=769&width=1109&top_left_y=1353&top_left_x=581)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-208.jpg?height=769&width=1109&top_left_y=1353&top_left_x=581" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 233,206 contracts in force at the end of 2015.
 
@@ -3692,7 +3692,7 @@ The ratios are higher for men than for women, and increase with age, largely bec
 
 ## Figure 3-11: Ratio of GMIB Payout to SPIA Payout, for Life With 10-Year Period-Certain Payouts by all Benefit Maturity Years
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-209.jpg?height=764&width=1098&top_left_y=1019&top_left_x=405)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-209.jpg?height=764&width=1098&top_left_y=1019&top_left_x=405" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 233,206 contracts in force at the end of 2015.
 
@@ -3700,7 +3700,7 @@ The previous analyses assumed that all contracts had the option of exercising th
 
 Figure 3-12: Ratio of GMIB Payout to SPIA Payout, for Life-Only Payouts by Benefit Maturity Years 2015 or Earlier
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-210.jpg?height=770&width=1109&top_left_y=531&top_left_x=581)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-210.jpg?height=770&width=1109&top_left_y=531&top_left_x=581" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 77,165 contracts in force at the end of 2015.
 
@@ -3708,7 +3708,7 @@ Figure 3-13: Ratio of GMIB Payout to SPIA Payout, for Life With 10-Year Period-C
 
 Payouts by Benefit Maturity Years 2015 or Earlier
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-210.jpg?height=767&width=1111&top_left_y=1644&top_left_x=583)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-210.jpg?height=767&width=1111&top_left_y=1644&top_left_x=583" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 77,165 contracts in force at the end of 2015 .
 
@@ -3719,7 +3719,7 @@ An alternative method for assessing in-the-moneyness for all contracts in force 
 Almost all GMIB contracts issued before 2015 had GMIB benefits that were based on the roll-up or higher of ratchet or roll-up calculation methods ( 97 percent), which sets benefit bases equal to the higher of the largest prior anniversary or premiums rolled up at a specified growth rate (Figure 3-14).
 
 The most common roll-up percentages in 2015 were from 5 to less than 7 percent. Roll-up rates from 5 to less than 6 percent were offered on 41 percent of all contracts while roll-up rates from 6 to less than 7 percent make up 44 percent of GMIB contracts (Figure 3-15).
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-211.jpg?height=778&width=1456&top_left_y=1752&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-211.jpg?height=778&width=1456&top_left_y=1752&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 The ability to take withdrawals up to the roll-up rate for a limited period of time is one of the most distinguishing features of GMIBs, attracting investors to stay in the contracts while still providing guaranteed income for life upon annuitization. In GMIB contracts, the combined effect of market gains or losses, roll-up percentages, and withdrawal provisions (e.g., dollarfor-dollar adjustment with benefit bases) influences the difference between the benefit bases and contract values.
 
@@ -3735,7 +3735,7 @@ Figure 3-16: GMIB Contracts Annuitized in 2015, by Benefit Maturity
 
 Percent of Contracts Annuitized in 2014
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-213.jpg?height=452&width=797&top_left_y=522&top_left_x=726)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-213.jpg?height=452&width=797&top_left_y=522&top_left_x=726" alt="image" style="width:100%;height:auto;">
 
 $\begin{array}{llllll}\text { Number of contracts eligible } \quad 88,039 & 35,693 & 82,667 & 112,080 & 102,691 & 107,488\end{array}$
 
@@ -3749,7 +3749,7 @@ Larger contract sizes are associated with higher annuitization activity among co
 
 ## Figure 3-17: GMIB Contracts Annuitized in 2015, by Age and Contract Size
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-214.jpg?height=520&width=792&top_left_y=800&top_left_x=756)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-214.jpg?height=520&width=792&top_left_y=800&top_left_x=756" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 160,944 contracts issued before 2015, with benefit maturities in 2014 or 2015.
 
@@ -3757,7 +3757,7 @@ The amount the benefit base exceeded the contract value, as measured by the $\ma
 
 Figure 3-18: GMIB Contracts Annuitized in 2015 With Benefit Maturity Date in 2014 or 2015, by Age and BOY 2015 BB/CV Ratio
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-215.jpg?height=544&width=805&top_left_y=514&top_left_x=562)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-215.jpg?height=544&width=805&top_left_y=514&top_left_x=562" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 159,443 contracts issued before 2015, with benefit maturities in 2014 or 2015 .
 
@@ -3837,7 +3837,7 @@ Thirty-one percent of GMIB contracts issued before 2015 and still in force at EO
 
 ## Figure 3-19: GMIB Percentage of Contracts With Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-217.jpg?height=426&width=979&top_left_y=2015&top_left_x=497)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-217.jpg?height=426&width=979&top_left_y=2015&top_left_x=497" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,435,908 GMIB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -3871,7 +3871,7 @@ the percent of owners taking withdrawals rises slowly in parallel for both quali
 
 ## Figure 3-20: GMIB Percentage of Contracts With Withdrawals, by Source of Funds and Age of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-219.jpg?height=772&width=1280&top_left_y=1045&top_left_x=325)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-219.jpg?height=772&width=1280&top_left_y=1045&top_left_x=325" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,403,562 GMIB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -3884,7 +3884,7 @@ Insurance companies managing GMIB rider risk can consider distinguishing and eva
 
 ## Figure 3-21: GMIB Withdrawals by IRA Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-220.jpg?height=727&width=1401&top_left_y=1092&top_left_x=449)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-220.jpg?height=727&width=1401&top_left_y=1092&top_left_x=449" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 828,395 GMIB IRA contracts issued before 2015 and still in force at EOY 2015.
 
@@ -3894,7 +3894,7 @@ In comparison with IRA annuities, 36 percent of GMIB owners aged 70 or over who 
 
 ## Figure 3-22: GMIB Withdrawals by Nonqualified Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-221.jpg?height=645&width=1380&top_left_y=702&top_left_x=275)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-221.jpg?height=645&width=1380&top_left_y=702&top_left_x=275" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 454,686 GMIB contracts funded by nonqualified savings, issued before 2015 , and still in force at EOY 2015.
 
@@ -3921,13 +3921,13 @@ Issue Year 2008
 New in $2015 \square$ Before 2015
 
 Issue Year 2007
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-223.jpg?height=562&width=1436&top_left_y=602&top_left_x=252)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-223.jpg?height=562&width=1436&top_left_y=602&top_left_x=252" alt="image" style="width:100%;height:auto;">
 
 Issue Year 2006
 
 New in 2015 Before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-223.jpg?height=553&width=727&top_left_y=1296&top_left_x=604)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-223.jpg?height=553&width=727&top_left_y=1296&top_left_x=604" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 233,956 IRA GMIB contracts issued from 2006 to 2008 and remaining in force at EOY 2015. Blue represents percent of owners taking withdrawals in 2015 for the first time; green represents cumulative percent of owners who took withdrawals before 2015. The overall column height represents percent of all owners who took withdrawals to date.
 
@@ -3935,7 +3935,7 @@ Note: Based on 233,956 IRA GMIB contracts issued from 2006 to 2008 and remaining
 
 The percent of nonqualified GMIB annuity owners who took their first withdrawals in 2015 reflects more streamlined withdrawal behavior. Figure 3-24 shows the percent of nonqualified owners who took their first withdrawals in 2015 by individual issue years from 2006 to 2008.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-224.jpg?height=1719&width=1455&top_left_y=680&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-224.jpg?height=1719&width=1455&top_left_y=680&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Without the need to take RMDs, the percent of nonqualified owners who bought their annuities in 2008 and took their first withdrawals in 2015 increased slightly from age 55 through age 69. Only a small percent of owners under 70 took their first withdrawals in 2015 within a range of 1 to 4 percent, which is similar to the behavior of IRA owners. For ages 70 and up, the percent of customers taking their first withdrawals remained around 3 percent for each age group. Just under 40 percent of owners aged 65 to 69 had already taken withdrawals before 2015; this percentage increases to just under half for ages 70 to 74 .
 
@@ -3953,13 +3953,13 @@ Analysis of the eight years of first withdrawal history of 2008 owners shows som
 - More than 90 percent of owners aged 70 or above from 2008 took withdrawals from their annuities in the last eight years. Across all ages, half of 2008 owners took withdrawals. This is particularly noteworthy because a third of the 2008 owners were aged 60 or under in 2015 , and a majority of them are not yet in or near retirement.
 - Contract benefits being greater than the benefit bases appears to have very little impact on first withdrawal behavior (addressed later in this chapter). From 2009 to the beginning of 2012, most of the GMIB contracts had benefit bases that exceeded the contract values. However, the percentage of owners taking withdrawals from their contracts does not show any deviation from the general trend by any particular age or age groups.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-227.jpg?height=1883&width=1545&top_left_y=365&top_left_x=233)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-227.jpg?height=1883&width=1545&top_left_y=365&top_left_x=233" alt="image" style="width:100%;height:auto;">
 
 ## First Withdrawal Activity for Nonqualified Contracts Issued in 2008
 
 For nonqualified annuity owners aged 57 to 69 , we see a similar first-year withdrawal pattern to the 2008 IRA owners (Table 3-6). In the second year, 7 to 15 percent of owners aged 60 and older took their first withdrawals. After the second year, the range is much tighter -2 to 8 percent of owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-228.jpg?height=1881&width=1542&top_left_y=686&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-228.jpg?height=1881&width=1542&top_left_y=686&top_left_x=343" alt="image" style="width:100%;height:auto;">
 aged 60 and older took their first withdrawals in each year. This is expected as the pool of owners who have not taken withdrawals up to that point shrinks. We expect the percentage of owners taking their first withdrawals in the following years to be lower, as more and more owners start taking lifetime withdrawals. However, for ages 70 or 71 we do not see a spike in withdrawals. Note that most of these owners used systematic withdrawal plans (SWPs) to receive their regular withdrawals.
 
 Overall, similar to IRA annuities, nearly 10 percent of owners initiated withdrawals from their nonqualified annuities in their first year of ownership.
@@ -3981,7 +3981,7 @@ Overall, 3 out of 4 owners who take GMIB withdrawals use SWPs. Older owners are 
 
 ## Figure 3-25: GMIB Withdrawals With Systematic Withdrawal Plans
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-230.jpg?height=761&width=1347&top_left_y=980&top_left_x=473)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-230.jpg?height=761&width=1347&top_left_y=980&top_left_x=473" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 436,395 GMIB contracts issued before 2015, still in force at EOY 2015, and that had withdrawals in 2015 . We are not able to show the IRA vs. nonqualified splits in order to preserve confidentiality and avoid revealing company-specific information, as that data was heavily weighted for one company or a very limited number of participating companies.
 
@@ -4033,13 +4033,13 @@ Figure 3-26: GMIB Actual Withdrawals as a Percentage of Annual Benefit Maximum
 
 Percent of Owners Taking Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-233.jpg?height=580&width=813&top_left_y=539&top_left_x=553)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-233.jpg?height=580&width=813&top_left_y=539&top_left_x=553" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 401,796 GMIB contracts issued before 2015 and remaining in force at EOY 2015. The maximum annual withdrawal amount is equal to the average benefit base multiplied by the BOY roll-up rate.
 
 Around 8 in 10 owners who took withdrawals took less than 110 percent of the maximum allowed. If we look at owner age, and withdrawal amounts in relation to maximum annual amounts allowed, we see that younger owners are more likely to take 110 percent or more of the maximum amount allowed (Figure 3-27).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-233.jpg?height=843&width=1458&top_left_y=1563&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-233.jpg?height=843&width=1458&top_left_y=1563&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Salient insights from Figure 3-27:
 
@@ -4071,7 +4071,7 @@ A strong indicator of whether owners are likely to exceed the annual benefit max
 
 ## Figure 3-28: GMIB Withdrawals to Benefit Maximum Amount by Withdrawal Method and Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-235.jpg?height=545&width=891&top_left_y=1077&top_left_x=541)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-235.jpg?height=545&width=891&top_left_y=1077&top_left_x=541" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 393,820 GMIB contracts issued before 2015, still in force at EOY 2015, with withdrawals in 2015.
 
@@ -4088,7 +4088,7 @@ Figure 3-29: GMIB Withdrawals to Annual Benefit Maximum Amount by Age, Contract 
 
 Percent of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-237.jpg?height=526&width=971&top_left_y=602&top_left_x=379)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-237.jpg?height=526&width=971&top_left_y=602&top_left_x=379" alt="image" style="width:100%;height:auto;">
 
 $200 \%$ or more
 
@@ -4108,7 +4108,7 @@ Note: Based on 202,181 GMIB contracts issued before 2015, still in force at EOY 
 
 Percent of Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-237.jpg?height=542&width=1158&top_left_y=1556&top_left_x=386)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-237.jpg?height=542&width=1158&top_left_y=1556&top_left_x=386" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 132,412 GMIB contracts issued before 2015, still in force at EOY 2015, with withdrawals in 2015 .
 
@@ -4120,7 +4120,7 @@ Withdrawals ranged from 28 to 43 percent for contracts issued between 2001 and 2
 
 Figure 3-31: GMIB Overall Utilization Rates of Withdrawal by Contract Duration
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-238.jpg?height=740&width=1266&top_left_y=1245&top_left_x=511)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-238.jpg?height=740&width=1266&top_left_y=1245&top_left_x=511" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 739,920 GMIB contracts issued between 2001 and 2008 and still in force at EOY 2015. We are not showing data for contracts issued before 2001 or after 2008 because of the limited number of companies issuing GMIB riders and small sample sizes.
 
@@ -4128,7 +4128,7 @@ How do the overall utilization rates by contract duration periods differ for qua
 
 ## Figure 3-32: GMIB Overall Utilization Rates by Contract Duration and Source of Funds
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-239.jpg?height=710&width=1263&top_left_y=903&top_left_x=344)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-239.jpg?height=710&width=1263&top_left_y=903&top_left_x=344" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 747,083 GMIB contracts issued from 2001 to 2008 and still in force at EOY 2015. We are not showing certain data points, or any other data for contracts issued before 2001 or after 2008 because of the limited number of companies issuing GMIB riders and small sample sizes.
 
@@ -4138,7 +4138,7 @@ We analyzed withdrawal activity by contract duration and owner age (Figure 3-33)
 
 ## Figure 3-33: GMIB Overall Utilization Rates by Contract Duration and Current Owner Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-240.jpg?height=757&width=1136&top_left_y=825&top_left_x=581)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-240.jpg?height=757&width=1136&top_left_y=825&top_left_x=581" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 386,901 GMIB contracts issued in 2002, 2004, 2006 and 2008, and still in force at EOY 2015 .
 
@@ -4150,7 +4150,7 @@ From ages 60 to 79, withdrawal activity increases, as owners begin to retire or 
 In order to provide context for the withdrawal amounts, we assessed the withdrawal amounts in relation to the contract values. Figure 3-34 shows the median and inter-quartile range for
 withdrawal amount as a percentage of average contract value. Typically, a small number of younger owners take out large withdrawals. However, as we have seen, an increasing number of owners beginning at age 60 , take withdrawals, and their withdrawal amounts represent a more sustainable withdrawal pattern.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-241.jpg?height=1087&width=1445&top_left_y=638&top_left_x=248)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-241.jpg?height=1087&width=1445&top_left_y=638&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 The distribution of the withdrawals as a percent of average contract value withdrawn shows that, for owners aged 70 or over, the median, the upper quartile, and the lower quartile values are relatively close. This pattern also indicates that many owners taking withdrawals at older ages are withdrawing at similar ratios from their contract values. For example, for
 
@@ -4167,7 +4167,7 @@ bases (Figure 3-35). The average difference between the ratios is around one to 
 
 ## Figure 3-35: GMIB Ratio of Withdrawal Amount to Average Contract Value and to Benefit Base
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-242.jpg?height=781&width=1239&top_left_y=1390&top_left_x=519)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-242.jpg?height=781&width=1239&top_left_y=1390&top_left_x=519" alt="image" style="width:100%;height:auto;">
 
 Note: The ratio of withdrawals to average contract values and benefit bases is calculated as the average of withdrawal amounts divided by the average of beginning and ending contract values and benefit bases. In both cases, only the 444,146 contracts that had withdrawals in 2015 and with benefit base information were considered.
 
@@ -4179,7 +4179,7 @@ The cash outflow ratio, or ratio of total withdrawals to total BOY contract valu
 
 ## Figure 3-36: GMIB Total Withdrawals to Total Contract Value (All Contracts)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-243.jpg?height=778&width=1236&top_left_y=1329&top_left_x=347)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-243.jpg?height=778&width=1236&top_left_y=1329&top_left_x=347" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,434,904 GMIB contracts issued before 2015 and in force at EOY 2015. The metric is the sum of 2015 withdrawals/sum of BOY (or EOY) contract values.
 
@@ -4187,7 +4187,7 @@ For GMIB contracts that had withdrawals, the rate of withdrawals or cash outflow
 
 Figure 3-37: GMIB Total Withdrawals to Total Contract Values (For Contracts With Withdrawals)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-244.jpg?height=734&width=1226&top_left_y=736&top_left_x=539)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-244.jpg?height=734&width=1226&top_left_y=736&top_left_x=539" alt="image" style="width:100%;height:auto;">
 
 Current Age of Owner
 
@@ -4305,7 +4305,7 @@ Overall surrender rates for VAs with GMIBs in 2015 were higher than surrender ra
 ## - - Contract Surrender Rate
 
 Cash Value Surrender Rate
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-251.jpg?height=700&width=1374&top_left_y=1404&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-251.jpg?height=700&width=1374&top_left_y=1404&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 805,823 GMIB contracts issued in 2008 or earlier. We not shown some values in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4316,7 +4316,7 @@ Persistency among contracts with surrender charges is much higher than among con
 
 ## Figure 3-39: GMIB Contract Surrender Rates by Share Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-252.jpg?height=640&width=1395&top_left_y=1222&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-252.jpg?height=640&width=1395&top_left_y=1222&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,243,078 B-share and L-share GMIB contracts issued before 2015. We have not shown some L-share surrender rates in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4328,7 +4328,7 @@ B-share
 
 L-share
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-253.jpg?height=453&width=1352&top_left_y=646&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-253.jpg?height=453&width=1352&top_left_y=646&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 1,243,078 B-share and L-share GMIB contracts issued before 2015. We have not shown some L-share surrender rates in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4344,7 +4344,7 @@ Contract surrender rate among owners under age 60 who did not take withdrawals i
 
 ## Figure 3-41: GMIB Contract Surrender Rate by Owners Who Took Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-254.jpg?height=673&width=1193&top_left_y=1382&top_left_x=539)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-254.jpg?height=673&width=1193&top_left_y=1382&top_left_x=539" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-1 for a breakdown of the data in this figure for contracts without surrender charges. Note: Based on 1,480,926 GMIB contracts issued before 2015.
 
@@ -4354,7 +4354,7 @@ Past withdrawals can also indicate whether younger owners are likely to surrende
 
 ## Figure 3-42: GMIB Contract Surrender Rate by Owners Taking Withdrawals Before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-255.jpg?height=667&width=1168&top_left_y=954&top_left_x=367)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-255.jpg?height=667&width=1168&top_left_y=954&top_left_x=367" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-3 for a breakdown of the data in this figure for contracts without surrender charges. Note: Based on 1,480,926 GMIB contracts issued before 2015.
 
@@ -4371,7 +4371,7 @@ Percent of Cash Value Fully Surrendered
 -     - Took Withdrawals in 2015
 -     - Did Not Take Withdrawals in 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-256.jpg?height=393&width=1177&top_left_y=996&top_left_x=558)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-256.jpg?height=393&width=1177&top_left_y=996&top_left_x=558" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-2 for a breakdown of the data in this figure for contracts without surrender charges. Note: Based on 1,480,926 GMIB contracts issued before 2015 .
 
@@ -4382,7 +4382,7 @@ Percent of Cash Value Fully Surrendered
 -     - Took Withdrawals Before 2015
 -     - Did Not Take Withdrawals Before 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-256.jpg?height=409&width=1168&top_left_y=1931&top_left_x=565)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-256.jpg?height=409&width=1168&top_left_y=1931&top_left_x=565" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-4 for a breakdown of the data in this figure for contracts without surrender charges. Note: Based on 1,480,926 GMIB contracts issued before 2015.
 
@@ -4394,7 +4394,7 @@ Figure 3-45 shows the contract surrender rates - for owners aged 60 to 79 who to
 
 ## Figure 3-45: GMIB Contract Surrender Rates by Owners With Contracts Issued Between
 
- 2006-2008 Who Took Withdrawals, in Relation to Annual Benefit Maximum Allowed![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-257.jpg?height=404&width=569&top_left_y=1229&top_left_x=672)
+ 2006-2008 Who Took Withdrawals, in Relation to Annual Benefit Maximum Allowed<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-257.jpg?height=404&width=569&top_left_y=1229&top_left_x=672" alt="image" style="width:100%;height:auto;">
 
 Percentage of Annual Benefit Maximum Withdrawn
 
@@ -4407,7 +4407,7 @@ The GMIB owners taking 150 percent or more of the maximum accounted for 9 percen
 The cash value surrender rates among owners who took withdrawals in 2015 - based on the percentage of annual benefit maximum withdrawn - follow a very similar pattern to that of contract surrender rates, except the cash value surrender rates were slightly lower (Figure 3-46).
 
 Figure 3-46: GMIB Cash Value Surrender Rates by Owners With Contracts Issued Between 2006-2008 Who Took Withdrawals, in Relation to Annual Benefit Maximum Allowed
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-258.jpg?height=402&width=584&top_left_y=1102&top_left_x=846)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-258.jpg?height=402&width=584&top_left_y=1102&top_left_x=846" alt="image" style="width:100%;height:auto;">
 
 Percentage of Annual Benefit Maximum Withdrawn
 
@@ -4421,7 +4421,7 @@ Overall, the contract surrender rate among owners who took non-systematic or occ
 
 Figure 3-47: GMIB Contract Surrender Rates by Withdrawal Methods
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-259.jpg?height=572&width=906&top_left_y=814&top_left_x=512)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-259.jpg?height=572&width=906&top_left_y=814&top_left_x=512" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-5 for a breakdown of the data in this figure for contracts without surrender charges. Note: Based on 441,635 GMIB contracts issued before 2015 that also had withdrawals in 2015.
 
@@ -4432,7 +4432,7 @@ The cash value surrender rates by withdrawal methods follow a very similar patte
 
 ## Figure 3-48: GMIB Cash Value Surrender Rates by Withdrawal Methods
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-260.jpg?height=562&width=900&top_left_y=730&top_left_x=691)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-260.jpg?height=562&width=900&top_left_y=730&top_left_x=691" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B3-6 for a breakdown of the data in this figure for contracts without surrender charges. We have not shown some measures in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4450,7 +4450,7 @@ Figure 3-49: GMIB Contract Surrender Rate by Amount the Benefit Base Exceeded th
 
 Percentage of Contracts Fully Surrendered
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-261.jpg?height=490&width=978&top_left_y=590&top_left_x=476)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-261.jpg?height=490&width=978&top_left_y=590&top_left_x=476" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 791,747 GMIB contracts issued in 2008 and earlier. We have not shown some measures related to issue years either because of low sample size or in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4458,7 +4458,7 @@ Note: Based on 791,747 GMIB contracts issued in 2008 and earlier. We have not sh
 
 Percentage of Cash Value Fully Surrendered
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-261.jpg?height=464&width=968&top_left_y=1557&top_left_x=489)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-261.jpg?height=464&width=968&top_left_y=1557&top_left_x=489" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 791,747 GMIB contracts issued in 2008 and earlier. We have not shown some measures related to issue years either because of low sample size or in order to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4472,11 +4472,11 @@ Our analysis of surrender rates by the GMIB benefit maturity year indicates ther
 
 ## Figure 3-51: GMIB Contract and Cash Value Surrender Rates in 2015 by Benefit Maturity Year
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-262.jpg?height=79&width=471&top_left_y=1256&top_left_x=651)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-262.jpg?height=79&width=471&top_left_y=1256&top_left_x=651" alt="image" style="width:100%;height:auto;">
 
 $-\mathrm{O}-$ Percent of Cash Value Surrendered
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-262.jpg?height=618&width=1044&top_left_y=1312&top_left_x=649)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-262.jpg?height=618&width=1044&top_left_y=1312&top_left_x=649" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 891,509 GMIB contracts issued before 2015. We have not shown results related to other years or time span because of low sample size, or in order to preserve confidentiality and avoid revealing companyidentifiable information, as data in those time spans were heavily weighted for one company or a very limited number of participating companies.
 
@@ -4566,7 +4566,7 @@ Sixty-nine percent of GMAB contracts issued in 2015 or earlier were IRA, and thi
 
 ## Figure 4-1: GMAB Ownership by Source of Funds and Age Group
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-268.jpg?height=545&width=637&top_left_y=1381&top_left_x=833)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-268.jpg?height=545&width=637&top_left_y=1381&top_left_x=833" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 236,210 contracts issued in 2015 or before and still in force at EOY 2015.
 
@@ -4672,13 +4672,13 @@ A third of GMAB contracts were issued in 2007 or prior, thus a large segment of 
 
 ## Figure 4-2: GMAB Median Contract Value vs. Median Benefit Base, BOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-273.jpg?height=691&width=1423&top_left_y=1010&top_left_x=253)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-273.jpg?height=691&width=1423&top_left_y=1010&top_left_x=253" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 149,209 GMAB contracts issued between 2006 and 2011 . Excludes contracts for which the GMAB benefit bases could not be determined and some years of issue to preserve confidentiality and avoid revealing company-specific information, as those data were heavily weighted for a very limited number of participating companies
 
 Not all GMAB contracts had contract values that were greater than or equal to the benefit base. For example, some GMAB contracts issued during 2002-2004 had benefit bases that exceeded the account values at BOY 2015. Favorable market conditions in 2010-2014 helped to bring the median benefit base to median contract value ratio equal to or less than 100 percent for many contracts. Figure 4-3 shows the comparison between the ratio of the median benefit base to median contract value for GMABs at BOY 2015, as well as the inter-quartile range to understand how widely (or narrowly) distributed the ratios were.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-274.jpg?height=1076&width=1458&top_left_y=796&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-274.jpg?height=1076&width=1458&top_left_y=796&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 The upper and lower quartiles in Figure 4-3 refer to the distribution of median benefit base to median contract value ( $\mathrm{BB} / \mathrm{CV})$ ratios, not to the distribution of contract values.
 
@@ -4690,7 +4690,7 @@ At EOY 2015, the median contract values for contracts issued prior to 2005 start
 
 ## Figure 4-4: GMAB Median Contract Value vs. Median Benefit Base, EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-275.jpg?height=696&width=1432&top_left_y=983&top_left_x=257)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-275.jpg?height=696&width=1432&top_left_y=983&top_left_x=257" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 148,318 GMAB contracts issued between 2006 and 2011 and remaining in force at EOY 2015. Excludes contracts for which the GMAB benefit bases could not be determined and some years of issue to preserve confidentiality and avoid revealing company-specific information, as those data were heavily weighted for a very limited number of participating companies.
 
@@ -4699,7 +4699,7 @@ At EOY, many quarters of the upper quartile ratios of $\mathrm{BB} / \mathrm{CV}
 
 Figure 4-5: GMAB Ratio of Benefit Base to Contract Value Distribution at EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-276.jpg?height=650&width=1390&top_left_y=892&top_left_x=454)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-276.jpg?height=650&width=1390&top_left_y=892&top_left_x=454" alt="image" style="width:100%;height:auto;">
 
 Quarter of Issue
 
@@ -4711,7 +4711,7 @@ In Figure 4-6, the average contract value declined 4 percent during 2015. At EOY
 
 ## Figure 4-6: GMAB Average Contract Values and Benefit Base Values
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-277.jpg?height=433&width=808&top_left_y=659&top_left_x=558)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-277.jpg?height=433&width=808&top_left_y=659&top_left_x=558" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 168,754 GMAB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMAB benefit bases (as of BOY, the contract's anniversary date, or EOY) could not be determined.
 
@@ -4725,7 +4725,7 @@ GMAB contracts are not designed for taking withdrawals, and withdrawals typicall
 
 Benefit Base Contract Value
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-278.jpg?height=355&width=786&top_left_y=641&top_left_x=756)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-278.jpg?height=355&width=786&top_left_y=641&top_left_x=756" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 137,151 GMAB contracts issued before 2015 and still in force at EOY 2015 with no withdrawals made or current-year premium received. Excludes contracts for which the GMAB benefit bases or contract values could not be determined.
 
@@ -4733,7 +4733,7 @@ Among contracts that had withdrawals in 2015, the average benefit base declined 
 
 ## Figure 4-8: GMAB Average Contract Value and Benefit Base for Contracts With Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-278.jpg?height=450&width=789&top_left_y=1583&top_left_x=755)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-278.jpg?height=450&width=789&top_left_y=1583&top_left_x=755" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 26,406 GMAB contracts issued before 2015 and still in force at EOY 2015 with withdrawals made, but no current-year premium received. Excludes contracts for which the GMAB benefit bases or contract values could not be determined.
 
@@ -4741,7 +4741,7 @@ Note: Based on 26,406 GMAB contracts issued before 2015 and still in force at EO
 
 We have expanded the analysis of $\mathrm{BB} / \mathrm{CV}$ ratios to drill down on age or age cohorts to see if any risks can be linked to $\mathrm{BB} / \mathrm{CV}$ ratios by age. This analysis shows that the $\mathrm{BB} / \mathrm{CV}$ ratios differ by age, and provides insights related to risks associated with each age or age cohort and comparisons within the GMAB industry.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-279.jpg?height=819&width=1458&top_left_y=740&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-279.jpg?height=819&width=1458&top_left_y=740&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Figure 4-9 provides the BB/CV ratios by age at BOY 2015. For in-force GMAB contracts issued before 2015, at BOY: 69 percent had benefit base amounts below their contract values - with one-quarter falling between 90 percent and less than 100 percent; 28 percent had BB/CV ratios between 100 to less than 110 percent; 1 percent had benefit bases that exceeded contract values by 110 to less than 125 percent; and only 2 percent had BB/CV ratios of 125 percent or more. Eighty-one percent of the owners aged 70 or older had BB/CV ratios below 100 percent.
 
@@ -4751,7 +4751,7 @@ Figure 4-10 shows the distribution of $\mathrm{BB} / \mathrm{CV}$ ratios by age 
 
 Figure 4-10: GMAB Benefit Base to Contract Value Ratios by Age - at EOY 2015
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-280.jpg?height=567&width=1442&top_left_y=1012&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-280.jpg?height=567&width=1442&top_left_y=1012&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 222,362 GMAB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMAB benefit bases or contract values could not be determined.
 
@@ -4761,7 +4761,7 @@ Just over 8 out of 10 GMABs had benefit bases that were determined based on tota
 
 ## Figure 4-11: GMAB Benefit Calculation Method
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-280.jpg?height=472&width=523&top_left_y=1878&top_left_x=1256)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-280.jpg?height=472&width=523&top_left_y=1878&top_left_x=1256" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 236,275 GMAB contracts issued before 2015 .
 
@@ -4775,7 +4775,7 @@ Most contracts (86 percent) have benefit maturity dates in 2016 or later (Figure
 
 Figure 4-12: GMAB Percentage of Contracts by Benefit Maturity Year
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-281.jpg?height=594&width=1066&top_left_y=1123&top_left_x=432)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-281.jpg?height=594&width=1066&top_left_y=1123&top_left_x=432" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 257,292 contracts issued before 2015. Excludes contracts for which GMAB benefit maturity year could not be determined.
 
@@ -4785,7 +4785,7 @@ Most of the GMAB benefits in force mature 7 to 10 years after they are elected. 
 
 ## Figure 4-13: GMAB Median Benefit Bases and Contract Values by Benefit Maturity Year
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-282.jpg?height=680&width=1201&top_left_y=1064&top_left_x=554)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-282.jpg?height=680&width=1201&top_left_y=1064&top_left_x=554" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 251,886 GMAB contracts issued before 2015 and still in force at EOY 2015. Excludes contracts for which the GMAB benefit bases could not be determined. We have not shown benefit maturity years before 2016 to preserve confidentiality and avoid revealing company-specific information, as that data was heavily weighted for one company or due to a very limited sample size.
 
@@ -4795,7 +4795,7 @@ GMAB contracts with benefit maturity in 2017 and 2020 or after tend to have high
 
 ## Figure 4-14: GMAB Median Benefit Base to Median Contract Value Ratio <br> at EOY 2015, by Benefit Maturity Year
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-283.jpg?height=813&width=1160&top_left_y=1038&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-283.jpg?height=813&width=1160&top_left_y=1038&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 225,692 GMAB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -4805,7 +4805,7 @@ Despite the fact that GMAB contracts are not designed for owners to take withdra
 
 ## Figure 4-15: GMAB Overall Withdrawals
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-284.jpg?height=431&width=981&top_left_y=1053&top_left_x=691)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-284.jpg?height=431&width=981&top_left_y=1053&top_left_x=691" alt="image" style="width:100%;height:auto;">
 
 Note: Based 260,864 GMAB contracts issued before 2015 and still in force at EOY 2015.
 
@@ -4828,7 +4828,7 @@ Three-quarters or more of owners in their upper 70 s and lower 80 s took withdra
 
 ## Figure 4-16: GMAB Withdrawals by Fund Source and Owner Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-285.jpg?height=789&width=1311&top_left_y=972&top_left_x=318)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-285.jpg?height=789&width=1311&top_left_y=972&top_left_x=318" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 260,783 GMAB contracts issued before 2015 and still in force at EOY 2015. Percentages refer to the number of contracts in each age group that had partial withdrawals during 2015.
 
@@ -4838,7 +4838,7 @@ In 2015, only 14 percent of GMAB owners who funded their annuities with IRA sour
 
 ## Figure 4-17: GMAB Withdrawals by IRA Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-286.jpg?height=629&width=1279&top_left_y=686&top_left_x=499)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-286.jpg?height=629&width=1279&top_left_y=686&top_left_x=499" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 176,936 GMAB contracts issued before 2015 and still in force at EOY 2015. Percentages refer to the number of contracts in each age group that had partial withdrawals during 2015.
 
@@ -4846,7 +4846,7 @@ Only 13 percent of nonqualified owners took withdrawals in 2015 (Figure 4-18). T
 
 ## Figure 4-18: GMAB Withdrawals by Nonqualified Owners
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-286.jpg?height=529&width=1085&top_left_y=1877&top_left_x=604)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-286.jpg?height=529&width=1085&top_left_y=1877&top_left_x=604" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 69,133 GMAB contracts, funded by nonqualified savings, issued before 2015 and still in force at EOY 2015.
 
@@ -4858,7 +4858,7 @@ Some owners in their 50s and 60s took average withdrawals of more than $\$ 25,00
 
 ## Figure 4-19: GMAB Amount of Withdrawals by Owner's Current Age
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-287.jpg?height=636&width=1204&top_left_y=1189&top_left_x=363)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-287.jpg?height=636&width=1204&top_left_y=1189&top_left_x=363" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 40,803 GMAB contracts issued before 2015, still in force at EOY 2015, with withdrawals in 2015 .
 
@@ -4868,7 +4868,7 @@ One-fifth of GMAB owners are taking withdrawals; which, for older owners are oft
 
 ## Figure 4-20: GMAB Withdrawals With Systematic Withdrawal Plans
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-288.jpg?height=759&width=1290&top_left_y=997&top_left_x=496)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-288.jpg?height=759&width=1290&top_left_y=997&top_left_x=496" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 42,407 GMAB contracts issued before 2015 and still in force at EOY 2015, with withdrawals in 2015 .
 
@@ -4914,7 +4914,7 @@ Contract surrender rates were extremely high (13.2 percent) for GMAB contracts i
 
 ## Figure 4-21: GMAB Surrender Rate by Quarter of Contract Issue
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-290.jpg?height=683&width=1362&top_left_y=1317&top_left_x=468)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-290.jpg?height=683&width=1362&top_left_y=1317&top_left_x=468" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 204,051 GMAB contracts issued between 2002 and 2011 . We have not shown all issue years to preserve confidentiality and avoid revealing company-specific information, as those data were heavily weighted for a limited number of participating companies. This analysis includes some hybrid GMAB riders.
 
@@ -4930,11 +4930,11 @@ Contracts surrendered where charges expired in the current year $=\mathbf{2 5 . 
 
 ## Figure 4-22: GMAB Contract Surrender Rates in 2015 by Share Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-291.jpg?height=613&width=1398&top_left_y=1336&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-291.jpg?height=613&width=1398&top_left_y=1336&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 Figure 4-23: GMAB Cash Value Surrender Rates in 2015 by Share Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-292.jpg?height=564&width=1398&top_left_y=458&top_left_x=453)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-292.jpg?height=564&width=1398&top_left_y=458&top_left_x=453" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 252,644 GMAB contracts issued before 2015.
 
@@ -4942,7 +4942,7 @@ Contract surrender is influenced by the rate of surrender charge present. Natura
 
 ## Figure 4-24: GMAB Contract Surrender Rates in 2015 by Surrender Charge Percentage
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-292.jpg?height=607&width=1155&top_left_y=1556&top_left_x=580)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-292.jpg?height=607&width=1155&top_left_y=1556&top_left_x=580" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 257,878 GMAB contracts issued before 2015 .
 
@@ -4950,7 +4950,7 @@ Figure 4-25: GMAB Cash Value Surrender Rates in 2015 by Surrender Charge Percent
 
 Cash Value Exposure (\$ billions) $-\mathrm{O}$ - Percent Surrendered
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-293.jpg?height=588&width=1119&top_left_y=541&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-293.jpg?height=588&width=1119&top_left_y=541&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 257,878 GMAB contracts issued before 2015.
 
@@ -4960,7 +4960,7 @@ Higher GMAB surrender rates are associated with younger owners, particularly tho
 
 ## Figure 4-26: GMAB Contract Surrender Rates in 2015, by Owners Who Took
 
- Withdrawals in 2015![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-294.jpg?height=799&width=1176&top_left_y=1018&top_left_x=564)
+ Withdrawals in 2015<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-294.jpg?height=799&width=1176&top_left_y=1018&top_left_x=564" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B4-1 for a breakdown of the data in this figure by presence of surrender charges. Note: Based on 261,371 GMAB contracts issued before 2015.
 
@@ -4973,7 +4973,7 @@ Percentage of Contracts Fully Surrendered
 $-\mathrm{O}$ - Took withdrawals Before 2015
 
 $\rightarrow$ - Did Not Take Withdrawals Before 2015
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-295.jpg?height=514&width=1162&top_left_y=972&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-295.jpg?height=514&width=1162&top_left_y=972&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B4-3 for a breakdown of the data in this figure by presence of surrender charges. Note: Based on 259,150 GMAB contracts issued before 2015.
 
@@ -4984,7 +4984,7 @@ Figures 4-28 and 4-29 show the cash value surrender rates for owners taking with
 Percentage of Cash Value Fully Surrendered
 
 $-\mathrm{O}$ - Took withdrawals in 2015
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-296.jpg?height=562&width=1170&top_left_y=784&top_left_x=564)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-296.jpg?height=562&width=1170&top_left_y=784&top_left_x=564" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B4-2 for a breakdown of the data in this figure by presence of surrender charges. Note: Based on 261,371 GMAB contracts issued before 2015.
 
@@ -4994,7 +4994,7 @@ Percentage of Cash Value Fully Surrendered
 
 -     - Took withdrawals Before 2015
 -     - Did Not Take Withdrawals Before 2015
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-296.jpg?height=466&width=1172&top_left_y=1950&top_left_x=560)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-296.jpg?height=466&width=1172&top_left_y=1950&top_left_x=560" alt="image" style="width:100%;height:auto;">
 
 See Appendix Table B4-4 for a breakdown of the data in this figure by presence of surrender charges. Note: Based on 259,150 GMAB contracts issued before 2015.
 
@@ -5002,7 +5002,7 @@ Many of these GMAB owners may have surrendered the contracts because the contrac
 
 ## Figure 4-30: GMAB Surrender Activity by Benefit Maturity Year
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-297.jpg?height=746&width=1336&top_left_y=901&top_left_x=297)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-297.jpg?height=746&width=1336&top_left_y=901&top_left_x=297" alt="image" style="width:100%;height:auto;">
 
 See Appendix Tables B4-5 and B4-6 for a breakdown of the data in this Figure by presence of surrender charges.
 
@@ -5014,7 +5014,7 @@ Figure 4-31 provides surrender rates for contracts where the surrender charge ex
 
 Percent of Contracts Fully Surrendered
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-298.jpg?height=515&width=859&top_left_y=1209&top_left_x=579)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-298.jpg?height=515&width=859&top_left_y=1209&top_left_x=579" alt="image" style="width:100%;height:auto;">
 
 No Surrender Charge, Expired Current Year (2015)
 
@@ -5044,7 +5044,7 @@ BB $>95 \%$ to $105 \%$ of CV
 
 $B B>105 \%$ of $C V$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-299.jpg?height=434&width=1066&top_left_y=791&top_left_x=451)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-299.jpg?height=434&width=1066&top_left_y=791&top_left_x=451" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 255,985 GMAB contracts issued before 2015. *We have not shown some measures to preserve confidentiality and avoid revealing company-specific information, as data in those characteristics were heavily weighted for one company or a limited number of participating companies.
 
@@ -5056,7 +5056,7 @@ Percent of Cash Value Fully Surrendered
 
 $\mathrm{BB}<=95 \%$ of $\mathrm{CV} \square \mathrm{BB}>95 \%$ to $105 \%$ of $\mathrm{CV} \quad \mathrm{BB}>105 \%$ of $\mathrm{CV}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-299.jpg?height=480&width=1065&top_left_y=1755&top_left_x=454)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-299.jpg?height=480&width=1065&top_left_y=1755&top_left_x=454" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 255,985 GMAB contracts issued before 2015.
 
@@ -5482,7 +5482,7 @@ Presence of Surrender Charge
 | Note: Based on 182,201 GMWB contracts issued before 2015. |  |  |  |
 | We have not shown some results because of low sample size. |  |  |  |
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-318.jpg?height=1463&width=1439&top_left_y=377&top_left_x=446)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-318.jpg?height=1463&width=1439&top_left_y=377&top_left_x=446" alt="image" style="width:100%;height:auto;">
 
 Table B2-4: GMWB Cash Value Surrender Rates by Owners Taking Withdrawals Before 2015 and by Presence of Surrender Charge
 
@@ -5917,28 +5917,28 @@ Table B4-4: GMAB Cash Value Surrender Rates by Owners Taking Withdrawals Before 
 
 ## Appendix C
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-335.jpg?height=846&width=1458&top_left_y=474&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-335.jpg?height=846&width=1458&top_left_y=474&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Figure C1-2: GLWB Withdrawals as a Percentage of Maximum Annual Benefit Amount
 
 by Age - Nonqualified Only
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-335.jpg?height=588&width=1456&top_left_y=1522&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-335.jpg?height=588&width=1456&top_left_y=1522&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 180,892 Nonqualified GLWB contracts issued before 2015, still in force at EOY 2015, and with withdrawals in 2015 .
 
 ## Figure C2-1: GMWB Withdrawals as a Percentage of Maximum Annual Benefit Amount by Age - Traditional IRA Only
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-336.jpg?height=577&width=1179&top_left_y=503&top_left_x=560)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-336.jpg?height=577&width=1179&top_left_y=503&top_left_x=560" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 55,033 IRA GMWB contracts issued before 2015 and remaining in force at EOY 2015 that had withdrawals. Some ages have been suppressed due to low sample sizes.
 
 ## Figure C2-2: GMWB Withdrawals as a Percentage of Maximum Annual Benefit Amount
 
- by Age - Nonqualified Only![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-336.jpg?height=567&width=960&top_left_y=1424&top_left_x=669)
+ by Age - Nonqualified Only<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-336.jpg?height=567&width=960&top_left_y=1424&top_left_x=669" alt="image" style="width:100%;height:auto;">
 
 Note: Based on 22,754 Nonqualified GMWB contracts issued before 2015 and remaining in force at EOY 2015 that had withdrawals. Some ages have been suppressed due to low sample sizes.
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-337.jpg?height=1756&width=1474&top_left_y=366&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-337.jpg?height=1756&width=1474&top_left_y=366&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Related Links
 
@@ -6044,7 +6044,7 @@ This article describes a study by Milliman Inc. that explores overall living ben
 
 https://www.soa.org/library/newsletters/product-development-news/2009/june/pro-2009-iss-74saip.pdf
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-342.jpg?height=371&width=968&top_left_y=1815&top_left_x=576)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-342.jpg?height=371&width=968&top_left_y=1815&top_left_x=576" alt="image" style="width:100%;height:auto;">
 
 (C)2017, LL Global, Inc. ${ }^{\text {SM }}$
 

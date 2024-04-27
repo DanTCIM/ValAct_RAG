@@ -16,7 +16,7 @@ December 2023
 
 ## Developed by the Long-Duration Contract Work Group of the Financial Reporting Committee of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-002.jpg?height=322&width=859&top_left_y=1384&top_left_x=660)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-002.jpg?height=322&width=859&top_left_y=1384&top_left_x=660" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {тм }}$
 
@@ -863,7 +863,7 @@ DPL amort $\quad 0.042 \%$
 
 discount rate: $0 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-053.jpg?height=504&width=954&top_left_y=488&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-053.jpg?height=504&width=954&top_left_y=488&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Update for assumps and exp at end of duration 2
 
@@ -877,7 +877,7 @@ Experienced and assumed mortality increase $\quad 10.0 \%$
 
 PV
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-053.jpg?height=515&width=1493&top_left_y=1260&top_left_x=392)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-053.jpg?height=515&width=1493&top_left_y=1260&top_left_x=392" alt="image" style="width:100%;height:auto;">
 
 ## Case 2: Multiple premium limited-payment issued after transition date
 
@@ -904,7 +904,7 @@ DPLamort $\quad 0.042 \%$
 
 discount rate: $0 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-055.jpg?height=504&width=954&top_left_y=488&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-055.jpg?height=504&width=954&top_left_y=488&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Update for assumps and exp at end of duration 2
 
@@ -916,7 +916,7 @@ discount rate: $0 \%$
 
 Experienced and assumed mortality increase $\quad 10.0 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-055.jpg?height=524&width=1647&top_left_y=1256&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-055.jpg?height=524&width=1647&top_left_y=1256&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Q 5.3: What are the mechanics of updating the liability for future policy benefits and DPL for experience and assumption changes for limited-payment policies in force at transition?
 
@@ -941,7 +941,7 @@ If DPL0 is greater than zero, the company also calculates the amortization perce
 
 ## Example 3: in force at transition, no premium expected after transition
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-057.jpg?height=1103&width=1479&top_left_y=308&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-057.jpg?height=1103&width=1479&top_left_y=308&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 ## Case 2: Premiums due after the transition date
 
@@ -959,7 +959,7 @@ iii. The company also calculates the amortization percentage, $\mathrm{K}(0)=[\m
 
 FPB NPR $\quad 83 \%$ <br> DPL amort $\quad 0.051 \%$ <br> discount rate: $\quad 0 \%$ <br> Carried balances <br> FPB <br> DPL <br> 151}
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-058.jpg?height=835&width=1461&top_left_y=626&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-058.jpg?height=835&width=1461&top_left_y=626&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 For business in force at the transition date, the transition date serves as the issue date of the cohort when performing subsequent remeasurements for actual experience and assumption changes. Just as calculations are reperformed as of the issue date in the case of business newly issued after the transition date, it is necessary to perform calculations as of the transition date when updating NPR and the DPL amortization percentage at any subsequent valuation date for business existing at the transition date. In the case of business in force as of transition date, FPBcarry and DPLcarry play a role in each subsequent valuation.
 
@@ -977,7 +977,7 @@ iii. Set $\mathrm{FPB}(\mathrm{T})$ as the $\mathrm{PV}$ (benefits and claim exp
 
 Example 3 extended builds on example 3 at a valuation date 2 years after transition in a scenario in which mortality increases to $110 \%$ of mortality expected at transition in year 2 and is assumed to continue at that level in the liability for future policy benefits and DPL update at the end of year 2.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-059.jpg?height=214&width=1109&top_left_y=885&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-059.jpg?height=214&width=1109&top_left_y=885&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 Experienced and assumedmortality increase
 
@@ -1009,9 +1009,9 @@ iii. Set $\mathrm{FPB}(\mathrm{T})$ as the $\mathrm{PV}$ (benefits and claims ex
 
 Example 4 extended builds on Example 4 at a valuation date 2 years after transition in a scenario in which mortality increases to $110 \%$ of mortality expected at transition in year 2 and is assumed to continue at that level in the liability for future policy benefits and DPL update at the end of year 2.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-060.jpg?height=214&width=1062&top_left_y=1004&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-060.jpg?height=214&width=1062&top_left_y=1004&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-060.jpg?height=528&width=1754&top_left_y=1254&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-060.jpg?height=528&width=1754&top_left_y=1254&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
 ## How to treat the carried-over DPL when NPR equals 1
 
@@ -1033,7 +1033,7 @@ An increase in FPB0 of more than the amount of pre-remeasurement DPL0 means that
 
 Building on Example 4 extended, suppose that the increased mortality beginning in the second year after the transition date is $13.1 \%$ (rather than $10 \%$ ) of the mortality assumed at transition. Retrospective calculations increase the net premium ratio to the $100 \%$ cap and reduce DPL0 to offset the increase in FPB0.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-061.jpg?height=214&width=1073&top_left_y=1584&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-061.jpg?height=214&width=1073&top_left_y=1584&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 |  | Duration |  | Premium | claims | FPB | DPL | Earnings <br> recalc from <br> transition | FPB <br> dur 0,1 historical <br> dur 2-10 projected | DPL <br> dur 0,1 historical <br> dur 2-10 projected | earnings <br> dur 0,1 historical <br> dur 2-10 projected |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2023,7 +2023,7 @@ As noted in Q 7.9, a separate cost of reinsurance asset or liability might be ne
 | 6 | 3,117 | $(4,626)$ | 3,804 | 679 | $21.8 \%$ | $(5,097)$ | 4,577 | (189) | (377) | $7.4 \%$ | 302 | $9.7 \%$ | 520 | 509 | (193) | $-6.2 \%$ | 486 | $15.60 \%$ |
 | 7 | 2,904 | $(6,075)$ | 0 | 633 | $21.8 \%$ | $(6,763)$ | 6,075 | 0 | (500) | $7.4 \%$ | 133 | $4.6 \%$ | 688 | 0 | (180) | $-6.2 \%$ | 453 | $15.60 \%$ |
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-098.jpg?height=783&width=1271&top_left_y=1262&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-098.jpg?height=783&width=1271&top_left_y=1262&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 The following table identifies elements of the calculation with sample answers that are open to interpretation:
 

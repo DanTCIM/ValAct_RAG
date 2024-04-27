@@ -2,7 +2,7 @@
 
 ## PBR, or principle-based reserving, is a new method of calculating U.S. statutory reserves that better quantifies product risks.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-1.jpg?height=583&width=352&top_left_y=107&top_left_x=1423)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-1.jpg?height=583&width=352&top_left_y=107&top_left_x=1423" alt="image" style="width:100%;height:auto;">
 
 ## Why is PBR needed?
 
@@ -73,7 +73,7 @@ Certifications-there are many certifications associated with the PBR valuation t
 
 The NAIC statement blank includes a VM-20 Reserves Supplement to facilitate reporting of PBR valuation amounts by product type on pre-and post-reinsurance bases, or of exemption from PBR valuation requirements
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-4.jpg?height=1811&width=1707&top_left_y=184&top_left_x=228)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-4.jpg?height=1811&width=1707&top_left_y=184&top_left_x=228" alt="image" style="width:100%;height:auto;">
 
 The PBR Checklist Task Force, which drafted this document, includes Karen Rudolph, MAAA, FSA-Chairperson; Nadeem Chowdhury, MAAA, FSA; Jason Kehrberg MAAA, FSA; Linda Lankowski, MAAA, FSA; Reanna Nicholsen MAAA, FSA; and Benjamin Slutsker, MAAA, FSA.
 
@@ -83,7 +83,7 @@ on all levels by providing leadership, objective expertise, and actuarial advice
 
 The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-4.jpg?height=174&width=401&top_left_y=2252&top_left_x=1580)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-4.jpg?height=174&width=401&top_left_y=2252&top_left_x=1580" alt="image" style="width:100%;height:auto;">
 
 ## ACTUARY.ORG
 

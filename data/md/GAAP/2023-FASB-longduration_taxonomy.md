@@ -128,7 +128,7 @@ Additionally, this Guide illustrates dimensional modeling with the "Product and 
 
 This example illustrates the modeling for disclosures of the beginning to the ending balance of unamortized deferred acquisition costs in tabular form.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-09.jpg?height=949&width=1458&top_left_y=607&top_left_x=325)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-09.jpg?height=949&width=1458&top_left_y=607&top_left_x=325" alt="image" style="width:100%;height:auto;">
 
 ## Figure 1.1
 
@@ -171,7 +171,7 @@ Figure 1.3
 
 This example illustrates the modeling for the information that an insurance entity with two long-duration product lines (term life and whole life) discloses in its financial statements for a disaggregated tabular roll forward of the beginning to the ending balance for the liability for future policy benefits, with separate presentation for expected future net premiums and expected future benefits.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-12.jpg?height=1707&width=1612&top_left_y=735&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-12.jpg?height=1707&width=1612&top_left_y=735&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 ### Figure 2a. 1
 
@@ -294,7 +294,7 @@ The XBRL report view created using the modeling structure is provided here:
 | Standard Label | Preferred Label |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | $20 X_{3}$ |  |  |  | $20 X 2$ |  |  |  |
-| Product and Service [Axis] <br> A1 |  | Term Life <br> Insurance <br>  <br> M1 | Whole Life <br> Insurance <br>  <br> M2 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-20.jpg?height=182&width=177&top_left_y=1111&top_left_x=1626) | Term Life <br> Insurance <br>  <br> M1 | Whole Life <br> Insurance <br>  <br> M2 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report- <br> wide Value |
+| Product and Service [Axis] <br> A1 |  | Term Life <br> Insurance <br>  <br> M1 | Whole Life <br> Insurance <br>  <br> M2 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-20.jpg?height=182&width=177&top_left_y=1111&top_left_x=1626" alt="image" style="width:100%;height:auto;"> | Term Life <br> Insurance <br>  <br> M1 | Whole Life <br> Insurance <br>  <br> M2 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report- <br> wide Value |
 | Liability for Future Policy <br> Benefit, before Reinsurance | Liability for future policy <br> benefits | 255778000 | 870200000 | 50000000 | 1175978000 | 190900000 | 676700000 | 55000000 | 922600000 |
 
 Figure $2 b .3$
@@ -373,7 +373,7 @@ Figure 2d. 2
 
 The XBRL report view created using the modeling structure is provided here:
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-24.jpg?height=424&width=2501&top_left_y=1086&top_left_x=139)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-24.jpg?height=424&width=2501&top_left_y=1086&top_left_x=139" alt="image" style="width:100%;height:auto;">
 
 Figure 2d.3
 
@@ -407,7 +407,7 @@ The legend for the elements used to tag these facts follows:
 
 The XBRL report view created using the modeling structure is provided here:
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-26.jpg?height=372&width=2340&top_left_y=968&top_left_x=219)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-26.jpg?height=372&width=2340&top_left_y=968&top_left_x=219" alt="image" style="width:100%;height:auto;">
 
 Figure 2e. 3
 
@@ -417,11 +417,11 @@ Figure 2e. 3
 
 This example illustrates the modeling for the information of the policyholders' account balance by range of guaranteed minimum crediting rates and the related range of difference, in basis points, between rates being credited to policyholders and the respective guaranteed minimums.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-27.jpg?height=1528&width=1848&top_left_y=632&top_left_x=144)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-27.jpg?height=1528&width=1848&top_left_y=632&top_left_x=144" alt="image" style="width:100%;height:auto;">
 
 Figure 3a. 1 (continues)
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-28.jpg?height=1458&width=1870&top_left_y=239&top_left_x=125)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-28.jpg?height=1458&width=1870&top_left_y=239&top_left_x=125" alt="image" style="width:100%;height:auto;">
 
 ### Figure 3a. 1 (continued)
 
@@ -533,7 +533,7 @@ Figure 3a.3 (continues)
 |  |  |  |  | Minimum [Member] <br> M9 |  | 0.0200 |  |
 |  |  |  | Policyholder Account Balance, at <br> Guaranteed Minimum Crediting <br> Rate [Member] <br> M14 |  | 750000 |  |  |
 |  |  |  | Policyholder Account Balance, <br> above Guaranteed Minimum <br> Crediting Rate, Range from ooo1 to <br> oo50 [Member] <br> M15 |  | 1475000 |  |  |
-|  |  |  | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-33.jpg?height=161&width=465&top_left_y=1603&top_left_x=827) |  | 1350000 |  |  |
+|  |  |  | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-33.jpg?height=161&width=465&top_left_y=1603&top_left_x=827" alt="image" style="width:100%;height:auto;"> |  | 1350000 |  |  |
 
 ### Figure 3a.3 (continues)
 
@@ -583,7 +583,7 @@ Balances
 
 This example illustrates the modeling for the balances of and changes in policyholders' account balances.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-38.jpg?height=1171&width=1553&top_left_y=561&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-38.jpg?height=1171&width=1553&top_left_y=561&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 ### Figure 3b. 1
 
@@ -616,7 +616,7 @@ The XBRL report view created using the modeling structure is provided here:
 |  |  |  | $\mathbf{2 0 X 3}$ |  | $20 X 2$ |  |
 |  | Product and Service [Axis] <br> A1 |  | Universal Life <br>  <br> $\mathrm{M}_{3}$ | Fixed Annuity <br>  <br> M4 | Universal Life <br>  <br> M3 $_{3}$ | Fixed Annuity <br>  <br> M4 |
 | L38 | Policyholder Account Balance, Premium <br> Received | Policyholder account balances, Premiums | 6900000 | 4990000 | 6545000 | 5100000 |
-| L39 | Policyholder Account Balance, Policy Charge | Policyholder account balances, Policy charges | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-40.jpg?height=45&width=212&top_left_y=590&top_left_x=1605) | 100000 | 150000 | 100000 |
+| L39 | Policyholder Account Balance, Policy Charge | Policyholder account balances, Policy charges | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-40.jpg?height=45&width=212&top_left_y=590&top_left_x=1605" alt="image" style="width:100%;height:auto;"> | 100000 | 150000 | 100000 |
 | L40 | Policyholder Account Balance, Surrender and <br> Withdrawal | Policyholder account balances, Surrenders and <br> withdrawals | 500000 | 750000 | 450000 | 50000 |
 | L41 | Policyholder Account Balance, Benefit Payment | Policyholder account balances, Benefit payments | 2000000 | 900000 | 1000000 | 450000 |
 | L42 | Transfer to (from) Policyholder Account Balance <br> (to) from Separate Account | Policyholder account balances, Net transfers (from) to <br> policyholder account balance | 1640000 | 1900000 | 3250000 | 3750000 |
@@ -669,7 +669,7 @@ The XBRL report view created using the modeling structure is provided here:
 | Standard Label | Preferred Label |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | $20 X_{3}$ |  |  |  | $20 X 2$ |  |  |  |
-| Product and Service <br>  <br> A1 |  | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-43.jpg?height=179&width=164&top_left_y=1179&top_left_x=1056) | Fixed <br> Annuity <br>  <br> M4 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report- <br> wide Value | Universal Life <br>  <br> $\mathrm{M}_{3}$ | Fixed Annuity <br>  <br> M4 | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-43.jpg?height=179&width=164&top_left_y=1176&top_left_x=2164) | Report- <br> wide value |
+| Product and Service <br>  <br> A1 |  | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-43.jpg?height=179&width=164&top_left_y=1179&top_left_x=1056" alt="image" style="width:100%;height:auto;"> | Fixed <br> Annuity <br>  <br> M4 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report- <br> wide Value | Universal Life <br>  <br> $\mathrm{M}_{3}$ | Fixed Annuity <br>  <br> M4 | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-43.jpg?height=179&width=164&top_left_y=1176&top_left_x=2164" alt="image" style="width:100%;height:auto;"> | Report- <br> wide value |
 | Policyholder Account <br> Balance | Policyholders account <br> balances, Balance, end of year | 21540000 | 19270000 | 2500000 | 43310000 | 14445000 | 13585000 | 2250000 | 30280000 |
 
 Figure 3c. 3
@@ -736,7 +736,7 @@ The XBRL report view created using the modeling structure is provided here (and 
 |  | Product and Service [Axis] <br> A1 |  | Variable Annuity <br>  <br> M5 $_{5}$ | Indexed Annuity <br>  <br> M8 |
 | L50 | Market Risk Benefit, Issuance | Market risk benefits, Issuances | 550000 | 390000 |
 | $\mathbf{L} 51$ | Market Risk Benefit, Interest Expense | Market risk benefits, Interest accrual | 1700000 | 250000 |
-| L52 | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-46.jpg?height=48&width=913&top_left_y=603&top_left_x=270) | Market risk benefits, Attributed fees collected | 2200000 | 90000 |
+| L52 | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-46.jpg?height=48&width=913&top_left_y=603&top_left_x=270" alt="image" style="width:100%;height:auto;"> | Market risk benefits, Attributed fees collected | 2200000 | 90000 |
 | L53 | Market Risk Benefit, Benefit Payment | Market risk benefits, Benefit payments | 1000000 | 800000 |
 | L54 | Market Risk Benefit, Increase (Decrease) from Interest Rate Change | Market risk benefits, Effect of changes in interest rates | 2475000 | 475000 |
 | L55 | Market Risk Benefit, Increase (Decrease) from Equity Market Change | Market risk benefits, Effect of changes in equity markets | 2250000 | 750000 |
@@ -762,7 +762,7 @@ Figure 4a. 3
 
 This example illustrates the modeling for the reconciliation of market risk benefits by amounts that are in an asset position and those that are in a liability position to the market risk benefits amount in the consolidated statement of financial position.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-48.jpg?height=534&width=1648&top_left_y=633&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-48.jpg?height=534&width=1648&top_left_y=633&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Figure 4b.1
 
@@ -895,7 +895,7 @@ The XBRL report view created using the modeling structure is provided here:
 | Standard Label | Preferred Label |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | $20 X_{3}$ |  |  |  | $20 X 2$ |  |  |  |
-| Product and Service [Axis] <br> A1 |  | Variable <br> Universal Life <br>  <br> $\mathrm{M}_{7}$ | Variable <br> Annuity <br>  <br> M5 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | ![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-55.jpg?height=176&width=176&top_left_y=1138&top_left_x=1678) | Variable <br> Universal <br> Life <br>  <br> M7 | Variable <br> Annuity <br>  <br> M5 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report-wide <br> Value |
+| Product and Service [Axis] <br> A1 |  | Variable <br> Universal Life <br>  <br> $\mathrm{M}_{7}$ | Variable <br> Annuity <br>  <br> M5 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | <img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-55.jpg?height=176&width=176&top_left_y=1138&top_left_x=1678" alt="image" style="width:100%;height:auto;"> | Variable <br> Universal <br> Life <br>  <br> M7 | Variable <br> Annuity <br>  <br> M5 | Long- <br> Duration <br> Insurance, <br> Other <br>  <br> M6 | Report-wide <br> Value |
 | Separate Account, Liability | Separate accounts liabilities, <br> Balance, end of year | 111250000 | 1403200000 | 20760000 | 1535210000 | 47400000 | 890640000 | 19510000 | 957550000 |
 
 Figure 5b. 3
@@ -904,7 +904,7 @@ Figure 5b. 3
 
 This example provides a Statement of Stockholders' Equity to illustrate the modeling for the values for transition adjustments to retained earnings and Accumulated Other Comprehensive Income (AOCI) for application to the earliest period presented.
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-56.jpg?height=944&width=2396&top_left_y=482&top_left_x=170)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-56.jpg?height=944&width=2396&top_left_y=482&top_left_x=170" alt="image" style="width:100%;height:auto;">
 
 Legend: This legend is provided to illustrate the elements associated with values or to provide context. This information is not part of disclosure.
 
@@ -938,11 +938,11 @@ The legend for the elements used to tag these facts follows:
 
 The XBRL report views created using the modeling structure are provided here:
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-58.jpg?height=687&width=2644&top_left_y=330&top_left_x=53)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-58.jpg?height=687&width=2644&top_left_y=330&top_left_x=53" alt="image" style="width:100%;height:auto;">
 
 Figure 6a.3a (continues)
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-58.jpg?height=656&width=2630&top_left_y=1138&top_left_x=67)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_0f01d25a9b12156dd6b8g-58.jpg?height=656&width=2630&top_left_y=1138&top_left_x=67" alt="image" style="width:100%;height:auto;">
 
 Figure 6a.3a (continued)
 

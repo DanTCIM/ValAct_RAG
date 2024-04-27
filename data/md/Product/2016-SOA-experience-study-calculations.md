@@ -1,8 +1,8 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-001.jpg?height=513&width=1114&top_left_y=85&top_left_x=923)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-001.jpg?height=513&width=1114&top_left_y=85&top_left_x=923" alt="image" style="width:100%;height:auto;">
 
 # Experience Study Calculations 
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-001.jpg?height=1440&width=1676&top_left_y=995&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-001.jpg?height=1440&width=1676&top_left_y=995&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 October 2016 (revised March 2024)
 
@@ -1613,7 +1613,7 @@ To recap, the uniform distribution of death assumption results in mortality rate
 
 For the Balducci Hypothesis (BH) and the uniform distribution (UDD), the slope of the monthly rates is roughly equal to the size of the rate, but opposite in direction. For a $12 \%$ mortality rate, the monthly rates for the Balducci Hypothesis decrease by $12 \%$ over the year, while for the UDD, they increase by $12 \%$ over the year. The constant mortality rate (CMR) assumption produces a level $12 \%$ mortality rate.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-043.jpg?height=648&width=1247&top_left_y=814&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-043.jpg?height=648&width=1247&top_left_y=814&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 We will examine each of the three assumptions in more depth using the same one-year monthly study that begins with 1,000 lives at the start of the year of age $x$, and applies a single decrement with a $12 \%$ annual decrement rate. For the annual study, we have:
 
@@ -1891,7 +1891,7 @@ The annual rates for all three exposure methods increase over the year and are r
 
 The following graph illustrates the annual rates from the preceding table. At the middle of the year, all three exposure methods intersect and match the $1 \%$ underlying annual rate. All three methods produce rates lower than the $1 \%$ rate in the first half of the year and higher than the $1 \%$ rate in the second half of the year. The distributed exposure method (UDD) produces the rates closest to the underlying mortality rates, which increase more steeply. The differences between the three exposure methods are largest at the start and end of the year. The annual rates for the fractional exposure method (CMR) match the annualized underlying monthly mortality rates.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-049.jpg?height=767&width=1350&top_left_y=1533&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-049.jpg?height=767&width=1350&top_left_y=1533&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 To simulate the partial years arising at the start and end of a period study, the next table shows a half-year study for the three exposure methods, with underlying mortality based on the same "increasing force" mortality formula.
 
@@ -1907,7 +1907,7 @@ The graph below shows the annual rates by exposure method for each half-year, st
 
 The annual rates for the first half-year are indicative of the annual rates for partial years arising at the end of the study period, or a policy year truncated at a calendar year-end. Similarly, the annual rates for the second half-year are indicative of the annual rates for partial years arising at the start of the study period, or a truncated policy year beginning at the prior calendar year-end.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-050.jpg?height=769&width=1347&top_left_y=1258&top_left_x=362)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_77542591393347e2e981g-050.jpg?height=769&width=1347&top_left_y=1258&top_left_x=362" alt="image" style="width:100%;height:auto;">
 
 Three exposure methods based on different underlying distribution of deaths have been examined. These are:
 

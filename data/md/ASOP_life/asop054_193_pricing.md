@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_7f47f11248ffe593ae98g-01.jpg?height=312&width=336&top_left_y=229&top_left_x=903)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_7f47f11248ffe593ae98g-01.jpg?height=312&width=336&top_left_y=229&top_left_x=903" alt="image" style="width:100%;height:auto;">
 
 ActUARIal Standards BoARD
 
@@ -116,7 +116,7 @@ Notable changes from the second exposure draft in response to the comment letter
 
 The ASB voted in June 2018 to adopt this standard.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_7f47f11248ffe593ae98g-06.jpg?height=252&width=870&top_left_y=243&top_left_x=606)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_7f47f11248ffe593ae98g-06.jpg?height=252&width=870&top_left_y=243&top_left_x=606" alt="image" style="width:100%;height:auto;">
 
 ## Life Committee of the ASB
 

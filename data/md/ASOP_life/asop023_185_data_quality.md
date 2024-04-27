@@ -365,7 +365,7 @@ The term "reviewers" includes the Task Force, General Committee, and the ASB. Un
 
 ## Section 2.2, Audit
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_86fe2d93761f9fe5d035g-17.jpg?height=55&width=1735&top_left_y=783&top_left_x=195)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_86fe2d93761f9fe5d035g-17.jpg?height=55&width=1735&top_left_y=783&top_left_x=195" alt="image" style="width:100%;height:auto;">
 a professional auditor.
 
 Response $\quad$ The reviewers note that the term "audit" has a specific definition in the ASOP that does not correspond with the term under U.S. GAAP and other accounting standards, and therefore made no change.

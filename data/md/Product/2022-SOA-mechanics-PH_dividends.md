@@ -2,7 +2,7 @@
 
 Mechanics of Dividends
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-01.jpg?height=1699&width=1982&top_left_y=869&top_left_x=77)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-01.jpg?height=1699&width=1982&top_left_y=869&top_left_x=77" alt="image" style="width:100%;height:auto;">
 
 March 2022
 
@@ -16,7 +16,7 @@ SPONSOR
 
 Individual Life and Annuities Track Curriculum Committee
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-02.jpg?height=233&width=1499&top_left_y=1849&top_left_x=318)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-02.jpg?height=233&width=1499&top_left_y=1849&top_left_x=318" alt="image" style="width:100%;height:auto;">
 
 Caveat and Disclaimer
 
@@ -131,11 +131,11 @@ The following Figures illustrate how these sources of earnings can be related to
 
 Figure 1 illustrates the growth of reserves (or funds) over the lifetime of a persisting whole life insurance policy. Assuming a constant face amount insured, the difference (i.e., the net amount at risk) declines as the reserve grows.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-07.jpg?height=978&width=1648&top_left_y=1110&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-07.jpg?height=978&width=1648&top_left_y=1110&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Figure 2 illustrates the patterns of the elements of the dividend on the policy in Figure 1. The three principal elements illustrated are (a) an interest element (in proportion to the reserve of Figure 1), (b) a mortality element (applying a difference in mortality rates to the net amount at risk of Figure 1), and (c) a third element distributing an amount related to premium loading minus expenses. The sum of the three elements produces the total dividend illustrated.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-08.jpg?height=881&width=1648&top_left_y=237&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-08.jpg?height=881&width=1648&top_left_y=237&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 The example runs to the end of the mortality table for the particular life. At that point, the net amount at risk and the mortality element of the dividend fall to zero.
 

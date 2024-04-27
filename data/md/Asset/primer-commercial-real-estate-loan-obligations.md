@@ -78,7 +78,7 @@ Appendix:
 
 CRE CLO Issuance (YTD = April 2021)
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_066f8aa18e154474806dg-6.jpg?height=564&width=1461&top_left_y=539&top_left_x=272)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_066f8aa18e154474806dg-6.jpg?height=564&width=1461&top_left_y=539&top_left_x=272" alt="image" style="width:100%;height:auto;">
 
 Source: Trepp, Bloomberg.
 
@@ -86,7 +86,7 @@ Source: Trepp, Bloomberg.
 
 Volume in SMil. Deal count at top of bar.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_066f8aa18e154474806dg-6.jpg?height=401&width=743&top_left_y=1426&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_066f8aa18e154474806dg-6.jpg?height=401&width=743&top_left_y=1426&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Source: Commercial Mortgage Alert, May 28, 2021.
 

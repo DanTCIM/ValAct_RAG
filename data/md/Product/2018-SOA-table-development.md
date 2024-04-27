@@ -1,6 +1,6 @@
 # (2) SOCIETYOF 
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-01.jpg?height=512&width=1117&top_left_y=80&top_left_x=924)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-01.jpg?height=512&width=1117&top_left_y=80&top_left_x=924" alt="image" style="width:100%;height:auto;">
 
 ## Table Development
 
@@ -163,7 +163,7 @@ Review and oversight is especially important as the table begins to take shape. 
 
 The following chart shows how the major steps in developing a new table are connected:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-07.jpg?height=604&width=1610&top_left_y=430&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-07.jpg?height=604&width=1610&top_left_y=430&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 ### 1.4 Future Table Development
 
@@ -316,7 +316,7 @@ This chapter will focus primarily on table development projects that are not upd
 
 There are variations among practitioners as to the order of process, but the standard methodology for a data analysis process involves the following steps. Each step is explained in greater depth in this chapter.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-14.jpg?height=181&width=1767&top_left_y=1140&top_left_x=168)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-14.jpg?height=181&width=1767&top_left_y=1140&top_left_x=168" alt="image" style="width:100%;height:auto;">
 
 ### 3.2 Data Acquisition
 
@@ -1587,7 +1587,7 @@ $$
 
 which simplifies to:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-65.jpg?height=65&width=712&top_left_y=992&top_left_x=365)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-65.jpg?height=65&width=712&top_left_y=992&top_left_x=365" alt="image" style="width:100%;height:auto;">
 
 which is analogous to the ANB to ALB conversion formula (8).
 

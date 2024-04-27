@@ -40,7 +40,7 @@ Chart 1 shows the capital structure of an arbitrage CLO transaction. Investor pr
 
 ## Chart 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-02.jpg?height=452&width=1166&top_left_y=1991&top_left_x=271)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-02.jpg?height=452&width=1166&top_left_y=1991&top_left_x=271" alt="image" style="width:100%;height:auto;">
 
 About 5-10\% of CLO transactions include "balance sheet" CLOs, whereby the mechanics are the same as arbitrage CLOs, but they differ in that balance sheet CLOs are structured primarily as a funding source for the issuer (usually a bank or specialty finance company). With balance sheet CLOs, the issuer securitizes the bank loans (middle market or broadly syndicated) off its balance sheet into an SPV, for the purpose of raising capital, and it typically retains the equity tranche.
 
@@ -71,13 +71,13 @@ Chart 2:
 
 Cash flows received from the underlying CLO collateral must follow a defined sequence of use known as a waterfall. Below we present a typical arbitrage CLO waterfall for interest and principal payments.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=1467&width=1209&top_left_y=424&top_left_x=274)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=1467&width=1209&top_left_y=424&top_left_x=274" alt="image" style="width:100%;height:auto;">
 
 "Transaction waterfals can and do vary from desl to deal. These wabertals are dapisyed for indicabve purpoess only. "Certain coverage teets may
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=33&width=1195&top_left_y=1919&top_left_x=279)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=33&width=1195&top_left_y=1919&top_left_x=279" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=27&width=1176&top_left_y=1946&top_left_x=282)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-05.jpg?height=27&width=1176&top_left_y=1946&top_left_x=282" alt="image" style="width:100%;height:auto;">
 Note: Coverpge teats - Overcolateralization (OC) and interest coverpge (IC) teste.
 
 Source: Fitch Fatings.
@@ -88,7 +88,7 @@ With regard to the composition of CLO investors, they vary by tranche, as shown 
 
 Table 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-06.jpg?height=459&width=1045&top_left_y=394&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-06.jpg?height=459&width=1045&top_left_y=394&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Mezzanine Tranches (Rated A/BBB/BB)
 
@@ -168,7 +168,7 @@ Annual U.S. CLO Issuance
 
 -BSL CLOs $\quad$ Refinancing/Reset CLOs MM CLOs
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-10.jpg?height=545&width=1594&top_left_y=470&top_left_x=257)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_53505b913a330e9e3849g-10.jpg?height=545&width=1594&top_left_y=470&top_left_x=257" alt="image" style="width:100%;height:auto;">
 
 CLO - Collateralized loan obligation. BSL - Broadly syndicated loan. MM - Middle market. Source: The Royal Bank of Scotland, public information, Fitch.
 

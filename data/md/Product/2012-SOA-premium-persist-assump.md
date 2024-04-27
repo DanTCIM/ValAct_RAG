@@ -345,7 +345,7 @@ scenario and a single pay to endow scenario were assumed in pricing ULSG product
 
 Graph 1 shows the distribution of funding patterns assumed in ULSG pricing. Note that the results sum up to more than the number of ULSG products reported in the survey due to the modeling of multiple patterns for some products. By far the most common patterns modeled for ULSG pricing purposes are level premium, single premium and limited pay (10-year and 20year).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-22.jpg?height=892&width=1523&top_left_y=1126&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-22.jpg?height=892&width=1523&top_left_y=1126&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Twenty-three of the 27 ULSG products are priced assuming multiple premium funding patterns rather than a single pattern. Of these 23 products, 10 are priced by modeling the multiple patterns assuming a weighted average of the premium persistency factors for each of the funding patterns assumed. The remaining 13 products appear to be priced with each of the patterns modeled separately. We believe the use of a weighted average of premium persistency factors can produce profit results dramatically different than those produced
 by modeling each premium payment pattern separately. For example, if a company offers a dial-a-guarantee structure and assumes some of its sales are in a carry-to-70 scenario, it could result in an overall average premium that carries the coverage for the weighted average scenario only to age 90, which would eliminate the tail liabilities at attained ages beyond that point. Also, as one participant noted, reserve patterns can vary dramatically using weighted averages versus scenario-by-scenario values.
@@ -381,7 +381,7 @@ The other category includes the following funding patterns.
 
 Graph 2 shows the distribution of funding patterns assumed for ULSG CFT and GAAP/IFRS purposes. Multiple patterns are also modeled for these functions so the results may sum up to more than the number of ULSG products reporting such assumptions. The funding patterns modeled for ULSG CFT purposes are more diverse than those assumed in ULSG pricing. Level premium, single premium and limited pay (10-year and 20 -year) scenarios are the most common for CFT purposes. The percentage of billed premium in addition to those listed for CFT are the most common funding patterns assumed for GAAP/IFRS purposes. The premium funding patterns assumed for GAAP/IFRS purposes are more evenly distributed among the various funding patterns utilized than for pricing and CFT purposes. The increase in billed premium funding patterns assumed for GAAP/IFRS purposes may be a result of the use of actual data, which differs from the funding pattern mix assumed in pricing.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-26.jpg?height=1154&width=1518&top_left_y=236&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-26.jpg?height=1154&width=1518&top_left_y=236&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 For both CFT and GAAP/IFRS purposes, it is nearly evenly split between the ULSG products that are modeled assuming only one premium funding pattern versus multiple patterns. All products that are modeled assuming more than one funding pattern do so explicitly, with the exception of one product using a weighted average basis for CFT. It is interesting that survey participants recognize the need to analyze different funding patterns in the pricing process and that fewer do so for cash flow testing or for GAAP/IFRS purposes. For ULSG products, of those participants that model multiple funding patterns for pricing and only one funding pattern for CFT, 75 percent (six of eight) model only a level premium pattern for CFT. Similarly, 80 percent (four of five) model only a level premium scenario for GAAP/IFRS purposes. It appears a simplified approach is used for premium persistency assumptions for these functions. Perhaps companies choose the most conservative pattern or the most frequent pattern experienced. If companies are simplifying these assumptions, they should verify that the simplification does not materially misrepresent the business. As noted previously, the use of a single funding pattern may be explained by the fact that when cash flow testing or GAAP/IFRS analysis is
 performed, there is additional information about the policyholder available to develop premium persistency assumptions (e.g., planned periodic premium is known and billing history is available). Another consideration is that modeling constraints may be more likely to occur when analyzing large in-force blocks of business for CFT and GAAP/IFRS purposes. Such constraints may not be present when pricing based on a limited number of pricing cells.
@@ -616,7 +616,7 @@ Funding patterns that fall into the other category include those where the descr
 
 Graph 3 shows the distribution of funding patterns assumed in AccumUL pricing. Note that the results sum up to more than the number of AccumUL products reported in the survey due to the modeling of multiple patterns for some products. By far the most common pattern modeled for AccumUL pricing purposes is level premium.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-39.jpg?height=900&width=1523&top_left_y=233&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-39.jpg?height=900&width=1523&top_left_y=233&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 Ten of the 11 participants reported premium persistency factors assumed in pricing. Six of these 10 AccumUL products are priced assuming a single funding pattern rather than multiple premium funding patterns. The remaining participants price AccumUL products based on multiple premium funding patterns, with some modeling the premium persistency factors applicable to each funding pattern explicitly and others assuming a weighted average of the premium persistency factors for each of the funding patterns assumed. This is different from ULSG products where pricing based on multiple premium funding patterns is common.
 
@@ -639,7 +639,7 @@ The other category includes the following funding patterns.
 
 Note that three of the 11 AccumUL participants did not report assumptions on a GAAP/IFRS basis. Graph 4 shows the distribution of funding patterns assumed for AccumUL cash flow testing and GAAP/IFRS purposes. Multiple patterns are modeled so the results may sum up to more than the number of AccumUL products reporting such assumptions. Level premium and percent of billed premium are the most common patterns for CFT and GAAP/IFRS purposes. For the eight participants reporting GAAP/IFRS assumptions, the funding patterns are the same as those reported for CFT purposes.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-40.jpg?height=1074&width=1529&top_left_y=1382&top_left_x=295)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-40.jpg?height=1074&width=1529&top_left_y=1382&top_left_x=295" alt="image" style="width:100%;height:auto;">
 
 For CFT purposes, the split between the AccumUL products modeled assuming only one premium funding pattern versus multiple premium funding patterns is similar to that for AccumUL pricing purposes. Seven participants reported they assume a single scenario and three assume more than one scenario. The 11th participant reported its premium persistency assumption for CFT purposes is based on experience studies but provided no further details. Only three of the first 10 participants assume more than one premium funding pattern in both pricing and CFT for AccumUL products.
 
@@ -898,7 +898,7 @@ Four participants reported funding patterns that fall into the other category. T
 Graph 5 shows the distribution of funding patterns assumed in CAUL pricing. Note that the results sum up to more than the number of CAUL products reported in the survey due to the modeling of multiple patterns for some
 products. The most common patterns modeled for CAUL pricing purposes are level premium, single premium and limited pay (10-year and 20-year).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-52.jpg?height=940&width=1526&top_left_y=411&top_left_x=297)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-52.jpg?height=940&width=1526&top_left_y=411&top_left_x=297" alt="image" style="width:100%;height:auto;">
 
 Premium persistency factors assumed in pricing CAUL were reported for 13 of the 14 products. Twelve of these 13 CAUL products are priced assuming multiple premium funding patterns, with the majority modeling each of the patterns separately and the remainder assuming a weighted average of the premium persistency factors for each of the funding patterns assumed. This is similar to ULSG products where pricing based on multiple premium funding patterns is common.
 
@@ -919,7 +919,7 @@ The following funding patterns were included in the other category.
 
 Note that GAAP/IFRS assumptions were not reported for three of the 14 CAUL products. Graph 6 shows the distribution of funding patterns assumed for CAUL CFT and GAAP/IFRS purposes. Multiple patterns are modeled so the results may sum up to more than the number of CAUL products reporting such assumptions. By far, percent of billed premium is the most common pattern for CFT purposes and is also the most common funding pattern reported for GAAP/IFRS purposes. For eight products, GAAP/IFRS funding patterns were the same as reported for CFT purposes. For an additional two products, the average billed premium per $\$ 1,000$ per cell is assumed for CFT purposes, but the actual billed premium per policy is assumed for GAAP/IFRS purposes. The funding pattern for a third product was reported for GAAP/IFRS purposes but not for CFT purposes.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-54.jpg?height=1024&width=1518&top_left_y=236&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-54.jpg?height=1024&width=1518&top_left_y=236&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 For CAUL cash flow testing purposes, the modeling of a single funding pattern is more common than modeling multiple patterns. Of the 13 products for which CFT assumptions were reported, 10 assume a single funding pattern and three assume more than one funding pattern. Only one of the 10 participants assumes only one premium funding pattern in both pricing and CFT for CAUL products. For CAUL products, of those participants that model multiple scenarios for pricing and only one scenario for CFT, 89 percent (eight of nine) model only a percent of billed premium scenario for CFT. The rationale cited for modeling a single funding pattern for ULSG products for CFT also applies here. It appears a simplified approach is used for CFT premium persistency assumptions. Perhaps companies choose the most conservative pattern or the most frequent pattern actually experienced. If companies are simplifying CFT assumptions, they should verify that the simplification does not materially misrepresent the business. Also, the use of a single funding pattern may be explained by the fact that when CFT is performed, there is additional information about the policyholder available to develop premium persistency assumptions (e.g., planned periodic premium is known and billing history is available).
 
@@ -1133,7 +1133,7 @@ Funding patterns that fall into the other category include maximum premium and M
 
 Graph 7 shows the distribution of funding patterns assumed in IUL pricing. Note that the results sum up to more than the number of IUL products reported in the survey due to the modeling of multiple patterns for some products. By far the most common pattern modeled for IUL pricing purposes is level premium.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-64.jpg?height=943&width=1525&top_left_y=1201&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-64.jpg?height=943&width=1525&top_left_y=1201&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Premium persistency factors assumed in pricing were reported for all IUL products. All 12 IUL products are priced assuming multiple premium funding patterns, with seven of the 12 assuming a weighted average of the premium persistency factors for each of the funding patterns assumed.
 
@@ -1157,7 +1157,7 @@ The other category includes the following funding patterns.
 
 Graph 8 shows the distribution of funding patterns assumed in indexed UL cash flow testing. Multiple patterns are modeled so the results may sum up to more than the number of IUL products reporting such assumptions. By far, level premium funding is the most common pattern for CFT and GAAP/IFRS purposes for IUL products. For the 10 products for which GAAP/IFRS assumptions were reported, the funding patterns are the same as those reported for CFT purposes.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-66.jpg?height=1028&width=1523&top_left_y=234&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-66.jpg?height=1028&width=1523&top_left_y=234&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 Unlike modeling of IUL products for pricing purposes, only three of the 12 IUL products include modeling of more than one premium funding pattern for CFT and GAAP/IFRS purposes. Seven participants reported they assume a single funding pattern. Premium persistency assumptions for CFT and GAAP/IFRS purposes were not reported for the final two products.
 
@@ -1392,7 +1392,7 @@ Funding patterns that fall into the other category include maximum funding and n
 Graph 9 shows the distribution of funding patterns assumed in VUL pricing. Note that the results sum up to more than the number of VUL products reported in the survey due to the modeling of multiple patterns for some
 products. The most common patterns modeled for VUL pricing purposes are level premium and other.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-77.jpg?height=952&width=1523&top_left_y=413&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-77.jpg?height=952&width=1523&top_left_y=413&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Premium persistency factors assumed in pricing were reported for all but one of the nine VUL products. It is evenly split between the VUL products priced assuming multiple premium funding patterns and those that assume only one scenario in pricing. One of the four products with multiple premium funding patterns assumes a weighted average of the premium persistency factors for each of the funding patterns assumed.
 
@@ -1411,7 +1411,7 @@ The other category includes the following funding patterns.
 
 Graph 10 shows the distribution of funding patterns assumed in VUL cash flow testing and for GAAP/IFRS purposes. Each participant reported a different premium funding pattern for cash flow testing of VUL products. Four of the eight products for which both CFT and GAAP/IFRS assumptions were reported included the same funding patterns for both functions.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-78.jpg?height=1057&width=1518&top_left_y=1255&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_b1f1dfcd098524c30382g-78.jpg?height=1057&width=1518&top_left_y=1255&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Premium persistency factors assumed for CFT purposes were reported for all but one of the nine VUL products. For the eight products where both CFT and GAAP/IFRS assumptions were reported, it is evenly split between the VUL products that test based on multiple premium funding patterns and those that assume a single funding pattern in CFT. It is interesting that the four products using multiple funding patterns in pricing, use only one scenario for CFT purposes, and the four products that use a single funding pattern for pricing, use multiple funding patterns for CFT. A single scenario was reported for the ninth product relative to GAAP/IFRS premium funding patterns assumptions.
 

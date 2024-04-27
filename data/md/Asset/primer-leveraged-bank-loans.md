@@ -23,7 +23,7 @@ Leveraged bank loans are originated with covenants, which are restrictions on wh
 
 ## Chart 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-02.jpg?height=609&width=366&top_left_y=753&top_left_x=248)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-02.jpg?height=609&width=366&top_left_y=753&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 ## Basic Background on Leveraged Bank Loans
 
@@ -31,7 +31,7 @@ Leveraged bank loans are comprised of institutional bank loans and pro-rata loan
 
 ## Chart 2: U.S. Leveraged Loan Issuance
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-03.jpg?height=624&width=1548&top_left_y=333&top_left_x=253)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-03.jpg?height=624&width=1548&top_left_y=333&top_left_x=253" alt="image" style="width:100%;height:auto;">
 
 Source: Thomson Reuters LPC, Leveraged Loans Monthly, August 2018.
 
@@ -43,7 +43,7 @@ Chart 3 shows how the leveraged bank loan market has grown and been impacted by 
 
 Leveraged Loan Market History
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-03.jpg?height=648&width=1347&top_left_y=1663&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-03.jpg?height=648&width=1347&top_left_y=1663&top_left_x=343" alt="image" style="width:100%;height:auto;">
 
 KKR - Kohlberg Kravis Roberts. TXU - TXU Corporation. Note: Gray section represents a recessionary period as defined by the National Bureau of Economic Research.[^1]
 
@@ -101,7 +101,7 @@ As shown in Chart 4, consistently over the years since at least 2009, CLOs have 
 
 ## Chart 4:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-06.jpg?height=837&width=1396&top_left_y=1002&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_f0ef0faf80e690991fcbg-06.jpg?height=837&width=1396&top_left_y=1002&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 ## What Are the Risks?
 

@@ -31,7 +31,7 @@ The non-mortgage ABS market began in the mid-1980s with securitizations of auto 
 
 ABS comprised a small portion (4\%) of fixed income securities outstanding as of second quarter 2018 (see Chart 1). ABS are typically segmented into commercial ABS or consumer ABS. Consumer ABS are supported by auto loans, credit card loans or student loans, among other consumer loans/receivables. This primer focuses on auto ABS, credit card ABS and SLABS; "assets" refers to the underlying loans/receivables that comprise ABS collateral.[^0]
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-02.jpg?height=558&width=919&top_left_y=285&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-02.jpg?height=558&width=919&top_left_y=285&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 Source: SIFMA data as of second quarter 2018.
 
@@ -92,7 +92,7 @@ A basic ABS structure is shown in Diagram 1.
 
 Diagram 1
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-04.jpg?height=686&width=1241&top_left_y=825&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-04.jpg?height=686&width=1241&top_left_y=825&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Source: Moody's Investor Service.
 
@@ -124,7 +124,7 @@ Losses from defaults are allocated in reverse priority of payment, beginning wit
 
 ## Diagram 2: Priority of Payment and Loss Allocation
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-06.jpg?height=620&width=637&top_left_y=300&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_675ffc2fba8188c92c1dg-06.jpg?height=620&width=637&top_left_y=300&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 ## Credit Enhancement
 

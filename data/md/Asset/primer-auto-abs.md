@@ -21,7 +21,7 @@ Auto asset-backed securities (auto ABS) are structured finance securities that a
 
 Picture 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_66f297fe806979d47308g-02.jpg?height=1244&width=1304&top_left_y=283&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_66f297fe806979d47308g-02.jpg?height=1244&width=1304&top_left_y=283&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 Source: GMFinancial.com.
 
@@ -219,7 +219,7 @@ Historical Auto ABS Outstanding, 1985-2018 (\$bil)
 
 0
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_66f297fe806979d47308g-10.jpg?height=62&width=1675&top_left_y=1194&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_66f297fe806979d47308g-10.jpg?height=62&width=1675&top_left_y=1194&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 Source: Securities Industry and Financial Markets Association (SIFMA).
 

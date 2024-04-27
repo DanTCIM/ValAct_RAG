@@ -292,7 +292,7 @@ The second Macaulay approach described above does not combine cashflows from dif
 
 Because LDTI requires the category's LFPB liability to be presented using two rates of interest (locked-in original "interest accretion rate" and "current discount rate"), the effective duration approach can be utilized directly to calculate the category's duration. The effective duration of a LFPB category would be calculated as follows:
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_52b73d37f8dc969521c8g-20.jpg?height=111&width=1363&top_left_y=1473&top_left_x=500)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_52b73d37f8dc969521c8g-20.jpg?height=111&width=1363&top_left_y=1473&top_left_x=500" alt="image" style="width:100%;height:auto;">
 
 The effective duration of a LFPB category using the illustrative LFPB values (above) for a category with a $4.00 \%$ locked-in original "interest accretion rate" and $3.20 \%$ "current discount rate" would be as follows:
 

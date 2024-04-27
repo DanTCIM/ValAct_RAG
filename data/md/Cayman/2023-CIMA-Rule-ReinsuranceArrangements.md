@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_ff2747bf991a93fe5c00g-01.jpg?height=485&width=507&top_left_y=83&top_left_x=83)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_ff2747bf991a93fe5c00g-01.jpg?height=485&width=507&top_left_y=83&top_left_x=83" alt="image" style="width:100%;height:auto;">
 
 # RULES AND STATEMENT OF GUIDANCE Reinsurance Arrangements 
 
@@ -213,7 +213,7 @@ c) its risk appetite to provide clarity as to the risks that are retained by the
 
 15.1. These Rules and Statement of Guidance will come into effect twelve (12) months following the date in which the measure is published in the Gazette.
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_ff2747bf991a93fe5c00g-12.jpg?height=664&width=661&top_left_y=823&top_left_x=710)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_ff2747bf991a93fe5c00g-12.jpg?height=664&width=661&top_left_y=823&top_left_x=710" alt="image" style="width:100%;height:auto;">
 
 SIX, Cricket Square<br>PO Box 10052<br>Grand Cayman KY1 - 1001<br>CAYMAN ISLANDS
 

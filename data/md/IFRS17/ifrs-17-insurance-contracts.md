@@ -961,7 +961,7 @@ For liquidity risk arising from contracts within the scope of IFRS 17, an entity
 
 This appendix is an integral part of IFRS 17 Insurance Contracts.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_0f0789e9fbe9e45775acg-040.jpg?height=84&width=279&top_left_y=668&top_left_x=380)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_0f0789e9fbe9e45775acg-040.jpg?height=84&width=279&top_left_y=668&top_left_x=380" alt="image" style="width:100%;height:auto;">
 
 coverage period
 

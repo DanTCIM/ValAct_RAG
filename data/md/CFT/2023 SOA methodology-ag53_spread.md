@@ -18,7 +18,7 @@ Investment Section
 
 Committee on Finance Research
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-02.jpg?height=253&width=1510&top_left_y=1844&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-02.jpg?height=253&width=1510&top_left_y=1844&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Caveat and Disclaimer
 
@@ -58,7 +58,7 @@ The paper is also not intended to create a specific methodology to attribute Gui
 
 The documentation requirements for AG 53 can be found at https://content.naic.org/sites/default/files/inlinefiles/AG\ 53.pdf. The principles will build on financial industry research and analytics where practical.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-04.jpg?height=220&width=1302&top_left_y=1950&top_left_x=409)[^0]
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-04.jpg?height=220&width=1302&top_left_y=1950&top_left_x=409" alt="image" style="width:100%;height:auto;">[^0]
 
 ## Section 1: Background on Actuarial Guideline LIII (“AG 53") and the Requirement for Guideline Excess Spread Attribution
 
@@ -66,7 +66,7 @@ AG 53, adopted by the NAIC Life Insurance and Annuities (A) Committee on July 20
 
 One key focus of AG 53 is on "Projected High Net Yield" (PHNY) assets, defined in Section 4.F. of the guideline as follows:
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-05.jpg?height=347&width=1090&top_left_y=688&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-05.jpg?height=347&width=1090&top_left_y=688&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 (a) Aggregation of the comparison between the assumed Net Market Spread from each asset and the Investment Grade Net Spread Benchmark shall be done at a level of granularity that is consistent with or more granular than how the assets are grouped, i.e., compressed, in the asset adequacy analysis model.
 
@@ -267,7 +267,7 @@ While this research paper can provide useful information to an Appointed Actuary
 - Specific methodological approaches to spread attribution and development of an accepted industry methodology as a "safe harbor"
 - Survey of current practices resulting in publication of a practice note
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-15.jpg?height=252&width=1523&top_left_y=1804&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-15.jpg?height=252&width=1523&top_left_y=1804&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Section 8: Acknowledgments
 

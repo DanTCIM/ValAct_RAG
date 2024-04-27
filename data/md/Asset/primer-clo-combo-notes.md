@@ -39,7 +39,7 @@ An example of a CLO structure is shown in Figure 1.
 
 Figure 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-03.jpg?height=470&width=1356&top_left_y=475&top_left_x=360)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-03.jpg?height=470&width=1356&top_left_y=475&top_left_x=360" alt="image" style="width:100%;height:auto;">
 
 "Asset manager typically contributes a portion of equity. P8I - Principal and interest. Cie - Credit enhancement (based on subordination). NR - Not rated.
 
@@ -70,7 +70,7 @@ Table 1: CLO Capital Structure
 
 Fig. 2: Combo Note Structure
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-04.jpg?height=488&width=1233&top_left_y=553&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-04.jpg?height=488&width=1233&top_left_y=553&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
 Source: Moody's Investors Service: 5180-2 (Combination Note) Ltd.
 
@@ -116,7 +116,7 @@ Institutional investors (i.e., financial institutions and insurance companies) h
 
 Historical CLOs Outstanding in the U.S. (\$bil), 2010-102019
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-07.jpg?height=789&width=1263&top_left_y=375&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3a779ca984e88c7081e0g-07.jpg?height=789&width=1263&top_left_y=375&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Source: Securities Industry and Financial Markets Association (SIFMA)
 

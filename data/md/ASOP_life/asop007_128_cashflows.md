@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_65182219026d6ce027aag-01.jpg?height=2423&width=1802&top_left_y=165&top_left_x=156)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_65182219026d6ce027aag-01.jpg?height=2423&width=1802&top_left_y=165&top_left_x=156" alt="image" style="width:100%;height:auto;">
 
 (Doc. No. 128)
 

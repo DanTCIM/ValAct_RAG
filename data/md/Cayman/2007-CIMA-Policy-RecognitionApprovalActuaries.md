@@ -1,6 +1,6 @@
 # July 2007 
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-1.jpg?height=244&width=244&top_left_y=122&top_left_x=924)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-1.jpg?height=244&width=244&top_left_y=122&top_left_x=924" alt="image" style="width:100%;height:auto;">
 
 ## Regulatory Policy
 
@@ -102,7 +102,7 @@ The body must implement and maintain education requirements that match or exceed
 
 4.2.1 The person must be an "actuary" as defined in section 2, including
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-5.jpg?height=242&width=227&top_left_y=123&top_left_x=930)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-5.jpg?height=242&width=227&top_left_y=123&top_left_x=930" alt="image" style="width:100%;height:auto;">
 
 ## July 2007
 

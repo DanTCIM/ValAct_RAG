@@ -4,7 +4,7 @@ February 2022
 
 Developed by the Variable Annuity Reserves \& Capital Work Group of the Life Practice Council of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-01.jpg?height=263&width=711&top_left_y=2091&top_left_x=707)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-01.jpg?height=263&width=711&top_left_y=2091&top_left_x=707" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective.
 
@@ -14,7 +14,7 @@ February 2022
 
 ## Developed by the Variable Annuity Reserves \& Capital Work Group of the Life Practice Council of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-02.jpg?height=325&width=705&top_left_y=1488&top_left_x=707)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-02.jpg?height=325&width=705&top_left_y=1488&top_left_x=707" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is a 19,500+ member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 

@@ -382,7 +382,7 @@ The exposure draft of this actuarial standard of practice (ASOP), then titled Di
 | SECTION 1. PURPOSE, SCOPE, CROSS REFENCES, AND EFFECTIVE DATE |  |
 | Section 1.1, Purpose |  |
 | Comment | that it covers policyholder dividends |
-|  | ![](https://cdn.mathpix.com/cropped/2024_04_18_892d7b9d7d88292d179eg-18.jpg?height=57&width=1504&top_left_y=1814&top_left_x=409) |
+|  | <img src="https://cdn.mathpix.com/cropped/2024_04_18_892d7b9d7d88292d179eg-18.jpg?height=57&width=1504&top_left_y=1814&top_left_x=409" alt="image" style="width:100%;height:auto;"> |
 | Section 1.2, Scope |  |
 | Comment | at the actual payment of future dividend scales should be ti |
 | Response | The reviewers believed that the standard adequately addressed the dividend allocation process and that the <br> insurer may change the dividend allocation process, working through the dividend framework, dividend <br> factors, and divisible surplus, resulting in dividend scales that may differ markedly from those originally <br> illustrated. |

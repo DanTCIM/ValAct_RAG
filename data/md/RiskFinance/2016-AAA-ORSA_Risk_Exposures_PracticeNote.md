@@ -14,7 +14,7 @@ of the ERM/ORSA Committee
 
 of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-01.jpg?height=268&width=724&top_left_y=2116&top_left_x=711)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-01.jpg?height=268&width=724&top_left_y=2116&top_left_x=711" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {TM }}$
 
@@ -24,7 +24,7 @@ June 2016
 
 Developed by<br>the Risk Exposures Subgroup<br>of the ERM/ORSA Committee<br>of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-02.jpg?height=306&width=832&top_left_y=1503&top_left_x=644)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-02.jpg?height=306&width=832&top_left_y=1503&top_left_x=644" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {T }}$
 
@@ -56,7 +56,7 @@ David Schraub, MAAA, CERA, FSA, AQ
 
 Special thanks to those who helped finalize the practice note: Daniel Hui, MAAA, CERA, FSA; Malgorzata Jankowiak-Roslanowska, MAAA, ASA; Joshua Liu, MAAA, FRM, FSA; and William Wilkins, MAAA, FCAS.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-03.jpg?height=182&width=417&top_left_y=1351&top_left_x=735)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_653bcc917ddcdf72dac6g-03.jpg?height=182&width=417&top_left_y=1351&top_left_x=735" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMy of ACTUARIES
 

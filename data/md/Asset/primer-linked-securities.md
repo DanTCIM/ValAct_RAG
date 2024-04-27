@@ -49,7 +49,7 @@ A basic collateralized ILS structure is shown in Diagram 1.
 
 ## Diagram 1: Structure of Collateralized ILS/Cat Bond Transaction
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-2.jpg?height=662&width=1365&top_left_y=1672&top_left_x=250)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-2.jpg?height=662&width=1365&top_left_y=1672&top_left_x=250" alt="image" style="width:100%;height:auto;">
 
 Early in the development of ILS, the typical structure included a total return swap (TRS) in which a counterparty guaranteed the liquidity and performance of the investments held by the collateral trust.
 
@@ -84,11 +84,11 @@ The type and quality of collateral held in the collateral trust is important. Th
 
 ## Chart 2: Pros and Cons of Traditional Reinsurance and Third-Party Capital
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-4.jpg?height=784&width=230&top_left_y=394&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-4.jpg?height=784&width=230&top_left_y=394&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Reinsurance
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-4.jpg?height=86&width=312&top_left_y=304&top_left_x=576)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_3ebb344aa4fcf12ec6feg-4.jpg?height=86&width=312&top_left_y=304&top_left_x=576" alt="image" style="width:100%;height:auto;">
 
 Long-term partner and commitment;
 "face to the risk"

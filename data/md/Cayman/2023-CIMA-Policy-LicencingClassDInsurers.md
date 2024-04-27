@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_ada09872f86978ac530bg-01.jpg?height=480&width=501&top_left_y=112&top_left_x=80)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_ada09872f86978ac530bg-01.jpg?height=480&width=501&top_left_y=112&top_left_x=80" alt="image" style="width:100%;height:auto;">
 
 # REGULATORY POLICY Licencing for Class D Insurers 
 
@@ -344,7 +344,7 @@ the issuer of such funding mechanism(s): is a financial institution regulated by
 
 10.1. In addition to the above, the Authority may require any other information or documentation that is necessary for processing an application and granting a licence.
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_ada09872f86978ac530bg-16.jpg?height=667&width=661&top_left_y=824&top_left_x=710)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_ada09872f86978ac530bg-16.jpg?height=667&width=661&top_left_y=824&top_left_x=710" alt="image" style="width:100%;height:auto;">
 
 SIX, Cricket Square
 

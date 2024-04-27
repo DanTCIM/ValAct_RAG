@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_03_14_9aa67a64e4af0a42b65bg-1.jpg?height=295&width=586&top_left_y=221&top_left_x=1279)
+<img src="https://cdn.mathpix.com/cropped/2024_03_14_9aa67a64e4af0a42b65bg-1.jpg?height=295&width=586&top_left_y=221&top_left_x=1279" alt="image" style="width:100%;height:auto;">
 
 # DETERMINATION OF DISCOUNT RATES FOR ECONOMIC BALANCE SHEET FRAMEWORK
 

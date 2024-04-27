@@ -1,10 +1,10 @@
 # (1) SOCIETYOF 
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-01.jpg?height=510&width=1111&top_left_y=84&top_left_x=927)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-01.jpg?height=510&width=1111&top_left_y=84&top_left_x=927" alt="image" style="width:100%;height:auto;">
 
 Impact of VM-20 on Life Insurance Product Development
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-01.jpg?height=1372&width=1982&top_left_y=1165&top_left_x=77)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-01.jpg?height=1372&width=1982&top_left_y=1165&top_left_x=77" alt="image" style="width:100%;height:auto;">
 
 November 2016
 
@@ -192,7 +192,7 @@ To understand the impact of various changes in the pricing of term and ULSG prod
 
 Figure 1: Pricing Situations: Basis of Statutory and Tax Reserves
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-08.jpg?height=1685&width=1651&top_left_y=735&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-08.jpg?height=1685&width=1651&top_left_y=735&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 DR and SR, as applicable, following VM-20
 
@@ -369,7 +369,7 @@ Figures 6 and 7 show the higher early year distributable earnings resulting from
 
 Figure 6: 10-Year Product, $\$ 350,000$ : Distributable Earnings in Thousands
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-15.jpg?height=723&width=1504&top_left_y=300&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-15.jpg?height=723&width=1504&top_left_y=300&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 1: XXX Stat/Tax, 2001 CSO.
 
@@ -377,7 +377,7 @@ ${ }^{2}$ Situation 2: AG48 Stat, XXX Tax 2001 CSO.
 
 Figure 7: 20-Year Product, $\$ 350,000$ : Distributable Earnings in Thousands
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-15.jpg?height=886&width=1521&top_left_y=1183&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-15.jpg?height=886&width=1521&top_left_y=1183&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 1: XXX Stat/Tax, 2001 CSO.
 
@@ -414,7 +414,7 @@ Figure 9: 10-Year Product, $\$ 350,000$ : Distributable Earnings in Thousands
 
 Distributable Earnings in Thousands
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-17.jpg?height=604&width=1393&top_left_y=430&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-17.jpg?height=604&width=1393&top_left_y=430&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 3: XXX Stat/Tax, 2017 CSO.
 
@@ -424,7 +424,7 @@ ${ }^{3}$ Situation 5: VM-20 NPR+DR Excess Stat, NPR Tax, 2017 CSO.
 
 Figure 10: 20-Year Product, $\$ 350,000$ : Distributable Earnings in Thousands
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-17.jpg?height=882&width=1439&top_left_y=1264&top_left_x=232)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-17.jpg?height=882&width=1439&top_left_y=1264&top_left_x=232" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 3: XXX Stat/Tax, 2017 CSO
 
@@ -466,7 +466,7 @@ Figure 12: Reserve Levels, 10-Year Plan
 
 Solid lines are $\$ 350 K$; Dashed lines are $\$ 1.2 \mathrm{MM}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-19.jpg?height=819&width=1528&top_left_y=542&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-19.jpg?height=819&width=1528&top_left_y=542&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 Figure 13: Reserve Levels, 20-Year Plan
 
@@ -476,7 +476,7 @@ $$
 
 Solid lines are $\$ 350$ K; Dashed lines are $\$ 1.2 \mathrm{MM}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-19.jpg?height=925&width=1504&top_left_y=1565&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-19.jpg?height=925&width=1504&top_left_y=1565&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 Figure 14 shows how the DR changes in the first two sensitivities described above: Sensitivity 1, remove improvement to the node, and Sensitivity 2, use initial DR discount rates for all future node calculations. For reference purposes, Figure 14 shows the NPR separate from the DR.
 
@@ -486,7 +486,7 @@ Figure 14: Pricing Situation 5 Sensitivities 1 and 2: 20-Year Plan, \$1.2 Millio
 
 Deterministic Reserve without flooring at 0
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-20.jpg?height=746&width=1654&top_left_y=592&top_left_x=257)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-20.jpg?height=746&width=1654&top_left_y=592&top_left_x=257" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 5: VM-20 NPR+DR Excess Stat, NPR Tax, 2017 CSO.
 
@@ -504,7 +504,7 @@ Figure 15: Pricing Situation 5, Sensitivity 3: 20-Year Plan, \$1.2 Million
 
 Deterministic Reserve without flooring at 0
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-21.jpg?height=756&width=1613&top_left_y=430&top_left_x=272)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-21.jpg?height=756&width=1613&top_left_y=430&top_left_x=272" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Sensitivity 3: $10 \%$ premium reduction.
 
@@ -546,7 +546,7 @@ Figure 16: Pricing Results ULSG with Level Premiums for Coverage to A110
 | 3) AG38 Stat/Tax, 2017 CSO | $17.9 \%$ | $4.9 \%$ | $2.6 \%$ | $-633 \%$ | $5.6 \%$ |
 | 4) AG48 Stat, AG38 Tax, 2017 CSO | $13.2 \%$ | $13.0 \%$ | $11.3 \%$ | $-270 \%$ | $10.2 \%$ |
 | 5) VM-20 NPR+DR+SR Stat, NPR Tax, 2017 CSO | $19.5 \%$ | $4.4 \%$ | $2.6 \%$ | $-285 \%$ | $5.9 \%$ |
-| ${ }^{1}$ Pretax profit margin is calculated with discoun <br> 2 After-tax profit margin is calculated with disco <br> ${ }^{3}$ Adjusted after-tax profit margin includes targe | the pretax <br> at the pre | $\mathrm{R}$. <br> IIER. | . | ![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-22.jpg?height=119&width=125&top_left_y=1762&top_left_x=1532) |  |
+| ${ }^{1}$ Pretax profit margin is calculated with discoun <br> 2 After-tax profit margin is calculated with disco <br> ${ }^{3}$ Adjusted after-tax profit margin includes targe | the pretax <br> at the pre | $\mathrm{R}$. <br> IIER. | . | <img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-22.jpg?height=119&width=125&top_left_y=1762&top_left_x=1532" alt="image" style="width:100%;height:auto;"> |  |
 
 In Pricing Situation 1, we evaluate the profitability of the ULSG product under AG38 reserves using 2001 CSO mortality. There is considerable surplus strain in the first year, which holds down the IRR to a level that may be lower than a direct writer's normal new business hurdle rate. A key driver of this is that deficiency reserves are generated for many cells. For this case study, we assumed XXX X-factors, such that the minimum reserve basis mortality is equal to expected mortality. However, we have not further optimized the product to eliminate the deficiency reserve as might be done in practice, especially for a product that is not intended to be part of a financing transaction. For the first pricing situation, the adjusted after-tax (AT) profit margins of 10.5\% for the low band and $6.8 \%$ for the high band are above average compared with industry data for recently issued ULSG. Profit margins are highly dependent upon the choice of discount rate. We are using the pretax net earned rate as the discount rate. This isolates the impact of the change in pretax reserve levels and immunizes the resulting changes to investment income.
 
@@ -559,7 +559,7 @@ Figure 17: Pricing Situations 1 and 2: ULSG $\$ 350,000$ Face Amount Model Offic
 
 ## ULSG 350k Face Amount Model Office - Distributable Earnings
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-23.jpg?height=599&width=1488&top_left_y=779&top_left_x=275)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-23.jpg?height=599&width=1488&top_left_y=779&top_left_x=275" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 1: AG38 Stat/Tax, 2001 CSO.
 
@@ -578,7 +578,7 @@ Figure 18: Pricing Situations 3, 4 and 5: ULSG $\$ 350,000$ Face Amount Model Of
 
 ## ULSG 350k Face Amount Model Office - Distributable Earnings
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-24.jpg?height=596&width=1482&top_left_y=694&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-24.jpg?height=596&width=1482&top_left_y=694&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 1 Situation 3: AG38 Stat/Tax, 2017 CSO.
 
@@ -612,7 +612,7 @@ Figure 20: ULSG \$350,000 Face Amount, AG38 Reserve Patterns 2001 and 2017 CSO
 
 ## ULSG 350k Face AG38 Reserve Patterns
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-25.jpg?height=786&width=1228&top_left_y=1529&top_left_x=275)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-25.jpg?height=786&width=1228&top_left_y=1529&top_left_x=275" alt="image" style="width:100%;height:auto;">
 
 The dotted blue and solid blue lines illustrate the slight increase in the statutory reserve when moving to the 2017 CSO table because of additional deficiency reserves, as previously described. The red and yellow dashed lines represent the corresponding tax reserves, which are lower by roughly the amount of deficiency reserves. Under 2001 CSO, the tax reserve quickly converged
 to the statutory reserve, but under 2017 CSO the reserve levels started with a wider statutory to tax difference and did not converge as quickly. Again, we believe that further refinement of the X-factors could remedy this outcome.
@@ -623,7 +623,7 @@ Figure 21: ULSG $\$ 350,000$ Face Amount, 2017 CSO Reserve Patterns
 
 ULSG 350k Face 2017 CSO Reserve Patterns
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-26.jpg?height=928&width=1254&top_left_y=588&top_left_x=254)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-26.jpg?height=928&width=1254&top_left_y=588&top_left_x=254" alt="image" style="width:100%;height:auto;">
 
 The purple dashed line representing the total VM-20 statutory reserve is the greater of the NPR, DR and SR. For this ULSG case study, the SR produced only a minimal excess above the DR (indicated by the brown dashed line), peaking approximately in duration 10. Thus the total VM-20 reserve is driven primarily by the DR. The red line represents the excess of the DR over the NPR, and the sum of the NPR (light blue), DR excess (red) and SR excess (brown) lines equals the total VM-20 reserve (purple dashed). ULSG tax reserves may be close to the statutory reserves under current AG38 methods. If a version of the NPR becomes the tax-deductible reserve, Figure 21 illustrates that it could be a substantial reduction in tax reserves from current AG38 levels and lead to increased income taxes, as shown by the case study profit results for Pricing Situations 4 and 5.
 
@@ -641,7 +641,7 @@ Figure 22 shows how the DR changes in the first two sensitivities described abov
 
 Figure 22: ULSG $\$ 350,000$ Face Amount Sensitivities: Total VM-20 Reserve Patterns
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-27.jpg?height=906&width=1266&top_left_y=1474&top_left_x=248)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-27.jpg?height=906&width=1266&top_left_y=1474&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ Situation 5: VM-20 NPR+DR+SR Stat, NPR Tax, 2017 CSO.
 

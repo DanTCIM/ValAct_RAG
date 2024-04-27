@@ -192,7 +192,7 @@ At its most fundamental level, an ethical approach to the application of Al rest
 
 A discussion of these five pillars appeared in "Can Al Be Bounded by an Ethical Framework," ${ }^{11}$ in September 2018, where the topic was first discussed. Quite a few similar articles have been written about "pillars" since then. The pillars are general in nature and are not specific to actuarial practice, but foundational. Further development of ethics for Al in actuarial practice should derive from these five concepts.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-10.jpg?height=642&width=659&top_left_y=1636&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-10.jpg?height=642&width=659&top_left_y=1636&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 ### 2.3.1 Responsibility
 
@@ -256,7 +256,7 @@ The insurance industry has often struggled to keep up with emerging technology. 
 
 InsurTech Private Financing Volume, \$ in millions
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-13.jpg?height=1030&width=1575&top_left_y=661&top_left_x=275)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-13.jpg?height=1030&width=1575&top_left_y=661&top_left_x=275" alt="image" style="width:100%;height:auto;">
 
 ## 4 Ethical Risk in General: Data, Bias and Do-It-Yourself Risk
 
@@ -527,7 +527,7 @@ Figure 4
 
 Data Delivery Pipeline: From Sources to Uses
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-24.jpg?height=772&width=1569&top_left_y=758&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_f673b62710486d7d262dg-24.jpg?height=772&width=1569&top_left_y=758&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Businesses need a data engineer first to organize the data, then a general data scientist who can test and adapt algorithms, and last, a software engineer who can implement the applications. Depending on the company's needs, there may be more than one of each of these positions. Collecting the right data, building the right models and using these to make the right business decisions are all important functions. More Al teams are adding project managers, marketers and User Experience/User Interface staff to round out the team. The idea here is that although data scientists and engineers have the technical skill sets, the other positions, in this case, actuaries, fully understand the product.
 

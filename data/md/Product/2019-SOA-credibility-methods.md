@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-01.jpg?height=523&width=1118&top_left_y=80&top_left_x=924)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-01.jpg?height=523&width=1118&top_left_y=80&top_left_x=924" alt="image" style="width:100%;height:auto;">
 
 Credibility Methods Applied
 
@@ -107,7 +107,7 @@ Credibility methods were originally developed to assist in the re-rating of prem
 
 There are three major families of credibility methods used by actuaries today: Limited Fluctuation, Greatest Accuracy, and Bayesian. The following chart, inspired by a presentation by Paul Brehm ${ }^{3}$, shows how the various credibility methods are related:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-06.jpg?height=759&width=1217&top_left_y=575&top_left_x=451)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-06.jpg?height=759&width=1217&top_left_y=575&top_left_x=451" alt="image" style="width:100%;height:auto;">
 
 The Limited Fluctuation method, which was the only credibility method used for insurance purposes until the 1960s, is sometimes dubbed "classical credibility." The Greatest Accuracy method emerged in the 1960s and goes by at least the three different names shown in the box above. The Greatest Accuracy method is implemented through the use of models, such as Bühlmann-Straub, and estimation methods, such as Empirical Bayes.
 
@@ -275,7 +275,7 @@ An alternative might be to set $K=120$, which would produce $Z=90 \%$ when $N_{A
 
 The following graph compares results for the Square Root formula using $N_{F C}=1,082$ to results for the Asymptotic Formula using both $K=120$ and $K=270$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-13.jpg?height=704&width=1570&top_left_y=1678&top_left_x=272)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-13.jpg?height=704&width=1570&top_left_y=1678&top_left_x=272" alt="image" style="width:100%;height:auto;">
 
 4 Proceedings of the Casualty Actuarial Society, 1918.
 

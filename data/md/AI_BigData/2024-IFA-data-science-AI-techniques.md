@@ -4,11 +4,11 @@ Actuaries using data science and artificial intelligence techniques
 
 by Alan Marshall
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=191&width=2062&top_left_y=2440&top_left_x=0)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=191&width=2062&top_left_y=2440&top_left_x=0" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=184&width=2060&top_left_y=2609&top_left_x=-2)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=184&width=2060&top_left_y=2609&top_left_x=-2" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=146&width=2062&top_left_y=2777&top_left_x=0)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-01.jpg?height=146&width=2062&top_left_y=2777&top_left_x=0" alt="image" style="width:100%;height:auto;">
 
 ## Contents
 
@@ -30,7 +30,7 @@ Appendix 4 - Examples of conference topics ..... 27
 
 ## Neil Buckley, Lay Chair of the IFoA Regulatory Board
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-03.jpg?height=582&width=469&top_left_y=674&top_left_x=148)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-03.jpg?height=582&width=469&top_left_y=674&top_left_x=148" alt="image" style="width:100%;height:auto;">
 
 I welcome the publication of the Actuarial Monitoring Scheme's (AMS) latest report, Actuaries using Data Science and Artificial Intelligence techniques. This continues the regulatory work of the Institute and Faculty of Actuaries (IFoA) in independently reviewing areas of work in which actuaries have significant involvement and influence. I would like to thank all those IFoA members and organisations that took part.
 
@@ -50,7 +50,7 @@ February 2024
 
 Alan Marshall, Review Actuary
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-04.jpg?height=603&width=469&top_left_y=681&top_left_x=151)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-04.jpg?height=603&width=469&top_left_y=681&top_left_x=151" alt="image" style="width:100%;height:auto;">
 
 Whilst actuaries should be humble about claims of being "the original data scientists", the profession has been, and continues to be, well-placed to use data science, and associated modelling techniques to provide solutions to a wide range of problems. And although much of this is not brand-new, there is certainly a heightened focus on data science and artificial intelligence ('Al'), with both access to models and tools, and capability of the technology expanding rapidly.
 
@@ -147,7 +147,7 @@ We are not aware of any conflicts of interest arising from the contents of this 
 
 We welcome questions about this report which should be sent to reviews@actuaries.org.uk
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-06.jpg?height=134&width=990&top_left_y=2554&top_left_x=190)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-06.jpg?height=134&width=990&top_left_y=2554&top_left_x=190" alt="image" style="width:100%;height:auto;">
 
 # Background and context 
 
@@ -374,7 +374,7 @@ Amongst the range of proposals, there is differing weights put on safety and inn
 
 Looking more closely at what has been developing around the globe, we can observe both similarities and differences, with the pace of change also not the same.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-15.jpg?height=182&width=922&top_left_y=2509&top_left_x=196)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-15.jpg?height=182&width=922&top_left_y=2509&top_left_x=196" alt="image" style="width:100%;height:auto;">
 
 The UK is attempting to place itself front and centre of developments in AI, with supporting activity in the regulation space. This is still mainly at the stage of gathering information from discussion papers, and the UK government has indicated it plans to take a 'pro-innovation' approach.
 
@@ -479,7 +479,7 @@ For some years, the IFoA, in conjunction with University of Southampton, offered
 
 The IFoA continues to review its education and lifelong learning offering for members, with a view to ensuring they are wellequipped to tackle the opportunities of data science and Al. There is a risk to the profile of the profession if learning resources and opportunities do not keep up with the pace of change.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-19.jpg?height=114&width=109&top_left_y=1828&top_left_x=194)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-19.jpg?height=114&width=109&top_left_y=1828&top_left_x=194" alt="image" style="width:100%;height:auto;">
 
 Finding 7
 
@@ -513,11 +513,11 @@ The IFoA has previously collaborated successfully with stakeholders in this fiel
 
 ## A full list of our findings is given in the table below. These are set out in the order they appear in this report.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-21.jpg?height=129&width=134&top_left_y=718&top_left_x=136)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-21.jpg?height=129&width=134&top_left_y=718&top_left_x=136" alt="image" style="width:100%;height:auto;">
 
 ## Findings
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-21.jpg?height=599&width=1762&top_left_y=874&top_left_x=158)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-21.jpg?height=599&width=1762&top_left_y=874&top_left_x=158" alt="image" style="width:100%;height:auto;">
 
 4
 
@@ -580,7 +580,7 @@ We would like to thank the following organisations and individuals for their sup
 - Ronald Richman
 - Richard Galbraith
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-24.jpg?height=145&width=1574&top_left_y=253&top_left_x=138)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-24.jpg?height=145&width=1574&top_left_y=253&top_left_x=138" alt="image" style="width:100%;height:auto;">
 
 | Ref No. | Title | Author | Description |
 | :---: | :---: | :---: | :---: |
@@ -707,7 +707,7 @@ Belsyre Court $\cdot$ ist Floor 57 Woodstock Road-Oxford OX2 6HJ Tel: +44 (0) 20
 ## Singapore
 
 Pacific Tech Centre $\cdot$ 1 JIn Kilang Timor $\cdot$ \#06-01 $\cdot$ Singapore $\cdot 159303$ Tel: +6587781784
-![](https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-28.jpg?height=1132&width=1016&top_left_y=1646&top_left_x=722)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_556b9fff27797a776798g-28.jpg?height=1132&width=1016&top_left_y=1646&top_left_x=722" alt="image" style="width:100%;height:auto;">
 
 
 [^0]:    "The main challenge is to ensure data security and compliance to GDPR related rules. Examples to support this include:

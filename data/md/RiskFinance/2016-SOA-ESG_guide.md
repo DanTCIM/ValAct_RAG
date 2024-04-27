@@ -1,12 +1,12 @@
 # (1) SOCIETYOF 
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-001.jpg?height=510&width=1114&top_left_y=84&top_left_x=923)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-001.jpg?height=510&width=1114&top_left_y=84&top_left_x=923" alt="image" style="width:100%;height:auto;">
 
 Economic Scenario Generators
 
 A Practical Guide
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-001.jpg?height=1210&width=1987&top_left_y=1409&top_left_x=61)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-001.jpg?height=1210&width=1987&top_left_y=1409&top_left_x=61" alt="image" style="width:100%;height:auto;">
 
 ## Economic Scenario Generators
 
@@ -515,7 +515,7 @@ Figure 1.1
 
 CASCADE STRUCTURE OF A HYPOTHETHICAL ECONOMIC SCENARIO GENERATOR
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-022.jpg?height=672&width=979&top_left_y=1420&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-022.jpg?height=672&width=979&top_left_y=1420&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 ### 1.5 CHAPTER SUMMARY
 
@@ -609,7 +609,7 @@ Further, assume the parameters of the gamma distribution to be $\alpha=7$ and $\
 
 GAMMA DISTRIBUTION FOR $\alpha=7, \lambda=.0025$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-026.jpg?height=607&width=1195&top_left_y=1488&top_left_x=365)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-026.jpg?height=607&width=1195&top_left_y=1488&top_left_x=365" alt="image" style="width:100%;height:auto;">
 
 Given this information, closed-form equations can be used to calculate some basic statistical measures, such as the mean and standard deviation:
 
@@ -678,7 +678,7 @@ Here, $x$ represents the number of events occurring over a given interval of tim
 
 POISSON DISTRIBUTION FOR $\mu=2$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-028.jpg?height=704&width=1144&top_left_y=1418&top_left_x=488)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-028.jpg?height=704&width=1144&top_left_y=1418&top_left_x=488" alt="image" style="width:100%;height:auto;">
 
 If an average of two events are expected per annum (around a distribution that could include no events or a large number of events), we would need to evaluate the compound distribution made up of the product of a Poisson distribution (frequency) and a gamma distribution (severity), as described before. While the mean and standard deviation of this compound distribution can still be solved analytically, it is by no means trivial to solve this distribution for the various percentile loss levels.
 
@@ -727,7 +727,7 @@ It is a relatively straightforward exercise to calculate Treasury bond returns u
 
 ## IMPLIED 10-YEAR TREASURY YIELD
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-030.jpg?height=713&width=1396&top_left_y=890&top_left_x=316)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-030.jpg?height=713&width=1396&top_left_y=890&top_left_x=316" alt="image" style="width:100%;height:auto;">
 
 Prepared by Conning, Inc. Source: Conning's GEMS ${ }^{\circledR}$ Economic Scenario Generator scenario.
 
@@ -871,7 +871,7 @@ Figure 3.1
 
 THE IAIS STANDARD ENTERPRISE RISK MANAGEMENT FRAMEWORK
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-037.jpg?height=1144&width=1196&top_left_y=333&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-037.jpg?height=1144&width=1196&top_left_y=333&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Source: IAIS, Insurance Core Principles, updated November 2015, p. 168.
 
@@ -1230,7 +1230,7 @@ Figure 4.1
 
 ## Pension Risk Choice: limit or transfer risk?
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-051.jpg?height=826&width=1434&top_left_y=888&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-051.jpg?height=826&width=1434&top_left_y=888&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 ESGs can be useful to sponsors looking to compare their options, especially with options where they are still completely in control of the pension plan: choosing to freeze the plan, implementing LDI (whether plan is open or frozen) against options that involve transferring the risks to third parties.
 
@@ -1418,7 +1418,7 @@ Returning to the topic of interest rates, Figure 5.1 shows the annual percentage
 
 ANNUAL PERCENTAGE CHANGE, U.S. 10-YEAR TREASURY YIELDS, 1926-2012
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-059.jpg?height=748&width=1398&top_left_y=973&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-059.jpg?height=748&width=1398&top_left_y=973&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1553,7 +1553,7 @@ Figure 6.1
 
 ROLLING 10-YEAR AVERAGES FOR U.S. 1-YEAR AND 10-YEAR TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-065.jpg?height=710&width=1244&top_left_y=350&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-065.jpg?height=710&width=1244&top_left_y=350&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1561,7 +1561,7 @@ Sources: Ibbotson; Bloomberg; Conning, Inc.
 
 ROLLING 10-YEAR STANDARD DEVIATIONS FOR U.S. 1-YEAR AND 10-YEAR TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-065.jpg?height=656&width=1160&top_left_y=1317&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-065.jpg?height=656&width=1160&top_left_y=1317&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1571,7 +1571,7 @@ Figure 6.3
 
 CUMULATIVE BACKWARD AVERAGES FOR U.S. 1-YEAR AND 10-YEAR TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-066.jpg?height=669&width=1176&top_left_y=324&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-066.jpg?height=669&width=1176&top_left_y=324&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1579,7 +1579,7 @@ Figure 6.4
 
 CUMULATIVE BACKWARD STANDARD DEVIATIONS FOR U.S. 1-YEAR AND 10-YEAR TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-066.jpg?height=662&width=1174&top_left_y=1271&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-066.jpg?height=662&width=1174&top_left_y=1271&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1594,7 +1594,7 @@ The relationship between different asset class returns changes over time, and th
 
 RELATIONSHIP BETWEEN RISK AND RETURN FOR MAJOR FIXED-INCOME ASSET CLASSES, 1940-2010
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-067.jpg?height=726&width=1339&top_left_y=510&top_left_x=314)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-067.jpg?height=726&width=1339&top_left_y=510&top_left_x=314" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1604,7 +1604,7 @@ Figure 6.6
 
 CORRELATIONS BETWEEN CORPORATE BONDS AND TREASURY BONDS OVER TIME
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-067.jpg?height=792&width=1344&top_left_y=1531&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-067.jpg?height=792&width=1344&top_left_y=1531&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -1646,7 +1646,7 @@ Bonds hold a relatively high position in the hierarchy of financial instruments 
 
 U.S. TREASURY YIELD CURVES, 2004-2014
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-069.jpg?height=848&width=1390&top_left_y=847&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-069.jpg?height=848&width=1390&top_left_y=847&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -1658,7 +1658,7 @@ Figure 6.8
 
 HISTORICAL LEVELS OF 1-YEAR U.S. TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-070.jpg?height=718&width=1282&top_left_y=340&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-070.jpg?height=718&width=1282&top_left_y=340&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1666,7 +1666,7 @@ Figure 6.9
 
 HISTORICAL LEVELS OF 10-YEAR U.S. TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-070.jpg?height=724&width=1284&top_left_y=1210&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-070.jpg?height=724&width=1284&top_left_y=1210&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1676,7 +1676,7 @@ Figure 6.10
 
 HISTORICAL MONTHLY CHANGES IN 1-YEAR U.S. TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-071.jpg?height=705&width=1261&top_left_y=336&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-071.jpg?height=705&width=1261&top_left_y=336&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1684,7 +1684,7 @@ Figure 6.11
 
 HISTORICAL MONTHLY CHANGES IN 10-YEAR U.S. TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-071.jpg?height=723&width=1282&top_left_y=1189&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-071.jpg?height=723&width=1282&top_left_y=1189&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1694,7 +1694,7 @@ Figure 6.12
 
 HISTORICAL CORRELATION BETWEEN 1-YEAR AND 10-YEAR U.S. TREASURY YIELDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-072.jpg?height=892&width=1179&top_left_y=324&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-072.jpg?height=892&width=1179&top_left_y=324&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Sources: Ibbotson; Bloomberg; Conning, Inc.
 
@@ -1706,7 +1706,7 @@ Figure 6.13
 
 HISTORICAL TERM STRUCTURE OF SWISS INTEREST RATES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-072.jpg?height=645&width=1250&top_left_y=1691&top_left_x=294)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-072.jpg?height=645&width=1250&top_left_y=1691&top_left_x=294" alt="image" style="width:100%;height:auto;">
 
 Source: Swiss National Bank,
 
@@ -1714,7 +1714,7 @@ Figure 6.14
 
 HISTORICAL 1-YEAR YIELD IN GERMANY
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-073.jpg?height=805&width=1326&top_left_y=324&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-073.jpg?height=805&width=1326&top_left_y=324&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Source: Bundesbank,
 
@@ -1746,7 +1746,7 @@ Spreads are a convenient way to summarize the current state of the corporate bon
 Figure 6.15
 
 SPREADS FOR INVESTMENT-GRADE U.S. INDUSTRIAL ZERO-COUPON BONDS
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-074.jpg?height=1158&width=1520&top_left_y=869&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-074.jpg?height=1158&width=1520&top_left_y=869&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -1757,7 +1757,7 @@ Figure 6.16 shows monthly changes in U.S. spreads. Recession dating from the Nat
 Figure 6.16
 
 MONTHLY CHANGES IN U.S. SPREADS, 1989-2012
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-075.jpg?height=1086&width=1518&top_left_y=360&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-075.jpg?height=1086&width=1518&top_left_y=360&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -1767,7 +1767,7 @@ There is a tendency for spreads to fluctuate more during recessionary periods, b
 
 MONTHLY CHANGES IN U.S. SPREADS, JANUARY 1925-DECEMBER 2011
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-075.jpg?height=605&width=1025&top_left_y=1882&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-075.jpg?height=605&width=1025&top_left_y=1882&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 Sources: Moody's; Bloomberg; Conning, Inc.
 
@@ -1795,7 +1795,7 @@ Figure 6.19
 
 DEFAULT AND RECOVERY RATES, 1982-2006
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-076.jpg?height=846&width=1328&top_left_y=1474&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-076.jpg?height=846&width=1328&top_left_y=1474&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Source: Moody's; Conning Analysis
 
@@ -1933,7 +1933,7 @@ Figure 7.1
 
 CASCADE STRUCTURE OF A HYPOTHETICAL ECONOMIC SCENARIO GENERATOR
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-081.jpg?height=856&width=1241&top_left_y=1255&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-081.jpg?height=856&width=1241&top_left_y=1255&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The calibration processes for real-world and market-consistent ESG models are similar but differ significantly in the criteria used to determine goodness of fit. Thus, they warrant separate discussions.
 
@@ -1948,7 +1948,7 @@ Because the model calibration process is designed to reproduce the prices of tra
 
 MARKET-CONSISTENT CALIBRATION PROCESS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-082.jpg?height=691&width=1095&top_left_y=782&top_left_x=295)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-082.jpg?height=691&width=1095&top_left_y=782&top_left_x=295" alt="image" style="width:100%;height:auto;">
 
 The idea behind market-consistent model calibration is to generate scenarios whereby the cash flows from a financial product or instrument can be appropriately discounted so as to provide an estimate of the current market price of the underlying product or instrument. Because market-consistent models are designed to be risk-neutral, all financial instruments will have the same expected return, and that expected return will be equal to the risk-free rate. The riskfree rate can thus be used to discount the cash flows from a product or financial instrument to generate its price.
 
@@ -1973,7 +1973,7 @@ Figure 7.3
 
 REAL-WORLD PARAMETERIZATION PROCESS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-083.jpg?height=634&width=702&top_left_y=1431&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-083.jpg?height=634&width=702&top_left_y=1431&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 ## Continue until satisfactory fit is achieved
 
@@ -1989,7 +1989,7 @@ Figure 7.4
 
 10-Year U.S. Treasury Yield
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-084.jpg?height=842&width=1336&top_left_y=598&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-084.jpg?height=842&width=1336&top_left_y=598&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Source: Federal Reserve Board, Philadelphia Federal Reserve's Survey of Professional Forecasters
 
@@ -2030,7 +2030,7 @@ other words by transitioning from $p\left(x_{k} \mid Y_{1}{ }^{k}, U_{0}^{k-1}\r
 
 THE PREDICTION AND FILTERING CYCLE OF THE KALMAN FILTER
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-086.jpg?height=257&width=927&top_left_y=625&top_left_x=336)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-086.jpg?height=257&width=927&top_left_y=625&top_left_x=336" alt="image" style="width:100%;height:auto;">
 
 ### 7.5 CHAPTER SUMMARY
 
@@ -2154,7 +2154,7 @@ Figure 8.1
 
 ACTUAL VERSUS SIMULATED DISTRIBUTIONS OF S\&P 500 PRICE RETURNS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-091.jpg?height=783&width=1146&top_left_y=384&top_left_x=305)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-091.jpg?height=783&width=1146&top_left_y=384&top_left_x=305" alt="image" style="width:100%;height:auto;">
 
 Monthly Return
 
@@ -2174,7 +2174,7 @@ OUT-OF-SAMPLE VALIDATION OF BBB MUNICIPAL BOND RETURNS
 
 ML BBB Municipal Bonds Total Return (10000 Paths/ Tax Rate Model)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-092.jpg?height=729&width=1482&top_left_y=427&top_left_x=316)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-092.jpg?height=729&width=1482&top_left_y=427&top_left_x=316" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -2235,7 +2235,7 @@ Figure 8.3
 
 EQUITY OPTION PRICE SURFACE (COMPUTED VERSUS MARKET)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-094.jpg?height=881&width=1439&top_left_y=362&top_left_x=359)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-094.jpg?height=881&width=1439&top_left_y=362&top_left_x=359" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -2262,7 +2262,7 @@ and ensure that the value is consistent with 1 within $X$ standard errors for al
 
 1 = 1 TEST RESULT
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-095.jpg?height=699&width=1260&top_left_y=632&top_left_x=346)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-095.jpg?height=699&width=1260&top_left_y=632&top_left_x=346" alt="image" style="width:100%;height:auto;">
 
 Source: Conning Inc.
 
@@ -2274,7 +2274,7 @@ Figure 8.5
 
 MAIN STEPS IN AN IDEALIZED VALIDATION PROCESS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-096.jpg?height=686&width=1040&top_left_y=324&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-096.jpg?height=686&width=1040&top_left_y=324&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 Source: Conning Inc.
 
@@ -2597,7 +2597,7 @@ Figure 10.1
 
 TYPICAL TEST RESULTS FOR MODERATE-VOLATILITY ASSETS, $\sigma=0.08$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-108.jpg?height=724&width=1052&top_left_y=652&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-108.jpg?height=724&width=1052&top_left_y=652&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 Source: Conning Inc.
 
@@ -2607,7 +2607,7 @@ Figure 10.2
 
 TYPICAL TEST RESULTS FOR HIGH-VOLATILITY ASSETS, $\sigma=0.20$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-108.jpg?height=726&width=1068&top_left_y=1686&top_left_x=295)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-108.jpg?height=726&width=1068&top_left_y=1686&top_left_x=295" alt="image" style="width:100%;height:auto;">
 
 Source: Conning Inc.
 
@@ -2617,7 +2617,7 @@ Figure 10.3
 
 INCONCLUSIVE TEST RESULTS FOR HIGH-VOLATILITY ASSETS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-109.jpg?height=734&width=1070&top_left_y=522&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-109.jpg?height=734&width=1070&top_left_y=522&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Source: Conning Inc.
 
@@ -2733,7 +2733,7 @@ A typical example of a binomial interest rate model is shown in Figure 11.1. The
 
 ## AN ILLUSTRATIVE BINOMIAL INTEREST RATE MODEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-115.jpg?height=612&width=632&top_left_y=1456&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-115.jpg?height=612&width=632&top_left_y=1456&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Let us develop the basic formulas for binomial interest rate models. We will take the following argument and use it to understand the model dynamics at every node of the interest rate tree. In the following, we are at some fixed but otherwise generic node in the model. The same set of arguments we are about to make will apply to every node in the lattice. A picture for our generic node is as shown in Figure 11.2.
 
@@ -2743,7 +2743,7 @@ Figure 11.2
 
 BINOMIAL BRANCHING AT GENERIC NODE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-116.jpg?height=325&width=795&top_left_y=363&top_left_x=318)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-116.jpg?height=325&width=795&top_left_y=363&top_left_x=318" alt="image" style="width:100%;height:auto;">
 
 Model branches to
 
@@ -2757,7 +2757,7 @@ We use $p$ to denote the conditional probability of the up state occurring at th
 
 GENERIC PRICE DYNAMICS OF A SECURITY
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-116.jpg?height=374&width=591&top_left_y=1293&top_left_x=363)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-116.jpg?height=374&width=591&top_left_y=1293&top_left_x=363" alt="image" style="width:100%;height:auto;">
 
 Let the one-period rate (also called the short rate) in effect at the beginning of the period be denoted by $r$. The value of $r$ depends on which node we are at in the lattice, but we will suppress this dependence in our notation. We now derive the most important implication of the absence of arbitrage.
 
@@ -2766,7 +2766,7 @@ We suppose that available for trade is the one-period bond and a risky bond, whi
 Figure 11.4
 
 GENERIC PRICE DYNAMICS OF A SECURITY
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-117.jpg?height=650&width=552&top_left_y=388&top_left_x=403)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-117.jpg?height=650&width=552&top_left_y=388&top_left_x=403" alt="image" style="width:100%;height:auto;">
 
 Now consider a third generic security denoted by $S$, the price of which evolves, as we have already noted, as in Figure 11.3. We are interested in relating the price of this security to the prices of the traded and priced securities. To this end, consider a portfolio of the one-period bond and the risky bond, in which $\varnothing$ units of the one-period bond and $\theta$ units of the risky bond are held:
 
@@ -2852,7 +2852,7 @@ Figure 11.5
 
 LOCAL DYNAMICS AT EACH NODE OF THE BINOMIAL LATTICE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=314&width=502&top_left_y=388&top_left_x=367)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=314&width=502&top_left_y=388&top_left_x=367" alt="image" style="width:100%;height:auto;">
 
 At each node in the lattice, the one-period interest rate can branch up or down to a value that is determined from the value of the one-period rate at the start of the period, and a parameter $\gamma y$. When the local dynamics are put together, we obtain the multiperiod interest rate tree shown in Figure 11.6.
 
@@ -2860,7 +2860,7 @@ At each node in the lattice, the one-period interest rate can branch up or down 
 
 MULTIPERIOD DYNAMICS FOR THE BINOMIAL MODEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=528&width=748&top_left_y=1102&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=528&width=748&top_left_y=1102&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 The tree, together with the parameter value $p$, is called the multiplicative binomial model. In Figure 11.7, we construct an illustrative three-period multiplicative binomial interest rate tree for the parameter values $p=0.5 ; r=$ $005 ; \gamma=0.1$.
 
@@ -2868,7 +2868,7 @@ The tree, together with the parameter value $p$, is called the multiplicative bi
 
 ILLUSTRATIVE MULTIPERIOD BINOMIAL MODEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=371&width=667&top_left_y=2037&top_left_x=314)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-119.jpg?height=371&width=667&top_left_y=2037&top_left_x=314" alt="image" style="width:100%;height:auto;">
 
 To price cash flows in this model, you simply discount them back through the lattice in accordance with the relationship noted in Equation 11.1. For example, suppose we want to price a three-period zero-coupon bond maturing for a unit amount. A three-period zero-coupon bond has cash flows of 1 at time three, and no cash flows elsewhere, as shown in Figure 11.8.
 
@@ -2876,13 +2876,13 @@ Figure 11.8
 
 CASH FLOWS FROM A THREE-PERIOD ZERO-COUPON BOND MATURING FOR A UNIT AMOUNT
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-120.jpg?height=460&width=664&top_left_y=556&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-120.jpg?height=460&width=664&top_left_y=556&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 Figure 11.9
 
 RECURSIVELY PRICE AT EACH NODE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-120.jpg?height=491&width=721&top_left_y=1240&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-120.jpg?height=491&width=721&top_left_y=1240&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 We value the cash flows recursively as follows (see Figures 11.9 through 11.11). First find the prices at period two. The following example shows the top node at period two:
 
@@ -2898,7 +2898,7 @@ Figure $\mathbf{1 1 . 1 0}$
 
 RECURSIVELY PRICE AT EACH NODE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-121.jpg?height=480&width=702&top_left_y=362&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-121.jpg?height=480&width=702&top_left_y=362&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 $$
 0.8983=\frac{1}{1.055}[0.5(0.9430)+0.5(0.9524)]
@@ -2908,7 +2908,7 @@ Figure 11.11
 
 RECURSIVELY PRICE AT EACH NODE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-121.jpg?height=589&width=1109&top_left_y=1283&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-121.jpg?height=589&width=1109&top_left_y=1283&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 There is a large literature on binomial interest rate models. See van der Hoek and Elliott (2006), Tuckman (2002), Lyuu (2004), Ho and Lee (2004), and Black and Karasinski (1991) for additional information.
 
@@ -2931,7 +2931,7 @@ The basic building block for the one-factor continuous-time model is a stochasti
 
 THE U.S. SHORT RATE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-122.jpg?height=778&width=1192&top_left_y=1281&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-122.jpg?height=778&width=1192&top_left_y=1281&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 Source: St. Louis Federal Reserve, Federal Reserve Economic Data
 
@@ -3106,13 +3106,13 @@ Figures 11.13 and 11.14 show some representative yield curves from the Vasicek a
 
 SAMPLE YIELD CURVES FROM THE VASICEK MODEL AS $r_{0}$ VARIES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-126.jpg?height=765&width=1119&top_left_y=539&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-126.jpg?height=765&width=1119&top_left_y=539&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Figure 11.14
 
 SAMPLE YIELD CURVES FROM THE CIR MODEL AS ro VARIES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-126.jpg?height=745&width=1095&top_left_y=1514&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-126.jpg?height=745&width=1095&top_left_y=1514&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 ### 11.3.5 MONTE CARLO VALUATION OF INTEREST RATE DERIVATIVES FOR THE VASICEK MODEL
 
@@ -3670,7 +3670,7 @@ $$
 r_{1}=l_{1}+B_{1}^{T} X_{1}
 $$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-137.jpg?height=46&width=1458&top_left_y=980&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-137.jpg?height=46&width=1458&top_left_y=980&top_left_x=304" alt="image" style="width:100%;height:auto;">
 structure. This method has been extensively described by Brigo and Mercurio (1998; 2001).
 
 Pros and cons. The affine class of models has the following advantages:
@@ -3815,7 +3815,7 @@ Figure 11.15
 
 TIME SERIES OF HISTORICAL FACTOR ESTIMATES FOR DNS MODEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-140.jpg?height=715&width=1632&top_left_y=797&top_left_x=363)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-140.jpg?height=715&width=1632&top_left_y=797&top_left_x=363" alt="image" style="width:100%;height:auto;">
 
 Note: $\beta_{1}+\beta_{2}$ is the short rate.
 
@@ -5229,7 +5229,7 @@ Poland is one example of an emerging economy where an econometric analysis of th
 
 ## POLISH THREE-MONTH AND 10-YEAR TREASURY RATES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-174.jpg?height=664&width=1055&top_left_y=758&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-174.jpg?height=664&width=1055&top_left_y=758&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -5247,7 +5247,7 @@ Based on Bloomberg data, the average spread to treasury on an A-rated 10-year bo
 
 COMPARISON OF SPREADS ON U.S. AND MALAYSIAN CORPORATE BONDS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-175.jpg?height=751&width=1179&top_left_y=996&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-175.jpg?height=751&width=1179&top_left_y=996&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -5266,7 +5266,7 @@ Figure 14.3
 
 CROSS-ECONOMY CORRELATIONS FOR MONTHLY CHANGES IN 10-YEAR TREASURY RATES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-176.jpg?height=783&width=1178&top_left_y=674&top_left_x=341)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-176.jpg?height=783&width=1178&top_left_y=674&top_left_x=341" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; and Conning, Inc.
 
@@ -5303,7 +5303,7 @@ Figure 14.4 illustrates the point. Suppose that the red pairs are a reasonable p
 
 SIMULATED PAIRS OF STANDARD NORMAL RANDOM VARIABLES, UNCORRELATED AND CORRELATED.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-178.jpg?height=987&width=1179&top_left_y=913&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-178.jpg?height=987&width=1179&top_left_y=913&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 Note: The blue pairs are simulated standard normal random variables $\left(U_{1}, U_{2}\right)$, and the red pairs are constructed from these draws as $\left(U_{1}, \rho U_{1}+\sqrt{1-\rho^{2}} U_{2}\right) . \rho=0.7$
 
@@ -5333,7 +5333,7 @@ Figure 14.5
 
 MONTHLY EXCHANGE RATES OF CANADIAN DOLLAR (CAD) TO U.S. DOLLAR (USD)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-180.jpg?height=841&width=1241&top_left_y=371&top_left_x=347)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-180.jpg?height=841&width=1241&top_left_y=371&top_left_x=347" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -5343,7 +5343,7 @@ Figure 14.6 shows that the volatility of the CAD/USD exchange rate fluctuates ov
 
 MONTHLY CHANGES IN CAD/USD EXCHANGE RATE: EVIDENT HETEROSCEDASTIC BEHAVIOR
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-180.jpg?height=727&width=1073&top_left_y=1493&top_left_x=339)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-180.jpg?height=727&width=1073&top_left_y=1493&top_left_x=339" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -5354,7 +5354,7 @@ Figure 14.7
 
 USD RETURNS VS. LOCAL-CURRENCY RETURNS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-181.jpg?height=453&width=1282&top_left_y=478&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-181.jpg?height=453&width=1282&top_left_y=478&top_left_x=343" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 
@@ -5363,7 +5363,7 @@ In practice, investors may seek to hedge some portion of their exchange rate ris
 Figure 14.8
 
 GLOBAL RETURNS FOR A USD INVESTOR, WITH CURRENCY RISK HEDGED AND UNHEDGED
-![](https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-181.jpg?height=544&width=1592&top_left_y=1298&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e7f25794b92c11cb1a1eg-181.jpg?height=544&width=1592&top_left_y=1298&top_left_x=343" alt="image" style="width:100%;height:auto;">
 
 Sources: Bloomberg; Conning, Inc.
 

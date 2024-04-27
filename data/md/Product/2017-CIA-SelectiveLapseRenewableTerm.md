@@ -12,7 +12,7 @@ Ce document est disponible en français
 
 (C) 2017 Canadian Institute of Actuaries[^0]
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_5ff594c76995a9e329bbg-02.jpg?height=176&width=721&top_left_y=191&top_left_x=694)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_5ff594c76995a9e329bbg-02.jpg?height=176&width=721&top_left_y=191&top_left_x=694" alt="image" style="width:100%;height:auto;">
 
 ## MEMORANDUM
 
@@ -509,7 +509,7 @@ The following graph illustrates CIA mortality experience over 2011-12 and 2012-1
 
 ## Graph 1: Mortality experience on renewable term 10 policies
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_5ff594c76995a9e329bbg-19.jpg?height=780&width=1393&top_left_y=1209&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_5ff594c76995a9e329bbg-19.jpg?height=780&width=1393&top_left_y=1209&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Tables 10 and 11 below show how the predicted relative mortality from VTP2 and DM1 compare to the actual relative mortality. Results for DM2 are not shown since DM2 generally produces lower mortality than VTP2.
 

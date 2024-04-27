@@ -112,7 +112,7 @@ Commonly accepted standards for a validation process do not yet exist; most ofte
 
 The validation process should follow the major subcategories of model risk mentioned above. For an efficient process, it is important to notice that dependencies are found between the subcategories:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-08.jpg?height=898&width=724&top_left_y=993&top_left_x=706)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-08.jpg?height=898&width=724&top_left_y=993&top_left_x=706" alt="image" style="width:100%;height:auto;">
 
 The consequence of these dependences is that if the validation for a risk subcategory fails, then there is no need to validate the dependent subcategories. If the model is split into submodels, then this argument applies for each submodel. It is important to notice that if the model is broken up into submodels, the aggregation must be considered as a submodel that has to be validated according to the same standards. Even if all the submodels make perfect sense, it does not imply that their aggregation can be done consistently.
 
@@ -351,7 +351,7 @@ Page 21
 
 ## Model risk management without branching
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-22.jpg?height=794&width=1293&top_left_y=470&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-22.jpg?height=794&width=1293&top_left_y=470&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 This figure makes it clear that model development and validation both fall within the evaluation phase of the risk management control cycle. In a real-world setting, the time required to implement, test, calibrate, and validate changes to a model may be longer than one cycle allows. This is especially true if the "Measure" phase of the cycle is equated with external financial reporting. The time required to implement, test, calibrate, and validate model changes can easily exceed one financial reporting cycle. Therefore model changes that are initiated in one cycle may not be usable until several cycles later.
 
@@ -366,7 +366,7 @@ The following figure displays a relatively simple branching situation. At the po
 
 ## Model risk management with branching
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-23.jpg?height=894&width=1895&top_left_y=1304&top_left_x=99)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-23.jpg?height=894&width=1895&top_left_y=1304&top_left_x=99" alt="image" style="width:100%;height:auto;">
 
 Time
 
@@ -388,7 +388,7 @@ We suggest that the overview of the progress or the state of a validation is bei
 
 ## Progress / status of the validation for a submodel
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-25.jpg?height=1035&width=1160&top_left_y=347&top_left_x=474)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-25.jpg?height=1035&width=1160&top_left_y=347&top_left_x=474" alt="image" style="width:100%;height:auto;">
 
 The validation report has to document which areas have to be validated more carefully in subsequent validation cycles. We recommend classifying the depth of the validation in three categories:
 
@@ -516,7 +516,7 @@ Or perhaps not. The Academy model is intended to be used to measure the volatili
 
 The universe of models for future interest rates fall into three main categories: real-world models, marketconsistent models, and risk-neutral models. These categories overlap as shown in the diagram below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-32.jpg?height=540&width=962&top_left_y=814&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-32.jpg?height=540&width=962&top_left_y=814&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 In this diagram, the universe of market-consistent models includes risk-neutral models and some realworld models, but not all real-world models. Only the market-consistent models are appropriate for pricing financial instruments, or, for that matter, insurance. One characteristic that separates a marketconsistent real-world model from other real-world models is its calibration. A market-consistent model is calibrated for consistency with market prices on a particular date. ${ }^{5}$ A real-world model can sometimes be turned into a market-consistent model by recalibration.
 
@@ -598,11 +598,11 @@ Note that the bar for each segment in figure A1-1 represents the stand-alone eco
 
 (C) 2014 Casualty Actuarial Society, Canadian Institute of Actuaries, Society of Actuaries, All Rights Reserved Risk Lighthouse LLC Page 36
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-37.jpg?height=783&width=1285&top_left_y=232&top_left_x=412)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-37.jpg?height=783&width=1285&top_left_y=232&top_left_x=412" alt="image" style="width:100%;height:auto;">
 
 Figure A1-2
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-37.jpg?height=781&width=1271&top_left_y=1214&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-37.jpg?height=781&width=1271&top_left_y=1214&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Similar graphics can be used to decompose the economic capital into different segmentations, for example, by class of business, by legal entities, etc. Doing so makes it easier to detect anomalies of a model and or an allocation. Strictly speaking the allocation is not required from a regulatory viewpoint. But it is frequently stated as a necessary step in application of the model to steer the business.
 
@@ -625,7 +625,7 @@ Figure A1-3 shows how the results of one scenario could be shown using parallel 
 
 (C) 2014 Casualty Actuarial Society, Canadian Institute of Actuaries, Society of Actuaries, All Rights Reserved Risk Lighthouse LLC Page 38
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-39.jpg?height=686&width=1282&top_left_y=264&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-39.jpg?height=686&width=1282&top_left_y=264&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 Figure A1-4 shows how this graph might appear when 100 lines (100 scenarios) are included. Note that results for some business segments do not appear to vary much. That happens because the range on the vertical scale is the same for all business segments, and some business segments are much smaller than others.
 
@@ -633,7 +633,7 @@ The software that generates these graphics places a red marker at the top and th
 
 ## Figure A1-4
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-40.jpg?height=995&width=1398&top_left_y=451&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-40.jpg?height=995&width=1398&top_left_y=451&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 This graph can be adjusted to highlight outlier results in smaller lines of business. In Figure A1-5 the range of each vertical axis is different because it is the range of operating gains for that business segment alone, not the range of total enterprise gains. This magnifies the visual impact of the differences between scenarios in small business segments and can help illustrate how fluctuations in one segment are related to the adjacent ones, without regard to size. In statistical terms, this approach can help illustrate the degree of correlation between the variability of results in adjacent business segments.
 
@@ -645,7 +645,7 @@ Page 40
 
 Figure A1-5
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-41.jpg?height=745&width=1480&top_left_y=354&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-41.jpg?height=745&width=1480&top_left_y=354&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Anyone viewing Figure A1-5 will notice that the lines between segments 3 and 4 are mostly horizontal, whereas those between other segments contain a mixture of horizontal and sloped lines. This illustrates that results for segments 3 and 4 are highly correlated, whereas those for other segments appear much less correlated in this graph.
 
@@ -657,11 +657,11 @@ This can be made even more visually obvious by reversing the scale of the axis f
 
 ## Figure A1-6
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-42.jpg?height=816&width=1122&top_left_y=438&top_left_x=507)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-42.jpg?height=816&width=1122&top_left_y=438&top_left_x=507" alt="image" style="width:100%;height:auto;">
 
 Figure A1-7
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-42.jpg?height=814&width=1141&top_left_y=1512&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c87c9ce54eae224336e2g-42.jpg?height=814&width=1141&top_left_y=1512&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 (C) 2014 Casualty Actuarial Society, Canadian Institute of Actuaries, Society of Actuaries, All Rights Reserved
 

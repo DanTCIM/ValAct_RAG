@@ -4,7 +4,7 @@
 
 Developed by the Model Risk Management Work Group of the ERM/ORSA Committee of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-01.jpg?height=277&width=734&top_left_y=2087&top_left_x=693)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-01.jpg?height=277&width=734&top_left_y=2087&top_left_x=693" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {TM }}$
 
@@ -14,7 +14,7 @@ May 2019
 
 Developed by<br>the Model Risk Management Work Group<br>of the ERM/ORSA Committee<br>of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-02.jpg?height=331&width=705&top_left_y=1293&top_left_x=707)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-02.jpg?height=331&width=705&top_left_y=1293&top_left_x=707" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is a 19,500-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -43,7 +43,7 @@ Jon Zeu Wu, MAAA, FSA, CERA
 
 Special thanks to those who helped finalize the practice note: Maryellen J. Coggins, MAAA, FCAS, CERA and David E. Heppen, MAAA, FCAS.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-03.jpg?height=328&width=705&top_left_y=1381&top_left_x=732)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_186954e45080da307a68g-03.jpg?height=328&width=705&top_left_y=1381&top_left_x=732" alt="image" style="width:100%;height:auto;">
 
 1850 M Street NW, Suite 300
 

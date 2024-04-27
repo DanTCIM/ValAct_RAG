@@ -41,7 +41,7 @@ The opinions expressed and conclusions reached by the authors are their own and 
 5. Risk Considerations ..... 5
 About The Society of Actuaries Research Institute ..... 7
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d351384083fd266c0d99g-2.jpg?height=258&width=1584&top_left_y=1413&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d351384083fd266c0d99g-2.jpg?height=258&width=1584&top_left_y=1413&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 ## 1. Client Need
 
@@ -140,7 +140,7 @@ o Finally, an insurer can rely on reinsurance to reduce its longevity risk.
 - Annuitant behavior: This risk can be mitigated by being conservative when choosing the assumed retirement date and form of pension for deferred annuitants.
 - Operational: This risk includes making incorrect payments to annuitants and paying annuitants that have passed away. This second risk can be mitigated by regularly verifying that annuitants are still alive - either directly (for a buy-out annuity) or through the plan sponsor (for a buy-in annuity).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d351384083fd266c0d99g-6.jpg?height=260&width=1578&top_left_y=1675&top_left_x=271)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d351384083fd266c0d99g-6.jpg?height=260&width=1578&top_left_y=1675&top_left_x=271" alt="image" style="width:100%;height:auto;">
 
 About The Society of Actuaries Research Institute
 

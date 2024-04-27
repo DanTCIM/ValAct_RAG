@@ -15,7 +15,7 @@ SPONSOR
 
 Quantitative Finance and Investment Curriculum Committee
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-02.jpg?height=244&width=1510&top_left_y=1843&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-02.jpg?height=244&width=1510&top_left_y=1843&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Caveat and Disclaimer
 
@@ -106,7 +106,7 @@ The focus of this paper is narrow: calibrating and validating an interest rate m
 
 With this focus the practitioner may begin their journey in stochastic interest rate modeling.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-06.jpg?height=244&width=1521&top_left_y=2182&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-06.jpg?height=244&width=1521&top_left_y=2182&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 ## 1 Introduction
 
@@ -124,7 +124,7 @@ The $\mathrm{R}$ functions and examples given in this paper are available as a b
 
 $\mathrm{R}$ is both a software environment and a scripting language, and it may interpret certain manipulations in an unintended way. When a new session is begun it is good idea to either restart $\mathrm{R}$ or clean the workspace using:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-07.jpg?height=422&width=1392&top_left_y=1578&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-07.jpg?height=422&width=1392&top_left_y=1578&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 ### 1.2 INTRODUCTION TO SCENARIOS
 
@@ -193,7 +193,7 @@ Why might the former approach of setting a historically based market price of ri
 
 More complete discussions can be found in [23] for the latest research as well as the classic chapter 11 of [3].
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-10.jpg?height=762&width=1328&top_left_y=1554&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-10.jpg?height=762&width=1328&top_left_y=1554&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 ### 1.6 PARAMETER UNCERTAINTY
 
@@ -299,11 +299,11 @@ $$
 
 with $\epsilon_{i}{ }^{\prime}$ s that are i.i.d. normal with mean 0 and standard deviation $\sigma^{*}$. The $\mathrm{R}$ function "Vasicek. Euler.sim" in the "InterestCalibration" library implements this method. The following code snippet demonstrates use of "Vasicek.Euler.sim."
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-13.jpg?height=297&width=1094&top_left_y=921&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-13.jpg?height=297&width=1094&top_left_y=921&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 ## Simulated Vasicek paths (Euler Method)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-13.jpg?height=705&width=1070&top_left_y=1412&top_left_x=514)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-13.jpg?height=705&width=1070&top_left_y=1412&top_left_x=514" alt="image" style="width:100%;height:auto;">
 
 ### 2.1.2 SIMULATING PATHS OF THE VASICEK MODEL: TRANSITION DENSITY METHOD
 
@@ -354,7 +354,7 @@ ylab="Short rate",xlab="Time Step in days")
 
 ## Simulated Vasicek paths (Transition Density Method)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-14.jpg?height=636&width=1068&top_left_y=1807&top_left_x=496)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-14.jpg?height=636&width=1068&top_left_y=1807&top_left_x=496" alt="image" style="width:100%;height:auto;">
 
 ### 2.2 COX-INGERSOLL-ROSS (CIR) MODEL
 
@@ -441,7 +441,7 @@ abline $(0,0)$
 
 ## Simulated CIR paths (Euler Method)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-16.jpg?height=577&width=984&top_left_y=1495&top_left_x=451)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-16.jpg?height=577&width=984&top_left_y=1495&top_left_x=451" alt="image" style="width:100%;height:auto;">
 
 As we can see from the graph, the Euler-Maruyama discretization method leads to negative values for $r_{t}$ which is theoretically impossible. Note that we can calculate the probability of $r(i)$ becoming negative conditioned on $r(i-1)$ for $i=1,2, \ldots$ as given below:
 
@@ -486,7 +486,7 @@ abline $(0,0)$
 
 ## Simulated CIR paths (Transition Density Method)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-17.jpg?height=583&width=984&top_left_y=1858&top_left_x=554)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-17.jpg?height=583&width=984&top_left_y=1858&top_left_x=554" alt="image" style="width:100%;height:auto;">
 
 In the implementation we assumed that the non-central $\chi^{2}$ random number generation function " $r$ chisq" works perfectly. However, "rchisq" uses the mixture of Poisson and central $\chi^{2}$ characterization given in (6) to generate random numbers. The method is simple and straightforward but "Simulation of Square-root Processes" in [9] lists many drawbacks of this method and for practical applications one may use a method given in [12] and [2] to simulate non-central $\chi^{2}$ random numbers.
 
@@ -601,7 +601,7 @@ matplot(X,type="I",main="Simulated two factor Vasicek paths", ylab="Short rate",
 
 ## Simulated two factor Vasicek paths
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-20.jpg?height=591&width=987&top_left_y=347&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-20.jpg?height=591&width=987&top_left_y=347&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 ## 3 Calibration Techniques
 
@@ -693,7 +693,7 @@ $$
 
 The implementation of this in R is straightforward as we can use R function "Im" for estimation. We illustrate the MLE calculation using the data in chapter 14, exercise Q5 of [24], as discussed in Section 5.2 and 5.3 below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-22.jpg?height=756&width=946&top_left_y=1491&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-22.jpg?height=756&width=946&top_left_y=1491&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 The MLE's of $\gamma, \bar{r}$ and $\sigma$ are 3.64532, 0.30769 and 1.81376, respectively. The ANOVA table related to this calibration is:
 
@@ -704,7 +704,7 @@ The MLE's of $\gamma, \bar{r}$ and $\sigma$ are 3.64532, 0.30769 and 1.81376, re
 
 To examine the performance of the MLE we carry out a simulation study using the R code snippet given below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-23.jpg?height=1507&width=1003&top_left_y=646&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-23.jpg?height=1507&width=1003&top_left_y=646&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 Simulation performance based on 1000 sample paths
 
@@ -743,9 +743,9 @@ $$
 
 When we compare this log-likelihood function with the log-likelihood function given in equation (5.2.9) on page 119 in [15], we see that (8) is in fact the log-likelihood function of an AR(1) model. Now it should become clear to the reader why this pdf for $r_{0}$ was chosen. For parameter estimation we could use $\mathrm{R}$ function ARIMA as illustrated in the code below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-24.jpg?height=433&width=589&top_left_y=2059&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-24.jpg?height=433&width=589&top_left_y=2059&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-25.jpg?height=1223&width=1068&top_left_y=262&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-25.jpg?height=1223&width=1068&top_left_y=262&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 Simuation performance based on 1000 sample paths
 
@@ -797,7 +797,7 @@ $$
 
 This procedure is easy to implement as given in the $\mathrm{R}$ code snippet below, but the drawback is obtaining a sample of $r_{t}$ for a large value of $t$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-26.jpg?height=857&width=1135&top_left_y=1689&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-26.jpg?height=857&width=1135&top_left_y=1689&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 The resulting estimates of $\gamma$ and $\bar{r}$ are 0.28199 and 0.05267 respectively.
 
@@ -823,7 +823,7 @@ $$
 
 We can use either the "nlm" function or the "optim" function for this purpose. The following example first calculates a bond price vector for given maturities with known parameter values and then calculates parameters using the minimization. It is used as a verification of our code for the minimization.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-27.jpg?height=524&width=1145&top_left_y=1453&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-27.jpg?height=524&width=1145&top_left_y=1453&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 Risk-neutral Parameter Estimates
 
@@ -837,7 +837,7 @@ Readers are encouraged to try various values for parameters $\gamma^{*}$ and $\b
 
 Another option we may consider is if we do not have a reliable estimate for $\sigma$ we could also estimate it from observed bond price data as described in the following code snippets.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-28.jpg?height=569&width=1154&top_left_y=388&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-28.jpg?height=569&width=1154&top_left_y=388&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Risk-neutral Parameter Estimates
 
@@ -851,7 +851,7 @@ After trying out a few different initial values and increasing the maximum numbe
 
 We realized using "nls" for yield rates instead of bond prices yields better results. The following code snippet illustrates usage of "nls" with bond yields.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-28.jpg?height=832&width=1027&top_left_y=1687&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-28.jpg?height=832&width=1027&top_left_y=1687&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 9 iterations and summary statistics are:
 
@@ -864,7 +864,7 @@ The Vasicek fit (simulated data):summary statistics
 
 We can also try to estimate $\sigma$ using bond yield data with "nls" as given below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-29.jpg?height=811&width=1026&top_left_y=666&top_left_x=322)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-29.jpg?height=811&width=1026&top_left_y=666&top_left_x=322" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 35 iterations and summary statistics are:
 
@@ -878,9 +878,9 @@ The Vasicek fit (simulated data):summary statistics
 
 We can also add a random error to simulated bond yields to evaluate the performance.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-29.jpg?height=574&width=1132&top_left_y=1968&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-29.jpg?height=574&width=1132&top_left_y=1968&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-30.jpg?height=291&width=986&top_left_y=263&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-30.jpg?height=291&width=986&top_left_y=263&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 10 iterations and summary statistics are:
 
@@ -893,7 +893,7 @@ The Vasicek fit (simulated data):summary statistics
 
 We can try estimating $\sigma$ from the same data set with a random error added to the yields:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-30.jpg?height=847&width=1011&top_left_y=972&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-30.jpg?height=847&width=1011&top_left_y=972&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 44 iterations and summary statistics are:
 
@@ -912,7 +912,7 @@ using " $n \mid s$ " and trying out many different initial values and increasing
 
 In the following code chunk we use data in Table 15.1 of [24].
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-31.jpg?height=1100&width=1211&top_left_y=457&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-31.jpg?height=1100&width=1211&top_left_y=457&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 Risk-neutral Parameter Estimates
 
@@ -967,7 +967,7 @@ col=c("red1","rosybrown","green4","royalblue","magenta"),
 
 Ity $=c(1,1,1)$, pch $=c(10,20,12,8,13))$
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-32.jpg?height=1128&width=1244&top_left_y=1282&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-32.jpg?height=1128&width=1244&top_left_y=1282&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 ### 3.3 THE CIR MODEL: REAL-WORLD CALIBRATION
 
@@ -1013,9 +1013,9 @@ $$
 
 The following R code snippet illustrates this point along with a simple study of bias and mean square error of this estimate.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-33.jpg?height=390&width=1154&top_left_y=2078&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-33.jpg?height=390&width=1154&top_left_y=2078&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-34.jpg?height=1433&width=1075&top_left_y=315&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-34.jpg?height=1433&width=1075&top_left_y=315&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 bias=rowMeans(euler.est-paras)
 
@@ -1057,9 +1057,9 @@ Since $f(r(i+1) \mid r(i), \gamma, \bar{r}, \alpha)$ is a function of a non-cent
 
 The maximization of the quasi-likelihood function can be easily implemented in $\mathrm{R}$ as given below; however numerical solutions mostly depend on the initial guess. There are some concerns with this method, which uses R function "dchisq" as it is based on evaluation of a truncated form of the infinite sum in (6).
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-35.jpg?height=1229&width=1161&top_left_y=1267&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-35.jpg?height=1229&width=1161&top_left_y=1267&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-36.jpg?height=1025&width=1071&top_left_y=304&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-36.jpg?height=1025&width=1071&top_left_y=304&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 bias.euler= rowMeans(euler.est-paras)
 
@@ -1115,7 +1115,7 @@ $$
 
 The above equations are implemented in the code chunk:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-37.jpg?height=751&width=889&top_left_y=1115&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-37.jpg?height=751&width=889&top_left_y=1115&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 Once we obtain GMM estimates for $\alpha_{1}, \beta_{1}$ and $\sigma$ we obtain estimates for $\gamma, \bar{r}$ and $\alpha$ using the following as in the Euler method:
 
@@ -1129,7 +1129,7 @@ $$
 
 The following R-code snippets implement this method:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-38.jpg?height=2266&width=1093&top_left_y=264&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-38.jpg?height=2266&width=1093&top_left_y=264&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Simulation Performance Based
 
@@ -1172,7 +1172,7 @@ $$
 
 We can use either "nlm" or "optim" for this purpose as before. The following example first calculates a bond price vector for given maturities with known parameter values and then calculates parameters using the minimization. It is used as a verification of our code for the minimization as in the Vasicek case.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-39.jpg?height=565&width=1067&top_left_y=1967&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-39.jpg?height=565&width=1067&top_left_y=1967&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 ## CIR Risk-Neutral Parameter Estimates With $\boldsymbol{\alpha}=\mathbf{0 . 0 5}$
 
@@ -1220,9 +1220,9 @@ Therefore, we do not recommend using bond prices to estimate $\alpha$.
 
 As in the Vasicek case, instead of writing our own function to minimize we can use the "nls" package for non-linear least squares minimization. The following code snippet illustrates usage of "nls" with bond yields.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-40.jpg?height=621&width=1262&top_left_y=1849&top_left_x=322)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-40.jpg?height=621&width=1262&top_left_y=1849&top_left_x=322" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-41.jpg?height=527&width=1003&top_left_y=261&top_left_x=322)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-41.jpg?height=527&width=1003&top_left_y=261&top_left_x=322" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 9 iterations and summary statistics are:
 
@@ -1235,7 +1235,7 @@ The Vasicek Fit (Simulated Data): Summary Statistics
 
 This illustrates that as in the Vasicek case "nls" performs better than both "optim" and " $n I m$ " when the underlying distribution is CIR. As in the Vasicek case we may try to estimate the standard deviation parameter from the bond yield data as illustrated below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-41.jpg?height=1088&width=1262&top_left_y=1295&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-41.jpg?height=1088&width=1262&top_left_y=1295&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 26 iterations and summary statistics are:
 
@@ -1249,7 +1249,7 @@ The Vasicek Fit (Simulated Data): Summary Statistics
 
 For a practical example we could try using data from Table 15.1 of [24]:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-42.jpg?height=1411&width=1268&top_left_y=613&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-42.jpg?height=1411&width=1268&top_left_y=613&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 CIR Risk-Neutral Parameter Estimates With $\boldsymbol{\alpha}=\mathbf{0 . 0 5 4 8}$
 
@@ -1273,7 +1273,7 @@ The CIR Fit (Simulated Data): Summary Statistics
 
 If $\alpha$ is also unknown, we need to modify the code as given below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-43.jpg?height=1413&width=1262&top_left_y=819&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-43.jpg?height=1413&width=1262&top_left_y=819&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 CIR Risk-Neutral Parameter Estimates
 
@@ -1296,11 +1296,11 @@ The CIR Fit (Simulated Data): Summary Statistics
 
 Based on the summary statistics we can conclude that CIR is not suitable model for the data set. To evaluate this issue further we can look at the fit of the model with the Vasicek model.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-44.jpg?height=1084&width=1265&top_left_y=1101&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-44.jpg?height=1084&width=1265&top_left_y=1101&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-45.jpg?height=846&width=1326&top_left_y=267&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-45.jpg?height=846&width=1326&top_left_y=267&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-45.jpg?height=1117&width=1242&top_left_y=1209&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-45.jpg?height=1117&width=1242&top_left_y=1209&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 From the plot we see that the CIR fit is marginally better than the Vasicek fit but the CIR fitted values may lead to negative interest rates; therefore we recommend using the Vasicek model for the given data.
 
@@ -1381,13 +1381,13 @@ $$
 
 Although the above three equations appear to be non-linear, they can be converted into linear equations of $\sigma_{1}, \sigma_{2}$ and cova, where cova is defined as cova $=\rho \sigma_{1} \sigma_{2}$. The R function "Two.factor.Vasicek.Vols" given below implements this.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-47.jpg?height=660&width=1310&top_left_y=1492&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-47.jpg?height=660&width=1310&top_left_y=1492&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-48.jpg?height=377&width=1096&top_left_y=270&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-48.jpg?height=377&width=1096&top_left_y=270&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 Use these values of $\sigma_{1}, \sigma_{2}$ and $\rho$ in (9) along with strip prices to minimize (10) with respect to $\gamma_{1}^{*}, \gamma_{2}^{*}, \vec{\phi}_{1}^{*}$ and $\vec{\phi}_{2}^{*}$. In an iterative scheme with each set of new values of $\gamma_{1}^{*}, \gamma_{2}^{*}, \vec{\phi}_{1}^{*}$ and $\vec{\phi}_{2}^{*}$, the parameters $\sigma_{1}, \sigma_{2}$ and $\rho$ have to be calculated. Therefore, to feed to non-linear regression analysis we use the following routine for log bond yield calculation under the two-factor Vasicek model.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-48.jpg?height=792&width=1457&top_left_y=1052&top_left_x=325)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-48.jpg?height=792&width=1457&top_left_y=1052&top_left_x=325" alt="image" style="width:100%;height:auto;">
 
 The final call for the minimization is carried out as given below:
 
@@ -1399,7 +1399,7 @@ bond. maturities $=\operatorname{seq}(0.5,20,0.5)$
 
 set.seed(12345)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-49.jpg?height=1541&width=1224&top_left_y=260&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-49.jpg?height=1541&width=1224&top_left_y=260&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 74 iterations and summary statistics are:
 
@@ -1421,7 +1421,7 @@ The following values are obtained using the estimated values of $\vec{\phi}_{1}^
 
 From the summary statistics we see that the "nls" function converges to its true value quite easily. Now we can test the fit using an actual data set. For this purpose we use Table 15.1 of [24].
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-50.jpg?height=1412&width=1369&top_left_y=386&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-50.jpg?height=1412&width=1369&top_left_y=386&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 12 iterations and summary statistics are:
 
@@ -1445,11 +1445,11 @@ We tried many possible starting values but it converged only to these values. Ho
 
 The summary statistics suggests that the model is not appropriate. To examine further we plot the fitted value based on the two-factor Vasicek model along with the Vasicek model:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-51.jpg?height=984&width=1468&top_left_y=813&top_left_x=314)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-51.jpg?height=984&width=1468&top_left_y=813&top_left_x=314" alt="image" style="width:100%;height:auto;">
 
 2 return code 8: false convergence: the gradient $\nabla f(x)$ may be computed incorrectly, the other stopping tolerances may be too tight, or either $f$ or $\nabla f$ may be discontinuous near the current iterate $x$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-52.jpg?height=1127&width=1228&top_left_y=236&top_left_x=446)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-52.jpg?height=1127&width=1228&top_left_y=236&top_left_x=446" alt="image" style="width:100%;height:auto;">
 
 The diagnostic p-values indicate that the two-factor Vasicek model is not an appropriate model for this data set. This agrees with the conclusion drawn in [24].
 
@@ -1621,15 +1621,15 @@ As it is difficult to cover all the possible option prices that can be used for 
 
 In fitting a curve for $r(0, t)$ we found that cubic-spline interpolation works poorly as the resulting $f(0, t)$ was an oscillating function. [24] suggests using a polynomial of degree 6 or degree 10 for $r(0, t)$. As an alternative we can fit using a Nelson-Siegel curve.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-56.jpg?height=999&width=1045&top_left_y=497&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-56.jpg?height=999&width=1045&top_left_y=497&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-56.jpg?height=856&width=1109&top_left_y=1526&top_left_x=432)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-56.jpg?height=856&width=1109&top_left_y=1526&top_left_x=432" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-57.jpg?height=200&width=847&top_left_y=262&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-57.jpg?height=200&width=847&top_left_y=262&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 The function $\theta$ (With Cubic Splines)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-57.jpg?height=837&width=1152&top_left_y=625&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-57.jpg?height=837&width=1152&top_left_y=625&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 ### 4.2.1 FITTING AN $\boldsymbol{n}$ DEGREE POLYNOMIAL FOR $\boldsymbol{r}(\boldsymbol{0}, \boldsymbol{t})$
 
@@ -1660,11 +1660,11 @@ model2 = Im(Yield poly(TM,6,raw=TRUE))
 
 coefs = as.numeric( $\operatorname{coef}($ model2))
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-58.jpg?height=665&width=1159&top_left_y=270&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-58.jpg?height=665&width=1159&top_left_y=270&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 $6^{\text {th }}$ Degree Polynomial Fit
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-58.jpg?height=805&width=1116&top_left_y=1039&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-58.jpg?height=805&width=1116&top_left_y=1039&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 plot(xvals, thetat,type="I",
 
@@ -1676,7 +1676,7 @@ xlab="Time",ylab="Theta")
 
 The function $\theta$ (With $6^{\text {th }}$ Degree Polynomial)
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-59.jpg?height=816&width=1133&top_left_y=313&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-59.jpg?height=816&width=1133&top_left_y=313&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 ### 4.2.2 FITTING A NELSON-SIEGEL CURVE TO $\boldsymbol{r}(\mathbf{0}, \boldsymbol{t})$
 
@@ -1703,7 +1703,7 @@ $$
 \frac{\partial}{\partial t} f(0, t)=-\frac{\beta_{1}}{\tau} \exp \left(-\frac{t}{\tau}\right)+\frac{\beta_{2}}{\tau} \exp \left(-\frac{t}{\tau}\right)-\frac{\beta_{2} t}{\tau^{2}} \exp \left(-\frac{t}{\tau}\right)
 $$
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-59.jpg?height=337&width=1066&top_left_y=2174&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-59.jpg?height=337&width=1066&top_left_y=2174&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 \# The function "Nelson.Siegel" is from the Yield curve package.
 
@@ -1729,7 +1729,7 @@ legend("bottomright",legend=c("Forward curve","Current yield",
 
 "Fitted Yield"),col=c("blue", "red", "green"), lty=c( $2,1,1)$ )
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-60.jpg?height=1063&width=1098&top_left_y=973&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-60.jpg?height=1063&width=1098&top_left_y=973&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 plot(xvals,thetat,type="I",
 
@@ -1737,7 +1737,7 @@ main=expression(paste("The function ", theta," (with Nelson-Siegel)")),
 
 xlab="Time",ylab="Theta")
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-61.jpg?height=1082&width=1073&top_left_y=245&top_left_x=556)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-61.jpg?height=1082&width=1073&top_left_y=245&top_left_x=556" alt="image" style="width:100%;height:auto;">
 
 ### 4.3 CALIBRATION OF THE ONE-FACTOR HULL-WHITE MODEL
 
@@ -1790,23 +1790,23 @@ $$
 
 A careful observation reveals that this is the put option formula under the Vasicek model with modeled bond prices replaced by market observed bond prices. The cap prices are obtained by adding all the prices of corresponding caplets together. We first implement a caplet formula in the code block given below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=565&width=1003&top_left_y=271&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=565&width=1003&top_left_y=271&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 Note that the R function Vasicek.B is implemented as:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=425&width=612&top_left_y=992&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=425&width=612&top_left_y=992&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 Once the caplet prices are calculated the cap price is calculated as the sum of these caplets as given below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=427&width=1132&top_left_y=1564&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-63.jpg?height=427&width=1132&top_left_y=1564&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 Now to calculate a cap price vector as given in Table 19.4 of ([24]) we can use the following $R$ function:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-64.jpg?height=563&width=1184&top_left_y=346&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-64.jpg?height=563&width=1184&top_left_y=346&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 Now we can estimate $\gamma^{*}$ and $\sigma^{*}$ using the non-linear least squares function "nls" which can be downloaded from R's CRAN archive. To verify the nls function we first use a simulated data set assuming the prices are from a Hull-White model.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-64.jpg?height=424&width=949&top_left_y=1160&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-64.jpg?height=424&width=949&top_left_y=1160&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 The "nls" algorithm converged in 4 iterations and summary statistics are:
 
@@ -1858,21 +1858,21 @@ The Hull-White Model Fit: Summary Statistics
 
 From the summary statistics we see that the fit is very good. As further evidence of the appropriateness of the fit we consider some graphical analysis with code snippets:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-65.jpg?height=244&width=840&top_left_y=1778&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-65.jpg?height=244&width=840&top_left_y=1778&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-66.jpg?height=892&width=984&top_left_y=237&top_left_x=495)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-66.jpg?height=892&width=984&top_left_y=237&top_left_x=495" alt="image" style="width:100%;height:auto;">
 
 plot('Cap Price (x100)' 'Maturity', data =Data_set, xlab = "Maturity", ylab = "Cap Price")
 
 lines(Data_set\$'Maturity', fitted(Hull.White.fit))
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-66.jpg?height=935&width=1027&top_left_y=1408&top_left_x=473)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-66.jpg?height=935&width=1027&top_left_y=1408&top_left_x=473" alt="image" style="width:100%;height:auto;">
 
 plot(fitted(Hull. White.fit), residuals(Hull.White.fit),xlab="Fitted Values", ylab="Residuals")
 
 abline $(a=0, b=0)$
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-67.jpg?height=845&width=941&top_left_y=369&top_left_x=500)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-67.jpg?height=845&width=941&top_left_y=369&top_left_x=500" alt="image" style="width:100%;height:auto;">
 
 As the graphs indicate the fitted model is an ideal one.
 
@@ -1896,7 +1896,7 @@ $$
 
 In the above formula bond prices are market or interpolated bond prices. The above formulas are implemented in the following code chunk:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-68.jpg?height=801&width=1251&top_left_y=263&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-68.jpg?height=801&width=1251&top_left_y=263&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 - In the R functions for cap price, the cap price vector is similar to functions in the one-factor Vasicek model.
 
@@ -1959,7 +1959,7 @@ $$
 
 The above formula can be coded as:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-69.jpg?height=407&width=1397&top_left_y=2053&top_left_x=340)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-69.jpg?height=407&width=1397&top_left_y=2053&top_left_x=340" alt="image" style="width:100%;height:auto;">
 
 We see that $S_{Z}(T-\Delta ; T)$ characterizes the particular caplet, independent of which caplet it belongs to. We can exploit this fact first to obtain $S_{Z}((i-1) \Delta ; i \Delta)$ for $i=1,2, \ldots$ and then applying the nonlinear least squares method to estimate parameters $\gamma_{1}^{*}, \gamma_{2}^{*}, \sigma_{1}$ and $\sigma 2$. Extracting $S_{Z}((i-1) \Delta ; i \Delta) \mathrm{i}=1,2, \ldots$ is similar to extracting forward volatilities from flat volatilities as given in section 20.1.2 of [24]. It works as follows:
 
@@ -1975,23 +1975,23 @@ $$
 
 The above formula can be coded as:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-70.jpg?height=244&width=1181&top_left_y=1129&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-70.jpg?height=244&width=1181&top_left_y=1129&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 We can implement the above algorithm as given below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-70.jpg?height=710&width=1219&top_left_y=1550&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-70.jpg?height=710&width=1219&top_left_y=1550&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-71.jpg?height=481&width=695&top_left_y=258&top_left_x=324)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-71.jpg?height=481&width=695&top_left_y=258&top_left_x=324" alt="image" style="width:100%;height:auto;">
 
 The auxiliary functions needed for the above functions are given below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-71.jpg?height=430&width=1001&top_left_y=906&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-71.jpg?height=430&width=1001&top_left_y=906&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-72.jpg?height=522&width=1033&top_left_y=263&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-72.jpg?height=522&width=1033&top_left_y=263&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 Even though the Hull-White model performance with cap prices and "nls" was excellent, we can try it with the method proposed in this section. The following code block illustrates this method with a simulated data set.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-72.jpg?height=1556&width=1158&top_left_y=993&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-72.jpg?height=1556&width=1158&top_left_y=993&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 We see that in this case also the "nls" algorithm converged in 6 iterations. Summary statistics are:
 
@@ -2004,7 +2004,7 @@ The Hull-White Model Fit: Summary Statistics
 
 Now we can attempt the same analysis with the data set in Table 19.4 of [24]:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-73.jpg?height=1088&width=1316&top_left_y=641&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-73.jpg?height=1088&width=1316&top_left_y=641&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 We see that in this case the "nls" algorithm converged in 7 iterations and summary statistics are:
 
@@ -2111,19 +2111,19 @@ With many different initial values for the parameters, this method did not conve
 
 The following code chunk implements the residual function to be used with "nflb":
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-75.jpg?height=853&width=970&top_left_y=1014&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-75.jpg?height=853&width=970&top_left_y=1014&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 We also developed a function that calculates the Jacobian of the residual function with respect to parameters that need to be estimated; it is given in the following code chunk:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-76.jpg?height=1456&width=1183&top_left_y=264&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-76.jpg?height=1456&width=1183&top_left_y=264&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 The function "Two.factor.Vasicek.SZ.gradient" calls another function, "Vasicek.DB", which calculates the derivative of $B(t ; T)$ with respect to $\gamma$ and it is:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-76.jpg?height=379&width=1121&top_left_y=1926&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-76.jpg?height=379&width=1121&top_left_y=1926&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 We illustrate the use of these functions in the following code chunk:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-77.jpg?height=1183&width=1463&top_left_y=339&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-77.jpg?height=1183&width=1463&top_left_y=339&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 fvol.dat\$'Forward Vol.sq' = fvol.dat\$'Forward Vol.'^2/(fvol.dat\$Maturity-0.25)
 
@@ -2162,15 +2162,15 @@ Whether input data is accurate, consistent, complete, and correctly loaded is a 
 
 In Section 2.1.1 the Vasicek model was run. Opening the R function we see time and time step parameters (daily), plus the starting value, mean reversion speed, long term mean reversion target, and instantaneous volatility.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-78.jpg?height=287&width=1369&top_left_y=1861&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-78.jpg?height=287&width=1369&top_left_y=1861&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 Above these were given, but in practice they must be estimated. This is done in section 3.1.1, where Example 6 works [24] Chapter 14 Question 5:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-79.jpg?height=786&width=950&top_left_y=263&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-79.jpg?height=786&width=950&top_left_y=263&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 Notice how the gamma, rbar, and sigma code directly implement the formulas immediately preceding Example 6 in 3.1.1 above.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-79.jpg?height=1085&width=1166&top_left_y=1273&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-79.jpg?height=1085&width=1166&top_left_y=1273&top_left_x=319" alt="image" style="width:100%;height:auto;">
 model $=\operatorname{Im}\left(y^{\sim} x\right)$
 
 mle.gamma= -log(as.numeric(model\$coefficients)[2])/Delta
@@ -2203,9 +2203,9 @@ The other parameters - short rate volatility (sigma), mean reversion strength (g
 
 This model can be tested by using these values of gamma, rbar, and sigma to generate scenarios:
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-80.jpg?height=755&width=1010&top_left_y=1665&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-80.jpg?height=755&width=1010&top_left_y=1665&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-81.jpg?height=828&width=1013&top_left_y=261&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-81.jpg?height=828&width=1013&top_left_y=261&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 ## Simulation performance based on 1000 sample paths
 
@@ -2244,15 +2244,15 @@ Download the rate data from the US Treasury Department's website ${ }^{4}$. Open
 
 In RStudio's top right window, Environment tab, select Import Dataset. R may want to install an updated readxl package. Browse for and select the downloaded rate data file. In Import Options (lower left), select the new sheet. Import.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-82.jpg?height=385&width=1157&top_left_y=1767&top_left_x=320)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-82.jpg?height=385&width=1157&top_left_y=1767&top_left_x=320" alt="image" style="width:100%;height:auto;">
 
 ${ }^{4}$ Market yield on U.S. Treasury securities at 1-month constant maturity, quoted on investment basis, series H15/H15/RIFLGFCM01_N.B can be selected from www.federalreserve.gov/DataDownload. Filtered data can be obtained directly at https://home.treasury.gov/resourcecenter/data-chart-center/interest-rates/TextView?type=daily treasury yield curve\&field tdr date value=all\&data=yieldAll.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-83.jpg?height=1954&width=1007&top_left_y=261&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-83.jpg?height=1954&width=1007&top_left_y=261&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 We now have 1000 scenarios and want to evaluate whether they are a good fit relative to our calibrated parameters. To do this we'll calculate the CIR parameters implied by each scenario, and see whether on average they are close to our calibrated parameters. If so, then the set is valid and the calibration "worked".
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-84.jpg?height=974&width=960&top_left_y=263&top_left_x=319)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-84.jpg?height=974&width=960&top_left_y=263&top_left_x=319" alt="image" style="width:100%;height:auto;">
 
 bias=rowMeans(euler.est-paras)
 
@@ -2276,9 +2276,9 @@ The code above was adapted from Example 13 code. We started with r0 set to 2.741
 
 All three parameters show little bias, with rbar very close. The standard deviation across the 1000 scenarios is broader, which also shows up in the RMSE and relative RMSE metrics. Indeed, gamma and rbar have RRMSEs greater than 30\%, indicating a poor fit. Looking at the scenarios produced,
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-84.jpg?height=243&width=1391&top_left_y=2238&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-84.jpg?height=243&width=1391&top_left_y=2238&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-85.jpg?height=932&width=957&top_left_y=255&top_left_x=516)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-85.jpg?height=932&width=957&top_left_y=255&top_left_x=516" alt="image" style="width:100%;height:auto;">
 
 The scenarios show material dispersion during the first year, but they then settle down to extended low rates clustered in the $0 \%$ to $1.5 \%$ range. This is roughly the pattern of the historical data used for calibration, so the CIR model appears to produce scenarios in line with the calibration data, in this case. Calibrating to a historical dataset with higher or more variable rates might produce more dispersion in the scenario set. Alternatively, we notice the mean reversion strength gamma produced by our calibration is greater than 1.0. Reviewing the CIR model in equation (4), this could amplify volatility, which could be offset by the $\sqrt{\alpha r_{t}}$ volatility term. This emphasizes the need for assessing the scenario set produced by the model. Alternatively it is usable with the caveat that the scenario set only spans scenarios in a regime like 2017 to 2019 U.S. rates, but not scenarios from a different regime.
 
@@ -2317,7 +2317,7 @@ A word of encouragement on documentation. We know we should do it, and standards
 
 Each model has issues which become apparent when fit to an actual historical data series or a specific yield curve. In Section 5 we saw that the one-factor models have difficulty fitting historical data where exogenous shocks caused discontinuities, or "jumps", in the data series. Adding a random jump term can be done, at the cost of additional complexity. The practitioner can also test the two-factor Vasicek model with correlated factors and the two-factor Hull-White model, as explored in Section 4. Both of these models are in the class of G2++ models, which can be explored further in [6] section 4.2. Ultimately the choice of model and calibration data comes down to art and professional judgement. Real world data is messy, with exogenous shocks from political shifts, central bank intervention, geopolitical events, and more. There's no one right answer, but rather informed choices and trade-offs. That's what makes it interesting. Best wishes.
 
-![](https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-87.jpg?height=252&width=1523&top_left_y=2254&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_15_1550fc49de49f4302507g-87.jpg?height=252&width=1523&top_left_y=2254&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 ## 7 Acknowledgments
 

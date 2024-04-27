@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_11_db6a380d890405d163c4g-01.jpg?height=344&width=588&top_left_y=430&top_left_x=1235)
+<img src="https://cdn.mathpix.com/cropped/2024_04_11_db6a380d890405d163c4g-01.jpg?height=344&width=588&top_left_y=430&top_left_x=1235" alt="image" style="width:100%;height:auto;">
 
 # BERMUDA MONETARY AUTHORITY 
 

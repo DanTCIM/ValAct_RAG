@@ -1,10 +1,10 @@
 SOCIETY OF ACTUARIES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-01.jpg?height=515&width=862&top_left_y=81&top_left_x=1179)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-01.jpg?height=515&width=862&top_left_y=81&top_left_x=1179" alt="image" style="width:100%;height:auto;">
 
 Predictive Models on Conversion Studies for the Level Premium Term Plans
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-01.jpg?height=920&width=1925&top_left_y=1405&top_left_x=73)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-01.jpg?height=920&width=1925&top_left_y=1405&top_left_x=73" alt="image" style="width:100%;height:auto;">
 
 ## Predictive Models on Conversion Studies for the Level Premium Term Plans
 
@@ -178,7 +178,7 @@ For the models presented in this paper, accuracy of the data and consistency of 
 
 A comprehensive conversion rate model was built. The model developed describes the actual data well. Figure 1 shows a close agreement between the model's predictions and the values actually observed. The validation result shown in Figure 1 is based on the data set not used in the model development.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-08.jpg?height=827&width=1582&top_left_y=600&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-08.jpg?height=827&width=1582&top_left_y=600&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 * Because our model focused only on 10-year term business with conversion privilege period of 10 years, we do not see conversion rate blips in duration 2 and duration 5, which are shown in Chart 4.2 of the Conversion Study.
 
@@ -194,7 +194,7 @@ Figure 2: Illustrative Model Prediction by Risk Class
 
 for Sample Cohort A
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-09.jpg?height=786&width=1578&top_left_y=797&top_left_x=336)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-09.jpg?height=786&width=1578&top_left_y=797&top_left_x=336" alt="image" style="width:100%;height:auto;">
 
 *Please refer to Appendix B for the details on risk class grouping.
 
@@ -207,7 +207,7 @@ The result in Figure 3 shows a different pattern comparing to the result in Char
 In the Conversion Study, issue age group 50-59 has the highest conversion rate in duration 10, while in this modeling exercise, the issue age group 60+ has the highest conversion rate, which is more consistent with the trend of age. The difference here may be because of the slightly different data sets used for both studies.
 
 Figure 3: Illustrated Model Prediction by Issue Age Group
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-10.jpg?height=822&width=1576&top_left_y=922&top_left_x=336)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-10.jpg?height=822&width=1576&top_left_y=922&top_left_x=336" alt="image" style="width:100%;height:auto;">
 
 ### 5.1.3 Face Amount and Duration
 
@@ -219,7 +219,7 @@ It is easy to see that the trend in Figure 4 is somewhat consistent with the res
 
 ## for Sample Cohort A
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-11.jpg?height=699&width=1591&top_left_y=865&top_left_x=337)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-11.jpg?height=699&width=1591&top_left_y=865&top_left_x=337" alt="image" style="width:100%;height:auto;">
 
 A. $<100 \mathrm{~K} \longrightarrow$ B. $100 \mathrm{~K}-249 \mathrm{~K} \longrightarrow$ C. $250 \mathrm{~K}-999 \mathrm{~K} \longrightarrow$ D. $1 \mathrm{M}+$
 
@@ -229,7 +229,7 @@ A comprehensive Point-in-Scale Mortality model was built. The Point-in-Scale Mor
 
 Figure 5: Point-in-Scale Mortality Model Validation Result
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-12.jpg?height=762&width=1594&top_left_y=622&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-12.jpg?height=762&width=1594&top_left_y=622&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 * In Section 5 of the Conversion Study, the Point-in-Scale Mortality in duration since conversion 1 is lower comparing to other durations because of the off-anniversary conversion exposure calculation. Since it is a known issue, the model was not forced to follow the dip in duration since conversion at 1.
 
@@ -243,7 +243,7 @@ Figure 6 shows model predicted Point-in-Scale Mortality by duration since conver
 
 Again, anti-selection is present in high face amounts. From Figure 4, it is clear that large face amount policies convert the most and are coupled with high Point-in-Scale Mortality rates.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-13.jpg?height=862&width=1591&top_left_y=699&top_left_x=337)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-13.jpg?height=862&width=1591&top_left_y=699&top_left_x=337" alt="image" style="width:100%;height:auto;">
 
 *Please refer to Appendix C for actual claim counts in each face amount band.
 
@@ -255,7 +255,7 @@ Figure 7: Illustrated Predicted Point-in-Scale Mortality Ratio by Conversion Gro
 
 for Sample Cohort B
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-14.jpg?height=707&width=1461&top_left_y=812&top_left_x=337)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-14.jpg?height=707&width=1461&top_left_y=812&top_left_x=337" alt="image" style="width:100%;height:auto;">
 
 *Please refer to Appendix C for actual claim counts in each conversion group.
 
@@ -267,7 +267,7 @@ This result differs from the result in Chart 5.20 from the Conversion Study. The
 
 Figure 8: Illustrated Predicted Point-in-Scale Mortality Ratio by Issue Age Group for Sample Cohort B
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-15.jpg?height=754&width=1591&top_left_y=951&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-15.jpg?height=754&width=1591&top_left_y=951&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 *Please refer to Appendix C for actual claim counts in each issue age group.
 
@@ -277,7 +277,7 @@ A comprehensive post-conversion lapse model was built. The model developed descr
 
 ## Figure 9: Post-Conversion Lapse Model Validation Result
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-16.jpg?height=778&width=1570&top_left_y=565&top_left_x=337)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-16.jpg?height=778&width=1570&top_left_y=565&top_left_x=337" alt="image" style="width:100%;height:auto;">
 
 The highlighted post-conversion lapse model findings are listed in the following discussion. In addition to those illustrated, the model also finds that age, underwriting class and conversion product type add lift to explain the conversion behavior. Although some of the findings of these variables are consistent with the Conversion Study, for others, additional insights were found comparing to the traditional experience studies. Conversion product type could not be shown in the conversion experience study because of data limitations and confidentiality of data requirements; therefore, it will not be specifically demonstrated here.
 
@@ -293,7 +293,7 @@ Figure 10: Illustrated Predicted Lapse Rate by Gender
 
 for Sample Cohort C
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-17.jpg?height=716&width=1594&top_left_y=607&top_left_x=339)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-17.jpg?height=716&width=1594&top_left_y=607&top_left_x=339" alt="image" style="width:100%;height:auto;">
 
 — Female Male
 
@@ -305,7 +305,7 @@ Figure 11: Illustrated Predicted Lapse Rate by Duration at Conversion
 
 for Sample Cohort C
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-18.jpg?height=734&width=1591&top_left_y=820&top_left_x=337)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-18.jpg?height=734&width=1591&top_left_y=820&top_left_x=337" alt="image" style="width:100%;height:auto;">
 
 ### 5.3.3 Face Amount and Duration since Conversion
 
@@ -317,7 +317,7 @@ Figure 12: Illustrated Predicted Lapse Rate by Face Amount
 
 for Sample Cohort C
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-19.jpg?height=754&width=1588&top_left_y=664&top_left_x=323)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-19.jpg?height=754&width=1588&top_left_y=664&top_left_x=323" alt="image" style="width:100%;height:auto;">
 
 ## Section 6: Conclusion
 
@@ -424,7 +424,7 @@ Table B. 1
 
 Underwriting class names and abbreviation shown by number of underwriting classes (Nonsmoker)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-24.jpg?height=1331&width=1515&top_left_y=896&top_left_x=305)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-24.jpg?height=1331&width=1515&top_left_y=896&top_left_x=305" alt="image" style="width:100%;height:auto;">
 
 Table B. 2
 
@@ -432,15 +432,15 @@ Underwriting class names and abbreviations
 
 shown by number of underwriting classes (Nonsmoker)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=631&width=1114&top_left_y=389&top_left_x=500)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=631&width=1114&top_left_y=389&top_left_x=500" alt="image" style="width:100%;height:auto;">
 
 Table B. 3
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=271&width=569&top_left_y=1171&top_left_x=778)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=271&width=569&top_left_y=1171&top_left_x=778" alt="image" style="width:100%;height:auto;">
 
 Standard Nonsmoker UW Classes
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=116&width=567&top_left_y=1563&top_left_x=779)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_987724e57cba743e67c8g-25.jpg?height=116&width=567&top_left_y=1563&top_left_x=779" alt="image" style="width:100%;height:auto;">
 
 Smoker UW Classes
 

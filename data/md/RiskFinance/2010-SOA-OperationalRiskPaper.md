@@ -4,11 +4,11 @@
 
 Sponsored by:<br>Joint Risk Management Section<br>Society of Actuaries<br>Canadian Institute of Actuaries<br>Casualty Actuarial Society
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-01.jpg?height=194&width=996&top_left_y=1258&top_left_x=564)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-01.jpg?height=194&width=996&top_left_y=1258&top_left_x=564" alt="image" style="width:100%;height:auto;">
 
 Prepared by:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-01.jpg?height=114&width=569&top_left_y=1797&top_left_x=388)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-01.jpg?height=114&width=569&top_left_y=1797&top_left_x=388" alt="image" style="width:100%;height:auto;">
 
 TOWERS
 
@@ -228,7 +228,7 @@ Exhibit 3.1 illustrates that under the Traditional interpretation, maximum risk 
 
 ## Exhibit 3.1 - Traditional vs. Modern Conceptions of High Risk
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-12.jpg?height=698&width=1464&top_left_y=976&top_left_x=360)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-12.jpg?height=698&width=1464&top_left_y=976&top_left_x=360" alt="image" style="width:100%;height:auto;">
 
 (c) OpRisk Advisory 2004.
 
@@ -278,7 +278,7 @@ Exhibit 3.3 illustrates that risk is a measure of deviation from the expectation
 
 ## Exhibit 3.3 - Risk vs. Opportunity
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-14.jpg?height=754&width=1347&top_left_y=992&top_left_x=386)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-14.jpg?height=754&width=1347&top_left_y=992&top_left_x=386" alt="image" style="width:100%;height:auto;">
 
 ### 3.3 A Practical Definition of Risk
 
@@ -303,7 +303,7 @@ A frequency distribution is a discrete probability distribution for a specified 
 
 ## Exhibit 4.1 - Frequency Distribution
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-16.jpg?height=661&width=1331&top_left_y=1667&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-16.jpg?height=661&width=1331&top_left_y=1667&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 One reason that likelihood and frequency are used synonymously is that for rare events the likelihood and mean frequency values are nearly equivalent. For example, a one in one thousand year event has a mean annual frequency of 0.001 and also a likelihood (probability) of approximately 0.001 per year. But this relationship does not hold true for the commonly occurring events. For example, an event that is expected to take place once a year, on average, has a mean annual frequency of 1 , but the likelihood is usually less than 1 , because likelihood of 1 means $100 \%$ probability of occurrence. (Note: If an event is expected to take place only once a year, on average, it is not true that that event will take place once a year with $100 \%$ certainty.)
 
@@ -342,13 +342,13 @@ Exhibit 4.3 illustrates the meaning of the expected loss and unexpected loss in 
 
 ## Exhibit 4.3 - Expected Loss and Unexpected Loss
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-19.jpg?height=656&width=1171&top_left_y=645&top_left_x=539)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-19.jpg?height=656&width=1171&top_left_y=645&top_left_x=539" alt="image" style="width:100%;height:auto;">
 
 Exhibit 4.4 illustrates the common but incorrect conception of the terms expected loss and unexpected loss.
 
 ## Exhibit 4.4-Common Misconceptions: Expected Losses and Unexpected Losses
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-19.jpg?height=726&width=1184&top_left_y=1529&top_left_x=530)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-19.jpg?height=726&width=1184&top_left_y=1529&top_left_x=530" alt="image" style="width:100%;height:auto;">
 
 Unexpected Loss vs. Unexpected Losses: In risk management, just as there are no expected losses, there are also no unexpected losses. The unexpected loss is a specific number that represents the potential level of adverse deviation from the expected loss (the mean) up to the total exposure at the N\% level (described below). The unexpected loss therefore measures the level of risk at the N\% level. For example, as shown in Exhibit 4.3, if total
 exposure at the $99 \%$ level is $\$ 100$ and the expected loss is $\$ 10$, then the unexpected los or is $\$ 90$ ( $\$ 100$ \$10). However, many practitioners mistakenly confuse the term unexpected loss with "unexpected losses," which they believe is used to describe the large losses or the losses above the mean (as shown in Exhibit 4.4).
@@ -361,7 +361,7 @@ Exhibit 4.5. illustrates that the aggregate expected loss and aggregate unexpect
 
 ## Exhibit 4.5 - Aggregate Loss Distribution
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-21.jpg?height=819&width=1374&top_left_y=539&top_left_x=408)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-21.jpg?height=819&width=1374&top_left_y=539&top_left_x=408" alt="image" style="width:100%;height:auto;">
 
 ### 4.3 Risk Measurement and Assessment
 
@@ -387,7 +387,7 @@ This full range of possibilities can be represented as a probability distributio
 
 ## Loss Exceedence Curve
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-23.jpg?height=526&width=857&top_left_y=854&top_left_x=645)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-23.jpg?height=526&width=857&top_left_y=854&top_left_x=645" alt="image" style="width:100%;height:auto;">
 
 The sum of all the different likelihood $x$ impact combinations results in the probability weighted mean (mean severity). This is also referred to as the conditional expected loss - specifically, the expected loss conditioned on one event. ${ }^{9}$
 
@@ -447,7 +447,7 @@ In 2008, Towers Perrin conducted a survey of insurance industry CFOs. Exhibit 4.
 
 In your operational risk management framework, which of the following characterizes the highest level of risk?
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-25.jpg?height=729&width=1184&top_left_y=617&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-25.jpg?height=729&width=1184&top_left_y=617&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Eighteen of the 31 CFOs surveyed identified high probability (likelihood) and high impact (severity) events as those posing the greatest risk. This raises some interesting questions.
 
@@ -512,7 +512,7 @@ Because of the complexity of this problem, the insurance industry has not yet be
 
 The Research Team recommends that insurance companies adopt a risk universe with the following top-line risks: market risk, credit risk, operational risk, insurance risk and business/strategic risk. However, operational risk represents a special case. Because operational failures can manifest themselves in market, credit, insurance and business/strategic losses, operational risk permeates all aspects of the risk universe. This is illustrated in Exhibit 6.2. Therefore, operational risk is embedded in the other risks and must be recognized as such. Absent such an approach, event classification becomes arbitrary and does not adequately support management decision making.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-31.jpg?height=1082&width=1747&top_left_y=454&top_left_x=235)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-31.jpg?height=1082&width=1747&top_left_y=454&top_left_x=235" alt="image" style="width:100%;height:auto;">
 
 C 2009 OpRisk Advisory and Towers Perrin
 
@@ -578,7 +578,7 @@ Principal-agent risk is logically represented in two ways: through a payoff matr
 benefit himself/herself, but he/she does not intend to harm anyone else. In other words, to succeed in this venture it is not necessary that anyone else be harmed.
 
 The second illustration in Exhibit 6.4 shows the distribution of all expected outcomes for the agent's firm. Note that the expected outcome is a loss (which is identical to that of criminal risk). Thus, even though the perpetrator does not specifically intend to harm his/her firm, he/she knows that on a risk-adjusted basis the expected value of all outcomes is negative. In legal parlance, this may be referred to as willful or criminal negligence.
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-36.jpg?height=874&width=1354&top_left_y=472&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-36.jpg?height=874&width=1354&top_left_y=472&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 ## Exhibit 6.4 Illustrating Principal-Agent Risk
 
@@ -618,7 +618,7 @@ The EVP subsequently learns about a new fraud prevention system designed to iden
 
 ## Exhibit 7.1 - Risk-Control Optimization
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-38.jpg?height=935&width=1526&top_left_y=1381&top_left_x=294)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-38.jpg?height=935&width=1526&top_left_y=1381&top_left_x=294" alt="image" style="width:100%;height:auto;">
 
 The EVP needs two more pieces of information to make an informed risk-based decision: the fully amortized annual cost of the proposed new system and the firm's cost of capital, which are $\$ 5,000,000$ and $10 \%$, respectively. All relevant information is summarized below. (In isolation, the unexpected loss is assumed to be the level of capital set aside for large losses.)
 
@@ -742,7 +742,7 @@ This discrepancy has huge implications. Specifically, Traditional ORM fails to r
 
 ## Exhibit 7.6 - Traditional vs. Modern Conceptions of High Risk
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-44.jpg?height=692&width=1468&top_left_y=510&top_left_x=358)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-44.jpg?height=692&width=1468&top_left_y=510&top_left_x=358" alt="image" style="width:100%;height:auto;">
 
 (c) OpRisk Advisory 2004.
 
@@ -799,7 +799,7 @@ Here $\mathrm{N}$ is often referred to as the frequency, and each $\mathrm{X}_{\
 
 ## Exhibit 8.1 - Aggregate Loss Distribution
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-47.jpg?height=810&width=1358&top_left_y=1007&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-47.jpg?height=810&width=1358&top_left_y=1007&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 Although there are no restrictions on the types of frequency and severity distributions one can use, a theoretical requirement is that the Xs be independent and identically distributed (i.i.d.) and that the frequency and the severity be independent.
 
@@ -859,7 +859,7 @@ Frequency refers to the number of events that occur within a given time period. 
 
 ## Exhibit 8.2 - Examples of Frequency Distributions: Poisson and Negative Binomial
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-51.jpg?height=1206&width=1528&top_left_y=1076&top_left_x=336)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-51.jpg?height=1206&width=1528&top_left_y=1076&top_left_x=336" alt="image" style="width:100%;height:auto;">
 
 ### 8.4.2 Severity
 
@@ -870,7 +870,7 @@ A severity distribution is often illustrated as a probability density function (
 
 ## Exhibit 8.3 - A Severity Distribution can be shown as a PDF, CDF or LEC
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-52.jpg?height=844&width=1284&top_left_y=1184&top_left_x=390)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-52.jpg?height=844&width=1284&top_left_y=1184&top_left_x=390" alt="image" style="width:100%;height:auto;">
 
 ### 8.4.3 Annualized Loss Exceedence
 
@@ -920,7 +920,7 @@ This process of fitting a theoretical distribution to truncated data is illustra
 
 ## Exhibit 8.4 - Fitting a Truncated Dataset Using Modified MLE
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-56.jpg?height=846&width=1569&top_left_y=512&top_left_x=343)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-56.jpg?height=846&width=1569&top_left_y=512&top_left_x=343" alt="image" style="width:100%;height:auto;">
 
 ### 8.6.4 Fitting Heavy Tailed Truncated Data
 
@@ -944,7 +944,7 @@ As one can see from this example, where the goal is to measure risk at a 99\% le
 
 ## Exhibit 8.5 - A Graphical Illustration of Model Risk (Underestimating the Tail)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-58.jpg?height=827&width=1458&top_left_y=568&top_left_x=472)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-58.jpg?height=827&width=1458&top_left_y=568&top_left_x=472" alt="image" style="width:100%;height:auto;">
 
 ### 8.7 Combining Internal and External Loss Data
 
@@ -1041,7 +1041,7 @@ In an actuarial framework, Monte Carlo simulation can be used to combine sets of
 
 ## Exhibit 8.8 - Using Monte Carlo Simulation to Estimate the Aggregate Distribution
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-63.jpg?height=843&width=1721&top_left_y=1259&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-63.jpg?height=843&width=1721&top_left_y=1259&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 This is accomplished through a series of steps that are meant to simulate reality. Using the frequency distribution, the simulation engine randomly selects a value $(\mathrm{N})$ that represents the number of losses the institution experiences in a given sample year. The simulation engine then randomly draws $\mathrm{N}$ losses from the severity distribution to determine the individual loss amount associated with each of the $\mathrm{N}$ events. The model then sums all the individual losses to calculate the cumulative or aggregate loss for that hypothetical year. By iterating this process thousands or millions of times, the simulation engine can create a hypothetical aggregate loss distribution that represents the
 entity's theoretical loss exposure. The loss value that is $1 \%$ from the top represents the $99 \%$ level aggregate loss for that institution. Many simulation engines are able to incorporate insurance information and correlations (among business lines and risk categories) and can be designed to produce results with diversified and undiversified totals.
@@ -1081,7 +1081,7 @@ Exhibit 8.9 illustrates conceptually the way one could measure the contribution 
 
 ## Exhibit 8.9 - Measuring Incremental Operational Risk
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-67.jpg?height=875&width=1431&top_left_y=1048&top_left_x=409)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-67.jpg?height=875&width=1431&top_left_y=1048&top_left_x=409" alt="image" style="width:100%;height:auto;">
 
 (C) 2009 OpRisk Advisory and Towers Perrin
 
@@ -1131,7 +1131,7 @@ ${ }^{28}$ Some practitioners have tried to apply these concepts to Traditional 
 
 ## Exhibit 9.2 - The Evolutionary Path from Traditional to Modern ORM
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-71.jpg?height=1000&width=1741&top_left_y=487&top_left_x=230)[^13]
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-71.jpg?height=1000&width=1741&top_left_y=487&top_left_x=230" alt="image" style="width:100%;height:auto;">[^13]
 
 ### 9.4 The ORM Roadmap
 
@@ -1143,7 +1143,7 @@ Exhibit 9.3 describes the roadmap from foundational activities to educated decis
 
 ## Exhibit 9.3 - The ORM Roadmap
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-72.jpg?height=919&width=1762&top_left_y=554&top_left_x=252)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-72.jpg?height=919&width=1762&top_left_y=554&top_left_x=252" alt="image" style="width:100%;height:auto;">
 
 Management and Control Quality
 

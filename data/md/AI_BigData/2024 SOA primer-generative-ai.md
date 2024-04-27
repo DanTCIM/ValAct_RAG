@@ -778,7 +778,7 @@ The front-end applications that expose the underlying models themselves vary, fr
 
 The commercial landscape is changing rapidly, affecting actuaries in all segments. This paper presents a point-in-time overview of many substantial themes, yet is not intended as any kind of standard of practice or best practice. By understanding the opportunities and implications of including Generative Al in their business, actuaries are poised to support substantial change and growth of their companies, the broader industry, and the profession.
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_c00d20afa6697af0e321g-35.jpg?height=243&width=1521&top_left_y=2036&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_c00d20afa6697af0e321g-35.jpg?height=243&width=1521&top_left_y=2036&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 ## Section 6: Acknowledgments
 

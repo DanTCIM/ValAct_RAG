@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-001.jpg?height=339&width=582&top_left_y=302&top_left_x=1300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-001.jpg?height=339&width=582&top_left_y=302&top_left_x=1300" alt="image" style="width:100%;height:auto;">
 
 # BERMUDA MONETARY AUTHORITY 
 
@@ -325,7 +325,7 @@ B2.1 To provide the Authority with details of the insurer's organisational struc
 
 | Line Item |  | Description |
 | :---: | :---: | :---: |
-| g | Exchange <br> Rate | ![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-015.jpg?height=495&width=1463&top_left_y=427&top_left_x=508) |
+| g | Exchange <br> Rate | <img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-015.jpg?height=495&width=1463&top_left_y=427&top_left_x=508" alt="image" style="width:100%;height:auto;"> |
 | $\mathrm{h}$ | Ultimate <br> Parent | Row (8) The insurer's Ultimate Parent is to be entered. In instances where an insurer <br> is part of an insurance group that is owned by a conglomerate, it is the head company <br> in the insurance group that is being requested. |
 | i | Insurer's <br> Parent <br> Company | Row (9) The insurer's Parent Company is to be entered. Parent Company refers to the <br> direct parent of the insurer. |
 | j | Industry <br> Sector of the <br> Insurer's <br> Parent | Row (10) The Industry Sector of the Insurer's Parent is to be entered. If the insurer's <br> parents are in multiple industries, provide the industry of the parent that has the largest <br> ownership. |
@@ -2381,7 +2381,7 @@ e) Unregulated financial operating entities - refers to an entity that sells fin
 
 C19.1 The Commercial Insurer Risk Assessment (CIRA) framework assesses the quality of the risk management function surrounding the insurer's operational risk exposures. Operational risk is the risk of loss arising from inadequate or failed internal processes, people, systems or external events. Operational risk also includes legal risks. Reputational risks arising from strategic decisions do not count as operational risks. The CIRA framework emphasises the interrelationships between the Risk Management and Corporate Governance functions as seen below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-095.jpg?height=891&width=1675&top_left_y=823&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-095.jpg?height=891&width=1675&top_left_y=823&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 C19.2 The Board of Directors has an influential role in establishing, inter alia, the strategic direction and risk culture of the insurer. The BMA views the Risk Management function as a critical tool to furnish the board with the necessary information to make appropriate decisions and assist the insurer's management in steering the organisation forward.
 
@@ -2430,7 +2430,7 @@ b) Risk Management function - the insurer assesses each statement in the 'Dimens
 
 The insurer may provide comments in the space provided to support its responses.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-099.jpg?height=1172&width=2077&top_left_y=49&top_left_x=56)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-099.jpg?height=1172&width=2077&top_left_y=49&top_left_x=56" alt="image" style="width:100%;height:auto;">
 
 c) Risk Identification - the insurer is to answer the following question:
 
@@ -3042,7 +3042,7 @@ D1.1 The Summary exhibit has seven key features: Required Capital and Surplus, A
 
 D1.2 The BSCR is determined according to the following formula:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-129.jpg?height=419&width=1616&top_left_y=1062&top_left_x=342)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-129.jpg?height=419&width=1616&top_left_y=1062&top_left_x=342" alt="image" style="width:100%;height:auto;">
 
 Where:
 
@@ -3906,7 +3906,7 @@ $B A R_{i}=$ the BSCR-adjusted reserves for long-term products with longevity ri
 
 | Column Item |  | Description |
 | :---: | :---: | :---: |
-| 1 | BSCR Adjusted <br> Reserves | ![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-160.jpg?height=961&width=1414&top_left_y=956&top_left_x=588) |
+| 1 | BSCR Adjusted <br> Reserves | <img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-160.jpg?height=961&width=1414&top_left_y=956&top_left_x=588" alt="image" style="width:100%;height:auto;"> |
 | 2 | Capital Factor | Column item 2: Supplied by the BMA; capital charge factor applied to individual <br> BSCR-adjusted reserves for longevity risk for both (a) immediate pay-out annuities, <br> contingent annuities, pension pay-outs - (i) to (v); and (b) deferred pay-out <br> annuities, future contingent annuities, future pension pay-outs - (i) to (vi). |
 | 3 | Required Capital | Column item 3: Calculated using [column item $1 \mathrm{x}$ column item 2] for both (a) and <br> (b) for each attained age of annuitant and for each age at which the annuity benefits <br> commence, respectively, and summed up. |
 
@@ -4488,7 +4488,7 @@ Table 2A - Equity Risk Charge Correlation Matrix
 
 D18.3 Type1, Type2 Type3 and Type4 equity risk charges calculation shall be determined in accordance with the following formulas-
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-179.jpg?height=550&width=1810&top_left_y=240&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-179.jpg?height=550&width=1810&top_left_y=240&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Where-
 
@@ -4525,9 +4525,9 @@ a) Type 1 Equity Holdings
 
 b) Type 2 Equity Holdings
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-180.jpg?height=218&width=979&top_left_y=1571&top_left_x=142)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-180.jpg?height=218&width=979&top_left_y=1571&top_left_x=142" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-180.jpg?height=161&width=968&top_left_y=1621&top_left_x=1112)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-180.jpg?height=161&width=968&top_left_y=1621&top_left_x=1112" alt="image" style="width:100%;height:auto;">
 
 Liabilities
 
@@ -4693,7 +4693,7 @@ $$
 C_{\text {Interest }}=\max \left\{\max \left(\operatorname{Shock}_{I R, D o w n}, \operatorname{Shock}_{I R, U p}\right)-\text { OffSet }_{\text {ScenarioBased }}, 0\right\}
 $$
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-187.jpg?height=2007&width=1787&top_left_y=385&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-187.jpg?height=2007&width=1787&top_left_y=385&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 ## Items
 
@@ -4874,7 +4874,7 @@ $M V A_{i, \text { Before }} \quad=$ refers to the market value of assets exclud
 
 $M V A_{i, \text { After }} \quad$ functional currency as reported in Form 4EBS;
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-195.jpg?height=73&width=260&top_left_y=343&top_left_x=152)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-195.jpg?height=73&width=260&top_left_y=343&top_left_x=152" alt="image" style="width:100%;height:auto;">
 
 $M V D L_{i, A f t e r}^{Q}$
 
@@ -5511,7 +5511,7 @@ $$
 
 |  | Column Item | Description |
 | :---: | :---: | :---: |
-| 1 | BSCR Adjusted <br> Reserves | ![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-215.jpg?height=878&width=1421&top_left_y=1128&top_left_x=589) |
+| 1 | BSCR Adjusted <br> Reserves | <img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-215.jpg?height=878&width=1421&top_left_y=1128&top_left_x=589" alt="image" style="width:100%;height:auto;"> |
 | 2 | Capital Factor | Column item 2: Supplied by the BMA; capital charge factor applied to individual <br> BSCR-adjusted reserves for longevity risk for both (a) immediate pay-out annuities, <br> contingent annuities, pension pay-outs - (i) to (v); and (b) deferred pay-out <br> annuities, future contingent annuities, future pension pay-outs - (i) to (vi). |
 | 3 | Required Capital | Column item 3: Calculated using [column item 1 x column item 2] for both (a) and <br> (b) for each attained age of annuitant and for each age at which the annuity benefits <br> commence, respectively, and summed up. |
 
@@ -5585,7 +5585,7 @@ TotalBS Re $q_{i}=$ higher of (a) $\left(\alpha 1_{i} \times G V 1_{i}+\alpha 2_
 $\left(\alpha 4_{i} \times N A R 1_{i}+\alpha 5_{i} \times N A R 2_{i}+\alpha 6_{i} \times N A R 3_{i}\right)$
 a) TotalBAR = the total BSCR adjusted reserves for variable annuity guarantee risk;
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-218.jpg?height=59&width=1388&top_left_y=369&top_left_x=493)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_bd6cd19252d07a322e1bg-218.jpg?height=59&width=1388&top_left_y=369&top_left_x=493" alt="image" style="width:100%;height:auto;">
 Benefit (GMDB) policies multiplied by the percentage of GMDB with multiple guarantees;
 c) $I M C \operatorname{Re} q_{L T V A}=$ the capital requirement for variable annuity guarantee risk determined in accordance with an insurance group's internal capital model, if applicable;
 d) $G V 1_{i}, G V 2_{i}, G V 3_{i}, N A R 1_{i}, N A R 2_{i}$, and $N A R 3_{i}$ are the guaranteed value and net amount at risk under each range of volatility for each specified variable annuity product risk; and

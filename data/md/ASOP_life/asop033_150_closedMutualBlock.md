@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_01f0c3a9cb1ece059f2dg-01.jpg?height=2423&width=1791&top_left_y=165&top_left_x=167)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_01f0c3a9cb1ece059f2dg-01.jpg?height=2423&width=1791&top_left_y=165&top_left_x=167" alt="image" style="width:100%;height:auto;">
 
 ## TABLE OF CONTENTS
 

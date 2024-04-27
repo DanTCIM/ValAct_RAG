@@ -11,7 +11,7 @@ SOCIETY OF ACTUARIES
 # The Application of Credibility Theory 
 
 in the Canadian Life Insurance Industry
-![](https://cdn.mathpix.com/cropped/2024_04_13_f44fe343abb7289f1f65g-01.jpg?height=1376&width=1830&top_left_y=984&top_left_x=82)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_f44fe343abb7289f1f65g-01.jpg?height=1376&width=1830&top_left_y=984&top_left_x=82" alt="image" style="width:100%;height:auto;">
 
 # The Application of Credibility Theory in the Canadian Life Insurance Industry 
 
@@ -642,7 +642,7 @@ Below is a summary of the results of the analysis for lapse by product type for 
 
 | Number of Lapses Needed for Full Credibility based on <br> selected values of $r$ and $p$ |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: |
-| Analysis done <br> on: |  | ![](https://cdn.mathpix.com/cropped/2024_04_13_f44fe343abb7289f1f65g-26.jpg?height=217&width=182&top_left_y=491&top_left_x=877) | By Amount** |  |
+| Analysis done <br> on: |  | <img src="https://cdn.mathpix.com/cropped/2024_04_13_f44fe343abb7289f1f65g-26.jpg?height=217&width=182&top_left_y=491&top_left_x=877" alt="image" style="width:100%;height:auto;"> | By Amount** |  |
 |  | $p$ |  | WL with <br> $>\$ 100 \mathrm{~K}$ | T100 |
 | $r=1 \%$ | $90 \%$ | 27,060 | 148,813 | 172,689 |
 |  | $95 \%$ | 38,416 | 211,292 | 245,192 |

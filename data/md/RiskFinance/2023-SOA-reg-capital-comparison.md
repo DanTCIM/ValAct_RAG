@@ -23,7 +23,7 @@ Society of Actuaries Individual Life \& Annuities (ILA track) Curriculum Committ
 
 Society of Actuaries Research Institute
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-02.jpg?height=249&width=1510&top_left_y=1843&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-02.jpg?height=249&width=1510&top_left_y=1843&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Caveat and Disclaimer
 
@@ -77,7 +77,7 @@ All of these approaches are similar in that they identify key risks for which ca
 
 As mentioned above, this paper provides a model that calculates the capital requirements for each jurisdiction. The model is used to compare regulatory solvency capital using identical portfolios for both assets and liabilities. For simplicity, we have assumed that all liabilities originated in the same jurisdiction as the calculation. As the objective of the model is to illustrate required capital calculation methodology differences, a number of modeling simplifications were employed and detailed later in the paper. The model considers two products - term insurance and payout annuities, approximately equally weighted in terms of reserves. The assets consist of two non-callable bonds of differing durations, mortgages, real estate, and equities. Two alternative scenarios have been considered, one where the company invests in riskier assets than assumed in the base case and one where the liability mix is more heavily weighted to annuities as compared to the base case.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-04.jpg?height=244&width=1521&top_left_y=2120&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-04.jpg?height=244&width=1521&top_left_y=2120&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 ## Section 1: Introduction
 
@@ -298,7 +298,7 @@ Insurance liabilities are assessed at their current exit value, which is the val
 
 The SCR can be determined using a standard, Basic Solvency Capital Calculation, or a company can determine it using their own internal model. If the internal model approach is used, detailed information regarding the internal model and its calibration must be submitted to the regulator who then, in turn, assesses whether it is acceptable for the SCR calculation. Our description of the SCR calculation is focused on the Basic Solvency Capital Calculation. The overall structure is illustrated in the figure below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-17.jpg?height=930&width=1612&top_left_y=240&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-17.jpg?height=930&width=1612&top_left_y=240&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 The Solvency II framework is set for all insurance entities and is not specific to life insurance companies. There are three underwriting risk factor categories and two other risk categories that are used:
 
@@ -364,7 +364,7 @@ To understand the key differences between the different capitalization level cal
 
 Companies are required to calculate "Bermuda Statutory" financial statements and "Economic Balance Sheet" (EBS) financial statements. For the purposes of measuring solvency, the key item of note is that the MSM's definition of available capital is based on the Bermuda Statutory financial statements and the TCL's definition of available capital is based on the EBS financial statements. Required capital for both calculations is based on the BSCR, which is discussed below. The overall structure is illustrated in the figure below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-20.jpg?height=935&width=1694&top_left_y=281&top_left_x=259)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-20.jpg?height=935&width=1694&top_left_y=281&top_left_x=259" alt="image" style="width:100%;height:auto;">
 
 Bermuda Statutory is required to be based on a widely accepted accounting measure, for example US GAAP or IFRS. The exact accounting measure used is a decision that the company makes at the time of their business license application and cannot be changed after the BMA has approved their license. EBS is a BMA prescribed accounting framework. EBS assets are based on market value. EBS liabilities use a fair value approach that is the sum of the "Best Estimate Liability" and a "Risk Margin" (i.e., Reserves equal Best Estimate Liability plus Risk Margin). The Best Estimate Liability is composed of best estimate liability cashflows discounted at either of (A) the "Standard Approach" which uses a market representative portfolio or (B) a "Scenario Based Approach" which derives yields from a company's underlying assets after making various prescribed prudential adjustments based primarily on the predictability of the underlying assets' cashflows and the degree of cashflow matching between the assets and liabilities. The use of the Standard Approach or the Scenario Based Approach is an election that each company makes, similar to Solvency II in the sense that a company can use Solvency II's Standard Approach discount rates or a "Matching Adjustment" methodology that references a company's underlying assets. The Risk Margin uses a "Cost of Capital" approach similar to Solvency II; i.e. insurance risk capital based on BSCR capital charges is projected over the life of the liability, the resulting risk capital amounts are multiplied by a 6\% "cost of capital" charge, and the resulting "cost of capital" amounts are discounted at prescribed discount rates based on market value risk-free rates.
 
@@ -830,13 +830,13 @@ $C_{\text {adj }}=$ capital charge adjustment, calculated as the sum of (a), (b)
 
 (c) Capital adjustment for the loss absorbing capacity of deferred taxes.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-34.jpg?height=49&width=1166&top_left_y=737&top_left_x=477)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-34.jpg?height=49&width=1166&top_left_y=737&top_left_x=477" alt="image" style="width:100%;height:auto;">
 
 where:
 
 Basic BSCR = Basic BSCR Risk Module charge
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-34.jpg?height=49&width=482&top_left_y=978&top_left_x=369)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-34.jpg?height=49&width=482&top_left_y=978&top_left_x=369" alt="image" style="width:100%;height:auto;">
 
 $\mathrm{C}_{\text {regulatory adj }}=$ regulatory capital requirement for non-insurance financial operating entities
 
@@ -881,7 +881,7 @@ CorrMarket represents market risk, and in Table 5 (below), $A=$ zero if the inte
 
 $\mathrm{C}_{\text {fixedlncome }}=$ capital charge for fixed income investment risk (factor-based charges)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=685&top_left_y=709&top_left_x=243)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=685&top_left_y=709&top_left_x=243" alt="image" style="width:100%;height:auto;">
 
 $\mathrm{C}_{\text {interest }}=$ capital charge for interest rate and liquidity risk
 
@@ -893,12 +893,12 @@ Table B. 2
 
 MARKET RISK CORRELATION MATRIX
 
-| CorrMarket $_{\mathrm{i}, \mathrm{j}}$ | ![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=141&top_left_y=1128&top_left_x=609) | $\mathrm{C}_{\text {Equity }}$ | $\mathbf{C}_{\text {Interest }}$ | C $_{\text {Currency }}$ | $\mathrm{C}_{\text {Concentration }}$ |
+| CorrMarket $_{\mathrm{i}, \mathrm{j}}$ | <img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=141&top_left_y=1128&top_left_x=609" alt="image" style="width:100%;height:auto;"> | $\mathrm{C}_{\text {Equity }}$ | $\mathbf{C}_{\text {Interest }}$ | C $_{\text {Currency }}$ | $\mathrm{C}_{\text {Concentration }}$ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | $C_{\text {Fixedincome }}$ | 1.00 |  |  |  |  |
-| ![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=231&top_left_y=1209&top_left_x=261) | 0.50 | 1.00 |  |  |  |
+| <img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=231&top_left_y=1209&top_left_x=261" alt="image" style="width:100%;height:auto;"> | 0.50 | 1.00 |  |  |  |
 | $\mathrm{C}_{\text {Interest }}$ | A | A | 1.00 |  |  |
-| ![](https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=231&top_left_y=1288&top_left_x=261) | 0.25 | 0.25 | 0.25 | 1.00 |  |
+| <img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-35.jpg?height=46&width=231&top_left_y=1288&top_left_x=261" alt="image" style="width:100%;height:auto;"> | 0.25 | 0.25 | 0.25 | 1.00 |  |
 | $\mathrm{C}_{\text {Concentration }}$ | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 Where $\mathrm{A}$ is 0 if the interest rate and liquidity risk charge is calculated using the shock-based approach and the risk charge is based on the interest rate up shock; $A$ is 0.25 otherwise.

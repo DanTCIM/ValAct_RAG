@@ -128,7 +128,7 @@ The data showed an overall negative impact, measured strictly as the impact on s
 
 However, the impact was significantly case-dependent, among others, due to the nature of the business, as IFRS 17 Premium Allocation Approach (PAA), mainly used in non-life business, is quite similar to IFRS 4 unearned premium method, while IFRS 17 general model (GM) and Variable Fee Approach (VFA), mainly used in life business, are significantly different from IFRS 4 recognition and valuation method. In addition, IFRS 17 also allows for several modelling choices (e.g., to determine discount rates used or to measure the risk adjustment), therefore contributing to a higher variability. In addition, IFRS 17 allows three alternative approaches for the transition from IFRS 4 to IFRS 7: the full retrospective approach, the modified retrospective approach and the fair value approach; as well as the option of the overlay approach for the first application of IFRS 9.[^4]
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-08.jpg?height=783&width=1265&top_left_y=431&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-08.jpg?height=783&width=1265&top_left_y=431&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 Finally, it is also worth mentioning the interaction with the economic environment, as some respondents reported that the impact of the change from IFRS 4 / IAS 39 to IFRS 17 / IFRS 9 proved to be significantly dependent on the interest rates. Increasing interest rates during 2022 and 2023 have mitigated the impact of the change, probably because under IFRS 4 / IAS 39 the increase on interest rate might have a larger impact on debt instruments than on technical provisions, while under IFRS 17 / IFRS 9 this mismatch is significantly lower.
 
@@ -142,7 +142,7 @@ The main challenges identified by insurance groups can be classified into four c
 
 Getting the data and building the systems were reported to have been the most important challenges, with special focus on the granularity of the data/calculations and the annual cohort requirement ${ }^{14}$. Understanding IFRS 17, in particular due to the lack of detailed guidance and experts, was frequently mentioned as major challenge. Finally, respondents also considered that interpreting the data to build the consolidated financial statements was a significantly demanding task.[^5]
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-09.jpg?height=688&width=991&top_left_y=427&top_left_x=544)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-09.jpg?height=688&width=991&top_left_y=427&top_left_x=544" alt="image" style="width:100%;height:auto;">
 
 [^5]:    ${ }^{14}$ Under IFRS 17, undertakings are required to group insurance contracts from each portfolio of insurance contracts into three main categories, i.e., onerous contracts, contracts that do not have a significant possibility of becoming onerous and other contracts. In addition, this groups should be further divided so groups do not include contracts issued more than one year part. This groups with contracts issued within the same year are also known as annual cohorts.
 
@@ -152,7 +152,7 @@ IFRS 17 envisages three alternative approaches for the transition from IFRS 4 to
 
 All three IFRS 17 transition approaches have been used to a similar extend, although the fair value approach has been the most frequent option ( $41.9 \%$ of insurance liabilities) followed by the modified retrospective approach (29.6\%) and the full retrospective approach (27.9\%). On average all three approaches led to proportional amounts of contractual service margin (CSM), although individually significant differences exist, which might indicate that the amount of the CSM depends more on the product than on the transition approach.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-10.jpg?height=737&width=1239&top_left_y=428&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-10.jpg?height=737&width=1239&top_left_y=428&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 #### EIOPA 1FRS 17 Report - 2.1. FIRST APPLICATION - 2.1.4.INTERACTION WITH IFRS 9: FIRST APPLICATION OF IFRS 9
 
@@ -162,7 +162,7 @@ To address these concerns, the IASB issued amendments to IFRS 4 in 2017 in order
 
 The data received shows that the European insurance industry has made good use of these two options, as $68 \%$ of respondents opted for the temporary exemption and $11 \%$ used the overlay approach, while the remaining $21 \%$ decided not to postpone the full application of IFRS 9.[^6]
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-11.jpg?height=757&width=1171&top_left_y=427&top_left_x=471)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-11.jpg?height=757&width=1171&top_left_y=427&top_left_x=471" alt="image" style="width:100%;height:auto;">
 
 [^6]:    ${ }^{15}$ For designated financial assets, a company is permitted to reclassify, between P\&L and OCI, the difference between the amounts recognised in P\&L under IFRS 9 and those that would have been reported under IAS 39.
 
@@ -176,7 +176,7 @@ IFRS 17 applies some specific principles to onerous contracts, i.e., those contr
 
 Onerous contracts were reported by most respondents (85\%), although the materiality is quite limited, in particular for life business ( $2.39 \%$ of total life liabilities, with a loss component equal to $0.15 \%$ of total life liabilities on average). For non-life business the onerous liabilities represented $2.90 \%$ of total non-life liabilities, but the weight of the loss component increased up to $0.48 \%$, probably due to non-life insurance liabilities being usually lower than life insurance liabilities. Health insurance liabilities accounted for $2.14 \%$ of total liabilities with a loss component equal to $0.28 \%$ of total health liabilities on average.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-12.jpg?height=959&width=1222&top_left_y=423&top_left_x=448)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-12.jpg?height=959&width=1222&top_left_y=423&top_left_x=448" alt="image" style="width:100%;height:auto;">
 
 **Annual cohorts**
 
@@ -184,7 +184,7 @@ In addition to the three groups based on expected profitability, IFRS 17 require
 
 When adopting IFRS 17, the Commission allowed for an exemption to the annual cohort requirement for intergenerationally mutualised contracts, which includes contracts with specific profit participation features, as well as contracts that are managed across generations and apply Solvency II matching adjustment. Within the data request, almost half of the respondents (47\%) reported to be using the exemption. It should be noted that the sample of respondents included groups not issuing contracts eligible for the exemption, so the real use of the exemption for eligible cases might be significantly higher.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-13.jpg?height=517&width=1339&top_left_y=427&top_left_x=381)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-13.jpg?height=517&width=1339&top_left_y=427&top_left_x=381" alt="image" style="width:100%;height:auto;">
 
 Although not explicitly covered within the data request, several respondents commented that the exemption was mainly used within the VFA. Some respondents reported applying only the annual cohorts to post-transition business (i.e., business underwritten after 01/01/2023), while other two reported to go beyond the annual cohort requirement and define quarterly cohorts within non-life business.
 
@@ -194,7 +194,7 @@ IFRS 17 allows for three different valuation methods. The General Model (GM) or 
 
 The valuation methods chosen clearly depends on the type of business, with life insurance clearly leaning towards the VFA (86.4\%) and non-life insurance towards the PAA (90.4\%). For health business the choice of methods is more evenly split, probably depending on whether the underlying nature of the business is closer to life or non-life.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-14.jpg?height=782&width=1282&top_left_y=423&top_left_x=407)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-14.jpg?height=782&width=1282&top_left_y=423&top_left_x=407" alt="image" style="width:100%;height:auto;">
 
 #### EIOPA 1FRS 17 Report - 2.2. IMPLEMENTATION - 2.2.3.DISCOUNT RATES
 **Approach to derive discount rates**
@@ -203,7 +203,7 @@ IFRS 17 describes two alternative approaches to derive the relevant discount rat
 
 Although most respondents reported to use different discount rates for different products, all except for one used always the same approach, either bottom-up (85\% of respondents) or top-down $(13 \%)$. Therefore, it can be concluded that the choice of the approach to derive the relevant discount rate is an accounting policy usually made at group level.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-15.jpg?height=717&width=1271&top_left_y=424&top_left_x=421)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-15.jpg?height=717&width=1271&top_left_y=424&top_left_x=421" alt="image" style="width:100%;height:auto;">
 
 Use of OCI option to address the volatility of the income statement
 
@@ -211,7 +211,7 @@ P\&L statements of long-term business models, as insurance business, may reflect
 
 The data shows that this option is frequently used, especially in the GM ( $79 \%$ of the respondents) and the VFA (73\%). For the PAA, where the discounting is not always required, the use of the OCI option is slightly lower (61\%)
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-15.jpg?height=768&width=1288&top_left_y=1752&top_left_x=407)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-15.jpg?height=768&width=1288&top_left_y=1752&top_left_x=407" alt="image" style="width:100%;height:auto;">
 
 The use of IFRS 17 OCl option is a good example of the synergies with IFRS 9, which also includes options to recognise gains and losses in $\mathrm{OCl}$. In the past insurance undertakings have already made good use of valuation methods that allowed for further P\&L stability in accordance with IAS 39 and in IFRS 9 this trend continues. However, it should be noted that under IFRS 9, valuation at fair value through OCI (FVTOCI) is different for equity and debt instruments. While for debt instruments amounts previously recognised in OCl are eventually "recycled" to P\&L, for equity instruments all gains and losses directly recognised in OCI will never be recognised to P\&L.
 
@@ -219,7 +219,7 @@ It is particularly interesting to see the interaction between both standards, as
 
 In any case, FVTPL is the most used IFRS 9 valuation method in general, which shows the natural matching with the market-consistent valuation of IFRS 17 liabilities.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-16.jpg?height=760&width=1474&top_left_y=1362&top_left_x=314)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-16.jpg?height=760&width=1474&top_left_y=1362&top_left_x=314" alt="image" style="width:100%;height:auto;">
 
 #### EIOPA 1FRS 17 Report - 2.2. IMPLEMENTATION - 2.2.4.RISK ADJUSTMENT
 
@@ -228,7 +228,7 @@ In any case, FVTPL is the most used IFRS 9 valuation method in general, which sh
 To ensure consistency with the approach followed in IFRS 13 to determine a similar risk adjustment for non-financial risk, IFRS 17 allows for a wide range of options for the calculation of the riskadjustment, in particular the method used, the confidence level and the diversification effects
 considered. This leads to significant variability in risk adjustment amounts among IFRS 17 users, with higher risk adjustments in non-life business (6.5\% over the present value of the future cashflows (PVFCF) in the general model) compared to life business, where the risk adjustment reported was particularly low within the VFA ( $0.8 \%$ vs. $3.4 \%$ for the general model). As the average confidence level is very similar for life and non-life business (approximately 80\%, see "Confidence level" subsection below), this difference is explained by the differences in the moments ${ }^{16}$ of the distribution of the PVFCF.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-17.jpg?height=771&width=1405&top_left_y=848&top_left_x=357)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-17.jpg?height=771&width=1405&top_left_y=848&top_left_x=357" alt="image" style="width:100%;height:auto;">
 
 **Method used**
 
@@ -236,7 +236,7 @@ Although IFRS 17 does not prescribe any method to calculate the risk adjustment,
 
 [^7]:    16 Mean, variance, skewness, kurtosis.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-18.jpg?height=663&width=1468&top_left_y=428&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-18.jpg?height=663&width=1468&top_left_y=428&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 Regarding the methods accounted under "Other", each case was different, although most of them were based on different scenario calculations.
 
@@ -244,7 +244,7 @@ Regarding the methods accounted under "Other", each case was different, although
 
 Another relevant source of variability within the risk adjustment is the freedom to choose the confidence level used to calibrate the calculation. Contrary to the overview of the average risk adjustment, the confidence level does not show material differences between life and non-life businesses with a $79 \%$ and $78 \%$ average confidence levels respectively. The chart below representing the average risk adjustment used by each respondent illustrates that variability in both cases, life and non-life, is also similar:
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-18.jpg?height=765&width=1265&top_left_y=1705&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-18.jpg?height=765&width=1265&top_left_y=1705&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 The choice of the confidence level was reported to be the same within the group for all life products in $69 \%$ of the cases and in $65 \%$ of the cases for non-life products, showing another example of decision frequently taken at group level.
 
@@ -252,7 +252,7 @@ The choice of the confidence level was reported to be the same within the group 
 
 Finally, the third main source of variability within the risk adjustment calculation is the consideration of diversification benefits, which might be considered not only at product or undertaking level, but also at group (consolidated) level. However, despite allowing for it, only $23 \%$ of groups included diversification effects among subsidiaries, while $58 \%$ considered diversification effects among groups of contracts and $19 \%$ only among contracts within the same group.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-19.jpg?height=769&width=1265&top_left_y=1106&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-19.jpg?height=769&width=1265&top_left_y=1106&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 #### EIOPA 1FRS 17 Report - 2.2. IMPLEMENTATION - 2.2.5. CONTRACTUAL SERVICE MARGIN
 
@@ -260,7 +260,7 @@ IFRS 17 requires insurance and reinsurance undertakings to allocate the profit f
 
 The contractual service margin represented on average $8.6 \%$ of the fulfilment cashflows ${ }^{17}$, being higher for contracts under the GM ( $9.8 \%$ for non-life and $13.5 \%$ for life) than for life contracts under[^8]the VFA (6.8\%). One of the main reasons behind this difference probably is that products using the VFA are savings products, which usually have larger fulfilment cashflows, while contracts under the GM include also other types of products. Except in case of the VFA, the ratio showed large variability because of low or even negative fulfilment cashflows (i.e. 'liability' with a positive value) due to the projection of future profits, which also supports the hypothesis that differences are mainly due to the differences among fulfilment cashflows.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-20.jpg?height=768&width=1402&top_left_y=798&top_left_x=356)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-20.jpg?height=768&width=1402&top_left_y=798&top_left_x=356" alt="image" style="width:100%;height:auto;">
 
 [^8]:    17 Including non-life business under the GM and life business under the GM and VFA.
 
@@ -294,7 +294,7 @@ Within this section, we will further dig into these differences highlighted in t
 
 Solvency II includes within its scope all contracts legally regulated as insurance activities, while IFRS 17 scope is based on the definition of insurance contract and significant insurance risk. This leads to some differences, as for example distinct investment components and contracts without discretionary participation features that do not include significant insurance risk, both excluded from IFRS 17, but included within the scope of Solvency II. Nevertheless, the scope is mostly consistent, as only $6.9 \%$ of Solvency II technical provisions fall out of the scope of IFRS 17 , mainly related to life business, potentially due to unit-linked contracts that do not include significant insurance risk (8.4\% of life technical provisions vs $0.9 \%$ of non-life technical provisions ${ }^{21}$ ).
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-22.jpg?height=474&width=1273&top_left_y=1693&top_left_x=420)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-22.jpg?height=474&width=1273&top_left_y=1693&top_left_x=420" alt="image" style="width:100%;height:auto;">
 
 Although not directly covered in this survey, the other major difference in terms of scope between both frameworks is the perimeter of the group as well as Solvency II allowance to use local solvency[^10]rules for subsidiaries from equivalent ${ }^{22}$ third countries, while IFRS 17 requires all subsidiaries to directly follow IFRS 17 principles.
 
@@ -308,7 +308,7 @@ When comparing the same life insurance contracts, Solvency II technical provisio
 
 Despite IFRS 17 fulfilment cashflows being lower on average for all three valuation methods, there was some individual variability, especially for the GM, so in some cases Solvency II technical provisions were lower. The chart below shows the distribution of the differences for the GM and the VFA ${ }^{23}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-23.jpg?height=760&width=1214&top_left_y=1456&top_left_x=455)[^11]
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-23.jpg?height=760&width=1214&top_left_y=1456&top_left_x=455" alt="image" style="width:100%;height:auto;">[^11]
 
 [^11]:    ${ }^{22}$ For more information on equivalence, please visit: International relations and equivalence - European Union (europa.eu)
 
@@ -318,7 +318,7 @@ While the data above does not show differences due to the treatment of surplus f
 
 For non-life business, the situation is the opposite and IFRS 17 non-life insurance fulfilment cashflows were $9.5 \%$ higher on average, mainly due to contracts under the PAA ( $10.2 \%$ higher).For contracts under the GM the difference was not material ( $0.3 \%$ higher).
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-24.jpg?height=757&width=1193&top_left_y=998&top_left_x=457)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-24.jpg?height=757&width=1193&top_left_y=998&top_left_x=457" alt="image" style="width:100%;height:auto;">
 
 This data also confirmed the insights provided by respondents, showing that the use of the PAA is one of the highest differences between Solvency II and IFRS 17. As for life business, the total IFRS 17 non-life insurance liabilities for contracts under the GM (i.e., the fulfilment cashflows plus the $\mathrm{CSM}^{25}$ ) are also significantly higher than Solvency II non-life technical provisions.
 
@@ -332,7 +332,7 @@ Within the next subsections the report analyses individually the other main sour
 
 The principles ruling contract boundary identification in IFRS 17 are very similar to Solvency II and, in practice, respondents confirmed the synergies between both frameworks on this regard, with $68.2 \%$ of them using almost the same contract boundaries in both frameworks and an additional $15.3 \%$ acknowledging material synergies in the process despite having different contract boundaries in both frameworks. $16.5 \%$ of the respondents reported different contract boundaries without relevant synergies in the process, although this includes several cases of PAA users, which means that synergies when contract boundaries are to be identified in both frameworks are probably even higher.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-25.jpg?height=745&width=1239&top_left_y=998&top_left_x=431)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-25.jpg?height=745&width=1239&top_left_y=998&top_left_x=431" alt="image" style="width:100%;height:auto;">
 
 The two main differences reported were unbundling and flexible/top-up premiums. While Solvency II contract boundaries are frequently identified at risk level, IFRS 17 contract boundaries are usually defined at contract level. In practice, this means that some contracts will be unbundled in Solvency II and not in IFRS 17, being particularly material the case of riders in unit-linked contracts. This will frequently lead to longer contract boundaries in IFRS 17 and therefore further future profits included in the Balance Sheet.
 
@@ -348,7 +348,7 @@ Respondents also mentioned other minor differences, as for example the treatment
 
 While relevant synergies where identified also regarding cashflow estimates, differences increased compared to contract boundaries as only $41.5 \%$ of respondents reported to use almost the same cashflows. However, synergies remained high as only in $10.9 \%$ of the cases no synergies were reported, highlighting also the cases justified by IFRS valuation method. Several respondents also highlighted that similarities and synergies are frequently higher for the liability for incurred claims than for the liability for remaining coverage.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-26.jpg?height=754&width=1217&top_left_y=1348&top_left_x=448)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-26.jpg?height=754&width=1217&top_left_y=1348&top_left_x=448" alt="image" style="width:100%;height:auto;">
 
 When identifying the main sources for these differences, one stood out over the rest: the allocation of expenses, as IFRS 17 only includes directly attributable expenses, while Solvency II requires to allocate indirect expenses and investment expenses to technical provisions. This difference is expected to lead to lower technical provisions in IFRS 17.
 
@@ -360,7 +360,7 @@ Respondents also mentioned other differences, as for example the financial assum
 
 In theory, one of the main differences between IFRS 17 and Solvency II is the discount rate used. While in Solvency II it is mainly predefined as it is calculated and published by EIOPA, with the exception of the Matching Adjustment (MA), within IFRS 17 undertakings are responsible to derive the risk-free rate and any relevant adjustment (e.g., illiquidity premium). However, in practice, $42 \%$ of respondents reported to use the same or almost the same discount rate (difference below $0.1 \%$ ). From the remaining 58\%, in most of the cases IFRS 17 discount rate was higher than Solvency II discount rate ( $54 \%$ vs $4 \%$ ).
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-27.jpg?height=548&width=951&top_left_y=1031&top_left_x=581)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-27.jpg?height=548&width=951&top_left_y=1031&top_left_x=581" alt="image" style="width:100%;height:auto;">
 
 While IFRS 17 allows for two different approaches to derive the relevant discount rate (top-down and bottom-up), as discussed in section 2.2.3 the bottom-up approach is clearly dominant. This was confirmed as the most frequently highlighted difference was the use of the illiquidity premium instead of EIOPA's volatility adjustment (VA). Differences on the risk-free rate were also frequently mentioned and are analysed in the following subsection.
 
@@ -370,7 +370,7 @@ Deriving IFRS 17 risk-free rate (RFR) is one of the process that most benefited 
 
 [^13]:    262020 review of Solvency II - European Union (europa.eu) See section 2.1.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-28.jpg?height=774&width=1468&top_left_y=430&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-28.jpg?height=774&width=1468&top_left_y=430&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 Those not directly using EIOPA's RFR highlighted a wide range of differences, but the most relevant ones were related with the main parameters involved in the process, i.e., the ultimate forward rate (more flexibly recalculated in IFRS 17), the last liquid point (sometimes longer in IFRS 17) and the credit risk adjustment (without floor (10 b.p.) and cap (35 b.p.) in IFRS 17).
 
@@ -382,7 +382,7 @@ Some respondents also highlighted a few additional differences including the use
 
 The calculation of the risk adjustment is another relevant source of differences, as in Solvency II the calculation method and the confidence level are set in the regulation, while IFRS 17 users are allowed to choose according to IFRS 17 principles. Overall, this leads to material differences, with IFRS 17 risk adjustment (RA) being significantly lower than Solvency II risk margin (RM) for life business (33\% for contracts under the GM and $44 \%$ for contracts under the VFA). Conversely, for non-life business IFRS 17 risk adjustment is 11\% higher on average. In addition, PAA users do not calculate a separate risk adjustment for the liability for the remaining coverage.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-29.jpg?height=779&width=1054&top_left_y=427&top_left_x=524)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-29.jpg?height=779&width=1054&top_left_y=427&top_left_x=524" alt="image" style="width:100%;height:auto;">
 
 **Confidence level**
 
@@ -398,6 +398,6 @@ While IFRS 17 allows for any valuation method, most respondents used either the 
 
     ${ }^{29}$ Most respondents reporting the same risk adjustment/margin in both frameworks clarified this is considering the differences in the scope, i.e., operational risk, counterparty default risk and, when relevant, market risk.
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-30.jpg?height=777&width=1234&top_left_y=428&top_left_x=434)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_ec0bbfdc0d7b50b6127ag-30.jpg?height=777&width=1234&top_left_y=428&top_left_x=434" alt="image" style="width:100%;height:auto;">
 
 When assessing the main sources for the differences in the risk margin and the risk adjustment calculated with the $\mathrm{CoC}$, respondents mainly highlighted differences in the scope (operational risk, counterparty default risk and relevant market risk excluded from IFRS 17 risk adjustment), the allowance for diversification effects among subsidiaries within IFRS 17 (not allowed in Solvency II) and $\mathrm{COC}$ rate (fixed at $6 \%$ in Solvency II and usually set according to the real business model in IFRS 17). Other differences mentioned in the data request included the differences in discount rates, the link to capital requirement (Solvency II) vs capital held (IFRS 17) and the horizon of projection.

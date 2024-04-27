@@ -6,7 +6,7 @@
 
 American Academy of Actuaries<br>Life Financial Reporting Committee
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-01.jpg?height=267&width=310&top_left_y=2081&top_left_x=940)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-01.jpg?height=267&width=310&top_left_y=2081&top_left_x=940" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMy of ACTUARIES
 
@@ -18,7 +18,7 @@ October 2014
 
 Developed by the Life Financial Reporting Committee of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-02.jpg?height=374&width=789&top_left_y=1591&top_left_x=690)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-02.jpg?height=374&width=789&top_left_y=1591&top_left_x=690" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is an 18,000-member professional association whose mission is to serve the public and the U.S. actuarial profession. The Academy assists public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -55,7 +55,7 @@ Scott Wright, MAAA, FSA
 
 With special thanks to Barbara Gold and Ed Robbins of the Academy Life Practice Council's Tax Work Group
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-03.jpg?height=287&width=612&top_left_y=1965&top_left_x=751)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-03.jpg?height=287&width=612&top_left_y=1965&top_left_x=751" alt="image" style="width:100%;height:auto;">
 
 1850 M Street N.W., Suite 300
 
@@ -440,7 +440,7 @@ PVTA $=$ present value of purchase-related taxable income adjustments.
 
 $\mathrm{P}_{\mathrm{IB}}$ can be expressed in general terms as:
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-19.jpg?height=55&width=388&top_left_y=1279&top_left_x=370)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-19.jpg?height=55&width=388&top_left_y=1279&top_left_x=370" alt="image" style="width:100%;height:auto;">
 
 ## Part C: Q4.1 How is the TVIF in formula 3.a computed?
 
@@ -531,7 +531,7 @@ Substituting 7.a for ETCC and 6.a for PDAC into formula 8 gives:
 
  algebraically?A. A careful look at formulas 4, 5.a, 6.a, 7.a, and 8.a shows circular dependence between $\mathrm{P}_{\mathrm{IB}}$ and PVTA. $\mathrm{P}_{\mathrm{IB}}$, PDAC, and ETCC are all functions of each other. Substituting 8.a for PVTA in formula 4 and solving algebraically for $\mathrm{P}_{\mathrm{IB}}$ results in:
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-22.jpg?height=110&width=967&top_left_y=1127&top_left_x=357)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-22.jpg?height=110&width=967&top_left_y=1127&top_left_x=357" alt="image" style="width:100%;height:auto;">
 
 One remaining aspect of the circularity cannot be solved algebraically-the amortization period of ETCC depends in part on whether ETCC positive or negative. Fortunately, the sign of ETCC does not depend on the choice of amortization period used in ${ }^{\mathrm{C}}$ A. By initially assuming that ETCC will be a positive amount, an actuary can follow these calculations to determine a tentative amount of ETCC. If that tentative calculation results in negative ETCC, change ${ }^{\mathrm{C}} \mathrm{A}$ accordingly and recalculate; ETCC will change but it will still be negative.
 
@@ -584,7 +584,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-25.jpg?height=97&width=932&top_left_y=469&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-25.jpg?height=97&width=932&top_left_y=469&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 $$
 \begin{aligned}
@@ -700,7 +700,7 @@ Part D: Q5. How is GW derived when TGW appears to exceed GW, which would require
 
 A. Formula 9 should first be applied to compute a preliminary GW ignoring any DTA associated with goodwill. If the computed GW is greater than TGW, such GW is the final value for the PGAAP balance sheet. This is because, as discussed in Part D: Q4 above, no DTL should be established for the excess of GW over TGW at the date of acquisition. However, if the computed GW is less than TGW, it is considered to be a tentative goodwill (tent GW). This is because an additional DTA (DTA ${ }_{G W}$ ) must be established for the excess of TGW over GW. In essence, tent $G W$ is partitioned into DTA GW $^{\text {and a final GW: }}$[^13]
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-29.jpg?height=54&width=441&top_left_y=252&top_left_x=365)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-29.jpg?height=54&width=441&top_left_y=252&top_left_x=365" alt="image" style="width:100%;height:auto;">
 
 Substituting formula 11.i for $\mathrm{DTA}_{\mathrm{GW}}$ in formula 12, the actuary can solve for GW:
 
@@ -1117,7 +1117,7 @@ DTA on GW (DTA GW )
 
 PGAAP Balance Sheet:
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-43.jpg?height=135&width=366&top_left_y=1827&top_left_x=1216)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-43.jpg?height=135&width=366&top_left_y=1827&top_left_x=1216" alt="image" style="width:100%;height:auto;">
 
 Tangible assets (FVA)
 
@@ -1173,7 +1173,7 @@ Buyer receives assets for excess of liability over value of the purchased busine
 
 Tangible assets transferred (FVA)
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-45.jpg?height=147&width=569&top_left_y=363&top_left_x=1228)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-45.jpg?height=147&width=569&top_left_y=363&top_left_x=1228" alt="image" style="width:100%;height:auto;">
 
 $$
 16.50
@@ -1364,7 +1364,7 @@ Specific modification for the purchase of in-force business through reinsurance 
 
 (3.a.ii) $\quad V O B A=G V L+P_{I V}-S V L$
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-46.jpg?height=89&width=840&top_left_y=2384&top_left_x=355)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-46.jpg?height=89&width=840&top_left_y=2384&top_left_x=355" alt="image" style="width:100%;height:auto;">
 (5.a.ii) $T V I F=T V L+P_{S L}-S V L$
 
 (6.a.ii) $P D A C=D \times\left(s V L-P_{r I}\right)$

@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_1a51bdfb5a979085969ag-01.jpg?height=480&width=499&top_left_y=9&top_left_x=84)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1a51bdfb5a979085969ag-01.jpg?height=480&width=499&top_left_y=9&top_left_x=84" alt="image" style="width:100%;height:auto;">
 
 Table of Contents
 List of Acronyms. ..... 4
@@ -221,7 +221,7 @@ In doing so, the committee must ensure good governance, transparency, and preven
 
 10.1. This Rule will come into effect within twelve months from the date that it is published in the Gazette.
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_1a51bdfb5a979085969ag-11.jpg?height=664&width=681&top_left_y=817&top_left_x=695)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1a51bdfb5a979085969ag-11.jpg?height=664&width=681&top_left_y=817&top_left_x=695" alt="image" style="width:100%;height:auto;">
 
 SIX, Cricket Square<br>PO Box 10052
 

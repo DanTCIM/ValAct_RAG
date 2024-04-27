@@ -35,7 +35,7 @@ Steve Strommen, MAAA, FSA, CERA
 
 Brian Hartman, PhD, ASA
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-02.jpg?height=279&width=705&top_left_y=1704&top_left_x=707)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-02.jpg?height=279&width=705&top_left_y=1704&top_left_x=707" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {т }}$
 
@@ -88,7 +88,7 @@ Who developed this? The assumptions resource manual was created by the PBR Assum
 
 The PBR Assumptions Resource Manual is intended to provide a step-by-step sample roadmap for updating actuarial assumptions for life insurance valuation purposes. Throughout the document, we refer to an example assumption management framework that could be considered by practicing actuaries. This framework is an eight-step process as shown below:
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-06.jpg?height=655&width=1868&top_left_y=754&top_left_x=123)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-06.jpg?height=655&width=1868&top_left_y=754&top_left_x=123" alt="image" style="width:100%;height:auto;">
 
 Each section of the PBR Assumptions Resource Manual focuses on one of the steps contained in this example framework. The framework is intended to be a cycle, with a feedback loop from monitoring results leading into identifying assumptions to update for the next reporting period.
 
@@ -96,7 +96,7 @@ In addition, four case studies are located toward the end of the resource manual
 
 ## Section I: Identify Assumptions
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-07.jpg?height=456&width=1196&top_left_y=306&top_left_x=123)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-07.jpg?height=456&width=1196&top_left_y=306&top_left_x=123" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -228,7 +228,7 @@ Now that the different types of life insurance risks and actuarial assumptions t
 
 ## Section II: Select Timing
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-17.jpg?height=450&width=1196&top_left_y=314&top_left_x=123)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-17.jpg?height=450&width=1196&top_left_y=314&top_left_x=123" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -278,7 +278,7 @@ Having established a foundation for determining the order and frequency of assum
 
 ## Section III: Analyze Experience
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-20.jpg?height=453&width=1200&top_left_y=310&top_left_x=121)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-20.jpg?height=453&width=1200&top_left_y=310&top_left_x=121" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -317,7 +317,7 @@ An actual-to-expected (A/E) analysis is often used to compare historical experie
 
 If experience is emerging in an area where credibility is lacking, the actuary might blend company experience with industry or other external experience when setting assumptions. However, if there are specific reasons to believe company experience will continue to deviate from the external experience, the actuary might adjust expectations accordingly. This could happen due to shifts in the demographic mix of the business, including socioeconomic considerations, or differences in product distribution. A graphical representation of an A/E analysis is shown below:
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-22.jpg?height=898&width=1643&top_left_y=1367&top_left_x=119)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-22.jpg?height=898&width=1643&top_left_y=1367&top_left_x=119" alt="image" style="width:100%;height:auto;">
 
 Analyses performed in addition to calculating A/E ratios can include predictive models that determine which data elements are good predictors of the behavior being studied.
 
@@ -333,7 +333,7 @@ After analyzing experience and trends to form the basis for anticipated experien
 
 ## Section IV: Determine Margins
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-24.jpg?height=458&width=1187&top_left_y=340&top_left_x=122)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-24.jpg?height=458&width=1187&top_left_y=340&top_left_x=122" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -359,7 +359,7 @@ $$
 
 In contrast, an individual margin is applied to an individual assumption, which reflects the uncertainty of the associated key risk. For VM-20 deterministic reserve, the margin for a specified risk factor is defined as the deterministic reserve as reported less the deterministic reserve calculated using anticipated experience on the specified risk and prudent estimate assumptions for all other risks. The process of removing the margin from the total deterministic reserve for each key risk factor can be used to quantify the reserve impact for each individual margin separately.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-25.jpg?height=571&width=1191&top_left_y=644&top_left_x=232)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-25.jpg?height=571&width=1191&top_left_y=644&top_left_x=232" alt="image" style="width:100%;height:auto;">
 
 Comparing the aggregate margin to the sum of individual margins can help the actuary understand and adjust for correlation of the individual margins, as the difference between the two measures the impact of interactions or dependencies between risks (for further discussion, see the Academy's VM-20 practice note).
 
@@ -488,7 +488,7 @@ $$
 
 For example, assuming a sample statistic $\hat{p}$ (such as lapse or surrenders) follows a binomial distribution, then
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-31.jpg?height=74&width=1884&top_left_y=825&top_left_x=110)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-31.jpg?height=74&width=1884&top_left_y=825&top_left_x=110" alt="image" style="width:100%;height:auto;">
 each policy and that each policy risk is independent of each other.
 
 A normal distribution $\mathrm{Cl}$ with sample mean $p^{\wedge}$ is:
@@ -563,7 +563,7 @@ Now that examples of methods and considerations have been covered for developing
 
 ## Section V: Review Reasonableness
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-36.jpg?height=461&width=1198&top_left_y=306&top_left_x=125)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-36.jpg?height=461&width=1198&top_left_y=306&top_left_x=125" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -596,7 +596,7 @@ Step 2: Identify test cases that can be used to confirm assumptions align with t
 2. The actuary decides to compare mortality rates on the three classes (SI preferred, traditional preferred, traditional standard) for both male and female, at issue ages 25,45 , and 65 .
 3. Based on the test cases defined, the actuary observes
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-37.jpg?height=274&width=466&top_left_y=1519&top_left_x=190)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-37.jpg?height=274&width=466&top_left_y=1519&top_left_x=190" alt="image" style="width:100%;height:auto;">
 that the SI preferred age 65 rates beyond duration 10 for both male and female are lower than the same attributes on the traditional preferred risk.
 
 4. After discussions with key stakeholders and considering multiple approaches, the actuary decides to recommend flooring the SI preferred rates at the traditional preferred rates.
@@ -641,7 +641,7 @@ Using this type of analysis, an actuary can uncover additional information suppo
 
 For purposes of requiring multiple modeled scenario runs, such as the Stochastic Reserve in VM-20, an actuary might perform additional validation checks to ensure the reasonableness of the assumptions under the defined economic conditions. An actuary could have an expectation of how the underlying business should perform under changing economic conditions and can confirm that modeled results are in line with this expectation. For example, if a block of business is expected to be sensitive to interest rate changes and dynamic policyholder behavior assumptions are used, an exercise could be performed to analyze reserve levels of the scenario results against an average return of the scenario. The illustration below demonstrates this type of exercise where reserve changes (\% difference from average result) are compared against the interest rate returns of the modeled scenarios (average of 10-year Treasury rates) for each scenario.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-40.jpg?height=586&width=1876&top_left_y=195&top_left_x=122)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-40.jpg?height=586&width=1876&top_left_y=195&top_left_x=122" alt="image" style="width:100%;height:auto;">
 
 Depending on the product type, an actuary could expect reserve levels to decline as interest rates increase. A correlation in line with this expectation, as shown in the above illustration, can support the dynamic nature and reasonableness of the assumptions being used by the actuary. Alternatively, an approach similar to what is described in the Assumption Rate Checks section above might be considered.
 
@@ -706,7 +706,7 @@ With an understanding of reviews and validation techniques to determine the reas
 
 ## Section VI: Document Results
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-43.jpg?height=455&width=1201&top_left_y=336&top_left_x=123)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-43.jpg?height=455&width=1201&top_left_y=336&top_left_x=123" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -726,7 +726,7 @@ Documentation might include a repository of the following elements:
 - Decision documents that provide reference information, such as a clear and succinct description of the decision, context and justification, and a history of adjustments that may have occurred over time.
 - Assumption summaries that provide the numerical values for use or reference.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-44.jpg?height=583&width=1051&top_left_y=625&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-44.jpg?height=583&width=1051&top_left_y=625&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Of even greater significance might be the documentation that discloses, explains, and justifies the assumptions used for principle-based reserves. These descriptions can be referenced and further developed to meet the specifications provided in VM-31 for the PBR Actuarial Report.
 
@@ -798,7 +798,7 @@ After developing disclosures required for valuation assumptions, the final step 
 
 ## Section VII: Implement Decisions
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-48.jpg?height=466&width=1202&top_left_y=317&top_left_x=120)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-48.jpg?height=466&width=1202&top_left_y=317&top_left_x=120" alt="image" style="width:100%;height:auto;">
 
 ## Overview
 
@@ -938,9 +938,9 @@ Key Questions:
 - If there is a committee, how is it set up for making a decision-consensus, majority vote, $100 \%$ agreement?
 - In what manner will the decision be solicited and documented?
 
-| Example of a simple <br> ASSUMPTIONS CALENDAR |  | $\underset{4}{2}$ | 岀 | $\frac{\frac{\alpha}{\varangle}}{\sum}$ | $\frac{c}{\frac{0}{4}}$ | ![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-52.jpg?height=85&width=42&top_left_y=1415&top_left_x=873) | ¿ | $\supset$ | ○ | 嵒 | Ł | ㅇ | 㟧 |
+| Example of a simple <br> ASSUMPTIONS CALENDAR |  | $\underset{4}{2}$ | 岀 | $\frac{\frac{\alpha}{\varangle}}{\sum}$ | $\frac{c}{\frac{0}{4}}$ | <img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-52.jpg?height=85&width=42&top_left_y=1415&top_left_x=873" alt="image" style="width:100%;height:auto;"> | ¿ | $\supset$ | ○ | 嵒 | Ł | ㅇ | 㟧 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-52.jpg?height=349&width=56&top_left_y=1523&top_left_x=149) | Asset |  |  |  |  |  |  |  |  |  |  |  |  |
+| <img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-52.jpg?height=349&width=56&top_left_y=1523&top_left_x=149" alt="image" style="width:100%;height:auto;"> | Asset |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Revenue Sharing |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Policyholder Behavior |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Expense |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -966,12 +966,12 @@ These and many more questions might be considered when setting up an assumption 
 
 After the assumptions have been developed and approved, they are loaded into the actuarial model. It is important to keep an open line of communication between parties who develop the assumptions and parties who implement the assumptions into the model. To minimize errors of transferring assumptions into the model, it is critical for both groups to have the same understanding of how the assumptions operate and are applied in the model.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-53.jpg?height=222&width=1108&top_left_y=854&top_left_x=476)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-53.jpg?height=222&width=1108&top_left_y=854&top_left_x=476" alt="image" style="width:100%;height:auto;">
 
 The following steps provide an example framework for facilitating this communication.
 
 Initiates a change through awareness and involvement
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-53.jpg?height=624&width=420&top_left_y=1460&top_left_x=83)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-53.jpg?height=624&width=420&top_left_y=1460&top_left_x=83" alt="image" style="width:100%;height:auto;">
 
 Controls and validates the transfer
 The first step is to generate awareness that an assumption needs to be updated, changed, or added. It is beneficial for both the assumption developers and model developers to be in communication and part of the decision-making process described above. This allows both parties to provide input on the direction and outcome for the final assumption.
@@ -996,7 +996,7 @@ The next step in the process is to monitor experience going forward. Detailed in
 
 ## Section VIII: Monitor Experience
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-55.jpg?height=466&width=1203&top_left_y=304&top_left_x=122)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-55.jpg?height=466&width=1203&top_left_y=304&top_left_x=122" alt="image" style="width:100%;height:auto;">
 
 ## Monitoring Anticipated Experience Assumptions
 
@@ -1086,7 +1086,7 @@ These sensitivities are not intended to be comprehensive but are only meant to s
 
 ## Case Study 1: Exhibit 1-Margin Impact on Projected Deterministic Reserves
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-59.jpg?height=929&width=1632&top_left_y=289&top_left_x=146)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-59.jpg?height=929&width=1632&top_left_y=289&top_left_x=146" alt="image" style="width:100%;height:auto;">
 
 | Projected <br> Valuation Year | Total Margin <br> (incl. covariance) | Mortality <br> Margin | Lapse Margin | Expense Margin | Expense <br> Inflation Margin | Sum of <br> Individual <br> Margins |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -1102,7 +1102,7 @@ Deterministic Reserve
 
 Margin (\$)
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-60.jpg?height=501&width=1705&top_left_y=904&top_left_x=167)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-60.jpg?height=501&width=1705&top_left_y=904&top_left_x=167" alt="image" style="width:100%;height:auto;">
 
 $\square$ Total Margin (incl. covariance) $\square$ Mortality Margin $\square$ Lapse Margin $\square$ Expense Margin $\square$ Expense Inflation Margin
 
@@ -1129,7 +1129,7 @@ Exhibit 2-Deterministic Reserve Sensitivity Over Prudent Estimate
 
 Actual/ Expected (Prudent Estimate)
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-62.jpg?height=653&width=1033&top_left_y=1083&top_left_x=161)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-62.jpg?height=653&width=1033&top_left_y=1083&top_left_x=161" alt="image" style="width:100%;height:auto;">
 
 The table and graph show multiple sensitivity tests. The first sensitivity shows the reserve using only anticipated experience (no explicit or implicit margins), which is less than the reported deterministic reserve. The comparison at different projection periods illustrates that percentage impact of using only anticipated experience decreases as the reported reserve increases.
 
@@ -1300,7 +1300,7 @@ Other considerations:
 
 ## Trend by duration:
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-70.jpg?height=512&width=1309&top_left_y=1267&top_left_x=121)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-70.jpg?height=512&width=1309&top_left_y=1267&top_left_x=121" alt="image" style="width:100%;height:auto;">
 
 In reviewing the chart, the actuary notices that some of the durations have slightly decreasing trends. He/she decides to keep the anticipated experience at the average but will monitor the trend and may decide to use an additional margin.
 

@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_89c8a0fb4304e1557518g-01.jpg?height=301&width=593&top_left_y=240&top_left_x=1232)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_89c8a0fb4304e1557518g-01.jpg?height=301&width=593&top_left_y=240&top_left_x=1232" alt="image" style="width:100%;height:auto;">
 
 BERMUDA MONETARY AUTHORITY
 
@@ -116,7 +116,7 @@ c. such other GAAP as the Authority may recognise.
 
 ## Reporting Regime Illustrative Work Flow
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_89c8a0fb4304e1557518g-07.jpg?height=1268&width=1588&top_left_y=1222&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_89c8a0fb4304e1557518g-07.jpg?height=1268&width=1588&top_left_y=1222&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
 12. Classes 3A, 3B and 4 insurers General Business Loss and Loss Expenses
 

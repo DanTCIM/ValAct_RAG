@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_e7de112187129064cc8eg-01.jpg?height=374&width=1633&top_left_y=106&top_left_x=257)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_e7de112187129064cc8eg-01.jpg?height=374&width=1633&top_left_y=106&top_left_x=257" alt="image" style="width:100%;height:auto;">
 
 October 6, 2023
 

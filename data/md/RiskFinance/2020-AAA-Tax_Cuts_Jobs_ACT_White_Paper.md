@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_22148dcb5d681c121d6eg-01.jpg?height=1559&width=1995&top_left_y=1&top_left_x=127)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_22148dcb5d681c121d6eg-01.jpg?height=1559&width=1995&top_left_y=1&top_left_x=127" alt="image" style="width:100%;height:auto;">
 
 THE TAX CUTS AND JOBS ACT OF 2017EFFECTS ON LIFE INSURERS
 
@@ -10,7 +10,7 @@ The work group is grateful for the contributions of John Adney, John Bruins, and
 
 The American Academy of Actuaries is a 19,500-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policy makers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_22148dcb5d681c121d6eg-02.jpg?height=127&width=290&top_left_y=2197&top_left_x=1362)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_22148dcb5d681c121d6eg-02.jpg?height=127&width=290&top_left_y=2197&top_left_x=1362" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMY of ACTUARIES Objective. Independent. Effective.
 

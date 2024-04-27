@@ -25,7 +25,7 @@ Securities lending is the act of loaning a bond, stock or other security to a co
 
 ## Chart 1:
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_089049c465f98dd92df2g-2.jpg?height=593&width=922&top_left_y=327&top_left_x=276)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_089049c465f98dd92df2g-2.jpg?height=593&width=922&top_left_y=327&top_left_x=276" alt="image" style="width:100%;height:auto;">
 
 Source: Company data, Morgan Stanley Research
 

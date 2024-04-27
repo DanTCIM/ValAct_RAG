@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_624ee488fc142a8f422cg-01.jpg?height=282&width=263&top_left_y=225&top_left_x=958)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_624ee488fc142a8f422cg-01.jpg?height=282&width=263&top_left_y=225&top_left_x=958" alt="image" style="width:100%;height:auto;">
 
 Actuarial Valuations
 

@@ -40,7 +40,7 @@ Each of the 11 FHLB regional banks that comprise the FHLB system is assigned a z
 
 There are regional FHLBanks located in: Atlanta, Boston, Chicago, Cincinnati, Dallas, Des Moines, Indianapolis, New York, Pittsburgh, San Francisco, and Topeka.
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-02.jpg?height=1057&width=1526&top_left_y=1388&top_left_x=278)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-02.jpg?height=1057&width=1526&top_left_y=1388&top_left_x=278" alt="image" style="width:100%;height:auto;">
 
 The FHLB system is organized as a cooperative of approximately 7,000 financial institutions, or members that vary by size and type. FHLB members include banks, thrifts, credit unions, community development financial institutions and insurance companies; commercial banks comprise the largest share at about $60 \%$ of the total, while U.S. insurers make up less than $10 \% .{ }^{1}$ (See the Appendix.) As a cooperative, the members set the credit standards and lending policies, elect the board of directors and, ultimately, take responsibility for the FHLB regional bank. If a mortgage originator or commercial bank or insurer wishes to apply for a loan (referred to as an "advance") from the local FHLB regional bank, it must first become a member of the cooperative by purchasing shares of FHLB capital stock. The number of shares required for membership varies by FHLB regional bank. The shares cannot be sold to others; i.e., they are not publicly traded, in part because they confirm membership in the FHLB regional bank. The shares may be redeemed at the appropriate FHLB regional bank for repayment at par, but only after a notice period and only after all advanced amounts are repaid in full. Prepayment of outstanding advances prior to the stated maturity may not be permitted, or if permitted, can result in significant penalties.
 
@@ -50,7 +50,7 @@ Once a company (e.g., an insurer, a bank, or a savings and loan, typically) beco
 
 The purpose of the FHLB system is to provide liquidity and transparency to the capital markets supporting home ownership. As FHLB regional banks provide low-cost financing to companies that extend loans to homeowners, they, in turn, lower costs for all. The diagram below shows how the FHLB regional banks fund liquidity.[^0]
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-04.jpg?height=791&width=1222&top_left_y=290&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-04.jpg?height=791&width=1222&top_left_y=290&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 Source: FHLB Office of Finance Investor Presentation, December 2020.
 
@@ -148,23 +148,23 @@ For more detail on FHLB, please see the FHLBanks website.
 
 Nearly 6,700 members across 11 FHLBanks having total assets in excess of $\$ 29$ trillion
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-10.jpg?height=396&width=824&top_left_y=653&top_left_x=434)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-10.jpg?height=396&width=824&top_left_y=653&top_left_x=434" alt="image" style="width:100%;height:auto;">
 
 Dec. 2020
 
 ## U.S. Insurer FHLB Membership
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-10.jpg?height=751&width=1076&top_left_y=1435&top_left_x=275)[^4]
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-10.jpg?height=751&width=1076&top_left_y=1435&top_left_x=275" alt="image" style="width:100%;height:auto;">[^4]
 
 FHLBank System
 
 Insurance Membership Trend
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-11.jpg?height=757&width=1501&top_left_y=451&top_left_x=255)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-11.jpg?height=757&width=1501&top_left_y=451&top_left_x=255" alt="image" style="width:100%;height:auto;">
 
 FHLBank System Insurance Advances Trend
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-11.jpg?height=715&width=1437&top_left_y=1624&top_left_x=260)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_d1339763b9af11e10bbdg-11.jpg?height=715&width=1437&top_left_y=1624&top_left_x=260" alt="image" style="width:100%;height:auto;">
 
 Key Terminology
 

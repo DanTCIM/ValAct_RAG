@@ -40,7 +40,7 @@ HFs are often structured as a limited partnership, limited liability company (LL
 
 ## Diagram 1: Illustration of a Typical Hedge Fund Structure
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_92f54fcd4e90d31345d4g-2.jpg?height=491&width=898&top_left_y=1305&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_92f54fcd4e90d31345d4g-2.jpg?height=491&width=898&top_left_y=1305&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 Hedge Fund Management Fees and Incentives
 

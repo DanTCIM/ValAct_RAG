@@ -451,7 +451,7 @@ The term "reviewers" in appendix 2 includes the General Committee and the ASB. A
 | Comment | Two commentators wondered whether "specified by law" (section <br> 3.4.4(a)) could be interpreted to include situations (FAS 87) where <br> assumptions are specified by a third party under some binding authority. |
 | Response | The reviewers believe the language and intent are clear. FAS 87 <br> situations (and all circumstances where the assumption or method is not <br> specified within law) fall under section 3.4.4(b). |
 
-![](https://cdn.mathpix.com/cropped/2024_04_26_373452471bec47ff6990g-24.jpg?height=2228&width=1610&top_left_y=239&top_left_x=214)
+<img src="https://cdn.mathpix.com/cropped/2024_04_26_373452471bec47ff6990g-24.jpg?height=2228&width=1610&top_left_y=239&top_left_x=214" alt="image" style="width:100%;height:auto;">
 
 | Comment <br> Response | One commentator expressed concern that "passed on to other parties" <br> was too broad, and should be restricted to intended users. <br> The reviewers disagreed and made no change. |
 | :---: | :---: |

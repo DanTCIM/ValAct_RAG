@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-01.jpg?height=521&width=1116&top_left_y=160&top_left_x=900)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-01.jpg?height=521&width=1116&top_left_y=160&top_left_x=900" alt="image" style="width:100%;height:auto;">
 
 # Long-Term Care Insurance: <br> The SOA Pricing Project 
 
@@ -134,7 +134,7 @@ It's no surprise that customers and regulators alike were upset at the waves of 
 
 ${ }^{5} \mathrm{Ibid}$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-07.jpg?height=1059&width=1626&top_left_y=300&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-07.jpg?height=1059&width=1626&top_left_y=300&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Source: California Department of Insurance (DOI) listing of company historical LTC rate increases, for companies who filed for a rate increase in California, as of September $2014 .{ }^{6}$
 
@@ -331,7 +331,7 @@ In Figure 14, the likelihood of a rate increase is based on the quantity of hist
 
 Figure 14: Likelihood of Future Rate Increase by Pricing Year and Life Years of Historical Exposure Data
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-15.jpg?height=1087&width=1640&top_left_y=801&top_left_x=232)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1c0839e88e04b42f45b1g-15.jpg?height=1087&width=1640&top_left_y=801&top_left_x=232" alt="image" style="width:100%;height:auto;">
 
 The likelihood of needing future rate increases, by pricing year, and the life-years of historical exposure data available at the time of pricing.
 

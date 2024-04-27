@@ -6,7 +6,7 @@
 
 Developed by the Asset Adequacy Analysis Practice Note Work Group of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-01.jpg?height=261&width=707&top_left_y=2092&top_left_x=709)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-01.jpg?height=261&width=707&top_left_y=2092&top_left_x=709" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {m }}$
 
@@ -16,7 +16,7 @@ Objective. Independent. Effective. ${ }^{\text {m }}$
 
 ## Developed by the Asset Adequacy Analysis Practice Note Work Group of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-02.jpg?height=252&width=702&top_left_y=1766&top_left_x=706)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-02.jpg?height=252&width=702&top_left_y=1766&top_left_x=706" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {тм }}$
 
@@ -73,7 +73,7 @@ Mary K. Weise, MAAA, ASA, CERA
 
 Xiaobo Zhou, MAAA, FSA
 
-![](https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-04.jpg?height=254&width=702&top_left_y=2074&top_left_x=709)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-04.jpg?height=254&width=702&top_left_y=2074&top_left_x=709" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {TM }}$
 

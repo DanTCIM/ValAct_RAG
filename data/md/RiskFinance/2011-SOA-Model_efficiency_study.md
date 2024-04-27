@@ -149,7 +149,7 @@ The insurance industry now stands at a critical junction where:
 
 The insurance industry has not reached an upper limit on the number of computers that can be combined to perform actuarial calculations. The following table shows the number of cores in use by 14 companies spanning the life insurance industry. Results are separate for companies with more complex modeling requirements (e.g., variable annuities or economic capital) and for those with less complex modeling requirements.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-07.jpg?height=772&width=1431&top_left_y=1568&top_left_x=344)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-07.jpg?height=772&width=1431&top_left_y=1568&top_left_x=344" alt="image" style="width:100%;height:auto;">
 
 Figure I.1. Cores per company
 
@@ -421,7 +421,7 @@ Several observations are immediately apparent from these results:
 
 For each of the runs performed by the companies, the compression level and the error are plotted below:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-19.jpg?height=770&width=1265&top_left_y=1518&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-19.jpg?height=770&width=1265&top_left_y=1518&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Figure II.B.3. Compression vs. error
 
@@ -429,7 +429,7 @@ This graph provides good insight into the range of errors at different compressi
 
 One company provided us with results for 33 risk neutral simulations, each based on a unique starting account value (from different real-world outer loop scenarios), and using different random seeds ${ }^{3}$. This provides insight into the range of errors that can occur at different compression levels. The following results include the actual sign on the error terms, as no aggregation takes place:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-20.jpg?height=770&width=1271&top_left_y=835&top_left_x=427)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-20.jpg?height=770&width=1271&top_left_y=835&top_left_x=427" alt="image" style="width:100%;height:auto;">
 
 Figure II.B.4. Distribution of errors
 
@@ -447,7 +447,7 @@ We investigated further to determine why the results are so poor for the tail ri
 
 One company provided us with the present value of the liability in each scenario for the full run as well as various compressed runs using the Significance Method. The following results show these results, converted into a probability density function:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-21.jpg?height=762&width=1263&top_left_y=1012&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-21.jpg?height=762&width=1263&top_left_y=1012&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 Figure II.B.5. Density of results for one company
 
@@ -587,10 +587,10 @@ The Importance Sampling extension is to select more heavily from the tail of the
 | 20 |
 | 21 |
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-26.jpg?height=1154&width=1044&top_left_y=1077&top_left_x=752)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-26.jpg?height=1154&width=1044&top_left_y=1077&top_left_x=752" alt="image" style="width:100%;height:auto;">
 
 Total
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-26.jpg?height=84&width=876&top_left_y=2267&top_left_x=730)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-26.jpg?height=84&width=876&top_left_y=2267&top_left_x=730" alt="image" style="width:100%;height:auto;">
 
 Table II.C.1. Hypothetical Importance Sampling example
 
@@ -731,19 +731,19 @@ One company performed preliminary testing:
 
 The following graph shows the density for functions where the fit was relatively strong:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-32.jpg?height=784&width=1355&top_left_y=928&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-32.jpg?height=784&width=1355&top_left_y=928&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 Figure II.D.1. Distributions with best fit
 
 For contrast, the following graph shows the density for functions that did not fit very well:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-33.jpg?height=765&width=1350&top_left_y=325&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-33.jpg?height=765&width=1350&top_left_y=325&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 Figure II.D.2. Distributions with worst fit
 
 The goal for this exercise was to obtain a distribution with a good fit in the tail. Returning to the distributions with the best fit, the following graph zooms in on the left tail of the distribution:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-33.jpg?height=767&width=1355&top_left_y=1357&top_left_x=382)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-33.jpg?height=767&width=1355&top_left_y=1357&top_left_x=382" alt="image" style="width:100%;height:auto;">
 
 Figure II.D.3. Distributions with best fit, tail results
 
@@ -751,7 +751,7 @@ This shows more clearly that the Loglogistic distribution is most successful at 
 
 The following graph shows the results for the Loglogistic curve only, covering the worst 30 percent of the distribution:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-34.jpg?height=768&width=1352&top_left_y=234&top_left_x=384)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-34.jpg?height=768&width=1352&top_left_y=234&top_left_x=384" alt="image" style="width:100%;height:auto;">
 
 Figure II.D.4. Loglogistic distribution results
 
@@ -900,7 +900,7 @@ The above results provide a clear example where higher levels of compression res
 
 For the two companies that provided large sets of results, we found that the errors tended to occur in a particular direction:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-40.jpg?height=765&width=1265&top_left_y=577&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-40.jpg?height=765&width=1265&top_left_y=577&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 Figure II.E.5. Distribution of errors for two companies
 
@@ -955,7 +955,7 @@ Suppose that an actuary is calculating the average present value of cash flows a
 
 The actuary will then create a set of constraints that may be fed into the optimization software. Suppose that the actuary wants the account value of the compressed inforce to be equal to the account value of the original inforce. The software will be directed as follows: Minimize the number of policies with a weight greater than zero, subject to the constraint that
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-43.jpg?height=79&width=911&top_left_y=2031&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-43.jpg?height=79&width=911&top_left_y=2031&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 Where:
 
@@ -1017,7 +1017,7 @@ In order to understand the differences further, we analyzed the distribution of 
 
 ## Company A:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-45.jpg?height=770&width=1268&top_left_y=1659&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-45.jpg?height=770&width=1268&top_left_y=1659&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Figure II.F.3. Company A distribution
 
@@ -1026,7 +1026,7 @@ Figure II.F.3. Company A distribution
 
 ## Company B:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-46.jpg?height=767&width=1268&top_left_y=706&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-46.jpg?height=767&width=1268&top_left_y=706&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Figure II.F.4. Company B distribution
 
@@ -1035,7 +1035,7 @@ Figure II.F.4. Company B distribution
 
 ## Company C:
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-47.jpg?height=771&width=1273&top_left_y=322&top_left_x=423)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_245f87d489dec41fdcebg-47.jpg?height=771&width=1273&top_left_y=322&top_left_x=423" alt="image" style="width:100%;height:auto;">
 
 Figure II.F.5. Company C distribution
 

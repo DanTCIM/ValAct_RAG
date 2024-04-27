@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_1c920640385372268f3cg-01.jpg?height=485&width=504&top_left_y=83&top_left_x=81)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1c920640385372268f3cg-01.jpg?height=485&width=504&top_left_y=83&top_left_x=81" alt="image" style="width:100%;height:auto;">
 
 # STATEMENT OF GUIDANCE 
 
@@ -220,7 +220,7 @@ compliance functions, or through equivalent independent and competent third part
 
 13.5. This Guidance will come into effect within twelve months from the date that it is published in the Gazette.
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_1c920640385372268f3cg-10.jpg?height=667&width=661&top_left_y=824&top_left_x=710)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_1c920640385372268f3cg-10.jpg?height=667&width=661&top_left_y=824&top_left_x=710" alt="image" style="width:100%;height:auto;">
 
 SIX, Cricket Square
 

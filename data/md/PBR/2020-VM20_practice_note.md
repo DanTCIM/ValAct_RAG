@@ -4,7 +4,7 @@
 
 Developed by the Life Principle-Based Approach Practice Note Work Group of the Life Valuation Committee of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-001.jpg?height=201&width=718&top_left_y=2087&top_left_x=693)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-001.jpg?height=201&width=718&top_left_y=2087&top_left_x=693" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMY of ACTUARIES
 
@@ -59,7 +59,7 @@ Vincent Tsang, MAAA, FSA
 
 Christopher Whitney, MAAA, FSA
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-002.jpg?height=342&width=696&top_left_y=1721&top_left_x=709)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-002.jpg?height=342&width=696&top_left_y=1721&top_left_x=709" alt="image" style="width:100%;height:auto;">
 
 1850 M Street NW, Suite 300
 
@@ -105,7 +105,7 @@ Additions and revisions to this practice note will likely be needed in the futur
 
 ## PBR Calculation Schematic
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-005.jpg?height=1559&width=1525&top_left_y=440&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-005.jpg?height=1559&width=1525&top_left_y=440&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 Chart assumes values are either consistently net of reinsurance or consistently direct (before reinsurance). DDPA = Due and Deferred Premium Asset.
 
@@ -172,7 +172,7 @@ Some actuaries use a process similar to that shown in the following flowchart wh
 
 ## PBR Rider Valuation Treatment
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-009.jpg?height=2025&width=1550&top_left_y=321&top_left_x=206)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-009.jpg?height=2025&width=1550&top_left_y=321&top_left_x=206" alt="image" style="width:100%;height:auto;">
 
 ## $Q$ 1.7: Are return of premium (ROP) riders attached to life policies treated as a stand-alone policy for purposes of VM-20?
 
@@ -481,7 +481,7 @@ Once the policy type has been determined, the NPR methodology follows according 
 
 A: Per Section 3.B.4.b, determine the adjusted gross premiums for the policy. These will be equal to the annual mode guaranteed gross premiums for the policy multiplied by the factors below.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-022.jpg?height=143&width=629&top_left_y=1072&top_left_x=395)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-022.jpg?height=143&width=629&top_left_y=1072&top_left_x=395" alt="image" style="width:100%;height:auto;">
 
 Then, determine the uniform percentage of the present value of adjusted gross premiums equivalent to the present value of benefits (PVB) at issue plus $\$ 2.50$ per $\$ 1,000$ of insurance. The product of the uniform percentage and the adjusted gross premiums is the vector of valuation net premiums (unless adjustments as described next are required).
 

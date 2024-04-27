@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_09_3d93cd20fe270254719dg-01.jpg?height=483&width=520&top_left_y=428&top_left_x=0)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_3d93cd20fe270254719dg-01.jpg?height=483&width=520&top_left_y=428&top_left_x=0" alt="image" style="width:100%;height:auto;">
 
 # REGULATORY POLICY 
 
@@ -334,7 +334,7 @@ issued shares on behalf of an SP to a party or parties whose risks are (re)insur
 
 12.1 In addition to the above, the Authority may require any other information or documentation that is necessary for processing an application and granting a licence.
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_3d93cd20fe270254719dg-14.jpg?height=667&width=677&top_left_y=824&top_left_x=694)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_3d93cd20fe270254719dg-14.jpg?height=667&width=677&top_left_y=824&top_left_x=694" alt="image" style="width:100%;height:auto;">
 
 SIX, Cricket Square
 

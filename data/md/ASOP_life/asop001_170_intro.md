@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_18_5c49b5deff7b0019d780g-01.jpg?height=309&width=336&top_left_y=325&top_left_x=900)
+<img src="https://cdn.mathpix.com/cropped/2024_04_18_5c49b5deff7b0019d780g-01.jpg?height=309&width=336&top_left_y=325&top_left_x=900" alt="image" style="width:100%;height:auto;">
 
 # ActUARIAL Standards BOARD 
 
@@ -351,7 +351,7 @@ The term "reviewers" in appendix 2 includes the General Committee and the ASB. A
 
 | Comment | A commentator suggested adding "may" before "subject the actuary" in the <br> sentence "Such breaches subject the actuary to the profession’s counseling and <br> discipline processes." <br> The reviewers note that a breach subjects the actuary to ABCD processes, even <br> though it may not result in ABCD action. Therefore, no changes were made. |
 | :---: | :---: |
-| ![](https://cdn.mathpix.com/cropped/2024_04_18_5c49b5deff7b0019d780g-22.jpg?height=64&width=1598&top_left_y=529&top_left_x=244) |  |
+| <img src="https://cdn.mathpix.com/cropped/2024_04_18_5c49b5deff7b0019d780g-22.jpg?height=64&width=1598&top_left_y=529&top_left_x=244" alt="image" style="width:100%;height:auto;"> |  |
 | Comment | A commentator believes that the sentence "It is not appropriate for users of <br> ASOPs to make a strained interpretation of the provisions of an ASOP " is not <br> needed because the point is covered by the first sentence, and also indicated that <br> an undefined term like "strained" should not be used. |
 | Response | The reviewers believe the second sentence differs from the first and decided <br> against deleting it. |
 | Section 4.3 |  |

@@ -62,27 +62,27 @@ The impact of this update will depend on the distribution of bonds by credit qua
 
 Figure 1 - NAIC 1 Bond Factors
 
-![](https://www.soa.org/4ad8d1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-1.jpg)
+<img src="https://www.soa.org/4ad8d1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-1.jpg" alt="image" style="width:100%;height:auto;">
 
 
 Figure 2 - NAIC 2 Bond Factors
 
-![](https://www.soa.org/4ad8d5/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-2.jpg)
+<img src="https://www.soa.org/4ad8d5/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-2.jpg" alt="image" style="width:100%;height:auto;">
 
 
 Figure 3 - NAIC 3 Bond Factors
 
-![](https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-3.jpg)
+<img src="https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-3.jpg" alt="image" style="width:100%;height:auto;">
 
 
 Figure 4 - NAIC 4 Bond Factors
 
-![](https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-4.jpg)
+<img src="https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-4.jpg" alt="image" style="width:100%;height:auto;">
 
 
 Figure 5 - NAIC 5 Bond Factors
 
-![](https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-5.jpg)
+<img src="https://www.soa.org/4ad8e1/globalassets/images/library/newsletters/small-talk/2021/december/stn-2021-12-brown-fig-5.jpg" alt="image" style="width:100%;height:auto;">
 
 
 In addition to the risk factors, the bonds size adjustment factors were also updated (see Table 2).

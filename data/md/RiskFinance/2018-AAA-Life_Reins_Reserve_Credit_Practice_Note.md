@@ -8,7 +8,7 @@
 
 Developed by<br>the Credit for Reinsurance Subgroup<br>of the Reinsurance Committee<br>of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-01.jpg?height=270&width=725&top_left_y=2112&top_left_x=708)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-01.jpg?height=270&width=725&top_left_y=2112&top_left_x=708" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {m }}$
 
@@ -18,7 +18,7 @@ February 2018
 
 Developed by<br>the Credit for Reinsurance Subgroup<br>of the Reinsurance Committee<br>of the Risk Management and Financial Reporting Council<br>of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-02.jpg?height=309&width=848&top_left_y=1594&top_left_x=644)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-02.jpg?height=309&width=848&top_left_y=1594&top_left_x=644" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {т }}$
 
@@ -41,7 +41,7 @@ Jean-Marc Fix, MAAA, FSA
 
 Special thanks to those who helped finalize the practice note: Tom Campbell, Robert Diefenbacher, Donna Jarvis, Leslie Jones, Richard Daillak, and Wayne Stuenkel.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-03.jpg?height=214&width=632&top_left_y=1481&top_left_x=733)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_c92da858890c440dcd2fg-03.jpg?height=214&width=632&top_left_y=1481&top_left_x=733" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {T }}$
 

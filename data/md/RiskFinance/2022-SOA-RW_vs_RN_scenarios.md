@@ -1,12 +1,12 @@
 Understanding the Connection between Real-World and RiskNeutral Scenario Generators AUGUST | 2022
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-01.jpg?height=1448&width=1762&top_left_y=1325&top_left_x=0)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-01.jpg?height=1448&width=1762&top_left_y=1325&top_left_x=0" alt="image" style="width:100%;height:auto;">
 
 ## (2SOA <br> Research <br> INSTITUTE
 
 ## Understanding the Connection between Real-World and Risk-Neutral Scenario Generators
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-02.jpg?height=231&width=1499&top_left_y=1435&top_left_x=318)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-02.jpg?height=231&width=1499&top_left_y=1435&top_left_x=318" alt="image" style="width:100%;height:auto;">
 
 The opinions expressed and conclusions reached by the authors are their own and do not represent any official position or opinion of the Society of Actuaries Research Institute, the Society of Actuaries or its members. The Society of Actuaries Research Institute makes no representation or warranty to the accuracy of the information.
 
@@ -60,7 +60,7 @@ Risk-neutral generators are referred to as "market-consistent" because they are 
 
 To help illustrate how real-world and risk-neutral methods can be calibrated to produce the same market price, an Excel workbook has been prepared to accompany this paper. The workbook illustrates the valuation of a simple put option on equity stock using real-world and risk-neutral methods. The probability distributions associated with realworld and risk-neutral probabilities are shown side-by-side, and the means by which the methods use different probabilities to arrive at the same value are shown in detail.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-04.jpg?height=255&width=1523&top_left_y=1832&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-04.jpg?height=255&width=1523&top_left_y=1832&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Section 1: Why are there two kinds of generators? (Fitness for purpose)
 
@@ -84,7 +84,7 @@ Figure 1
 
 DISTRIBUTION OF REAL-WORLD SCENARIOS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-06.jpg?height=775&width=1154&top_left_y=347&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-06.jpg?height=775&width=1154&top_left_y=347&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 What about risk-neutral scenarios? The next chart adds the probability distribution for a set of risk-neutral scenarios. Note that there is a lot of overlap between the risk-neutral and real-world distributions, indicating that many of the same scenarios may appear in both sets. Note also that the risk-neutral distribution is not centered on the same central value: it is centered on a lower value. This means that the average projected value of a risky investment in risk-neutral scenarios will be lower than in real-world scenarios. The probability weighting in riskneutral scenarios (Q-measure) gives more weight to adverse results (lower projected value in this case) than the $\mathrm{P}$ measure. For example, the central value in the risk-neutral probability weighting is based on the price increasing at the risk-free rate. That rate is typically lower than a realistic market expectation that would include a risk premium.
 
@@ -92,7 +92,7 @@ What about risk-neutral scenarios? The next chart adds the probability distribut
 
 DISTRIBUTION OF REAL-WORLD AND RISK-NEUTRAL SCENARIOS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-06.jpg?height=797&width=1174&top_left_y=1645&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-06.jpg?height=797&width=1174&top_left_y=1645&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 In these charts the horizontal axis is a projected value. Keep in mind that the starting value is the same in both realworld and risk-neutral scenarios. And, importantly, the expected present value of the stochastic future price is the same in both the real-world and risk-neutral scenario sets. That's because the discount rate differs between realworld and risk-neutral methods. The risk-neutral discount rate is always the risk-free short-term rate. The realworld discount rate is higher because it includes a risk premium for the equity price risk. That risk premium exists because real-world markets are risk-averse; an uncertain future price is discounted at a rate that includes a risk premium related to the degree of uncertainty in the future price. Therefore, projected values and prices are higher in real-world market-coherent scenarios than in risk-neutral scenarios, but the present values are the same. This means that projections of value based on risk-neutral scenarios diverge more and more from real-world projections the further into the future you go. Risk-neutral methods are clearly meant for market-consistent valuation on the scenario start date, where they match current real-world prices, but not for projections or simulations that involve decision-making based on simulated conditions on dates in the future. In risk-neutral scenarios, simulated future conditions do not have a realistic probability distribution.
 
@@ -108,7 +108,7 @@ Figure 3
 
 DISTRIBUTION OF REAL-WORLD SCENARIOS WITH EXTRA TAIL RISK
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-08.jpg?height=862&width=1268&top_left_y=336&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-08.jpg?height=862&width=1268&top_left_y=336&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Section 2: What it means to be market-consistent
 
@@ -245,7 +245,7 @@ These differences in assumed market behavior are illustrated in the chart below.
 
 SIMULATED INTEREST RATE DISTRIBUTIONS FROM THREE MODELS
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-13.jpg?height=954&width=1279&top_left_y=648&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-13.jpg?height=954&width=1279&top_left_y=648&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 All three of these distributions are based on calibrations with the same mean reversion point, the same value for the mean reversion strength parameter, and the same volatility at the mean. The point of showing the difference between them is to motivate the idea that the choice of model affects the valuation because it reflects the model's assumptions about market behavior and the likelihood of different events in the future. This dependence of any market-consistent valuation on the choice of underlying model should not be overlooked.
 
@@ -510,37 +510,37 @@ The chart below illustrates the drift of the future short-term risk-free rate in
 
 The point of this chart is to show that the risk-neutral drift is higher than the real-world drift.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-24.jpg?height=957&width=1282&top_left_y=909&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-24.jpg?height=957&width=1282&top_left_y=909&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 The next chart shows the probability density of the short-term risk-free rate based on the same scenarios as the previous chart. The density is charted based on the number of scenarios in each $0.25 \%$ interval out of a set of 10,000 scenarios.
 
 The point of this chart is that the risk-neutral probabilities (Q-measure) define a distribution that has a higher mean and is slightly wider than the real-world probabilities (P-measure).
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-25.jpg?height=900&width=1268&top_left_y=241&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-25.jpg?height=900&width=1268&top_left_y=241&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Risk-neutral scenarios have been described as weighting adverse events more heavily and thereby leading to lower future values of current investments. Consider how that is reflected in a simulation of a pure discount bond that matures for $\$ 1,000$. We know the starting value, and we know the maturity value, and those must be the same in both real-world and risk-neutral scenarios. But what about the value between those two points?
 
 Consider a situation where the current risk-free short-term rate is at its mean reversion point at the start of a simulation. In the real world the short-term rate is equally likely to move up or down, so let's look at a scenario where it remains constant, and the rest of the yield curve remains constant. The chart below shows the yield curve we'll use for illustrative purposes. The one-year spot rate is $4 \%$ and the 10 -year spot rate is $6 \%$. The 10 -year rate includes term premiums that compensate for the risk of locking in the rate for 10 years.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-25.jpg?height=762&width=1257&top_left_y=1644&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-25.jpg?height=762&width=1257&top_left_y=1644&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 If we generate both real-world and risk-neutral scenarios with this starting yield curve, we know that the scenarios will differ, with the risk-neutral scenario drifting higher. While the short-term rate in the real-world scenario will be unchanging, the short-term rate in the risk-neutral scenario will follow the forward rate path in the initial yield curve. This will lead to higher interest rates in the risk-neutral scenario. That means lower discounted present values for the bond in the risk-neutral scenario. The chart below illustrates the average path of the value of the bond. At every point between the start date and the maturity date, the value is lower in the risk-neutral scenario.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-26.jpg?height=768&width=1263&top_left_y=543&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-26.jpg?height=768&width=1263&top_left_y=543&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 One can calculate the return on the bond for each projection year in each of these scenarios. In the real-world scenario the return "walks down the curve" in the usual way, showing a return equal to long-term forward rates when the maturity date is far in the future, and declining over time to the short-term rate just before maturity. In the risk-neutral scenario, all investments are assumed to earn the same short-term risk-free rate (on average), but the short-term risk-free rate follows the path of the forward rate curve. The forward rate curve starts with the short-term rate and ends with the long-term rate. Basically, the forward rate curve is earned in reverse order.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-26.jpg?height=764&width=1266&top_left_y=1643&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-26.jpg?height=764&width=1266&top_left_y=1643&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 ## EQUITY RETURNS
 
 For equities, the real-world probabilities define a distribution of future values that is higher than the distribution based on risk-neutral probabilities. The higher values include the market reward for taking risk. The chart below is based on simulation of 10,000 scenarios, counting the number of accumulated values in each $\$ 0.05$ interval.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-27.jpg?height=740&width=1263&top_left_y=476&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-27.jpg?height=740&width=1263&top_left_y=476&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 When percentile points on these distributions are tracked over time one can see how the difference in probabilities affects the drift of accumulated value over time.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-27.jpg?height=937&width=1268&top_left_y=1361&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-27.jpg?height=937&width=1268&top_left_y=1361&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Appendix B: Some more complex interest rate models
 
@@ -712,7 +712,7 @@ Consider the situation where the values of $\lambda$ and $\sigma_{r}$ are consta
 
 The Cox-Ingersoll-Ross model is one such model and it has a formulaic expression for the spot prices $P_{T}$. That makes it possible to calculate the value of $\frac{\partial P_{T}}{\partial r_{0}}$ and quantify the term premiums resulting from a set of chosen parameter values. The chart below illustrates term premiums from the Cox-Ingersoll-Ross model based on one reasonable calibration.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-34.jpg?height=791&width=1284&top_left_y=675&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-34.jpg?height=791&width=1284&top_left_y=675&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 Similar curves arise from other mean-reverting models.
 
@@ -742,7 +742,7 @@ While term premiums are not directly observable at a point in time, cross-sectio
 
 The chart shown above is based on one reasonable calibration of a model. Term premiums are sensitive to the calibration. The chart below illustrates term premiums based on some alternate parameter values for volatility and mean reversion speed, all using the same market price of risk within the same model.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-35.jpg?height=778&width=1288&top_left_y=1237&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-35.jpg?height=778&width=1288&top_left_y=1237&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 In more complex interest rate models, term premiums can also be sensitive to the level and shape of the starting yield curve.
 

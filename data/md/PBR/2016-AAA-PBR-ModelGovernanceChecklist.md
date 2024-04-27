@@ -22,7 +22,7 @@ American Academy of ActUaries
 
 Ali Zaker-Shahrak, MAAA, FSA
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-01.jpg?height=287&width=483&top_left_y=2139&top_left_x=1336)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-01.jpg?height=287&width=483&top_left_y=2139&top_left_x=1336" alt="image" style="width:100%;height:auto;">
 
 ACTUARY.ORG
 
@@ -160,7 +160,7 @@ B12 Does documentation of applied modeling concepts describe how modeling compon
 
 B13 Are the modeling concepts' limitations and inherent biases adequately emphasized in the documentation?
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-07.jpg?height=149&width=138&top_left_y=1172&top_left_x=251)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-07.jpg?height=149&width=138&top_left_y=1172&top_left_x=251" alt="image" style="width:100%;height:auto;">
 
 ## Assumptions Setting <br> Color Code:
 
@@ -619,7 +619,7 @@ J26 Are test cases independently specified by business domain experts?
 | J40 | Have appropriate methods been performed and documented in the validation of model <br> fit (e.g., back-testing)? |
 | J41 | Has an analysis of change, from a validated model to a modified model, based on an <br> automated attribution testing process been performed and documented? |
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-20.jpg?height=135&width=312&top_left_y=1212&top_left_x=820)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-20.jpg?height=135&width=312&top_left_y=1212&top_left_x=820" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEmY of ACTUARIES
 

@@ -1,4 +1,4 @@
-![](https://cdn.mathpix.com/cropped/2024_04_02_522e2ba4af47d3b2a1f1g-01.jpg?height=306&width=331&top_left_y=270&top_left_x=889)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_522e2ba4af47d3b2a1f1g-01.jpg?height=306&width=331&top_left_y=270&top_left_x=889" alt="image" style="width:100%;height:auto;">
 
 # Actuarial Standards Board 
 
@@ -562,7 +562,7 @@ The term "reviewers" includes the Task Force, General Committee, and the ASB. Un
 
 ## ASOP No. 56-Doc. No. 195
 
-![](https://cdn.mathpix.com/cropped/2024_04_02_522e2ba4af47d3b2a1f1g-26.jpg?height=1994&width=1696&top_left_y=304&top_left_x=209)
+<img src="https://cdn.mathpix.com/cropped/2024_04_02_522e2ba4af47d3b2a1f1g-26.jpg?height=1994&width=1696&top_left_y=304&top_left_x=209" alt="image" style="width:100%;height:auto;">
 
 ## ASOP No. 56-Doc. No. 195
 

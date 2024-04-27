@@ -6,7 +6,7 @@
 
 Developed by the PBA Projections Practice Note Work Group, a joint effort between the Life Valuation Committee, the PBR Governance Work Group, and the Life Product Committee of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-01.jpg?height=266&width=721&top_left_y=2098&top_left_x=694)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-01.jpg?height=266&width=721&top_left_y=2098&top_left_x=694" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {m }}$
 
@@ -44,7 +44,7 @@ Gary Osterhout, MAAA, FSA
 
 Tim Cardinal, MAAA, FSA
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-02.jpg?height=344&width=696&top_left_y=1576&top_left_x=709)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-02.jpg?height=344&width=696&top_left_y=1576&top_left_x=709" alt="image" style="width:100%;height:auto;">
 
 1850 M Street NW, Suite 300
 
@@ -104,7 +104,7 @@ as to what constitutes generally accepted practice in this area. No representati
 
 ## PBR Projection Demonstration of Nested Modeling for VM-20
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-06.jpg?height=912&width=1757&top_left_y=242&top_left_x=493)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-06.jpg?height=912&width=1757&top_left_y=242&top_left_x=493" alt="image" style="width:100%;height:auto;">
 
 The "PBR Projection Demonstration of Nested Modeling for VM-20" graphic above shows a visual representation of what a VM-20 projection might look like as of the valuation date and at future re-valuation points. The red line in the diagram represents an outer loop scenario, which could represent a business forecasting or pricing projection scenario, and the blue dots on the line are valuation nodes. The blue lines at each node represent reserves calculations in inner loop projections, where each inner loop is a projection of PBR cashflows supporting the reserve calculation at the valuation node.
 
@@ -242,14 +242,14 @@ Stochastic-on-
 
 Deterministic
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=91&width=343&top_left_y=481&top_left_x=1200)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=91&width=343&top_left_y=481&top_left_x=1200" alt="image" style="width:100%;height:auto;">
 
 Stochastic
 
 Stochastic-onStochastic ${ }^{1}$
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=422&width=890&top_left_y=618&top_left_x=1614)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=422&width=890&top_left_y=618&top_left_x=1614" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=228&width=1098&top_left_y=1114&top_left_x=784)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-13.jpg?height=228&width=1098&top_left_y=1114&top_left_x=784" alt="image" style="width:100%;height:auto;">
 
 ${ }^{1}$ For visualization purposes only three stochastic outer loop scenarios are shown
 
@@ -265,7 +265,7 @@ A: It could be possible to avoid nested modeling calculations, depending on the 
 
 A: The diagram introduced prior to the first section, labeled "PBR Projection Demonstration of Nested Modeling for VM-20," shows a visual representation of what a VM-20 reserve projection might look like as of the valuation date and at future re-valuation points. The red line in the diagram represents an outer loop scenario, perhaps a business forecasting or pricing projection, and the blue dots on the line are re-valuation points. At each re-valuation point, VM-20 calculations are commonly run based on the in-force business mix, economic conditions, and inner loop assumptions assumed at the re-valuation point. The NPR can be calculated using the prescribed formula and assumptions. At the same re-valuation point, a projection over the prescribed deterministic scenario is typically needed for the DR, where the scenario is parameterized at the re-valuation point based on the outer loop scenario economics. A separate projection over stochastic scenarios is normally run for the SR inner loop. At each re-valuation point, the cash flows are typically discounted or adjusted to reflect the appropriate reserve calculation (for example, a gross premium valuation (GPV) reserve or a CTE70 is computed), and the final reserve is determined.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-14.jpg?height=805&width=1561&top_left_y=1638&top_left_x=344)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-14.jpg?height=805&width=1561&top_left_y=1638&top_left_x=344" alt="image" style="width:100%;height:auto;">
 
 ## Q 2.6: How frequently does an actuary perform nested modeling?
 
@@ -283,7 +283,7 @@ A: When projecting future reserves, the actuary could consider changing future v
 
 ## Example: 10 \& 20 Year Term PBR block: 2017-19 issues
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-16.jpg?height=789&width=1678&top_left_y=923&top_left_x=256)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-16.jpg?height=789&width=1678&top_left_y=923&top_left_x=256" alt="image" style="width:100%;height:auto;">
 
 ## Mortality
 
@@ -302,7 +302,7 @@ Additionally, the actuary might consider reflecting the impact of any future exp
 
 ## Projected Valuation Assumptions: Expenses
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-17.jpg?height=488&width=1643&top_left_y=1179&top_left_x=249)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-17.jpg?height=488&width=1643&top_left_y=1179&top_left_x=249" alt="image" style="width:100%;height:auto;">
 
 ## Economic scenarios and assets
 
@@ -379,13 +379,13 @@ Term Life - 10yr/20yr, \$1.2MM/\$0.35MM Face
 
 (\$ thousands)
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-22.jpg?height=1583&width=1849&top_left_y=317&top_left_x=130)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-22.jpg?height=1583&width=1849&top_left_y=317&top_left_x=130" alt="image" style="width:100%;height:auto;">
 
 (1) Anticipated Reserve Change: change in reserves due to anticipated experience in inforce demographics and anticipated economic/non-economic assumptions (2) Reserve Volatility: deviations from anticipated reserve changes due to emerging experience, or due to unexpected changes in economic/non-economic assumptions
 
 Copyright (C) 2017 by the Society of Actuaries, Schaumburg, Illinois. Reprinted with permission https://www.soa.org/Files/Research/Projects/2017-understand-vm-20-results.pdf
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-23.jpg?height=1540&width=2448&top_left_y=170&top_left_x=130)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-23.jpg?height=1540&width=2448&top_left_y=170&top_left_x=130" alt="image" style="width:100%;height:auto;">
 
 Copyright (C) 2017 by the Society of Actuaries, Schaumburg, Illinois. Reprinted with permission https://www.soa.org/Files/Research/Projects/2017-understand-vm-20-results.pdf
 
@@ -647,28 +647,28 @@ Randomly select $k$ data points as
 
 Step 1 centroids, where $\mathrm{k}$ represents the desired number of clusters
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=230&width=349&top_left_y=931&top_left_x=1208)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=230&width=349&top_left_y=931&top_left_x=1208" alt="image" style="width:100%;height:auto;">
 
 Step 2
 
 Assign every data point to its nearest centroid
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=584&width=1438&top_left_y=1274&top_left_x=218)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=584&width=1438&top_left_y=1274&top_left_x=218" alt="image" style="width:100%;height:auto;">
 
 Repeat steps 2 and 3 until clusters
 
 Step 4 reach their target state, which is when additional iterations have no impact on the cluster selection
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=255&width=352&top_left_y=1886&top_left_x=1209)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-37.jpg?height=255&width=352&top_left_y=1886&top_left_x=1209" alt="image" style="width:100%;height:auto;">
 
 ## Treat every data point as an individual Step 1 cluster. Calculate the distance between each cluster
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-38.jpg?height=766&width=372&top_left_y=404&top_left_x=1191)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-38.jpg?height=766&width=372&top_left_y=404&top_left_x=1191" alt="image" style="width:100%;height:auto;">
 
 Step 4
 
 The result is a set of clusters meeting the target clustering level
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-38.jpg?height=209&width=359&top_left_y=1240&top_left_x=1203)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-38.jpg?height=209&width=359&top_left_y=1240&top_left_x=1203" alt="image" style="width:100%;height:auto;">
 
 The actuary might also consider how the method being used for cell reduction and the calibration of such method may need to change over time. As inforce blocks age, particular cells or clusters can become larger and more significant than at the start of the outer loop projection. Therefore, the actuary might consider using different criteria for cell reduction for future inner loops. In addition, some actuaries test to see how this approach holds up when introducing shocks to various model inputs.
 
@@ -698,13 +698,13 @@ The following provides a visual example of nested modeling for an outer and inne
 
 ## Projected Valuation Assumptions: Mortality
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-40.jpg?height=615&width=1854&top_left_y=392&top_left_x=144)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-40.jpg?height=615&width=1854&top_left_y=392&top_left_x=144" alt="image" style="width:100%;height:auto;">
 
 ## Updating Assumptions
 
 Example: Mortality assumption is updated in 2019 , resulting in a $5 \%$ reduction in best estimate.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-40.jpg?height=805&width=1830&top_left_y=1365&top_left_x=183)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-40.jpg?height=805&width=1830&top_left_y=1365&top_left_x=183" alt="image" style="width:100%;height:auto;">
 
 ## Mortality Assumption Update
 
@@ -716,7 +716,7 @@ Example: Mortality assumption is updated in 2019 , resulting in a $5 \%$ reducti
 
 5.00
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-41.jpg?height=347&width=52&top_left_y=758&top_left_x=88)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-41.jpg?height=347&width=52&top_left_y=758&top_left_x=88" alt="image" style="width:100%;height:auto;">
 
 - 2015 VBT
 
@@ -732,7 +732,7 @@ DR Mortality = BE Mortality + Margin, with Grading
 
 The inner loop (DR) mortality is similar to the outer loop (BE) mortality in early durations, but grades into industry experience in later durations. As a result, the impact of the assumption update is reflected fully in the DR mortality assumption in early durations, but the impact of the assumption update eventually wears off. In later durations, where the DR mortality assumption is fully based on industry experience, the
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-41.jpg?height=453&width=776&top_left_y=412&top_left_x=1892)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-41.jpg?height=453&width=776&top_left_y=412&top_left_x=1892" alt="image" style="width:100%;height:auto;">
 assumption update has no impact.
 ii. Distinct Modeling Calculations-This is similar to nested modeling, but it is done using separate and distinct model runs for each valuation year, with results individually transferred to a projection (e.g., outer loop) type run. This option could potentially be a more manually and computationally intensive process than using a nested model, but some actuaries find it useful for products with a small set of projection years, such as term products with 20-year level term periods or less.
 
@@ -980,9 +980,9 @@ This example shows one way that nested modeling provides the ability to reflect 
 | Rsv Calc at $\mathrm{t}=10$ <br> Inner loop mortality |  |  |  |  |  |  |  |  |  |  | 4.5 | 4.8 | 5.1 | 5.4 | $5 . \pi$ | 6.1 | 6.4 | 6.7 | 7.0 | 7.3 | 7.6 | 7.9 | 8.2 | 8.5 | 8.8 |
 | YRT premium |  |  |  |  |  |  |  |  |  |  | 5.0 | 5.2 | 5.4 | 5.6 | 5.8 | 8.0 | 6.2 | 6.4 | 6.6 | 6.8 | 7.6 | 7.9 | 8.2 | 8.5 | 8.8 |
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-52.jpg?height=128&width=400&top_left_y=1519&top_left_x=726)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-52.jpg?height=128&width=400&top_left_y=1519&top_left_x=726" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-52.jpg?height=129&width=388&top_left_y=1519&top_left_x=1363)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-52.jpg?height=129&width=388&top_left_y=1519&top_left_x=1363" alt="image" style="width:100%;height:auto;">
 
 Another example of when nested modeling techniques might be used for modeling reinsurance cash flows is when a margin is applied to the current YRT scale, and this margin is tied in some way to the effective mortality margin (i.e., the total difference between the inner loop and outer loop mortality). In this case, the YRT margin applied may decrease at each re-valuation point as the effective mortality margin decreases due to the following factors:
 
@@ -1048,7 +1048,7 @@ The following figure shows a visual example of how both historical and outer loo
 - Inner loop scenarios are dependent on the outer loop scenario path.
 - Inner Loops are generated based on the yield curve at each re-valuation date and a mean reversion parameter
 - The mean reversion parameter will change over time based on a combination of historical actual rates and projected rates from the output loop scenario
-![](https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-55.jpg?height=1170&width=1824&top_left_y=1334&top_left_x=80)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-55.jpg?height=1170&width=1824&top_left_y=1334&top_left_x=80" alt="image" style="width:100%;height:auto;">
 
 Regulatory requirements have implications on the number of scenarios used for the point-in-time valuation run. However, some actuaries might decide to use fewer scenarios for forecasting future valuation date amounts while considering trade-offs between run-time and convergence.
 

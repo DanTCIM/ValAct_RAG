@@ -6,11 +6,11 @@
 
 American Academy of Actuaries'<br>Life Valuation Subcommittee
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-01.jpg?height=252&width=290&top_left_y=2091&top_left_x=923)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-01.jpg?height=252&width=290&top_left_y=2091&top_left_x=923" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMy of ACTUARIES
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-02.jpg?height=135&width=181&top_left_y=122&top_left_x=972)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-02.jpg?height=135&width=181&top_left_y=122&top_left_x=972" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMY of ACTUARIES
 
@@ -814,11 +814,11 @@ In order to use the Bayesian approach, a prior distribution is required. There a
 
 The parameters were selected so that the mean is the prima facie value of 0.004 . The standard deviation of this beta distribution is about 0.001 and this also provides an interpretation of his choice.
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-37.jpg?height=718&width=1196&top_left_y=237&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-37.jpg?height=718&width=1196&top_left_y=237&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 The key output of a Bayesian analysis is the posterior distribution. This represents the regulator's opinion about the distribution of $p$ for the company in question based on combining the data from the company with the prior distribution. It turns out that the posterior distribution is also beta. The parameters of this new distribution are $a^{*}=16+8=$ 24 and $b^{*}=3,984+4,992=8,976$ (this outcome is derived in all credibility texts). The posterior distribution is plotted below. It can be seen that the spread is reduced (indicating increased confidence) and that the mode has moved to a smaller value (reflecting the company experience).
 
-![](https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-37.jpg?height=740&width=1239&top_left_y=1430&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-37.jpg?height=740&width=1239&top_left_y=1430&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 The mean, 24/9,000 $=0.00267$ is the Bayesian credibility estimate. This can be interpreted as applying a weight of 5/9 to the company's experience and $4 / 9$ to the prima facie rate.
 

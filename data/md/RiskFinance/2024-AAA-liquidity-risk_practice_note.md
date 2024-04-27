@@ -10,7 +10,7 @@ Liquidity Work Group
 
 of the ERM/ORSA Committee
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-01.jpg?height=149&width=759&top_left_y=2262&top_left_x=672)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-01.jpg?height=149&width=759&top_left_y=2262&top_left_x=672" alt="image" style="width:100%;height:auto;">
 
 # Liquidity Risk 
 
@@ -18,7 +18,7 @@ February 2024
 
 Developed by the<br>Liquidity Work Group<br>of the ERM/ORSA Committee<br>of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-02.jpg?height=214&width=1085&top_left_y=1953&top_left_x=520)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-02.jpg?height=214&width=1085&top_left_y=1953&top_left_x=520" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is a 20,000-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -474,7 +474,7 @@ Some of the reasons why liquidity risk is typically not as material to $\mathrm{
 
 A comparison of the leverage ratios between life, health, and P\&C insurers is shown below, defined for this purpose as the ratio of liabilities to capital and surplus. This comparison highlights that life insurers are much more leveraged than health and P\&C insurers.[^3]
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-22.jpg?height=756&width=1263&top_left_y=240&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_300221417196b1ccd5c8g-22.jpg?height=756&width=1263&top_left_y=240&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
 Source: S\&P Global
 

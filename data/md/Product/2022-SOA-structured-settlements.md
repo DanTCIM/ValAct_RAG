@@ -62,7 +62,7 @@ Section 5: Other Considerations ..... 9
 5.5 Canadian Market ..... 10
 About The Society of Actuaries Research Institute ..... 11
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_80406dff56ae901a718dg-02.jpg?height=261&width=1577&top_left_y=1924&top_left_x=247)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_80406dff56ae901a718dg-02.jpg?height=261&width=1577&top_left_y=1924&top_left_x=247" alt="image" style="width:100%;height:auto;">
 
 ## Section 1: Overview of Structured Settlements
 
@@ -234,7 +234,7 @@ There are a few notable differences between the US and Canadian markets:
 - Canada has a less crowded marketplace, as only two or three insurers dominate the structured settlement annuity market.
 - The plaintiff's right to receive payments is non-transferrable, which eliminates the possibility of factoring arrangements.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_80406dff56ae901a718dg-10.jpg?height=263&width=1594&top_left_y=2118&top_left_x=271)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_80406dff56ae901a718dg-10.jpg?height=263&width=1594&top_left_y=2118&top_left_x=271" alt="image" style="width:100%;height:auto;">
 
 ## About The Society of Actuaries Research Institute
 

@@ -2,7 +2,7 @@ Modeling of Policyholder Behavior for Life Insurance and Annuity Products
 
 A Survey and Literature Review
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-01.jpg?height=1049&width=1659&top_left_y=782&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-01.jpg?height=1049&width=1659&top_left_y=782&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 # Modeling of Policyholder Behavior for Life Insurance and Annuity Products 
 
@@ -10,7 +10,7 @@ A Survey and Literature Review
 
 Research Team: Jason Campbell (PwC)<br>Michael Chan, FSA (PwC)<br>Kate Li, FSA, MAAA (PwC)<br>Louis Lombardi, FSA, MAAA (PwC)<br>Lucian Lombardi, ASA, MAAA (LIMRA)<br>Marianne Purushotham, FSA, MAAA (LIMRA)<br>Anand Rao, PhD (PwC)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-02.jpg?height=162&width=917&top_left_y=2204&top_left_x=604)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-02.jpg?height=162&width=917&top_left_y=2204&top_left_x=604" alt="image" style="width:100%;height:auto;">
 
 C)2014, Society of Actuaries. All rights reserved.
 
@@ -217,11 +217,11 @@ Many of these products were initially designed when financial markets — as wel
 
 In particular, there has been increased recognition that policyholder behaviors are not
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-11.jpg?height=111&width=524&top_left_y=411&top_left_x=974)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-11.jpg?height=111&width=524&top_left_y=411&top_left_x=974" alt="image" style="width:100%;height:auto;">
 
 Market Volatility Indicator (VIX index)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-11.jpg?height=734&width=960&top_left_y=522&top_left_x=973)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-11.jpg?height=734&width=960&top_left_y=522&top_left_x=973" alt="image" style="width:100%;height:auto;">
 necessarily stable while at the same time they represent an unhedgable and often non-diversifiable risk. The effectiveness of many of the industry's sophisticated dynamic hedging programs came to rely heavily on actuarial experience assumptions correctly predicting behaviors through both normal and stressed scenarios, as well as through familiar and unfamiliar economic environments. That policyholder behaviors are considered unhedgeable does not obviate the need to understand and manage that risk. Otherwise, we are just developing sophisticated hedging programs around unreliable hedging targets.
 
 As former U.S. Secretary of Defense Robert McNamara said, "We have to find a way of making the important measurable, instead of making the measurable important." There has been a worldwide push in the development of accounting and regulatory standards to improve information available to evaluate the financial status of insurance contracts. This is another key driver of the need for actuaries to better quantify and understand policyholder behavior.
@@ -375,7 +375,7 @@ At the other end of the spectrum, companies are faced with limited quantitative 
 
 Life Insurance Products: Data Sources Used to Study Policyholder Behavior
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-21.jpg?height=740&width=1743&top_left_y=348&top_left_x=191)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-21.jpg?height=740&width=1743&top_left_y=348&top_left_x=191" alt="image" style="width:100%;height:auto;">
 
 From in-depth interviews, we found that the use of companies' own data in some cases includes the use of experience on more mature blocks where a similar product or product feature was included in the past. In addition, a small number of companies indicate they also have looked to outside data sources, including customer behavior for other financial products such as mortgage repayments or certificate of deposit withdrawals to help with understanding expected withdrawal activity and level on variable and indexed annuities.
 
@@ -389,7 +389,7 @@ Figure 3 shows participating company responses to data sourcing questions for an
 
 ## Figure $3-$ <br> Annuity Products: Data Sources Used to Study Policyholder Behavior
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-22.jpg?height=859&width=1700&top_left_y=571&top_left_x=210)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-22.jpg?height=859&width=1700&top_left_y=571&top_left_x=210" alt="image" style="width:100%;height:auto;">
 
 ## Credibility of data sources for policyholder behavior assumptions
 
@@ -423,7 +423,7 @@ Withdrawa
 
 Surrender
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-23.jpg?height=648&width=1241&top_left_y=503&top_left_x=602)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-23.jpg?height=648&width=1241&top_left_y=503&top_left_x=602" alt="image" style="width:100%;height:auto;">
 
 Figure $5-$
 
@@ -447,7 +447,7 @@ Withdrawals
 
 Surrenders
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-23.jpg?height=751&width=1309&top_left_y=1476&top_left_x=533)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-23.jpg?height=751&width=1309&top_left_y=1476&top_left_x=533" alt="image" style="width:100%;height:auto;">
 
 ## Policyholder behavior assumption structures (static and dynamic)
 
@@ -522,7 +522,7 @@ Based on results of the quantitative and qualitative surveys, Figure 6 indicates
 Participating companies were also asked about any differences in view regarding policyholders' financial efficiency in making decisions across products or assumptions. The open-ended format of this question allowed for companies to explain any differences in their own words. Figure 7 shows the distribution of these open-ended responses by category.
 
 Approximately 50 percent of companies vary their view regarding the financial efficiency of policyholders depending on the complexity of the product. On the life side, for example, these companies would consider a secondary guarantee universal life policyholder or an indexed universal life policyholder more likely to act to maximize financial efficiency. Other responses included variations in view regarding financial efficiency by distribution channel (18 percent), price competition/ commoditization level (4 percent), and credibility of experience data (4 percent).
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-27.jpg?height=1522&width=962&top_left_y=560&top_left_x=968)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-27.jpg?height=1522&width=962&top_left_y=560&top_left_x=968" alt="image" style="width:100%;height:auto;">
 
 ## Assumption-setting and model governance practices
 
@@ -538,7 +538,7 @@ Length of Time Formal Assumption Setting Process in Place
 
 - Don't have/In process/Unknown $\square$ Less than $2 \mathrm{yrs} \backsim$ Between 2 and $4 \mathrm{yrs} \backsim$ Between 5 and $10 \mathrm{yrs} \backsim$ More than $10 \mathrm{yrs}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-28.jpg?height=727&width=1724&top_left_y=1458&top_left_x=206)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-28.jpg?height=727&width=1724&top_left_y=1458&top_left_x=206" alt="image" style="width:100%;height:auto;">
 
 Among the survey participants, one commonly mentioned area of focus for the model governance process was standardization of model validation work, including more definition around the process and increased documentation of results.
 
@@ -550,7 +550,7 @@ In addition, companies have begun implementing some interesting new ideas as a r
 
 Given that many of the items that fall into the category of policyholder behavior are relatively recent additions to the modeling and assumption-setting process, the survey instrument asked respondents to rank the challenges they have encountered in terms of degree of importance. Figure 9 shows the distribution of responses across participating companies for life and annuity products combined.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-29.jpg?height=555&width=959&top_left_y=1514&top_left_x=968)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-29.jpg?height=555&width=959&top_left_y=1514&top_left_x=968" alt="image" style="width:100%;height:auto;">
 
 Respondents indicate that data availability/credibility issues head the list of challenges that insurers face in modeling policyholder behavior, with more than half the participating companies citing this as their number-one challenge. This is because of the pace of product development in recent years and the resulting introduction of new product designs, some with features for which very little experience data exists. In addition, even for features for which the amount of experience data is growing, insurers indicate they still have very little data that shows how experience might shift in different economic conditions and more extreme tail events.
 
@@ -572,7 +572,7 @@ Neural nets are models that test hypotheses, learn from the results, and determi
 
 Table 3 shows the distribution of responses across the various functional areas of the company for the 40 companies that responded to the quantitative survey. Note that traditional actuarial modeling remains the most widely used modeling method. This includes both internally developed models and models that employ an outside software vendor package. A small group of companies indicate they are now employing predictive modeling methods and Monte Carlo simulation. Consumer modeling techniques such as neural nets and agent based modeling, however, are currently untapped.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-31.jpg?height=1257&width=1749&top_left_y=236&top_left_x=188)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-31.jpg?height=1257&width=1749&top_left_y=236&top_left_x=188" alt="image" style="width:100%;height:auto;">
 
 ## Changes in policyholder behavior modeling techniques
 
@@ -924,7 +924,7 @@ The results showed that the Social Security number — completely unrelated to t
 
 Although there is noise from cell to cell, the overall trend is clear (and staggering) and shows how susceptible individuals’ value assessments may be to outside influences.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-55.jpg?height=531&width=1346&top_left_y=1995&top_left_x=387)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-55.jpg?height=531&width=1346&top_left_y=1995&top_left_x=387" alt="image" style="width:100%;height:auto;">
 
 Marketing studies also confirm how anchoring can come into play: In one, a stack of canned tomato soup with a sign saying "limit 12 per customer" led to people buying more. ${ }^{50}$ We do not know whether limiting additional premium payments to a stated dollar amount could have a similar unintended anchoring effect but it seems to be an interesting area of further research.
 
@@ -980,7 +980,7 @@ The 2009 Retirement Income Reference Book cites a survey of 942 retirees aged 55
 
 Social Security Benefit Claim ${ }^{57}$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-58.jpg?height=1678&width=1742&top_left_y=771&top_left_x=186)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-58.jpg?height=1678&width=1742&top_left_y=771&top_left_x=186" alt="image" style="width:100%;height:auto;">
 
 ## Emotional Impacts
 
@@ -1161,7 +1161,7 @@ Understanding the Utilization Decision
 
 Rational Expectations Perspective
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-69.jpg?height=379&width=371&top_left_y=1258&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-69.jpg?height=379&width=371&top_left_y=1258&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 - $-20 \%<I T M<0 \%$
 
@@ -1172,7 +1172,7 @@ $\square 10 \%<I T M<20 \%$
 $\square 20 \%<I T M$
 Behavioral Simulation Perspective
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-69.jpg?height=369&width=624&top_left_y=1260&top_left_x=1184)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-69.jpg?height=369&width=624&top_left_y=1260&top_left_x=1184" alt="image" style="width:100%;height:auto;">
 
 Actuaries also leverage a number of mathematical, statistical, financial and economic theories to understand policyholder behaviors, but they suffer from two major drawbacks: ${ }^{88}$
 
@@ -1234,7 +1234,7 @@ Alex (Sandy) Pentland, a researcher at MIT (and one of the world's most powerful
 
 Understanding the Policyholder
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-73.jpg?height=1239&width=1737&top_left_y=362&top_left_x=194)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-73.jpg?height=1239&width=1737&top_left_y=362&top_left_x=194" alt="image" style="width:100%;height:auto;">
 
 It is important that we view the policyholder not as a male age 40 nonsmoker, but as the member of society and part of a household (Figure 12).
 
@@ -1242,7 +1242,7 @@ Policyholders do not make their decisions following a random statistical distrib
 
 ## Figure $13-$ <br> Understanding Life Events and Choices
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-74.jpg?height=1330&width=1691&top_left_y=365&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-74.jpg?height=1330&width=1691&top_left_y=365&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 In this report we identified behavioral economics as an important step towards achieving a "true" understanding of policyholder behavior. There are many ways to use the insights gained from this process including:
 
@@ -1374,7 +1374,7 @@ One of the key assumptions within the school of classical economics is that cons
 
 Behavioral and Financial Economics Timeline
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-82.jpg?height=1212&width=1743&top_left_y=1069&top_left_x=191)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-82.jpg?height=1212&width=1743&top_left_y=1069&top_left_x=191" alt="image" style="width:100%;height:auto;">
 
 Behavioral economics can be seen as a marriage of classical economic theory and psychology. In the latter half of the 20th century, notable cognitive psychologists, Daniel Kahneman and Amos Tversky used principles found in their work to explain the errors in economic models of rational behavior. Tversky and Kahneman argued that
 heuristic shortcuts consistently produced decision making which differed from classical economic principle. The concept of homo economicus is at the core of classical economics. This assumes that human beings will always act in a calculated, rational, and self-interested way based on extrinsic motivations. This line of thought was challenged by the works of these two young psychologists who developed the Prospect Theory in their seminal work Prospect Theory: An Analysis of Decision under Risk which challenged utility theory and expected utility theory while also better explaining various economic anomalies.
@@ -1703,7 +1703,7 @@ ${ }^{115}$ David de Meza, Bernd Irlenbusch, Diane Reyniers, Financial Capabilit
 
 ## SOA SOCIETY OF ACTUARIES
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-92.jpg?height=157&width=391&top_left_y=1187&top_left_x=1428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-92.jpg?height=157&width=391&top_left_y=1187&top_left_x=1428" alt="image" style="width:100%;height:auto;">
 
 No part of this report may be shared with other organizations or reproduced in any form without the Society of Actuaries' written permission.
 

@@ -279,7 +279,7 @@ First, while there are multiple definitions of AI, this field can be considered 
 
 Machine learning can be seen as a subcomponent that enables many of the Al components listed above. Machine learning would cover the range of models and techniques used to calibrate these models to the data or situation at hand. Learning methods include supervised learning, unsupervised learning and reinforcement learning (more on
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-011.jpg?height=532&width=512&top_left_y=604&top_left_x=1338)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-011.jpg?height=532&width=512&top_left_y=604&top_left_x=1338" alt="image" style="width:100%;height:auto;">
 that below).
 
 Deep learning is a subset of machine learning and is focused on the various types of neural networks (a type of machine learning model that is particularly promising).
@@ -347,7 +347,7 @@ Figure 1
 
 ILLUSTRATION OF NEURAL NETWORK
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-014.jpg?height=1019&width=1515&top_left_y=344&top_left_x=305)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-014.jpg?height=1019&width=1515&top_left_y=344&top_left_x=305" alt="image" style="width:100%;height:auto;">
 
 The four major components associated with the illustrations are:
 
@@ -437,7 +437,7 @@ The ML Ops pipeline is the top layer, and the entire architectural diagram can b
 ## Figure 2
 
 MLOPS ILLUSTRATIVE END TO END ARCHITECTURE
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-018.jpg?height=846&width=1632&top_left_y=1172&top_left_x=317)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-018.jpg?height=846&width=1632&top_left_y=1172&top_left_x=317" alt="image" style="width:100%;height:auto;">
 
 In addition, the essential elements of the ML Ops process are also mentioned under the ML Ops layer:
 
@@ -565,7 +565,7 @@ Figure 3
 
 CLASSIFICATION ACCURACY SCORE BY SIX ML CLASSIFIERS
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-023.jpg?height=789&width=1423&top_left_y=1617&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-023.jpg?height=789&width=1423&top_left_y=1617&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Then, this paper explored deep learning models, introduced Deep Neural Networks (DNN) and discussed its
 use in time series prediction. Two types of DNNs, Multi-Layer Perceptron (MLP) and Convolutional Neutral Networks (CNN), were compared using the case study of predicting bitcoin prices. The result was that CNN was the preferred model in the time series analysis because the testing results between the two models were both excellent and CNN only required half of the parameters from MLP.
@@ -770,14 +770,14 @@ The results show that the estimated total liability curves from different simula
 Figure 5
 
 RESULTS: ESTIMATES OF DIFFERENT QUANTITIES FROM DIFFERENT RUNS (SCENARIO 1)
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-031.jpg?height=904&width=1328&top_left_y=344&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-031.jpg?height=904&width=1328&top_left_y=344&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 Figure 4.5: Estimates of Different Quantities from Different Runs (Scenario 1)
 
 Figure 6
 
 RESULTS: ESTIMATES OF DIFFERENT QUANTITIES FROM DIFFERENT RUNS (SCENARIO 2)
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-031.jpg?height=868&width=1286&top_left_y=1472&top_left_x=321)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-031.jpg?height=868&width=1286&top_left_y=1472&top_left_x=321" alt="image" style="width:100%;height:auto;">
 
 Figure 4.6: Estimates of Different Quantities from Different Runs (Scenario 2)
 
@@ -860,7 +860,7 @@ Figure 7
 
 THREE-COMPONENT VALUATION FRAMEWORK FOR LARGE VA PORTFOLIOS
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-034.jpg?height=436&width=1390&top_left_y=346&top_left_x=297)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-034.jpg?height=436&width=1390&top_left_y=346&top_left_x=297" alt="image" style="width:100%;height:auto;">
 
 ## Approach and analysis
 
@@ -908,7 +908,7 @@ Figure 8
 
 ILLUSTRATION OF THE PROPOSED NESTED SIMULATION
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-036.jpg?height=792&width=1525&top_left_y=341&top_left_x=300)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-036.jpg?height=792&width=1525&top_left_y=341&top_left_x=300" alt="image" style="width:100%;height:auto;">
 
 ## Approach and analysis
 
@@ -1152,7 +1152,7 @@ Figure 9
 
 ILLUSTRATION OF AIML USE IN ACTUARIAL MODELING (CZERNICKI, 2020)
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-046.jpg?height=1255&width=1523&top_left_y=755&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-046.jpg?height=1255&width=1523&top_left_y=755&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 In the current state, actuaries can use a full nested stochastic approach where the fair value and Greek calculation is based on stochastic risk-neutral valuation where the model branches off at the pivot points along the projection to calculate these measures for each policy.
 
@@ -1397,7 +1397,7 @@ The figure below captures the interest credited to the policyholder at the end o
 
 PAYOFF FOR S\&P500 ANNUAL POINT-TO-POINT STRATEGY
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-056.jpg?height=694&width=1160&top_left_y=846&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-056.jpg?height=694&width=1160&top_left_y=846&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 ## Non-traditional index crediting strategies
 
@@ -1545,7 +1545,7 @@ Figure 11
 
 MONTE CARLO VARIANCE
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-063.jpg?height=949&width=1371&top_left_y=458&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-063.jpg?height=949&width=1371&top_left_y=458&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The dark dots provide the confidence interval with antithetic, and the light dots provide the same confidence interval without antithetic. The grey line was calculated using 10,000 scenarios and used to approximate fully converged results. The scenario samples were randomly selected from a set of 10,000 based on the bootstrapping technique (subset selection of the 10,000 with replacement).
 
@@ -1603,7 +1603,7 @@ SUMMARY OF POTENTIAL FEATURES
 | Variable | Source and Description | Candidate? | Selected? |
 | :---: | :---: | :---: | :---: |
 | Maximum <br> index level to <br> current (ratio) | Engineered feature <br> Maximum index level reached at month-end since the last <br> reset of the index crediting strategy over the current <br> index level. | Yes | Yes |
-| Black-Scholes <br> valuation (call <br> spread) | ![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-066.jpg?height=822&width=836&top_left_y=494&top_left_x=563) | Yes | Yes |
+| Black-Scholes <br> valuation (call <br> spread) | <img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-066.jpg?height=822&width=836&top_left_y=494&top_left_x=563" alt="image" style="width:100%;height:auto;"> | Yes | Yes |
 | Black-Scholes <br> valuation (at <br> the money <br> call) | Engineered feature <br> Rough approximation of the Monte Carlo valuation with <br> Black-Scholes. We used the following information for each <br> of the inputs to the Black-Scholes function: <br> 1. Stock Price: Maximum index to date <br> 2. Strike Price: Initial Index <br> 3. Tenor: Remaining Time to Maturity (in years) <br> 4. Interest Rate: Current Interest Rate associated <br> with policy <br> 5. Volatility: Fixed Volatility of $12 \%$ | Yes | Yes |
 | Reset <br> indicator | Engineered feature <br> Binary Variable ( 0 or 1 ) to indicate whether policy is at <br> reset date | Yes | Yes |
 | Discount <br> Factor | Engineered feature <br> Calculated as: <br> $\qquad(1+\text { Interest Rate })^{- \text {Time to Maturity/12 }}$ | Yes | Yes |
@@ -1618,7 +1618,7 @@ Figure 12
 
 F SCORE CHART FOR FEATURES
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-067.jpg?height=756&width=1279&top_left_y=674&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-067.jpg?height=756&width=1279&top_left_y=674&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Table 6
 
@@ -1667,7 +1667,7 @@ Figure 13
 
 ILLUSTRATION OF ACTUAL AGAINST PREDICTED VALUES
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-069.jpg?height=1190&width=1257&top_left_y=413&top_left_x=304)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-069.jpg?height=1190&width=1257&top_left_y=413&top_left_x=304" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predictions made against the actual prediction of the output.
 
@@ -1675,7 +1675,7 @@ The following graph illustrates the distribution of the predictions made against
 
 DISTRIBUTION OF THE PREDICTIONS AGAINST ACTUAL PREDICTION OF THE OUTPUT
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-070.jpg?height=792&width=1279&top_left_y=455&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-070.jpg?height=792&width=1279&top_left_y=455&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Unfortunately, the multivariate regression model did not meet our proxy modeling needs.
 
@@ -1693,7 +1693,7 @@ Figure 15
 
 ACTUAL TO PREDICTED GRAPH
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-071.jpg?height=1220&width=1279&top_left_y=409&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-071.jpg?height=1220&width=1279&top_left_y=409&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predictions made against the actual prediction of the output.
 
@@ -1701,7 +1701,7 @@ The following graph illustrates the distribution of the predictions made against
 
 DISTRIBUTION OF THE PREDICTIONS AGAINST THE ACTUAL PREDICTION
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-072.jpg?height=894&width=1434&top_left_y=453&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-072.jpg?height=894&width=1434&top_left_y=453&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 The XGBoost model appears to be providing adequate performance as a proxy for the index crediting application. However, we decided to continue testing additional models to see if we could further refine the performance of the model.
 
@@ -1733,7 +1733,7 @@ The improved predictive power is most noticeable on this actual to predicted gra
 
 ACTUAL TO PREDICTED GRAPH
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-074.jpg?height=1225&width=1279&top_left_y=453&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-074.jpg?height=1225&width=1279&top_left_y=453&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predicted lookback and the actual lookback option value. The distribution of predicted and actual values has the closest alignment for the NN. This is shown in the graph below.
 
@@ -1741,11 +1741,11 @@ The following graph illustrates the distribution of the predicted lookback and t
 
 DISTRIBUTION OF THE PREDICTED AND THE ACTUAL
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-075.jpg?height=829&width=1333&top_left_y=496&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-075.jpg?height=829&width=1333&top_left_y=496&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The following was used to train this neural network:
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-075.jpg?height=738&width=1248&top_left_y=1449&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-075.jpg?height=738&width=1248&top_left_y=1449&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The lines of code above perform the following:
 
@@ -1805,7 +1805,7 @@ For this test, we ranged the values of the current index from $\$ 720$ to $\$ 1,
 
 ACTUAL TO PREDICTED GRAPH - CURRENT INDEX LEVEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-077.jpg?height=716&width=1087&top_left_y=520&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-077.jpg?height=716&width=1087&top_left_y=520&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 ## Maximum index level
 
@@ -1815,7 +1815,7 @@ For this test, we varied the maximum index level from 1 to 1.1 times the current
 
 ACTUAL TO PREDICTED GRAPH - MAXIMUM INDEX LEVEL
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-077.jpg?height=704&width=1084&top_left_y=1605&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-077.jpg?height=704&width=1084&top_left_y=1605&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 The model had a fair performance under this test, with the predicted values a little higher than the actual values.
 
@@ -1827,7 +1827,7 @@ Lookback options with remaining times to maturity were simulated from a range of
 
 ACTUAL TO PREDICTED GRAPH - TIME TO MATURITY
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-078.jpg?height=710&width=1065&top_left_y=526&top_left_x=305)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-078.jpg?height=710&width=1065&top_left_y=526&top_left_x=305" alt="image" style="width:100%;height:auto;">
 
 ## Cap rate
 
@@ -1837,7 +1837,7 @@ For this test we simulated lookback options with cap rates ranging from $10 \%$ 
 
 ACTUAL TO PREDICTED GRAPH - CAP RATE
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-078.jpg?height=708&width=1068&top_left_y=1554&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-078.jpg?height=708&width=1068&top_left_y=1554&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 ## Interest rate
 
@@ -1848,7 +1848,7 @@ the pattern of the actual option values. This was a situation where the decision
 
 ACTUAL TO PREDICTED GRAPH - INTEREST RATE
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-079.jpg?height=702&width=1068&top_left_y=495&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-079.jpg?height=702&width=1068&top_left_y=495&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 ### 5.4. BUSINESS CASE
 
@@ -2210,7 +2210,7 @@ Table 9
 
 SUMMARY OF STEPS
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-091.jpg?height=1770&width=1825&top_left_y=408&top_left_x=234)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-091.jpg?height=1770&width=1825&top_left_y=408&top_left_x=234" alt="image" style="width:100%;height:auto;">
 
 | $\#$ | Step | Description |
 | :--- | :--- | :--- |
@@ -2254,15 +2254,15 @@ The variance for each of the five above test cases is illustrated below. The var
 ## Figure 24
 
 FAIR VALUE VARIANCE
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=492&width=1516&top_left_y=458&top_left_x=240)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=492&width=1516&top_left_y=458&top_left_x=240" alt="image" style="width:100%;height:auto;">
 
 ## Sample \#3
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=431&width=732&top_left_y=1004&top_left_x=249)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=431&width=732&top_left_y=1004&top_left_x=249" alt="image" style="width:100%;height:auto;">
 
 ## Sample \#4
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=960&width=1520&top_left_y=1008&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-094.jpg?height=960&width=1520&top_left_y=1008&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 The grey line was calculated using 10,000 scenarios and used to approximate fully converged results. The scenario samples were randomly selected from a set of 10,000 based on bootstrapping technique (subset selection of the 10,000 with replacement).
 
@@ -2361,7 +2361,7 @@ Figure 25
 
 RANKING SUMMARY TABLE
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-098.jpg?height=927&width=1833&top_left_y=672&top_left_x=100)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-098.jpg?height=927&width=1833&top_left_y=672&top_left_x=100" alt="image" style="width:100%;height:auto;">
 
 As the illustration shows, many of the features showed insignificant predictive power to target and support our professional judgment and intuition. We further performed analysis on three difference feature sets based on:
 
@@ -2479,7 +2479,7 @@ The graph below illustrates the actual against predicted across the test cases:
 
 ACTUAL TO PREDICTED GRAPH FOR MULTIVARIATE REGRESSION
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-101.jpg?height=873&width=916&top_left_y=1431&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-101.jpg?height=873&width=916&top_left_y=1431&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## XGBoost
 
@@ -2495,7 +2495,7 @@ The graph below illustrates the actual against predicted across the test cases:
 
 ACTUAL TO PREDICTED GRAPH FOR XGBOOST
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-102.jpg?height=957&width=1019&top_left_y=882&top_left_x=239)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-102.jpg?height=957&width=1019&top_left_y=882&top_left_x=239" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predictions made against the actual prediction of the output:
 
@@ -2503,7 +2503,7 @@ Figure 28
 
 THE DISTRIBUTION OF THE PREDICTIONS OUTPUT VS ACTUAL OUTPUT
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-103.jpg?height=876&width=1393&top_left_y=405&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-103.jpg?height=876&width=1393&top_left_y=405&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 The XGBoost model appears to be providing adequate performance as a proxy for the index crediting application. However, we decided to continue testing additional models to see if we could further refine the performance of the model.
 
@@ -2537,7 +2537,7 @@ The graph below illustrates the actual against predicted across the test cases:
 
 ACTUAL TO PREDICTED GRAPH FOR NEURAL NETWORK
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-104.jpg?height=1016&width=1068&top_left_y=885&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-104.jpg?height=1016&width=1068&top_left_y=885&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predictions made against the actual prediction of the output:
 
@@ -2545,7 +2545,7 @@ Figure 30
 
 DISTRIBUTION OF THE PREDICTIONS AGAINST THE ACTUAL
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-105.jpg?height=905&width=1453&top_left_y=407&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-105.jpg?height=905&width=1453&top_left_y=407&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ### 6.3.5 HYPERPARAMETER TUNING
 
@@ -2579,7 +2579,7 @@ Figure 31
 
 ACTUAL TO PREDICTED GRAPH
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-106.jpg?height=1036&width=1087&top_left_y=585&top_left_x=237)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-106.jpg?height=1036&width=1087&top_left_y=585&top_left_x=237" alt="image" style="width:100%;height:auto;">
 
 The following graph illustrates the distribution of the predictions made against the actual prediction of the output:
 
@@ -2587,7 +2587,7 @@ The following graph illustrates the distribution of the predictions made against
 
 DISTRIBUTION OF THE PREDICTION AGAINST THE ACTUAL
 
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-107.jpg?height=962&width=1529&top_left_y=403&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-107.jpg?height=962&width=1529&top_left_y=403&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ### 6.3.6 ACTUARIAL EVALUATION
 
@@ -2602,27 +2602,27 @@ The accuracy of the results was compared across 30 years of fair value projectio
 Figure 33
 
 SCENARIO 1
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-108.jpg?height=1852&width=1650&top_left_y=329&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-108.jpg?height=1852&width=1650&top_left_y=329&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Figure 34
 
 SCENARIO 2
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-109.jpg?height=1854&width=1650&top_left_y=329&top_left_x=236)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-109.jpg?height=1854&width=1650&top_left_y=329&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 Figure 35
 
 SCENARIO 3
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-110.jpg?height=1850&width=1648&top_left_y=333&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-110.jpg?height=1850&width=1648&top_left_y=333&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 Figure 36
 
 SCENARIO 4
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-111.jpg?height=1858&width=1648&top_left_y=328&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-111.jpg?height=1858&width=1648&top_left_y=328&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 Figure 37
 
 SCENARIO 5
-![](https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-112.jpg?height=1860&width=1648&top_left_y=327&top_left_x=238)
+<img src="https://cdn.mathpix.com/cropped/2024_04_09_71cc97d75735d9c99637g-112.jpg?height=1860&width=1648&top_left_y=327&top_left_x=238" alt="image" style="width:100%;height:auto;">
 
 ### 6.4 CONCLUSIONS
 

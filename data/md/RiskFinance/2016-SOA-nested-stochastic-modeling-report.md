@@ -1,8 +1,8 @@
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-01.jpg?height=575&width=2008&top_left_y=70&top_left_x=75)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-01.jpg?height=575&width=2008&top_left_y=70&top_left_x=75" alt="image" style="width:100%;height:auto;">
 
 Nested Stochastic Modeling for Insurance Companies
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-01.jpg?height=1452&width=1974&top_left_y=1131&top_left_x=73)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-01.jpg?height=1452&width=1974&top_left_y=1131&top_left_x=73" alt="image" style="width:100%;height:auto;">
 
 ## Nested Stochastic Modeling for Insurance Companies
 
@@ -187,7 +187,7 @@ When the simulation is nested, there are typically two levels of sampling proced
 
 - Outer loop/step/stage: The simulation in the first stage of projection. For example, in test case I, an outer loop refers to the sampling of separate account values in one year. We shall call sample paths of equity returns in the outer loops scenarios, as outer loops typically represent different economic conditions and scenarios of risk factors under a real-world measure. We often denote the set of $n$ scenarios by $\omega_{1}, \cdots, \omega_{n}$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-09.jpg?height=843&width=1019&top_left_y=262&top_left_x=496)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-09.jpg?height=843&width=1019&top_left_y=262&top_left_x=496" alt="image" style="width:100%;height:auto;">
 
 FIGURE 1. An illustration of nested simulations
 
@@ -385,7 +385,7 @@ One should keep in mind that solutions to optimization problems rely on the anal
 
 Here we provide a brief description of the strategy. Some technical details can be found in Appendix A. Let $L\left(\omega_{1}\right)$ and $L\left(\omega_{k}\right)$ denote an insurer's liabilities under two outer-loop scenarios $\omega_{1}$ and $\omega_{k}$, and $\hat{L}_{1}$ and $\hat{L}_{k}$ represent their respective estimators. Take the estimation of the probability function in (5.4) as an example. Whether or not a sample $\hat{L}_{k}$ affects the estimator $\hat{\alpha}$ relies on its relative position to the threshold $V$. As shown in Figure 2, the estimators $\hat{L}_{1}$ and $\hat{L}_{k}$ are random variables centered around the true values $L\left(\omega_{1}\right)$ and $L\left(\omega_{k}\right)$. However, it is much less likely for $\hat{L}_{1}$ to reach the threshold $V$ than it is for $\hat{L}_{k}$. Recall that an increased sample size typically reduces the variance of the estimator. Therefore, it makes sense to allocate more computational resources to $\hat{L}_{k}$ than to $\hat{L}_{1}$, as a more accurate estimate of $\hat{L}_{k}$ may affect the estimator $\hat{\alpha}$, and wasting efforts on that of $\hat{L}_{1}$ may not have any impact on $\hat{\alpha}$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-15.jpg?height=643&width=1419&top_left_y=207&top_left_x=296)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-15.jpg?height=643&width=1419&top_left_y=207&top_left_x=296" alt="image" style="width:100%;height:auto;">
 
 FIGURE 2. Nonuniform sampling of inner loops
 
@@ -448,7 +448,7 @@ measure), which is denoted by $\hat{L}_{i j}$ corresponding to the $i$-th scenar
 |  | equity |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | $x_{1}^{(2)}$ | $x_{2}^{(2)}$ | . . | $x_{n}^{(2)}$ |
-| ![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-17.jpg?height=236&width=46&top_left_y=471&top_left_x=758) | $x_{1}^{(1)}$ | $\hat{L}_{11}$ | $\hat{L}_{12}$ | $\cdots$ | $\hat{L}_{1 n}$ |
+| <img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-17.jpg?height=236&width=46&top_left_y=471&top_left_x=758" alt="image" style="width:100%;height:auto;"> | $x_{1}^{(1)}$ | $\hat{L}_{11}$ | $\hat{L}_{12}$ | $\cdots$ | $\hat{L}_{1 n}$ |
 |  | $x_{2}^{(1)}$ | $\hat{L}_{21}$ | $\hat{L}_{22}$ | $\cdots$ | $\hat{L}_{2 n}$ |
 |  | : | $\vdots$ | : | $\vdots$ | $\vdots$ |
 |  | $x_{n^{\prime}}^{(1)}$ | $\hat{L}_{n 1}$ | $\hat{L}_{n 2}$ | . . | $\hat{L}_{n^{\prime} n}$ |
@@ -806,11 +806,11 @@ D. Sequential allocation
 
 The algorithm is given an initial allocation of $n=1,000$ outer loops, and $m^{0}=800$ inner loops. Then it dynamically updates the number of inner-loop paths for each outer-loop scenario in order to myopically maximize the chance of a sign change of the inner loop estimator. As shown in Figures 3 and 4, the total number of inner loops for each scenario varies drastically, with an average $\bar{m}=1,000$. In Figure 3, we plot the number
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-26.jpg?height=903&width=1540&top_left_y=237&top_left_x=412)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-26.jpg?height=903&width=1540&top_left_y=237&top_left_x=412" alt="image" style="width:100%;height:auto;">
 
 FIGURE 3. Inner sample number versus equity value
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-26.jpg?height=838&width=1312&top_left_y=1370&top_left_x=366)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-26.jpg?height=838&width=1312&top_left_y=1370&top_left_x=366" alt="image" style="width:100%;height:auto;">
 
 FIGURE 4. Inner sample number versus liability value
 of inner-loop paths for each scenario against the corresponding equity value. The distribution of budget for inner-loop calculations is shown against estimated liability values in outer-loop scenarios in Figure 4. It is clear in Figure 3 that there are more inner simulations employed around $F_{t}=77.1846$ (represented by the blue vertical line), which corresponds to the $95 \%$ VaR of the one-year liability. Represented on a different scale, Figure 4 shows that there are more inner simulations employed around the VaR of the liability distribution given by $\operatorname{VaR}_{0.95}=25.4792$ (represented by the blue vertical line). This observation is consistent with the principle of the "sequential allocation" method, which is to allocate more inner loops (resources) to the scenarios that may have the most impact on the estimation of risk measures. The observation is in essence a real data realization of the idea shown in Figure 2.
@@ -833,7 +833,7 @@ F(b). LSMC with fitting based on an equidistant grid
 
 In a second trial, we use an equidistant grid on the range of equity values $[a=40, b=250]$ with $n_{0}=200$ nodes (time $t$-scenarios). Generate $m=5,000$ sample points of future cash flows on each node to determine liability values in (5.3). Thus we produce $n_{0}$ ordered pairs of equity values $\left\{\hat{F}_{k}=a+k(b-a) / n_{0}, k=\right.$ $\left.0,1, \cdots, n_{0}\right\}$ and liability values $\left\{\hat{L}_{k}, k=1, \cdots, n_{0}\right\}$. The rest of the calculation is identical to that described in $\mathrm{F}(\mathrm{a})$.[^2]
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-28.jpg?height=838&width=1087&top_left_y=248&top_left_x=451)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-28.jpg?height=838&width=1087&top_left_y=248&top_left_x=451" alt="image" style="width:100%;height:auto;">
 
 FIGURE 5. Magnitude of 10 largest eigenvalues
 
@@ -866,73 +866,73 @@ In the case of a large budget $\left(\approx 10^{6}\right)$ in Tables 4 and 5 , 
 
 ## B. Crude Monte Carlo
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-29.jpg?height=694&width=1041&top_left_y=932&top_left_x=477)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-29.jpg?height=694&width=1041&top_left_y=932&top_left_x=477" alt="image" style="width:100%;height:auto;">
 
 FiguRE 6. Comparison of crude MC versus exact
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-30.jpg?height=696&width=1046&top_left_y=213&top_left_x=469)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-30.jpg?height=696&width=1046&top_left_y=213&top_left_x=469" alt="image" style="width:100%;height:auto;">
 
 FIGURE 7. Estimation error for crude MC
 
 ## C. Optimal budget allocation
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-30.jpg?height=792&width=1187&top_left_y=1187&top_left_x=404)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-30.jpg?height=792&width=1187&top_left_y=1187&top_left_x=404" alt="image" style="width:100%;height:auto;">
 
 FIGURE 8. Monte Carlo with optimal allocation
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-31.jpg?height=802&width=1198&top_left_y=217&top_left_x=404)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-31.jpg?height=802&width=1198&top_left_y=217&top_left_x=404" alt="image" style="width:100%;height:auto;">
 
 FIGURE 9. Estimation error for optimal allocation
 
 ## D. Sequential allocation
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-31.jpg?height=729&width=1127&top_left_y=1294&top_left_x=434)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-31.jpg?height=729&width=1127&top_left_y=1294&top_left_x=434" alt="image" style="width:100%;height:auto;">
 
 FIGURE 10. Sequential allocation
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-32.jpg?height=732&width=1101&top_left_y=211&top_left_x=447)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-32.jpg?height=732&width=1101&top_left_y=211&top_left_x=447" alt="image" style="width:100%;height:auto;">
 
 FIGURE 11. Estimation error for sequential allocation
 
 ## E. Preprocessed inner loops
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-32.jpg?height=759&width=1139&top_left_y=1212&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-32.jpg?height=759&width=1139&top_left_y=1212&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 FigURE 12. Preprocessed inner loops (E)
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-33.jpg?height=745&width=1160&top_left_y=213&top_left_x=407)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-33.jpg?height=745&width=1160&top_left_y=213&top_left_x=407" alt="image" style="width:100%;height:auto;">
 
 FIGURE 13. Estimation error for preprocessed inner loops (E)
 
 F(a). Least-Squares Monte Carlo with fitting based on outer scenarios
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-33.jpg?height=742&width=1095&top_left_y=1231&top_left_x=447)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-33.jpg?height=742&width=1095&top_left_y=1231&top_left_x=447" alt="image" style="width:100%;height:auto;">
 
 FIGURE 14. LSMC based on outer scenarios ( $F(a))$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-34.jpg?height=740&width=1120&top_left_y=213&top_left_x=424)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-34.jpg?height=740&width=1120&top_left_y=213&top_left_x=424" alt="image" style="width:100%;height:auto;">
 
 FIGURE 15. Estimation Error for LSMC (F(a))
 
 ## F(b). Least-Squares Monte Carlo with fitting based on equidistant grid
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-34.jpg?height=789&width=1100&top_left_y=1232&top_left_x=445)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-34.jpg?height=789&width=1100&top_left_y=1232&top_left_x=445" alt="image" style="width:100%;height:auto;">
 
 FIGURE 16. LSMC based on equidistant grid ( $F(b))$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-35.jpg?height=792&width=1157&top_left_y=214&top_left_x=408)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-35.jpg?height=792&width=1157&top_left_y=214&top_left_x=408" alt="image" style="width:100%;height:auto;">
 
 FIGURE 17. Estimation error for LSMC based on equidistant grid (F(b))
 
 ## G. Least-Squares Monte Carlo with basis selection
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-35.jpg?height=865&width=1014&top_left_y=1275&top_left_x=469)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-35.jpg?height=865&width=1014&top_left_y=1275&top_left_x=469" alt="image" style="width:100%;height:auto;">
 
 FIGURE 18. LSMC with basis selection (G)
 
 We want to point out that in this example method $G$ can achieve roughly the same level of accuracy as method $F(a)$ with only one exponential term, as shown in Figure 20. The thick green line represents estimation errors resulting from fitting the three term polynomials $\left(x, x^{2}, x^{3}\right)$ to the data set generated from inner loops. The thin blue line measures
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-36.jpg?height=857&width=1049&top_left_y=214&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-36.jpg?height=857&width=1049&top_left_y=214&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 FIGURE 19. LSMC with basis selection (G)
 
@@ -946,17 +946,17 @@ Figure 21 shows that the estimation errors of LSMC with basis selection (exponen
 
 For Figure 22, we increase the number of inner loops for each scenario by 10 -fold, i.e., $m=10,000,000$, which leads very accurate estimates of liability values. It is clear that the polynomial approximation no longer improves, as it has reached the best possible outcome of the fixed function form. On the other hand, the basis selection method based
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-37.jpg?height=827&width=1068&top_left_y=253&top_left_x=469)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-37.jpg?height=827&width=1068&top_left_y=253&top_left_x=469" alt="image" style="width:100%;height:auto;">
 
 FIGURE 20. Comparison of estimation errors for methods $F(a)$ and $G$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-37.jpg?height=702&width=1065&top_left_y=1384&top_left_x=470)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-37.jpg?height=702&width=1065&top_left_y=1384&top_left_x=470" alt="image" style="width:100%;height:auto;">
 
 FIGURE 21. Estimation errors for polynomial versus exponential approximations with $m=1,000,000$
 
 on Hankel matrix approximation continues to improve with the more accurate inner-loop evaluation. The estimation error is on the order of 0.01 for the latter in Figure 22, while that remains the same for the polynomial approximation.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-38.jpg?height=816&width=1268&top_left_y=251&top_left_x=385)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-38.jpg?height=816&width=1268&top_left_y=251&top_left_x=385" alt="image" style="width:100%;height:auto;">
 
 FIGURE 22. Estimation errors for polynomial versus exponential approximations with $m=10,000,000$
 
@@ -1029,7 +1029,7 @@ Step 2: Under each scenario of account values, follow certain accounting standar
 
 Step 3: Repeat Step 2 for each scenario many times to generate an empirical distribution of accumulated surplus/deficiency or other performance metrics. Apply order statistics to estimate certain risk metrics, such as quantile/conditional tail expectation, which form the basis of reserve or capital requirements.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-41.jpg?height=805&width=1001&top_left_y=427&top_left_x=497)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-41.jpg?height=805&width=1001&top_left_y=427&top_left_x=497" alt="image" style="width:100%;height:auto;">
 
 FIGURE 23. Two computational methods
 
@@ -1958,10 +1958,10 @@ We employ a biweekly dynamic hedging portfolio in order to better illustrate the
 Due to the tremendous improvement on time consumption, we carry out the rest of the calculations with the PDE method. Here we compare the dynamics of the surplus with and without the delta hedging program. In Figure 24, we present the evolution of present values of the accumulated surplus/deficiency under 12 different scenarios. The red line represents the surplus before implementing the hedging program, whereas the blue line corresponds to the surplus after applying dynamic hedging on a biweekly basis. Note that the hedging instruments are not included in the values for the blue line. It is clear from the figure that the surplus with hedging always approaches $-V_{0}=-2.9138 \times 10^{4}$. It is predicted by (6.13) that $e^{-r t}\left(H_{t}-V_{t}\right)=-V_{0}$. When $t \rightarrow T$, it is easy to see that $V_{t} \rightarrow 0$ as ${ }_{T} p_{x} \rightarrow 0$. Therefore, the present value of accumulated surplus/deficiency approaches $-V_{0}$. The fact that we set the parameters in such a way that $V_{0}=2.9138 \times 10^{4}$ indicates that the risk-neutral value of GLWB benefits exceeds that of fee incomes and surrender charges.
 
 We compare the distributions of present values of terminal surplus with and without the hedging program in Figure 25. The histogram on the left-hand side represents the surplus at the end of $T=50$ years without a hedging program, whereas the histogram on the right-hand side shows the distribution of the terminal surplus with the effect of dynamic hedging. In both cases, the height of each bar in the histograms shows the frequency of occurrences in each category corresponding to the width of each bar. It is clear that the surplus is widely spread over both the negative and positive sides without a hedging problem. The implementation of the hedging program is so effective that the terminal surplus is nearly concentrated around the predicted cost of the GLWB value at the inception.
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-64.jpg?height=718&width=1346&top_left_y=228&top_left_x=430)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-64.jpg?height=718&width=1346&top_left_y=228&top_left_x=430" alt="image" style="width:100%;height:auto;">
 
 FIGURE 24. Sample paths of the insurer's surplus over time with and without a hedging program
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-64.jpg?height=836&width=1022&top_left_y=1208&top_left_x=476)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-64.jpg?height=836&width=1022&top_left_y=1208&top_left_x=476" alt="image" style="width:100%;height:auto;">
 
 FIGURE 25. Histograms of the insurer's terminal surplus with and without a hedging program
 
@@ -2065,15 +2065,15 @@ $$
 
 $6.53438204339024 \times 10^{-8} y+2.08191833331689 \times 10^{-15} y^{2}-1.35618136701221 \times 10^{-9} t x+1.64788946873263 \times$ $10^{-9} t y+1.20219406643236 \times 10^{-15} x y+5.49811600487470 \times 10^{-8} x z-6.10036014233364 \times 10^{-8} y z$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=404&width=678&top_left_y=432&top_left_x=428)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=404&width=678&top_left_y=432&top_left_x=428" alt="image" style="width:100%;height:auto;">
 
 $v_{x}(20,4850000, y, 0.4)$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=382&width=677&top_left_y=855&top_left_x=426)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=382&width=677&top_left_y=855&top_left_x=426" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=406&width=677&top_left_y=434&top_left_x=1212)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=406&width=677&top_left_y=434&top_left_x=1212" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=388&width=669&top_left_y=844&top_left_x=1213)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-67.jpg?height=388&width=669&top_left_y=844&top_left_x=1213" alt="image" style="width:100%;height:auto;">
 
 FIGURE 26. Curve fitting in LSMC
 
@@ -2197,7 +2197,7 @@ There is an "outlier" in Table 32 for the approximate delta value at $(48.24,0.1
 
 We are now ready to present the end results of the AG-43 stochastic scenario amount calculation. Recall that cash flows in outer loops are calculated from the GLWB model with parameters listed in Tables 13-14. The model incorporates dynamic policyholder behavior and all expenses. In Table 34, we present CTE stochastic scenario amounts under various volatility assumptions. The formulas for computing deltas in each section of the table are identified in the first column. It is clear that the method of preprocessed inner loops produces results close to those from the PDE methods in the case where $\sigma=0.3$, and the inner loops are replaced by approximations based on two variable functional relationship $v$. In contrast, the results for preprocessed inner loops are not accurate at all when $\sigma=0.3$, and inner loops are replaced by approximations based on the four variable functional relationship $u$. In general, all methods produce reasonably close results under the low-volatility assumption $\sigma=0.1$.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-71.jpg?height=708&width=989&top_left_y=253&top_left_x=492)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-71.jpg?height=708&width=989&top_left_y=253&top_left_x=492" alt="image" style="width:100%;height:auto;">
 
 FIGURE 27. Surface of $u_{s}(t, s)$
 
@@ -2218,7 +2218,7 @@ TABLE 34. Comparison of CTE (best efforts) with various techniques
 
 Another intuitive way for us to check the accuracy of delta calculations is through looking at histograms of terminal surpluses with hedging programs. If deltas are calculated correctly, then the mixed portfolio of hedging and surplus should become more or less a risk-free asset according to the no-arbitrage theory. The effectiveness of a hedging program in this model largely relies on the accuracy of delta calculation. Figure 25 has confirmed such a prediction in the earlier example without the consideration of expenses. In Figure 28, we can tell that the hedging program developed from the PDE method is highly effective as terminal balances of the mixed portfolio are concentrated around values close to zero. The LSMC method fails to produce any visible effect of hedging against financial risks, as the variation of portfolio values is as big as the surplus prior to hedging. This lack of hedging effect is likely due to the fact that deltas are far from accurate,
 as shown in Table 28. The method of processed inner loops produces even worse results, as terminal portfolio values vary so much that the scale of the plot can no longer match those of plots for LSMC and PDE methods. Figure 29 shows the effect of hedging programs under the low-volatility assumption $\sigma=0.1$. Although the preprocessed inner loops do not appear to have produced accurate deltas, the distribution of the terminal surplus is on the same scale as the rest of distributions. In Figure 30, we implement similar procedures except that the LSMC and the method of processed inner loops are applied to approximate the two-variable functional relationship, which significantly improves their accuracy. The comparison between Figure 28 and 30 clearly shows that the accuracy of delta calculation is critical to the success of a hedging program.
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-72.jpg?height=1044&width=1258&top_left_y=714&top_left_x=370)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-72.jpg?height=1044&width=1258&top_left_y=714&top_left_x=370" alt="image" style="width:100%;height:auto;">
 
 FIGURE 28. Terminal surplus before/after hedging with delta calculations based on formula (6.11) $(\sigma=0.3)$
 
@@ -2227,7 +2227,7 @@ FIGURE 28. Terminal surplus before/after hedging with delta calculations based o
 (1) Test case I involves only one period for each of the inner loops and outer loops, much like examples in existing academic literature on nested simulations. Test Case II makes projections in outer loops of multiple periods, each of which invokes an inner-loop calculation.
 
 (2) There is only one risk driver for inner loops and for outer loops in Test Case I, for which all methods work reasonably well, albeit with different degrees of accuracy and efficiency. The risk-neutral valuation of GLWB in
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-73.jpg?height=1046&width=1264&top_left_y=240&top_left_x=364)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-73.jpg?height=1046&width=1264&top_left_y=240&top_left_x=364" alt="image" style="width:100%;height:auto;">
 
 FIGURE 29. Terminal surplus before/after hedging with delta calculations based on formula (6.11) $(\sigma=0.1)$
 
@@ -2240,7 +2240,7 @@ Based on numerical experiments in this section, we draw the following conclusion
 (2) Least-Squares Monte Carlo methods are significant improvements of crude Monte Carlo methods. A collection of lower term polynomials for basis functions work sufficiently well for low-dimension problems, but one may not be able to claim the same for high-dimension problems.
 
 (3) The method of preprocessed inner loops is easiest to implement. Similar to the LSMC, it can be quite efficient in low-dimension problems but appears much less so in high dimensions. The advantage of its efficiency is the use of a small number of grid points. If the spacial structure of the functional relationship in inner-loop calculations exhibits sharp turns, then the interpolation would be inaccurate without using very dense grids, which then diminishes its efficiency.
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-74.jpg?height=1104&width=1298&top_left_y=240&top_left_x=347)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-74.jpg?height=1104&width=1298&top_left_y=240&top_left_x=347" alt="image" style="width:100%;height:auto;">
 
 FIGURE 30. Terminal surplus before/after hedging with delta calculations based on formula (6.17) $(\sigma=0.3)$
 
@@ -2931,7 +2931,7 @@ $$
 
 where $\mathbf{c}_{4}^{i}=\left(c_{4,1}^{i}, \cdots, c_{4, N_{s}}^{i}\right)^{\top}$. The $N_{s}$ by $N_{s}$ matrix $B^{i}$ is given by
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-84.jpg?height=174&width=1155&top_left_y=1794&top_left_x=409)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_d7e47dde6f4757c11b69g-84.jpg?height=174&width=1155&top_left_y=1794&top_left_x=409" alt="image" style="width:100%;height:auto;">
 
 On the $j$-th row $\left(j=2, \cdots, N_{s}-1\right)$, the tridiagonal elements are
 

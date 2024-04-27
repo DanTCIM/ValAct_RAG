@@ -10,7 +10,7 @@ NOVEMBER | 2022
 
 AUTHORS David Cook, FSA, MAAA<br>SPONSOR<br>Individual Life and Annuity Curriculum Committee<br>Kristen Koon, FSA, MAAA<br>Zohair Motiwalla, FSA, MAAA<br>Karen Rudolph, FSA, MAAA
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-02.jpg?height=236&width=1526&top_left_y=1758&top_left_x=191)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-02.jpg?height=236&width=1526&top_left_y=1758&top_left_x=191" alt="image" style="width:100%;height:auto;">
 
 ## Caveat and Disclaimer
 
@@ -157,7 +157,7 @@ Next, we will discuss how an NGE framework and determination policy can guide in
 
 ## Actuarial Standards of Practice
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-10.jpg?height=790&width=491&top_left_y=560&top_left_x=277)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-10.jpg?height=790&width=491&top_left_y=560&top_left_x=277" alt="image" style="width:100%;height:auto;">
 
 Similar standards are in place for work in other countries.
 There are several Actuarial Standards of Practice (ASOPs) that apply either directly or indirectly to the development of NGEs for life insurance and annuity products. ASOP 2 (Non-guaranteed elements for life insurance and annuity products) ${ }^{1}$ is the most directly applicable guidance, although actuaries working with NGEs will typically consider other relevant ASOPS in their work as well, including but not limited to ASOP 12 (Risk Classification (for All Practice Areas)), ASOP 23 (Data Quality), ASOP 24 (Compliance with the NAIC Life Insurance Illustrations Model Regulation), ASOP 25 (Credibility Procedures), ASOP 41 (Actuarial Communications), ASOP 54 (Pricing of Life Insurance and Annuity Products) and ASOP 56 (Modeling). In recent years, updates to these standards have reflected emerging industry practice, product evolution, and advances in actuarial modeling, regulation, and governance.

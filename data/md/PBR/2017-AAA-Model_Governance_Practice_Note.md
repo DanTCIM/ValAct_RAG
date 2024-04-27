@@ -8,7 +8,7 @@ Some Considerations for Practicing Life Actuaries
 
 Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-01.jpg?height=269&width=711&top_left_y=2088&top_left_x=704)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-01.jpg?height=269&width=711&top_left_y=2088&top_left_x=704" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {TM }}$
 
@@ -20,7 +20,7 @@ April 2017
 
 ## Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
 
-![](https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-02.jpg?height=355&width=702&top_left_y=1720&top_left_x=646)
+<img src="https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-02.jpg?height=355&width=702&top_left_y=1720&top_left_x=646" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is a 19,000-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 

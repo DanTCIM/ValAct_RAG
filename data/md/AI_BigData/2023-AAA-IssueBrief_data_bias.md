@@ -158,7 +158,7 @@ The Center for Data Science and Public Policy of the University of Chicago devel
 
 Figure 1: Fairness Tree
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_d6fc81a8cad34e39779ag-11.jpg?height=944&width=1607&top_left_y=1092&top_left_x=256)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_d6fc81a8cad34e39779ag-11.jpg?height=944&width=1607&top_left_y=1092&top_left_x=256" alt="image" style="width:100%;height:auto;">
 
 Group definitions: This issue brief uses the term protected class in the discussion below to indicate the group that it focuses on for purposes of measuring fairness. This could refer to a group defined as a protected class from a legal standpoint such as race, sex, age, etc., or a different definition based on class, gender identity, or another characteristic identifying a population whose interests the party performing the analysis is interested in prioritizing for purposes of fairness. Starting with that protected class, this issue brief defines the following terms: ${ }^{27}$
 

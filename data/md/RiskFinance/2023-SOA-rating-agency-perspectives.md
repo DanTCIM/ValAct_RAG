@@ -1,13 +1,13 @@
 # - SOA <br> Research INSTITUTE 
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=141&width=493&top_left_y=336&top_left_x=1228)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=141&width=493&top_left_y=336&top_left_x=1228" alt="image" style="width:100%;height:auto;">
 
 ## Rating Agency Perspectives on
 
 Insurance Company Capital
 
 AUGUST | 2023
-![](https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=1390&width=2124&top_left_y=1366&top_left_x=0)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=1390&width=2124&top_left_y=1366&top_left_x=0" alt="image" style="width:100%;height:auto;">
 
 # SOA <br> Research 
 
@@ -32,7 +32,7 @@ Financial Reporting Section
 
 Individual Life \& Annuity Curriculum Committee
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-02.jpg?height=249&width=1510&top_left_y=1843&top_left_x=313)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-02.jpg?height=249&width=1510&top_left_y=1843&top_left_x=313" alt="image" style="width:100%;height:auto;">
 
 Caveat and Disclaimer
 
@@ -86,7 +86,7 @@ Each rating agency has its own quantitative tool to evaluate and differentiate a
 
 We hope this paper provides an introduction to the ways that rating agencies impact the insurance industry. We provide resources in the appendixes to explore the topic further.
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-04.jpg?height=250&width=1510&top_left_y=2019&top_left_x=248)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-04.jpg?height=250&width=1510&top_left_y=2019&top_left_x=248" alt="image" style="width:100%;height:auto;">
 
 ## Section 1: Introduction
 
@@ -190,7 +190,7 @@ While the detailed rating criteria varies by agency, all agencies consider simil
 
 GENERAL RATING FACTORS
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-09.jpg?height=699&width=1675&top_left_y=1239&top_left_x=233)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-09.jpg?height=699&width=1675&top_left_y=1239&top_left_x=233" alt="image" style="width:100%;height:auto;">
 
 ### 2.1 CORE RATING FACTORS
 

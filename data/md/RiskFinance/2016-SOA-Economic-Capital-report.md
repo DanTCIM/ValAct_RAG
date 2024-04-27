@@ -1,10 +1,10 @@
 # (1) SOCIETY OF ACTUARIES 
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-01.jpg?height=515&width=873&top_left_y=84&top_left_x=1168)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-01.jpg?height=515&width=873&top_left_y=84&top_left_x=1168" alt="image" style="width:100%;height:auto;">
 
 ## Economic Capital for Life Insurance Companies
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-01.jpg?height=1391&width=1975&top_left_y=1164&top_left_x=75)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-01.jpg?height=1391&width=1975&top_left_y=1164&top_left_x=75" alt="image" style="width:100%;height:auto;">
 
 October 2016
 
@@ -186,7 +186,7 @@ Therefore the optimal return on capital is achieved by simultaneously limiting t
 
 A stylized example is given below.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-10.jpg?height=786&width=1301&top_left_y=1187&top_left_x=344)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-10.jpg?height=786&width=1301&top_left_y=1187&top_left_x=344" alt="image" style="width:100%;height:auto;">
 
 The discussion above, and indeed much of the discussion in this report, is framed in the context of shareholder-owned insurance companies. However, it should be noted that most of the discussion and conclusions being made are usually as relevant for mutual insurers, albeit with a slightly different perspective.
 
@@ -466,7 +466,7 @@ Exhibit 3.1: Correlation Assumption Structure
 | Risk 8 | $\#$ | \# | \# | \# | $\#$ | \# | \# | 1.00 | \# |
 | Risk 9 | $\#$ | \# | \# | \# | $\#$ | $\#$ | \# | $\#$ | 1.00 |
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-24.jpg?height=632&width=764&top_left_y=687&top_left_x=1060)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-24.jpg?height=632&width=764&top_left_y=687&top_left_x=1060" alt="image" style="width:100%;height:auto;">
 
 The disadvantage of a tiered approach is the calibration of correlation assumptions between risk categories. Although data may be limited, the theoretical concept of a correlation between any two individual risks is straightforward; in contrast, it is difficult to explain the mathematical interpretation of a correlation between two (or more) matrices, and consequently it can be challenging to create and validate the higher level assumptions.
 
@@ -539,7 +539,7 @@ In all geographic regions, a one-year risk horizon approach is the most popular 
 
 ## Exhibit 3.2: EC Approaches
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-28.jpg?height=476&width=1514&top_left_y=302&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-28.jpg?height=476&width=1514&top_left_y=302&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 Question: What primary measure of risk do you use to calculate economic capital?
 
@@ -547,7 +547,7 @@ For those using a finite risk horizon approach, a market consistent balance shee
 
 Exhibit 3.3: Balance Sheet Measures
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-28.jpg?height=892&width=1537&top_left_y=1034&top_left_x=283)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-28.jpg?height=892&width=1537&top_left_y=1034&top_left_x=283" alt="image" style="width:100%;height:auto;">
 
 Question: What basis do you use for the terminal balance sheet in your economic capital calculation (for those organizations who calculate economic capital using a fixed risk horizon)
 
@@ -563,7 +563,7 @@ The capital calculation includes explicit checks for interim solvency using a pr
 
 The capital metric is based on the greatest present value of accumulated deficiencies
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-29.jpg?height=878&width=816&top_left_y=290&top_left_x=991)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-29.jpg?height=878&width=816&top_left_y=290&top_left_x=991" alt="image" style="width:100%;height:auto;">
 
 Question: Which of the following most closely resembles your approach to checking interim solvency or cash-flow deficiencies in your economic capital calculation?
 
@@ -575,17 +575,17 @@ To assess risk calibration approaches, Willis Towers Watson conducted a survey i
 
 The majority of North American survey respondents use VaR as their primary risk measure, followed by CTE. One insurer reported using both VaR and CTE. The most popular percentile for VaR measurement was $99.5 \%$ with smaller numbers using $99.0 \%$ or $99.7 \%$. Some respondents measured a number of different percentiles in a VaR framework. Even though the majority of $99.5 \%$ VaR users were not subject to Solvency II regulations, we see an increasing trend towards global harmonization. This has benefits in comparability and standardization globally which are particularly relevant to large groups with global concerns.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-30.jpg?height=524&width=913&top_left_y=936&top_left_x=281)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-30.jpg?height=524&width=913&top_left_y=936&top_left_x=281" alt="image" style="width:100%;height:auto;">
 
 Similarly, the majority of respondents indicated a 1 year measurement time horizon
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-30.jpg?height=523&width=895&top_left_y=1565&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-30.jpg?height=523&width=895&top_left_y=1565&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 There was more divergence between companies in the way they measured assets and liabilities at the projection horizon. A broad split of methodologies including market-consistent valuations, accounting measures and statutory capital were used. The majority of respondents, however used a cash flow based measure other than a pure marketconsistent measure. Of those responses indicating the use of cash flows, many indicated fair, economic or other market-based methodologies.
 
 ## Valuation Basis in EC Framework
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-31.jpg?height=279&width=282&top_left_y=370&top_left_x=889)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-31.jpg?height=279&width=282&top_left_y=370&top_left_x=889" alt="image" style="width:100%;height:auto;">
 
 - Cash Flows
 - Statutory Reserves
@@ -603,7 +603,7 @@ These differing approaches are best illustrated by the valuation of assets and l
 
 ## Liquidity Premium in EC
 
- Framework![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-32.jpg?height=266&width=269&top_left_y=420&top_left_x=554)
+ Framework<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-32.jpg?height=266&width=269&top_left_y=420&top_left_x=554" alt="image" style="width:100%;height:auto;">
 
 $\square$ No
 
@@ -616,7 +616,7 @@ Inclusion of Risk Margin in EC Framework
 
 - No
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-32.jpg?height=360&width=352&top_left_y=389&top_left_x=1277)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-32.jpg?height=360&width=352&top_left_y=389&top_left_x=1277" alt="image" style="width:100%;height:auto;">
 
 Yes - for all risks
 
@@ -633,7 +633,7 @@ The following charts show the aggregated risk assumptions provided by survey par
 
 The survey responses show an equity risk inter-quartile range of $42-47 \%$ fall in equity values (median - $45 \%$ ) at the 99.5 th percentile.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-33.jpg?height=859&width=1518&top_left_y=243&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-33.jpg?height=859&width=1518&top_left_y=243&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 ### 4.2.2 Interest Rates
 
@@ -643,31 +643,31 @@ Interest rate risk was reported in different directions by different companies, 
 
 $3.0 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-33.jpg?height=645&width=1441&top_left_y=1607&top_left_x=342)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-33.jpg?height=645&width=1441&top_left_y=1607&top_left_x=342" alt="image" style="width:100%;height:auto;">
 
 ### 4.2.3 Equity and Interest Rate Implied Volatility
 
 For companies who model equity implied volatility in their EC framework, most assume an increase of around $17 \%$ in equity implied volatility under stressed conditions. This stress size was similar for interest rate implied volatility.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-34.jpg?height=859&width=1515&top_left_y=573&top_left_x=305)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-34.jpg?height=859&width=1515&top_left_y=573&top_left_x=305" alt="image" style="width:100%;height:auto;">
 
 ### 4.2.4 Credit Risk
 
 While most companies modelled credit default risk and rated it as either high or medium importance, less than half of companies considered changes to credit spreads as a risk driver in their models.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-34.jpg?height=517&width=1518&top_left_y=1758&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-34.jpg?height=517&width=1518&top_left_y=1758&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-35.jpg?height=520&width=1521&top_left_y=239&top_left_x=302)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-35.jpg?height=520&width=1521&top_left_y=239&top_left_x=302" alt="image" style="width:100%;height:auto;">
 
 A 1-year default rate increase of around $3 \%$ was common for credit defaults at the $99.5 \%$ level while for credit spreads, an increase of around $2 \%$ for A-rated 5 year spreads was assumed.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-35.jpg?height=867&width=1523&top_left_y=995&top_left_x=298)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-35.jpg?height=867&width=1523&top_left_y=995&top_left_x=298" alt="image" style="width:100%;height:auto;">
 
 ## Credit Spread Risk Calibration (5yr A)
 
 $3.0 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-36.jpg?height=567&width=1436&top_left_y=459&top_left_x=347)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-36.jpg?height=567&width=1436&top_left_y=459&top_left_x=347" alt="image" style="width:100%;height:auto;">
 
 $99.50 \%$
 
@@ -675,21 +675,21 @@ $99.50 \%$
 
 Almost all companies assumed a flat stress to mortality rates for both mortality and longevity risk. Increases and decreased of around $10 \%-12 \%$ of the base mortality rates were common at the $99.5^{\text {th }}$ percentile.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-36.jpg?height=886&width=1518&top_left_y=1498&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-36.jpg?height=886&width=1518&top_left_y=1498&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Where companies modelled mortality improvements, an increase (or decrease) in improvement rates of between $0.5 \%$ and $0.75 \%$ was assumed. Values in the charts below show the absolute value of assumptions provided. Slightly higher improvement rates for older ages were assumed by some respondents.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-37.jpg?height=878&width=1504&top_left_y=409&top_left_x=316)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-37.jpg?height=878&width=1504&top_left_y=409&top_left_x=316" alt="image" style="width:100%;height:auto;">
 
 Median excess deaths of around 14 per 10,000 lives were assumed for a mortality catastrophe at the $99.5 \%$ level.
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-37.jpg?height=878&width=1523&top_left_y=1399&top_left_x=301)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-37.jpg?height=878&width=1523&top_left_y=1399&top_left_x=301" alt="image" style="width:100%;height:auto;">
 
 Where lapse rates were stressed, this was generally applied as a percentage increase to base lapse rates. At the 99.5\% level this was typically around a $25 \%$ increase. Many companies reported using dynamic lapse stresses instead of or in addition to these lapse factors which did not have simple quantification and / or varied by product type.
 
 ## Lapse Risk Calibration
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-38.jpg?height=764&width=1463&top_left_y=355&top_left_x=342)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-38.jpg?height=764&width=1463&top_left_y=355&top_left_x=342" alt="image" style="width:100%;height:auto;">
 
 Companies stressing expenses generally applied expert judgement to derive the stress levels. Most experts agreed that around a $10 \%$ increase in expenses was correct.
 
@@ -697,7 +697,7 @@ Companies stressing expenses generally applied expert judgement to derive the st
 
 $11.1 \%$
 
-![](https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-38.jpg?height=485&width=125&top_left_y=1454&top_left_x=360)
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-38.jpg?height=485&width=125&top_left_y=1454&top_left_x=360" alt="image" style="width:100%;height:auto;">
 
 $10.2 \%$
 

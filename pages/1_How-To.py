@@ -51,7 +51,7 @@ with st.sidebar:
     st.button(
         label="Clear cache",
         use_container_width=True,
-        on_click=clear_cache,
+        on_click=clear_cache(),
         help="Updates list of documents and summaries",
     )
 

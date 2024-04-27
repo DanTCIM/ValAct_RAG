@@ -48,12 +48,12 @@ with st.sidebar:
         document_list[collection_name],
     )
 
-    st.button(
-        label="Clear cache",
-        use_container_width=True,
-        on_click=clear_cache(),
-        help="Updates list of documents and summaries",
-    )
+    # st.button(
+    #     label="Clear cache",
+    #     use_container_width=True,
+    #     on_click=clear_cache,
+    #     help="Updates list of documents and summaries",
+    # )
 
 if document_name != "All":
     pdf_file_path = base_path + "/" + collection_name + "/" + document_name

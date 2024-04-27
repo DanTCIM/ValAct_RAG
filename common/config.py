@@ -67,8 +67,7 @@ summary_data = get_json("summary.json")
 
 
 def clear_cache():
-    get_json.cache_clear()
-    scan_directory.cache_clear()
+    st.cache_data.clear()
 
 
 def md_path_creator(path, collection_name, document_name):

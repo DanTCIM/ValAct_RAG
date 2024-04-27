@@ -175,7 +175,9 @@ with tab1:
 # Download or get the main themes of the selected document
 if document_name == "All":
     with tab2:
-        st.write("A document will be presented when you select a document.")
+        st.write(
+            "When you select a document, the app will load the pre-converted markdown file as text and display the content within the Streamlit interface for your review."
+        )
 else:
     pdf_file_path = os.path.join(base_path, collection_name, document_name)
     md_file_path = md_path_creator(md_path, collection_name, document_name)

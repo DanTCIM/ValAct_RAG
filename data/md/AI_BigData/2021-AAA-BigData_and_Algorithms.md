@@ -2,7 +2,7 @@
 
 American Academy of Actuaries
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=111&width=155&top_left_y=1891&top_left_x=1603" alt="image" style="width:300px;height:auto;">
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-01.jpg?height=111&width=155&top_left_y=1891&top_left_x=1603" alt="image" style="width:100px;height:auto;">
 
 (C) 2021 American Academy of Actuaries. All rights reserved.
 
@@ -39,7 +39,7 @@ The framework for traditional insurance is based on the need to manage the volat
 
 FIGURE 1: DRIVERS OF VALUE FOR INSURANCE PRODUCTS
 
-![](https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-07.jpg?height=813&width=1393&top_left_y=949&top_left_x=491)
+<img src="https://cdn.mathpix.com/cropped/2024_04_10_e7bd1ea6c348174c8d4eg-07.jpg?height=813&width=1393&top_left_y=949&top_left_x=491" alt="image" style="width:100%;height:auto;">
 
 Reducing the cost of any of these four major elements drives the "value chain" of insurance. ${ }^{3}$ The relative importance of each of these elements differs by product across life, health, and property and casualty (P\&C) coverages. Moreover, the relative importance of the four elements drives specific product design and regulatory oversight. The impact of specific AI and big data applications and innovations can be better understood by seeing which elements they might impact in the value chain of insurance. If any of these costs are not reflected in the premiums or product design, then the insurer will not be sustainable in the long run. In the U.S., insurance regulators (typically through state statute) ensure that insurance is accessible, sustainable, and meets reasonable policyholder expectations. This introduction provides a road map for discerning how and whether AI and big data will impact the insurance market.
 

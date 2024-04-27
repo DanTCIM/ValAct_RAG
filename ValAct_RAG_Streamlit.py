@@ -2,9 +2,17 @@ import os
 import streamlit as st
 from common.config import (
     base_path,
+    md_path,
     document_list,
     collection_list,
     summary_data,
+    md_path_creator,
+    md_loader,
+)
+
+from common.handler import (
+    StreamHandler,
+    PrintRetrievalHandler,
 )
 
 # from langchain.chat_models import ChatOpenAI
@@ -12,24 +20,25 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 from langchain.memory import ConversationBufferMemory
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
-from langchain.callbacks.base import BaseCallbackHandler
+
 from langchain.chains import ConversationalRetrievalChain
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 
 import pandas as pd
-import numpy as np
 
 # Start Streamlit session
 st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖")
+tab1, tab2 = st.tabs(["Q&A", "Document"])
 
-st.header(
-    "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
-)
-st.write(
-    "Please see the sidebar to select a collection of documents. You can choose a specific document for an exclusive search within that document only."
-)
+with tab1:
+    st.header(
+        "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
+    )
+    st.write(
+        "Please see the sidebar to select a collection of documents. You can choose a specific document for an exclusive search within that document only."
+    )
 
 # Set variables
 # LLM flag for augmented generation (the flag only applied to llm, not embedding model)
@@ -39,7 +48,7 @@ if USE_Anthropic:
     model_name = "claude-3-sonnet-20240229"
 else:
     # model_name = "gpt-3.5-turbo"
-    model_name = "gpt-4-0125-preview"  # gpt-4 seems to be slow
+    model_name = "gpt-4-turbo"  # gpt-4 seems to be slow
 
 ## Sidebar
 with st.sidebar:
@@ -115,72 +124,6 @@ else:
         search_kwargs=search_kwargs
     )  # use similarity search
 
-
-# Chat model stream handler
-class StreamHandler(BaseCallbackHandler):
-    def __init__(
-        self, container: st.delta_generator.DeltaGenerator, initial_text: str = ""
-    ):
-        self.container = container
-        self.text = initial_text
-        self.run_id_ignore_token = None
-
-    def on_llm_start(self, serialized: dict, prompts: list, **kwargs):
-        # Workaround to prevent showing the rephrased question as output
-        if prompts[0].startswith("Human"):
-            self.run_id_ignore_token = kwargs.get("run_id")
-
-    def on_llm_new_token(self, token: str, **kwargs) -> None:
-        if self.run_id_ignore_token == kwargs.get("run_id", False):
-            return
-        self.text += token
-        self.container.markdown(self.text)
-
-
-# Retrieval handler
-class PrintRetrievalHandler(BaseCallbackHandler):
-    def __init__(self, container, msgs, calculate_similarity=False):
-        self.status = container.status("**Context Retrieval**")
-        self.msgs = msgs
-        self.embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-        self.calculate_similarity = calculate_similarity
-
-    def on_retriever_start(self, serialized: dict, query: str, **kwargs):
-        self.status.update(label=f"**Context Retrieval:** {query}")
-        self.msgs.add_ai_message(f"Query: {query}")
-        if self.calculate_similarity:
-            self.query_embedding = self.embeddings.embed_query(query)
-
-    def on_retriever_end(self, documents, **kwargs):
-        source_msgs = ""
-        for idx, doc in enumerate(documents):
-            source = os.path.basename(doc.metadata["source"])
-            # page = doc.metadata["page"] + 1 # use when page-info is available
-            page_txt = ""  # if available page_txt = f", page {page}"
-            contents = doc.page_content
-
-            similarity_txt = ""
-            if self.calculate_similarity:
-                content_embedding = self.embeddings.embed_query(contents)
-                similarity = round(
-                    self.cosine_similarity(self.query_embedding, content_embedding)
-                    * 100
-                )
-                similarity_txt = f" \n* **Similarity score: {similarity}%**"
-
-            source_msg = f"# Retrieval {idx+1}\n* **Document: {source}{page_txt}**{similarity_txt}\n\n {contents}\n\n"
-
-            self.status.write(source_msg, unsafe_allow_html=True)
-            source_msgs += source_msg
-        self.msgs.add_ai_message(source_msgs)
-        self.status.update(state="complete")
-
-    def cosine_similarity(self, embedding1, embedding2):
-        return np.dot(embedding1, embedding2) / (
-            np.linalg.norm(embedding1) * np.linalg.norm(embedding2)
-        )
-
-
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
 memory = ConversationBufferMemory(
@@ -217,20 +160,26 @@ if len(msgs.messages) == 0:
 # Show the chat history
 tmp_query = ""
 avatars = {"human": "user", "ai": "assistant"}
-for msg in msgs.messages:
-    if msg.content.startswith("Query:"):
-        tmp_query = msg.content.lstrip("Query: ")
-    elif msg.content.startswith("# Retrieval"):
-        with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
-            st.write(msg.content, unsafe_allow_html=True)
+with tab1:
+    for msg in msgs.messages:
+        if msg.content.startswith("Query:"):
+            tmp_query = msg.content.lstrip("Query: ")
+        elif msg.content.startswith("# Retrieval"):
+            with st.expander(f"📖 **Context Retrieval:** {tmp_query}", expanded=False):
+                st.write(msg.content, unsafe_allow_html=True)
 
-    else:
-        tmp_query = ""
-        st.chat_message(avatars[msg.type]).write(msg.content)
+        else:
+            tmp_query = ""
+            st.chat_message(avatars[msg.type]).write(msg.content)
 
 # Download or get the main themes of the selected document
-if document_name != "All":
-    pdf_file_path = base_path + "/" + collection_name + "/" + document_name
+if document_name == "All":
+    with tab2:
+        st.write("A document will be presented when you select a document.")
+else:
+    pdf_file_path = os.path.join(base_path, collection_name, document_name)
+    md_file_path = md_path_creator(md_path, collection_name, document_name)
+
     # Open the file in binary mode
     with open(pdf_file_path, "rb") as pdf_file:
         # Read the PDF file's binary data
@@ -244,6 +193,10 @@ if document_name != "All":
             mime="application/octet-stream",
             use_container_width=True,
         )
+    with tab2:
+        md_txt = md_loader(md_file_path)
+        st.write(md_txt, unsafe_allow_html=True)
+
     summary = summary_data.get(document_name)
     with st.sidebar.expander("AI generated summary of the document", expanded=True):
         if summary:
@@ -252,19 +205,21 @@ if document_name != "All":
             st.write(f"Summary of '{document_name}' not found in the file.")
 
 # Ask the user for a question
+
 if user_query := st.chat_input(
     placeholder="What is your question on the selected collection/document?"
 ):
-    st.chat_message("user").write(user_query)
+    with tab1:
+        st.chat_message("user").write(user_query)
 
-    with st.chat_message("assistant"):
-        retrieval_handler = PrintRetrievalHandler(
-            st.container(), msgs, calculate_similarity=flag_similarity_out
-        )
-        stream_handler = StreamHandler(st.empty())
-        response = qa_chain.run(
-            user_query, callbacks=[retrieval_handler, stream_handler]
-        )
+        with st.chat_message("assistant"):
+            retrieval_handler = PrintRetrievalHandler(
+                st.container(), msgs, calculate_similarity=flag_similarity_out
+            )
+            stream_handler = StreamHandler(st.empty())
+            response = qa_chain.run(
+                user_query, callbacks=[retrieval_handler, stream_handler]
+            )
 
 # Clear chat history or download the chat history in CSV
 with st.sidebar:

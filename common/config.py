@@ -3,6 +3,7 @@ import streamlit as st
 import json
 
 base_path = "./data/pdf"
+md_path = "./data/md"
 
 
 # Scan a directory and return a dictionary of folders and files.
@@ -63,3 +64,14 @@ def get_json(file_path):
 
 
 summary_data = get_json("summary.json")
+
+
+def md_path_creator(path, collection_name, document_name):
+    base_name, _ = os.path.splitext(document_name)
+    return os.path.join(path, collection_name, f"{base_name}.md")
+
+
+def md_loader(path):
+    with open(path, "r", encoding="utf-8") as file:
+        data = file.read()
+    return data

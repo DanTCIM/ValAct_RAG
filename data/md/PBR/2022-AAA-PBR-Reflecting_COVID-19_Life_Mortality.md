@@ -1,4 +1,5 @@
-# Reflection of COVID-19 in Life Insurance Mortality Improvement <br> A Discussion Brief <br> Academy of Actuaries Life Experience Committee <br> May 23, 2022 
+# Reflection of COVID-19 in Life Insurance Mortality Improvement <br> A Discussion Brief
+Academy of Actuaries Life Experience Committee <br> May 23, 2022 
 
 The American Academy of Actuaries Life Experience Committee is discussing how pandemics, and specifically COVID-19, would appropriately be reflected in projects such as asset adequacy testing and principle-based reserves (PBR) testing. The committee's conclusion was that we will likely not find the perfect answer. However, it believes that it would be helpful to develop a list of considerations that may be considered when developing mortality improvement assumptions.
 

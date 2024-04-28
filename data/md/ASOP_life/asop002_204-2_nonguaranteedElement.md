@@ -1,82 +1,69 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_218f2748a30c24d8d528g-01.jpg?height=312&width=334&top_left_y=229&top_left_x=901" alt="image" style="width:100%;height:auto;">
-
-ActuARIAL StANDARDS BoARD
-
-Actuarial Standard
-
-of Practice
-
-No. 2
+# Actuarial Standard of Practice No. 2
 
 Revised Edition
 
 # Nonguaranteed Elements for Life Insurance and Annuity Products 
 
 Developed by the
-
 Task Force to Revise ASOP No. 2 of the
-
 Life Committee of the
-
 Actuarial Standards Board
 
 Adopted by the
-
 Actuarial Standards Board
-
 September 2021
 
 Doc. No. 204
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose
-1.2 Scope
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Anticipated Experience Factor ..... 2
-2.2 Determination Policy ..... 2
-2.3 Guaranteed Element ..... 2
-2.4 Nonguaranteed Element (NGE) ..... 3
-2.5 NGE Framework ..... 3
-2.6 NGE Scale ..... 3
-2.7 Policy ..... 3
-2.8 Policy Class ..... 3
-2.9 Profitability Metric ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 NGE Framework ..... 3
-3.2 Providing Advice on the Actuarial Aspects of the Determination Policy ..... 4
-3.2.1 Providing Advice on Developing or Modifying the Determination Policy ..... 4
-3.2.2 Providing Advice on Applying the Determination Policy ..... 5
-3.3 Establishment of or Changes to Policy Classes ..... 6
-3.3.1 For Future Sales of a New or Existing Product ..... 6
-3.3.2 For In-Force Policies ..... 7
-3.4 Determination Process for NGE Scales ..... 7
-3.4.1 Determination Process for Future Sales of a New or Existing Product ..... 8
-3.4.2 Determination Process for In-Force Policies ..... 8
-3.4.2.1 Reviewing Prior Determinations ..... 9
-3.4.2.2 Analyzing Experience ..... 9
-3.4.2.3 Considering Whether to Recommend a Revision to NGE Scales ..... 9
-3.4.2.4 Determining the Revised NGE Scales ..... 10
-3.4.2.5 Additional Considerations ..... 11
-3.5 NGEs Used in Illustrations Not Subject to ASOP No. 24 ..... 11
-3.6 Providing Opinions and Disclosures to Meet Regulatory Requirements ..... 12
-3.7 Reliance on Others for Data, Projections, and Supporting Analysis ..... 12
-3.8 Reliance on Assumptions or Methods Selected by Another Party ..... 12
-3.9 Reliance on Another Actuary ..... 12
-3.10 Documentation ..... 13
-Section 4. Communications and Disclosures ..... 13
-4.1 Required Disclosures in an Actuarial Report ..... 13
-4.2 Additional Disclosures in an Actuarial Report ..... 15
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 16
-Background ..... 16
-Current Practices ..... 17
-Appendix 2- Comments on the Second Exposure Draft and Responses ..... 18
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose
+	1.2 Scope
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Anticipated Experience Factor ..... 2
+	2.2 Determination Policy ..... 2
+	2.3 Guaranteed Element ..... 2
+	2.4 Nonguaranteed Element (NGE) ..... 3
+	2.5 NGE Framework ..... 3
+	2.6 NGE Scale ..... 3
+	2.7 Policy ..... 3
+	2.8 Policy Class ..... 3
+	2.9 Profitability Metric ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 NGE Framework ..... 3
+	3.2 Providing Advice on the Actuarial Aspects of the Determination Policy ..... 4
+	3.2.1 Providing Advice on Developing or Modifying the Determination Policy ..... 4
+	3.2.2 Providing Advice on Applying the Determination Policy ..... 5
+	3.3 Establishment of or Changes to Policy Classes ..... 6
+	3.3.1 For Future Sales of a New or Existing Product ..... 6
+	3.3.2 For In-Force Policies ..... 7
+	3.4 Determination Process for NGE Scales ..... 7
+	3.4.1 Determination Process for Future Sales of a New or Existing Product ..... 8
+	3.4.2 Determination Process for In-Force Policies ..... 8
+	3.4.2.1 Reviewing Prior Determinations ..... 9
+	3.4.2.2 Analyzing Experience ..... 9
+	3.4.2.3 Considering Whether to Recommend a Revision to NGE Scales ..... 9
+	3.4.2.4 Determining the Revised NGE Scales ..... 10
+	3.4.2.5 Additional Considerations ..... 11
+	3.5 NGEs Used in Illustrations Not Subject to ASOP No. 24 ..... 11
+	3.6 Providing Opinions and Disclosures to Meet Regulatory Requirements ..... 12
+	3.7 Reliance on Others for Data, Projections, and Supporting Analysis ..... 12
+	3.8 Reliance on Assumptions or Methods Selected by Another Party ..... 12
+	3.9 Reliance on Another Actuary ..... 12
+	3.10 Documentation ..... 13
+	Section 4. Communications and Disclosures ..... 13
+	4.1 Required Disclosures in an Actuarial Report ..... 13
+	4.2 Additional Disclosures in an Actuarial Report ..... 15
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 16
+	Background ..... 16
+	Current Practices ..... 17
+	Appendix 2- Comments on the Second Exposure Draft and Responses ..... 18
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Nonguaranteed Elements for Life Insurance and Annuity Products
 

@@ -1,12 +1,6 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_5c49b5deff7b0019d780g-01.jpg?height=309&width=336&top_left_y=325&top_left_x=900" alt="image" style="width:100%;height:auto;">
+ACTUARIAL STANDARDS BOARD 
 
-# ActUARIAL Standards BOARD 
-
-Actuarial Standard
-
-of Practice
-
-No. 1
+# Actuarial Standard of Practice No. 1
 
 ## Introductory Actuarial Standard of Practice
 
@@ -22,28 +16,29 @@ Note: Nonguaranteed Charges or Benefits for Life Insurance Policies or Annuity C
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iii
-Section 1. Overview ..... 1
-Section 2. Definitions, Discussions, and Related Guidance ..... 2
-2.1 Terms of Construction ..... 2
-2.2 Actuarial Services ..... 3
-2.3 Actuarial Soundness ..... 3
-2.4 Deviation ..... 3
-2.5 Known ..... 3
-2.6 Materiality ..... 3
-2.7 Practical or Practicable ..... 3
-2.8 Principal ..... 3
-2.9 Professional Judgment ..... 3
-2.10 Reasonable ..... 4
-2.11 Reliance ..... 4
-2.12 Significance/Significant ..... 4
-Section 3. Purpose and Format of Actuarial Standards of Practice ..... 4
-3.1 The Purpose of ASOPs ..... 4
-3.2 The Format of ASOPs ..... 6
-Section 4. Compliance with ASOPs ..... 6
-APPENDICES
-Appendix 1-Background and Additional Information ..... 7
-Appendix 2-Comments on the Exposure Draft and Responses ..... 9
+	Transmittal Memorandum ..... iii
+	Section 1. Overview ..... 1
+	Section 2. Definitions, Discussions, and Related Guidance ..... 2
+	2.1 Terms of Construction ..... 2
+	2.2 Actuarial Services ..... 3
+	2.3 Actuarial Soundness ..... 3
+	2.4 Deviation ..... 3
+	2.5 Known ..... 3
+	2.6 Materiality ..... 3
+	2.7 Practical or Practicable ..... 3
+	2.8 Principal ..... 3
+	2.9 Professional Judgment ..... 3
+	2.10 Reasonable ..... 4
+	2.11 Reliance ..... 4
+	2.12 Significance/Significant ..... 4
+	Section 3. Purpose and Format of Actuarial Standards of Practice ..... 4
+	3.1 The Purpose of ASOPs ..... 4
+	3.2 The Format of ASOPs ..... 6
+	Section 4. Compliance with ASOPs ..... 6
+	
+	APPENDICES
+	Appendix 1-Background and Additional Information ..... 7
+	Appendix 2-Comments on the Exposure Draft and Responses ..... 9
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in the Introductory Actuarial Standard of Practice
 

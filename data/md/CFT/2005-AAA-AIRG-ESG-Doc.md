@@ -1,6 +1,6 @@
 AMERICAN ACADEMY of ACTUARIES
 
-C3 Phase II Risk-Based Capital for Variable Annuities: Pre-Packaged Scenarios
+# C3 Phase II Risk-Based Capital for Variable Annuities: Pre-Packaged Scenarios
 
 Presented by the American Academy of Actuaries' Life Capital Adequacy Subcommittees'<br>C-3 Phase 2 Work Group to the National Association of Insurance Commissioners'<br>Capital Adequacy Task Force
 

@@ -4,17 +4,13 @@ February 2022
 
 Developed by the Variable Annuity Reserves \& Capital Work Group of the Life Practice Council of the American Academy of Actuaries
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-01.jpg?height=263&width=711&top_left_y=2091&top_left_x=707" alt="image" style="width:100%;height:auto;">
-
 Objective. Independent. Effective.
 
 ## Implementation of Requirements for Principle-Based Reserves for Variable Annuities - 2022 Edition of VM-21
 
 February 2022
 
-## Developed by the Variable Annuity Reserves \& Capital Work Group of the Life Practice Council of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_c585537438f7869e560ag-02.jpg?height=325&width=705&top_left_y=1488&top_left_x=707" alt="image" style="width:100%;height:auto;">
+Developed by the Variable Annuity Reserves \& Capital Work Group of the Life Practice Council of the American Academy of Actuaries
 
 The American Academy of Actuaries is a 19,500+ member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -41,21 +37,23 @@ Zohair Motiwalla, MAAA, FSA Kaihua Yu, MAAA, FSA
 Scott O'Neal, MAAA, ASA
 
 We welcome your comments and suggestions for additional questions to be addressed by this practice note. Please address all communications to the Academy's life policy analyst at lifeanalyst@actuary.org.
-Table of Contents
-Introduction ..... 4
-List of Acronyms ..... 5
-Background ..... 5
 
-1. Transition ..... 6
-2. Standard Projection ..... 8
-Product and/or Contractual Conflicts ..... 8
-Other questions ..... 9
-3. Asset Modeling \& Discount Rates ..... 17
-4. Scenarios ..... 20
-5. Hedging ..... 24
-6. C-3 Phase 2 RBC ..... 28
-7. Disclosures ..... 29
-8. Miscellaneous / Other ..... 33
+Table of Contents
+
+	Introduction ..... 4
+	List of Acronyms ..... 5
+	Background ..... 5
+	
+	1. Transition ..... 6
+	2. Standard Projection ..... 8
+	Product and/or Contractual Conflicts ..... 8
+	Other questions ..... 9
+	3. Asset Modeling \& Discount Rates ..... 17
+	4. Scenarios ..... 20
+	5. Hedging ..... 24
+	6. C-3 Phase 2 RBC ..... 28
+	7. Disclosures ..... 29
+	8. Miscellaneous / Other ..... 33
 
 ## Introduction
 

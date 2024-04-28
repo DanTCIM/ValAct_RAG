@@ -7,7 +7,7 @@ American Academy of ACTUARIES
 
 1850 M Street NW, Suite 300 Washington, DC 20036 202-223-8196 | www.actuary.org Craig Hanna, Director of Public Policy
 
-## Big Data and Algorithms in Actuarial Modeling and Consumer Impacts
+# Big Data and Algorithms in Actuarial Modeling and Consumer Impacts
 
 OCTOBER 2022
 

@@ -1,15 +1,12 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_3d93cd20fe270254719dg-01.jpg?height=483&width=520&top_left_y=428&top_left_x=0" alt="image" style="width:100%;height:auto;">
-
 # REGULATORY POLICY 
-
-Licensing for Class B Insurers
+## Licensing for Class B Insurers
 
 February 2021
 
 ## Table of Contents
 
-Table of Contents ..... 2
-List of Acronyms ..... 3
+- Table of Contents ..... 2
+- List of Acronyms ..... 3
 
 1. Statement of Objectives ..... 4
 2. Scope of Application ..... 4

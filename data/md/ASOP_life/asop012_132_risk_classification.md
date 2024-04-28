@@ -1,27 +1,16 @@
-# IS ActUARIAL StANDARDS BOARD 
+# Actuarial Standard of Practice No. 12
 
-Actuarial Standard
+## Risk Classification (for All Practice Areas)
 
-of Practice
-
-No. 12
-
-Risk Classification (for All Practice Areas)
-
-## Revised Edition
+Revised Edition
 
 Developed by the
-
 Task Force to Revise ASOP No. 12 of the
-
 General Committee of the
-
 Actuarial Standards Board
 
 Adopted by the
-
 Actuarial Standards Board
-
 December 2005
 
 Updated for Deviation Language Effective May 1, 2011
@@ -32,44 +21,44 @@ ASOP No. 12-December 2005
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Advice ..... 2
-2.2 Adverse Selection ..... 2
-2.3 Credibility ..... 2
-2.4 Financial or Personal Security System ..... 2
-2.5 Homogeneity ..... 2
-2.6 Practical ..... 2
-2.7 Risk(s) ..... 2
-2.8 Risk Characteristics ..... 2
-2.9 Risk Class ..... 2
-2.10 Risk Classification System ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Introduction ..... 3
-3.2 Considerations in the Selection of Risk Characteristics ..... 3
-3.2.1 Relationship of Risk Characteristics and Expected Outcomes ..... 3
-3.2.2 Causality ..... 3
-3.2.3 Objectivity ..... 4
-3.2.4 Practicality ..... 4
-3.2.5 Applicable Law ..... 4
-3.2.6 Industry Practices ..... 4
-3.2.7 Business Practices ..... 4
-3.3 Considerations in Establishing Risk Classes ..... 4
-3.3.1 Intended Use ..... 4
-3.3.2 Actuarial Considerations ..... 5
-3.3.3 Other Considerations ..... 5
-3.3.3 Reasonableness of Results ..... 5
-3.4 Testing the Risk Classification System ..... 5
-3.4.1 Effect of Adverse Selection ..... 5
-3.4.2 Risk Classes Used for Testing ..... 6
-3.4.3 Effect of Changes ..... 6
-3.4.4 Quantitative Analyses ..... 6
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Advice ..... 2
+	2.2 Adverse Selection ..... 2
+	2.3 Credibility ..... 2
+	2.4 Financial or Personal Security System ..... 2
+	2.5 Homogeneity ..... 2
+	2.6 Practical ..... 2
+	2.7 Risk(s) ..... 2
+	2.8 Risk Characteristics ..... 2
+	2.9 Risk Class ..... 2
+	2.10 Risk Classification System ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Introduction ..... 3
+	3.2 Considerations in the Selection of Risk Characteristics ..... 3
+	3.2.1 Relationship of Risk Characteristics and Expected Outcomes ..... 3
+	3.2.2 Causality ..... 3
+	3.2.3 Objectivity ..... 4
+	3.2.4 Practicality ..... 4
+	3.2.5 Applicable Law ..... 4
+	3.2.6 Industry Practices ..... 4
+	3.2.7 Business Practices ..... 4
+	3.3 Considerations in Establishing Risk Classes ..... 4
+	3.3.1 Intended Use ..... 4
+	3.3.2 Actuarial Considerations ..... 5
+	3.3.3 Other Considerations ..... 5
+	3.3.3 Reasonableness of Results ..... 5
+	3.4 Testing the Risk Classification System ..... 5
+	3.4.1 Effect of Adverse Selection ..... 5
+	3.4.2 Risk Classes Used for Testing ..... 6
+	3.4.3 Effect of Changes ..... 6
+	3.4.4 Quantitative Analyses ..... 6
 
 ## ASOP No. 12-December 2005
 

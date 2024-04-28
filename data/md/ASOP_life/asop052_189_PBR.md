@@ -1,95 +1,82 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_78c15b97742e20f59817g-01.jpg?height=304&width=328&top_left_y=257&top_left_x=861" alt="image" style="width:100%;height:auto;">
-
-# ActUARIAL Standards BOARD 
-
-Actuarial Standard<br>of Practice
-
-No. 52
+# Actuarial Standard of Practice No. 52
 
 ## Principle-Based Reserves for Life Products under the NAIC Valuation Manual
 
-Developed by the
+Developed by the Task Force on Principle-Based Reserves of the Life Committee of the Actuarial Standards Board
 
-Task Force on Principle-Based Reserves of the
-
-Life Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 September 2017
 
 (Doc. No. 189)
 
-TABLEOF CONTENTS
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 2
-2.1 Anticipated Experience Assumption ..... 2
-2.2 Cash Flow Model ..... 2
-2.3 Credibility ..... 2
-2.4 Deterministic Reserve ..... 2
-2.5 Granularity ..... 2
-2.6 Margin ..... 2
-2.7 Minimum Reserve ..... 2
-2.8 Model Segment ..... 2
-2.9 Modeling Cell ..... 2
-2.10 Net Premium Reserve ..... 2
-2.11 PBR Actuarial Report ..... 2
-2.12 Principle-Based Reserve ..... 2
-2.13 Prudent Estimate Assumption ..... 3
-2.14 Qualified Actuary ..... 3
-2.15 Relevant Experience ..... 3
-2.16 Risk Factor ..... 3
-2.17 Scenario ..... 3
-2.18 Sensitivity Testing ..... 3
-2.19 Starting Assets ..... 3
-2.20 Stochastic Reserve ..... 3
-2.21 Valuation Date ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Regulatory Requirements ..... 3
-3.2 Exclusion Tests ..... 4
-3.2.1 Grouping ..... 4
-3.2.2 Certification ..... 4
-3.3 Modeling Stochastic and Deterministic Reserves ..... 5
-3.3.1 Model Segments ..... 5
-3.3.2 Model Validation ..... 5
-3.3.3 Liability Modeling Considerations ..... 6
-3.3.4 Use of Prior Period Data ..... 7
-3.4 Assumptions for Stochastic and Deterministic Reserves ..... 8
-3.4.1 Mortality ..... 9
-3.4.2 Investment Experience ..... 9
-3.4.3 Policyholder Behavior ..... 10
-3.4.4 Expenses ..... 13
-3.4.5 Taxes ..... 15
-3.4.6 Determining Assumption Margins ..... 15
-3.5 Reinsurance ..... 17
-3.5.1 Stochastic and Deterministic Reserves Net of Reinsurance ..... 17
-3.5.2 Pre-Reinsurance-Ceded Minimum Reserve ..... 17
-3.5.3 Credit for Reinsurance Ceded ..... 18
-3.5.4 Recognition of Reinsurance Cash Flows in the Deterministic Reserve or Stochastic Reserve ..... 19
-3.5.5 Margin for Risk of Default by a Counterparty ..... 20
-3.5.6 Reinsurance Agreements that Do Not Qualify for Credit for Reinsurance ..... 20
-3.5.7 Assets Held by the Counterparty or Another Party ..... 20
-3.6 Reliance on Data or Other Information Supplied by Others ..... 21
-3.7 Documentation ..... 21
-Section 4. Communications and Disclosures ..... 21
-4.1 Actuarial Communications ..... 21
-4.2 PBR Actuarial Report ..... 22
-4.3 Additional Disclosures ..... 22
-APPENDIXES
-Appendix 1—Background and Current Practices ..... 23
-Background ..... 23
-Current Practices ..... 24
-Appendix 2-Comments on the Exposure Draft and Responses ..... 26
+### TABLE OF CONTENTS
+
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 2
+	2.1 Anticipated Experience Assumption ..... 2
+	2.2 Cash Flow Model ..... 2
+	2.3 Credibility ..... 2
+	2.4 Deterministic Reserve ..... 2
+	2.5 Granularity ..... 2
+	2.6 Margin ..... 2
+	2.7 Minimum Reserve ..... 2
+	2.8 Model Segment ..... 2
+	2.9 Modeling Cell ..... 2
+	2.10 Net Premium Reserve ..... 2
+	2.11 PBR Actuarial Report ..... 2
+	2.12 Principle-Based Reserve ..... 2
+	2.13 Prudent Estimate Assumption ..... 3
+	2.14 Qualified Actuary ..... 3
+	2.15 Relevant Experience ..... 3
+	2.16 Risk Factor ..... 3
+	2.17 Scenario ..... 3
+	2.18 Sensitivity Testing ..... 3
+	2.19 Starting Assets ..... 3
+	2.20 Stochastic Reserve ..... 3
+	2.21 Valuation Date ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Regulatory Requirements ..... 3
+	3.2 Exclusion Tests ..... 4
+	3.2.1 Grouping ..... 4
+	3.2.2 Certification ..... 4
+	3.3 Modeling Stochastic and Deterministic Reserves ..... 5
+	3.3.1 Model Segments ..... 5
+	3.3.2 Model Validation ..... 5
+	3.3.3 Liability Modeling Considerations ..... 6
+	3.3.4 Use of Prior Period Data ..... 7
+	3.4 Assumptions for Stochastic and Deterministic Reserves ..... 8
+	3.4.1 Mortality ..... 9
+	3.4.2 Investment Experience ..... 9
+	3.4.3 Policyholder Behavior ..... 10
+	3.4.4 Expenses ..... 13
+	3.4.5 Taxes ..... 15
+	3.4.6 Determining Assumption Margins ..... 15
+	3.5 Reinsurance ..... 17
+	3.5.1 Stochastic and Deterministic Reserves Net of Reinsurance ..... 17
+	3.5.2 Pre-Reinsurance-Ceded Minimum Reserve ..... 17
+	3.5.3 Credit for Reinsurance Ceded ..... 18
+	3.5.4 Recognition of Reinsurance Cash Flows in the Deterministic Reserve or Stochastic Reserve ..... 19
+	3.5.5 Margin for Risk of Default by a Counterparty ..... 20
+	3.5.6 Reinsurance Agreements that Do Not Qualify for Credit for Reinsurance ..... 20
+	3.5.7 Assets Held by the Counterparty or Another Party ..... 20
+	3.6 Reliance on Data or Other Information Supplied by Others ..... 21
+	3.7 Documentation ..... 21
+	Section 4. Communications and Disclosures ..... 21
+	4.1 Actuarial Communications ..... 21
+	4.2 PBR Actuarial Report ..... 22
+	4.3 Additional Disclosures ..... 22
+	APPENDIXES
+	Appendix 1—Background and Current Practices ..... 23
+	Background ..... 23
+	Current Practices ..... 24
+	Appendix 2-Comments on the Exposure Draft and Responses ..... 26
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Principle-Based Reserves for Life Products
 

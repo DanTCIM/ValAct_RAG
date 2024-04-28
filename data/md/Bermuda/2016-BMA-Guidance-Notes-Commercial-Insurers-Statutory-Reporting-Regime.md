@@ -1,89 +1,84 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_89c8a0fb4304e1557518g-01.jpg?height=301&width=593&top_left_y=240&top_left_x=1232" alt="image" style="width:100%;height:auto;">
 
 BERMUDA MONETARY AUTHORITY
 
-# BERMUDA MONETARY AUTHORITY 
-
-## GUIDANCE NOTES
-
-FOR COMMERCIAL INSURERS AND INSURANCE GROUPS' STATUTORY REPORTING REGIME
+# BERMUDA MONETARY AUTHORITY  GUIDANCE NOTES FOR COMMERCIAL INSURERS AND INSURANCE GROUPS' STATUTORY REPORTING REGIME
 
 $30^{\text {th }}$ NOVEMBER 2016
 
 ## Table of Contents
 
-INTRODUCTION ..... 5
-I. AMENDMENTS TO COMMERCIAL INSURERS' STATUTORY REGULATORY FRAMEWORK ..... 5
-GAAP Financial Statements - Section 17A of the Insurance Act (1978) ..... 5
-Consolidated and Unconsolidated Statutory Financial Statements ..... 6
-Reporting Regime Illustrative Work Flow ..... 7
-Prudential Filters ..... 9
-Treatment of Investments in Affiliates for Consolidated SFS ..... 10
-Insurance Risk Transfer and Schedule of Deposit Accounting ..... 11
-Segregated Accounts Companies ..... 11
-Revisions to the Statutory Financial Return ..... 11
-Approved Auditors ..... 12
-II. ECONOMIC BALANCE SHEET (EBS) VALUATION PRINCIPLES GUIDANCE ..... 13
-Overarching Principles ..... 14
-Intangible Assets. ..... 14
-Contingent Liabilities ..... 15
-Income Taxes ..... 15
-Investments in Affiliates..... ..... 15
-Insurance Risk Transfer ..... 16
-Modified Coinsurance (Mod-co) Arrangements ..... 16
-Deferred Acquisition Costs ..... 16
-Contractual Liabilities Other Than Technical Provisions. ..... 16
-III. GUIDANCE FOR THE STATUTORY ECONOMIC BALANCE SHEET BY LINE OTHER THAN TECHNICAL PROVISIONS ..... 16
-Cash and Cash Equivalents (Line 1) ..... 16
-Quoted Investments (Line 2) ..... 16
-Unquoted Investments (Line 3) ..... 17
-Investments in and Advances to Affiliates (Line 4) ..... 17
-Investment in Mortgage Loans on Real Estate (Line 5) ..... 17
-Policy Loans (Line 6) ..... 17
-Real Estate (Line 7) ..... 17
-Collateral Loans (Line 8) ..... 18
-Investment Income Due and Accrued (Line 9) ..... 18
-Accounts and Premium Receivable (Line 10) ..... 18
-Reinsurance Balances Receivable (Line 11) ..... 18
-Funds Held by Ceding Reinsurance (Line 12) ..... 18
-Sundry Assets (Line 13) ..... 18
-Letters of Credit Guarantee and Other Instruments (Line 14) ..... 19
-Insurance and Reinsurance Balances Payable (Line 28) ..... 19
-Commissions, Expenses, Fees, and Taxes Payable (Line 29) ..... 19
-Loans and Notes Payable (Line 30) ..... 20
-Tax Liabilities (Line 31). ..... 20
-Amounts Due to Affiliates (Line 32) ..... 20
-Accounts Payable and Accrued Liabilities (Line 33) ..... 20
-Funds Held Under Reinsurance (Line 34) ..... 20
-Dividends Payable (Line 35) ..... 20
-Sundry Liabilities (Line 36) ..... 21
-Letters of Credit, Guarantees and Other Instruments (Line 37) ..... 21
-Notes to the EBS ..... 21
-IV. GUIDANCE ON TECHNICAL PROVISION FOR EBS ..... 22
-Technical Provisions - General Principles ..... 22
-Calculation of the Best Estimate. ..... 22
-Cash Flows ..... 23
-Best Estimate - Probability Weighted Average ..... 24
-Allowance for ENIDS ..... 25
-Expenses in Best Estimate ..... 26
-Allowing For Business In Different Currencies ..... 27
-Reinsurance Recoveries ..... 27
-Possible Simplification For Reinsurance Recoverables ..... 28
-Allowance for Reinstatement Premiums in Reinsurance Recoverable Balances ..... 30
-Adjustment for Expected Losses on Reinsurance Recoveries Due to Counterparty ..... 30
-Default (for all reasons) ..... 30
-Allowing for Management Actions / Policyholder Behaviour ..... 34
-Allowing for Material Guarantees and Contractual Options ..... 35
-Taxation ..... 36
-Technical Provisions as a Whole ..... 36
-Expert Judgement ..... 38
-General Business Insurance Technical Provisions ..... 38
-Long-Term Insurance Technical Provisions ..... 41
-Approaches to Estimating BBNI Business and Expected Losses Thereon. ..... 41
-Risk Free Discount Rates and Adjustments ..... 43
-Risk Margin ..... 49
-Variable Annuity Guarantees. ..... 54
-Transitional Arrangements ..... 59
+	INTRODUCTION ..... 5
+	I. AMENDMENTS TO COMMERCIAL INSURERS' STATUTORY REGULATORY FRAMEWORK ..... 5
+	GAAP Financial Statements - Section 17A of the Insurance Act (1978) ..... 5
+	Consolidated and Unconsolidated Statutory Financial Statements ..... 6
+	Reporting Regime Illustrative Work Flow ..... 7
+	Prudential Filters ..... 9
+	Treatment of Investments in Affiliates for Consolidated SFS ..... 10
+	Insurance Risk Transfer and Schedule of Deposit Accounting ..... 11
+	Segregated Accounts Companies ..... 11
+	Revisions to the Statutory Financial Return ..... 11
+	Approved Auditors ..... 12
+	II. ECONOMIC BALANCE SHEET (EBS) VALUATION PRINCIPLES GUIDANCE ..... 13
+	Overarching Principles ..... 14
+	Intangible Assets. ..... 14
+	Contingent Liabilities ..... 15
+	Income Taxes ..... 15
+	Investments in Affiliates..... ..... 15
+	Insurance Risk Transfer ..... 16
+	Modified Coinsurance (Mod-co) Arrangements ..... 16
+	Deferred Acquisition Costs ..... 16
+	Contractual Liabilities Other Than Technical Provisions. ..... 16
+	III. GUIDANCE FOR THE STATUTORY ECONOMIC BALANCE SHEET BY LINE OTHER THAN TECHNICAL PROVISIONS ..... 16
+	Cash and Cash Equivalents (Line 1) ..... 16
+	Quoted Investments (Line 2) ..... 16
+	Unquoted Investments (Line 3) ..... 17
+	Investments in and Advances to Affiliates (Line 4) ..... 17
+	Investment in Mortgage Loans on Real Estate (Line 5) ..... 17
+	Policy Loans (Line 6) ..... 17
+	Real Estate (Line 7) ..... 17
+	Collateral Loans (Line 8) ..... 18
+	Investment Income Due and Accrued (Line 9) ..... 18
+	Accounts and Premium Receivable (Line 10) ..... 18
+	Reinsurance Balances Receivable (Line 11) ..... 18
+	Funds Held by Ceding Reinsurance (Line 12) ..... 18
+	Sundry Assets (Line 13) ..... 18
+	Letters of Credit Guarantee and Other Instruments (Line 14) ..... 19
+	Insurance and Reinsurance Balances Payable (Line 28) ..... 19
+	Commissions, Expenses, Fees, and Taxes Payable (Line 29) ..... 19
+	Loans and Notes Payable (Line 30) ..... 20
+	Tax Liabilities (Line 31). ..... 20
+	Amounts Due to Affiliates (Line 32) ..... 20
+	Accounts Payable and Accrued Liabilities (Line 33) ..... 20
+	Funds Held Under Reinsurance (Line 34) ..... 20
+	Dividends Payable (Line 35) ..... 20
+	Sundry Liabilities (Line 36) ..... 21
+	Letters of Credit, Guarantees and Other Instruments (Line 37) ..... 21
+	Notes to the EBS ..... 21
+	IV. GUIDANCE ON TECHNICAL PROVISION FOR EBS ..... 22
+	Technical Provisions - General Principles ..... 22
+	Calculation of the Best Estimate. ..... 22
+	Cash Flows ..... 23
+	Best Estimate - Probability Weighted Average ..... 24
+	Allowance for ENIDS ..... 25
+	Expenses in Best Estimate ..... 26
+	Allowing For Business In Different Currencies ..... 27
+	Reinsurance Recoveries ..... 27
+	Possible Simplification For Reinsurance Recoverables ..... 28
+	Allowance for Reinstatement Premiums in Reinsurance Recoverable Balances ..... 30
+	Adjustment for Expected Losses on Reinsurance Recoveries Due to Counterparty ..... 30
+	Default (for all reasons) ..... 30
+	Allowing for Management Actions / Policyholder Behaviour ..... 34
+	Allowing for Material Guarantees and Contractual Options ..... 35
+	Taxation ..... 36
+	Technical Provisions as a Whole ..... 36
+	Expert Judgement ..... 38
+	General Business Insurance Technical Provisions ..... 38
+	Long-Term Insurance Technical Provisions ..... 41
+	Approaches to Estimating BBNI Business and Expected Losses Thereon. ..... 41
+	Risk Free Discount Rates and Adjustments ..... 43
+	Risk Margin ..... 49
+	Variable Annuity Guarantees. ..... 54
+	Transitional Arrangements ..... 59
 
 ## INTRODUCTION
 

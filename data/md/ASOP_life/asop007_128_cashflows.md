@@ -1,74 +1,75 @@
 <img src="https://cdn.mathpix.com/cropped/2024_04_18_65182219026d6ce027aag-01.jpg?height=2423&width=1802&top_left_y=165&top_left_x=156" alt="image" style="width:100%;height:auto;">
 
+# Actuarial Standards of Practice No. 7
 (Doc. No. 128)
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Applicable Law ..... 2
-2.2 Asset ..... 2
-2.3 Asset Risk ..... 2
-2.4 Cash Flow ..... 2
-2.5 Cash Flow Analysis ..... 2
-2.6 Cash Flow Testing ..... 2
-2.7 Derivative Contract ..... 3
-2.8 Health Benefit Plan ..... 3
-2.9 Insurer ..... 3
-2.10 Investment Rate-of-Return Risk ..... 3
-2.11 Liability ..... 3
-2.12 Notional Asset Portfolio ..... 3
-2.13 Other Liability Cash Flows ..... 3
-2.14 Policy Cash Flow Risk ..... 3
-2.15 Policy Cash Flows ..... 3
-2.16 Scenario ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 4
-3.1 Analysis of Insurer Cash Flows ..... 4
-3.2 Determining the Level of Analysis of Cash Flows ..... 4
-3.2.1 Reasons for Cash Flow Testing ..... 4
-3.2.2 Cash Flow Testing is Not Always Necessary ..... 4
-3.2.3 Use of Analyses or Data Predating the Analysis Date ..... 5
-3.3 Identification of Assets ..... 5
-3.3.1 Choice of Asset Subsets to Use ..... 5
-3.3.2 Notional Asset Portfolios ..... 5
-3.3.3 Other Assets ..... 5
-3.4 Projection of Asset Cash Flows ..... 5
-3.4.1 Asset Characteristics ..... 6
-3.4.2 Investment Strategy ..... 6
-3.5 Projection of Policy Cash Flows ..... 7
-3.5.1 Policy Cash Flow Characteristics ..... 7
-3.5.2 Management Policy ..... 8
-3.6 Other Liability Cash Flows ..... 8
-3.7 Materiality ..... 8
-3.8 Reinsurance ..... 8
-3.9 Separate Accounts ..... 8
-3.10 Modeling and Data ..... 8
-3.10.1 Scenarios ..... 9
-3.10.2 Sensitivity Testing ..... 9
-3.10.3 Internal Consistency ..... 9
-3.10.4 External Requirements ..... 9
-3.10.5 Projection Period ..... 10
-3.10.6 Limitations of Models, Assumptions, and Data ..... 10
-3.11 Negative Interim Earnings ..... 10
-Section 4. Communications and Disclosures ..... 10
-4.1 Reliance on Others for Data, Projections, and Supporting Analysis ..... 10
-4.2 Actuarial Report ..... 10
-4.3 Documentation ..... 10
-4.4 Retention ..... 12
-4.5 Disclosures ..... 12
-APPENDIXES
-Appendix 1 ..... 13
-Background and Current Practices ..... 13
-Background ..... 13
-Current Practices ..... 13
-Appendix 2-Comments on the Exposure Draft and Task Force Responses ..... 15
-Appendix 3-Comments on the Revised Standard as Adopted in September 2001 and ASB Responses ..... 19
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Applicable Law ..... 2
+	2.2 Asset ..... 2
+	2.3 Asset Risk ..... 2
+	2.4 Cash Flow ..... 2
+	2.5 Cash Flow Analysis ..... 2
+	2.6 Cash Flow Testing ..... 2
+	2.7 Derivative Contract ..... 3
+	2.8 Health Benefit Plan ..... 3
+	2.9 Insurer ..... 3
+	2.10 Investment Rate-of-Return Risk ..... 3
+	2.11 Liability ..... 3
+	2.12 Notional Asset Portfolio ..... 3
+	2.13 Other Liability Cash Flows ..... 3
+	2.14 Policy Cash Flow Risk ..... 3
+	2.15 Policy Cash Flows ..... 3
+	2.16 Scenario ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 4
+	3.1 Analysis of Insurer Cash Flows ..... 4
+	3.2 Determining the Level of Analysis of Cash Flows ..... 4
+	3.2.1 Reasons for Cash Flow Testing ..... 4
+	3.2.2 Cash Flow Testing is Not Always Necessary ..... 4
+	3.2.3 Use of Analyses or Data Predating the Analysis Date ..... 5
+	3.3 Identification of Assets ..... 5
+	3.3.1 Choice of Asset Subsets to Use ..... 5
+	3.3.2 Notional Asset Portfolios ..... 5
+	3.3.3 Other Assets ..... 5
+	3.4 Projection of Asset Cash Flows ..... 5
+	3.4.1 Asset Characteristics ..... 6
+	3.4.2 Investment Strategy ..... 6
+	3.5 Projection of Policy Cash Flows ..... 7
+	3.5.1 Policy Cash Flow Characteristics ..... 7
+	3.5.2 Management Policy ..... 8
+	3.6 Other Liability Cash Flows ..... 8
+	3.7 Materiality ..... 8
+	3.8 Reinsurance ..... 8
+	3.9 Separate Accounts ..... 8
+	3.10 Modeling and Data ..... 8
+	3.10.1 Scenarios ..... 9
+	3.10.2 Sensitivity Testing ..... 9
+	3.10.3 Internal Consistency ..... 9
+	3.10.4 External Requirements ..... 9
+	3.10.5 Projection Period ..... 10
+	3.10.6 Limitations of Models, Assumptions, and Data ..... 10
+	3.11 Negative Interim Earnings ..... 10
+	Section 4. Communications and Disclosures ..... 10
+	4.1 Reliance on Others for Data, Projections, and Supporting Analysis ..... 10
+	4.2 Actuarial Report ..... 10
+	4.3 Documentation ..... 10
+	4.4 Retention ..... 12
+	4.5 Disclosures ..... 12
+	APPENDIXES
+	Appendix 1 ..... 13
+	Background and Current Practices ..... 13
+	Background ..... 13
+	Current Practices ..... 13
+	Appendix 2-Comments on the Exposure Draft and Task Force Responses ..... 15
+	Appendix 3-Comments on the Revised Standard as Adopted in September 2001 and ASB Responses ..... 19
 
 TO: $\quad$ Members of the American Academy of Actuaries and Other Persons Interested in the Analysis of Life, Health, or Property/Casualty Insurer Cash Flows
 

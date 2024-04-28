@@ -1,10 +1,8 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_5f3c5cb480ed21af38b7g-01.jpg?height=138&width=177&top_left_y=251&top_left_x=974" alt="image" style="width:100%;height:auto;">
-
-AMERICAN ACADEMY of ACTUARIES
 
 # DIG B36 Practice Note 
+AMERICAN ACADEMY of ACTUARIES
 
-## January 2005
+January 2005
 
 ## Introduction
 

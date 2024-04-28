@@ -1,4 +1,4 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_11e6241e770585912814g-01.jpg?height=216&width=415&top_left_y=117&top_left_x=302" alt="image" style="width:100%;height:auto;">
+# VM21
 
 National Association of Insurance Commissioners
 

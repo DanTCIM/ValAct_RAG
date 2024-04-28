@@ -1,12 +1,10 @@
-# A PUBLIC POLICY PRACTICE NOTE 
+A PUBLIC POLICY PRACTICE NOTE 
 
-## Treatment of VOBA, Goodwill and Other Intangible Assets under PGAAP
+# Treatment of VOBA, Goodwill and Other Intangible Assets under PGAAP
 
-## October 2014
+October 2014
 
 American Academy of Actuaries<br>Life Financial Reporting Committee
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-01.jpg?height=267&width=310&top_left_y=2081&top_left_x=940" alt="image" style="width:100%;height:auto;">
 
 AMERICAN ACADEMy of ACTUARIES
 
@@ -17,8 +15,6 @@ Objective. Independent. Effective, тм
 October 2014
 
 Developed by the Life Financial Reporting Committee of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_81304914451088755499g-02.jpg?height=374&width=789&top_left_y=1591&top_left_x=690" alt="image" style="width:100%;height:auto;">
 
 The American Academy of Actuaries is an 18,000-member professional association whose mission is to serve the public and the U.S. actuarial profession. The Academy assists public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -66,17 +62,18 @@ Washington, D.C. 20036-5805
 ## TABLE OF CONTENTS
 
 Contents
-Part A. Background ..... 1
-Part B. Calculation of Value of Business Acquired: Initial Measurement ..... 4
-Method 1: VOBA via Actuarial Appraisal Method. ..... 5
-Method 2: VOBA as PGAAP Liability less FVL ..... 8
-Part C. Tax Considerations in the Calculation of Initial VOBA ..... 13
-Part D. Other Items on the PGAAP Balance Sheet ..... 23
-Part E. Subsequent Measurement ..... 26
-Appendix I: Distributable Earnings and VIF ..... 31
-Appendix II: Additional Tax Issues ..... 35
-Appendix III: Summary of Formulas ..... 42
-Appendix IV: Glossary of Abbreviations and Acronyms ..... 44
+
+	Part A. Background ..... 1
+	Part B. Calculation of Value of Business Acquired: Initial Measurement ..... 4
+	Method 1: VOBA via Actuarial Appraisal Method. ..... 5
+	Method 2: VOBA as PGAAP Liability less FVL ..... 8
+	Part C. Tax Considerations in the Calculation of Initial VOBA ..... 13
+	Part D. Other Items on the PGAAP Balance Sheet ..... 23
+	Part E. Subsequent Measurement ..... 26
+	Appendix I: Distributable Earnings and VIF ..... 31
+	Appendix II: Additional Tax Issues ..... 35
+	Appendix III: Summary of Formulas ..... 42
+	Appendix IV: Glossary of Abbreviations and Acronyms ..... 44
 
 ## Part A. Background
 

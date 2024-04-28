@@ -1,8 +1,4 @@
-# $\therefore B$ <br> ActUARIAL StANDARDS BOARD 
-
-Actuarial Standard<br>of Practice
-
-No. 22
+# Actuarial Standard of Practice No. 22
 
 Revised Edition
 
@@ -26,64 +22,61 @@ Doc. No. 203
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Asset ..... 2
-2.2 Asset Adequacy Analysis ..... 2
-2.3 Cash Flow ..... 2
-2.4 Cash Flow Risk ..... 2
-2.5 Cash Flow Testing ..... 2
-2.6 Gross Premium Reserve ..... 2
-2.7 Gross Premium Reserve Test ..... 2
-2.8 Liability ..... 2
-2.9 Moderately Adverse Conditions ..... 2
-2.10 Scenario ..... 2
-2.11 Subsequent Events ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Asset Adequacy Analysis ..... 3
-3.1.1 Analysis Methods ..... 3
-3.1.2 Assumptions ..... 4
-3.1.2.1 Trends ..... 4
-3.1.2.2 Margins ..... 4
-3.1.2.3 Discount Rates ..... 5
-3.1.2.4 Sensitivity Testing of Assumptions ..... 5
-3.1.3 Reinsurance Ceded ..... 5
-3.1.4 Aggregation During Testing ..... 5
-3.1.5 Use of Cash Flows from Other Financial Calculations ..... 5
-3.1.6 Separate Account Assets ..... 6
-3.1.7 Management Action ..... 6
-3.1.8 Use of Data or Analyses Predating the Valuation Date ..... 7
-3.1.9 Testing Horizon ..... 7
-3.1.10 Changes in Methods, Models, or Assumptions ..... 7
-3.1.11 Completeness ..... 7
-3.1.12 Reliance on Others for Data, Projections, and Supporting Analysis ..... 8
-3.1.13 Subsequent Events ..... 8
-3.2 Forming an Opinion with Respect to Asset Adequacy Analysis ..... 8
-3.2.1 Reasonableness of Results ..... 8
-3.2.2 Adequacy of Reserves and Other Liabilities ..... 8
-
-## ASOP No. 22-Doc. №. 203
-
-3.2.3 Analysis of Scenario Results ..... 8
-3.2.4 Aggregation of Results ..... 8
-3.2.5 Results from Prior Years ..... 8
-3.2.6 Opinions of Other Actuaries ..... 9
-3.2.7 Deficiencies ..... 9
-3.3 Statement of Actuarial Opinion Based on Asset Adequacy Analysis ..... 9
-3.4 Documentation ..... 9
-Section 4. Communications and Disclosures ..... 9
-4.1 Required Disclosures in an Actuarial Report ..... 9
-4.2 Additional Disclosures in an Actuarial Report ..... 11
-APPENDIXES
-Appendix 1—Background and Current Practices ..... 12
-Background ..... 12
-Current Practices ..... 13
-Appendix 2-Comments on the Second Exposure Draft and Responses ..... 15
+	Transmittal Memorandum ..... iv
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Asset ..... 2
+	2.2 Asset Adequacy Analysis ..... 2
+	2.3 Cash Flow ..... 2
+	2.4 Cash Flow Risk ..... 2
+	2.5 Cash Flow Testing ..... 2
+	2.6 Gross Premium Reserve ..... 2
+	2.7 Gross Premium Reserve Test ..... 2
+	2.8 Liability ..... 2
+	2.9 Moderately Adverse Conditions ..... 2
+	2.10 Scenario ..... 2
+	2.11 Subsequent Events ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Asset Adequacy Analysis ..... 3
+	3.1.1 Analysis Methods ..... 3
+	3.1.2 Assumptions ..... 4
+	3.1.2.1 Trends ..... 4
+	3.1.2.2 Margins ..... 4
+	3.1.2.3 Discount Rates ..... 5
+	3.1.2.4 Sensitivity Testing of Assumptions ..... 5
+	3.1.3 Reinsurance Ceded ..... 5
+	3.1.4 Aggregation During Testing ..... 5
+	3.1.5 Use of Cash Flows from Other Financial Calculations ..... 5
+	3.1.6 Separate Account Assets ..... 6
+	3.1.7 Management Action ..... 6
+	3.1.8 Use of Data or Analyses Predating the Valuation Date ..... 7
+	3.1.9 Testing Horizon ..... 7
+	3.1.10 Changes in Methods, Models, or Assumptions ..... 7
+	3.1.11 Completeness ..... 7
+	3.1.12 Reliance on Others for Data, Projections, and Supporting Analysis ..... 8
+	3.1.13 Subsequent Events ..... 8
+	3.2 Forming an Opinion with Respect to Asset Adequacy Analysis ..... 8
+	3.2.1 Reasonableness of Results ..... 8
+	3.2.2 Adequacy of Reserves and Other Liabilities ..... 8
+	3.2.3 Analysis of Scenario Results ..... 8
+	3.2.4 Aggregation of Results ..... 8
+	3.2.5 Results from Prior Years ..... 8
+	3.2.6 Opinions of Other Actuaries ..... 9
+	3.2.7 Deficiencies ..... 9
+	3.3 Statement of Actuarial Opinion Based on Asset Adequacy Analysis ..... 9
+	3.4 Documentation ..... 9
+	Section 4. Communications and Disclosures ..... 9
+	4.1 Required Disclosures in an Actuarial Report ..... 9
+	4.2 Additional Disclosures in an Actuarial Report ..... 11
+	APPENDIXES
+	Appendix 1—Background and Current Practices ..... 12
+	Background ..... 12
+	Current Practices ..... 13
+	Appendix 2-Comments on the Second Exposure Draft and Responses ..... 15
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Statements of Actuarial Opinion Based on Asset Adequacy Analysis for Life Insurance, Annuity, or Health Insurance Reserves and Other Liabilities
 

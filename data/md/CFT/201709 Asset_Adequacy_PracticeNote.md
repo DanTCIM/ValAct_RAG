@@ -6,8 +6,6 @@
 
 Developed by the Asset Adequacy Analysis Practice Note Work Group of the American Academy of Actuaries
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-01.jpg?height=261&width=707&top_left_y=2092&top_left_x=709" alt="image" style="width:100%;height:auto;">
-
 Objective. Independent. Effective. ${ }^{\text {m }}$
 
 ## Asset Adequacy Analysis
@@ -15,8 +13,6 @@ Objective. Independent. Effective. ${ }^{\text {m }}$
 ## September 2017
 
 ## Developed by the Asset Adequacy Analysis Practice Note Work Group of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-02.jpg?height=252&width=702&top_left_y=1766&top_left_x=706" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {тм }}$
 
@@ -73,155 +69,135 @@ Mary K. Weise, MAAA, ASA, CERA
 
 Xiaobo Zhou, MAAA, FSA
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_96f3799aeaabb18239f4g-04.jpg?height=254&width=702&top_left_y=2074&top_left_x=709" alt="image" style="width:100%;height:auto;">
-
-Objective. Independent. Effective. ${ }^{\text {TM }}$
-
-1850 M Street NW, Suite 300
-
-Washington, DC 20036-5805
-
 ## ASSET ADEQUACY ANALYSIS PRACTICE NOTE TABLE OF CONTENTS
 
-Section A: Introduction and Background ..... 8
-Q1. What current practices are the basis of this practice note? ..... 8
-Q2. Is this practice note expected to become a standard that actuaries must follow? ..... 8
-Q3. What is the goal of asset adequacy analysis? ..... 9
-Q4. How is an asset (reserve) adequacy analysis different from a solvency test? ..... 9
-Q5. What resources are available to assist the appointed actuary in understanding the requirements of asset adequacy analysis? ..... 10
-Section B: Procedures for Accepting/Resigning the Position of Appointed Actuary 12
-Q6. What are procedures that an actuary follows in accepting or resigning a position as appointed actuary? ..... 12
-Q7. What information may the appointed actuary wish to obtain from the previous appointed actuary? ..... 12
-Q8. What is the relationship between the appointed actuary and the board of directors? ..... 13
-Q9. What documentation is provided with regard to the appointed actuary's personal qualifications?. ..... 14
-Section C: General Considerations for Performing Asset Adequacy Analysis ..... 15
-Q10. How does the actuary decide what to test? ..... 15
-Q11. What methods are used when performing asset adequacy testing? ..... 16
-Q12. What are the primary differences between cash flow testing and gross premium valuation? ..... 17
-Q13. Are different lines of business aggregated for purposes of asset adequacy analysis? ..... 18
-Q14. How are assets allocated among lines if cash flow testing is done separately for each line? ..... 20
-Q15. Can the actuary use a testing date prior to Dec. 31 for the purpose of the year-end actuarial opinion? ..... 21
-Q16. How do actuaries interpret "moderately adverse conditions" in asset adequacy analysis for purposes of compliance with ASOP No. 22? ..... 22
-Section D: Modeling Considerations - General .....  23
-Q17. What modeling platforms are used to model liabilities? ..... 23
-Q18. How long are the projection periods used by actuaries? ..... 23
-Q19. What types of model validation do appointed actuaries perform? ..... 24
-Q20. How is the discount rate determined that is used to calculate the present value of ending surplus at the valuation date? ..... 24
-Q21. How does the actuary set the discount rates for a gross premium valuation? ..... 25
-Q22. The AOMR states that the interest maintenance reserve (IMR) should be used in asset adequacy analysis. Why? ..... 26
-Q23. How does the actuary determine which portion of the IMR can be used to support certain products? How is the portion of the IMR used? ..... 26
-
-## ASSET ADEQUACY ANALYSIS PRACTICE NOTE
-
-Q24. How is the asset valuation reserve treated in cash flow testing?.. ..... 27
-Q25. How does the actuary determine the portion of the AVR that can be used to support a certain business unit? ..... 28
-Q26. If products with relatively short durations are cashed out at the end of the projection period, and the IMR and AVR are being modeled, what happens to the IMR and AVR at the end of the period?. 29
-Q27. What are some methods for reflecting any net deferred tax asset (DTA) or net deferred tax liability
-(DTL) in the asset adequacy determination? ..... 30
-Q28. How are shareholder dividends treated? ..... 30
-Q29. How are policyholder dividends treated? ..... 31
-Q30. Do actuaries reflect reinsurance in modeling? ..... 31
-Q31. How is modified coinsurance treated in asset adequacy analysis? ..... 32
-Section E: Modeling Considerations-Scenarios. ..... 33
-Q32. What approaches to modeling economic scenarios are currently included in appointed actuaries' practice when doing asset adequacy analysis? ..... 33
-Q33. Which of the above approaches are appropriate if asset adequacy analysis is required, and how many and what types of scenarios are tested? ..... 34
-Q34. Is there any time when a single interest rate scenario path may be appropriate? ..... 35
-Q35. What types of stochastic scenario models are included in current actuarial practice? ..... 35
-Q36. What is reversion to the mean? ..... 36
-Q37. How can an economic scenario generator be validated? ..... 37
-Q38. If some elements of a set of stochastic scenarios are clearly unreasonable, can these be ignored or replaced? ..... 37
-Section F: Modeling Considerations-Assets. .....  .39
-Q39. What types of assets are used by actuaries in asset adequacy analysis? ..... 39
-Q40. How are policy loans treated in asset adequacy analysis?. ..... 40
-Q41. What software platforms are used by appointed actuaries to model assets? ..... 40
-Q42. How is asset management strategy modeled for asset adequacy analysis? ..... 40
-Q43. How is the reinvestment strategy modeled? ..... 41
-Q44. What spread assumptions (i.e., spreads to Treasuries) are used to model reinvestments of fixedincome securities? ..... 42
-Q45. How is disinvestment modeled? ..... 42
-Q46. What are the sources of guidance on how to select assumptions for asset modeling? ..... 43
-Q47. What are the main asset-specific characteristics that affect cash flows? ..... 44
-Q48. What types of asset-embedded options are modeled for cash flow testing? ..... 45
-Q49. How are bond options modeled? ..... 46
-Q50. How are expected credit losses on bonds modeled? ..... 46
-Q51. Do bond credit losses vary by interest rate scenario?... ..... 48
-
-## ASSET ADEQUACY ANALYSIS PRACTICE NOTE
-
-Q52. How are variable rate bonds modeled? ..... 48
-Q53. What are the relevant aspects of residential mortgages and securities collateralized by them (CMO/MBS)?. ..... 48
-Q54. What are the key risks associated with CMOs and MBSs? ..... 49
-Q55. What typically constitutes an adequate CMO model? ..... 50
-Q56. What are some considerations for modeling prepayment assumptions for securities collateralized by residential mortgages? ..... 51
-Q57. What are some common methods for determining the market value of CMOs and MBSs at a future point in time? ..... 52
-Q58. What are the relevant aspects of commercial mortgages?. ..... 53
-Q59. What are the risks associated with commercial mortgages? ..... 54
-Q60. What are some approaches used to model default losses on mortgages? ..... 55
-Q61. How is existing foreclosed real estate modeled? ..... 55
-Q62. How might limited partnerships be evaluated? ..... 56
-Q63. What are the relevant considerations for asset-backed securities?. ..... 56
-Q64. Are derivatives included in asset adequacy analysis, and if so, how are they typically modeled?.. 56
-Section G: Modeling Considerations-Policy Cash Flow Risk ..... 58
-Q65. What is policy cash flow risk? ..... 58
-Q66. How might the appointed actuary typically decide on the scope of policy cash flow risk testing?. 58
-Q67. What is meant by "sensitivity testing" for policy cash flow risk? ..... 58
-Q68. What type of sensitivity testing is commonly done? ..... 59
-Q69. What policy cash flows are typically sensitivity tested under a gross premium valuation? ..... 59
-Q70. Do actuaries use their company's own experience to set modeling assumptions for policy cash flow risk?. ..... 60
-Q71. When may the use of dynamic lapse assumptions be appropriate? ..... 60
-Q72. How might the actuary address longevity risk in the setting of mortality and mortality improvement assumptions? ..... 60
-Q73. What are "secondary guarantees" and what additional policy cash flow risks are associated with them? ..... 62
-Q74. What methods are used to perform asset adequacy analysis for products with secondary guarantees? ..... 62
-Section H: Modeling Considerations-Expenses. ..... 63
-Q75. What kinds of expenses are modeled for asset adequacy analysis? ..... 63
-Q76. Must acquisition expenses be considered? ..... 63
-Q77. How are expense assumptions checked for reasonableness? ..... 63
-Q78. Some pricing actuaries assume that expenses will decrease over time, as economies of scale are reached. May this be reflected in testing? ..... 63
-
-## ASSET ADEQUACY ANALYSIS PRACTICE NOTE
-
-Q79. Are insurance expenses generally adjusted for inflation? ..... 64
-Q80. Do actuaries perform sensitivity tests on the expense levels assumed in testing? ..... 64
-Q81. How are overhead expenses commonly reflected in testing? ..... 64
-Q82. How are investment expenses typically handled in cash flow testing? ..... 65
-Section I: Reliance on Other Parties ..... 66
-Q83. What is the relationship between the appointed actuary and those on whom the actuary relies? ..... 66
-Q84. What data reliability tests might the appointed actuary perform? ..... 67
-Q85. Upon whom may the appointed actuary rely for substantial accuracy of records and information?6 ..... 67
-Q86. What level of detail is used to review the underlying liability inforce records from a third party? ..... 69
-Q87. What level of detail is used to review the underlying asset inforce records from a third party? ..... 69
-Q88. What level of detail is used to review assumption support from a third party?. ..... 70
-Section J: Analysis of Results. ..... 71
-Q89. What measures are commonly used to test reserve adequacy for the actuarial opinion? ..... 71
-Q90. How do actuaries define the criteria used to determine reserve adequacy? ..... 71
-Q91. What factors are considered in setting the criteria for reserve adequacy? ..... 72
-Q92. How often have actuaries established additional reserves as a result of asset adequacy analysis? ..... 73
-Q93. To what extent do actuaries look at interim results to determine reserve adequacy?. ..... 74
-Q94. If, based on asset adequacy analysis, the reserves are judged to be inadequate, how does the actuary decide upon the amount of additional reserves? ..... 74
-Q95. When additional reserves are established or released, does the change in reserve go through the gain from operations, or is it booked directly to the surplus of the company? ..... 75
-Q96. What might the appointed actuary do if notified of a material reserve misstatement?. ..... 76
-Section K: Preparing the Opinion and Memorandum ..... 77
-Q97. How do actuaries define "qualified opinion"? ..... 77
-Q98. What determines whether a reserve is in the formula reserve, additional reserve, or other amount column of the reserve table that appears in the scope paragraph of the actuarial opinion? ..... 77
-Q99. What types of actuarial reports do actuaries prepare in connection with asset adequacy analysis? 78
-Q100. What level of detail is typically included in the actuarial memorandum? ..... 79
-Q101. What is typically contained in the executive summary for management? ..... 80
-Q102. What is discussed in the regulatory asset adequacy issues summary (RAAIS)? ..... 80
-Q103. What are regulators' suggestions for improvement in actuarial opinions and memoranda? ..... 80
-Section L: Impact of AG43, PBR, and Other Nonformulaic Valuation Standards.. .....  .82
-Q104. What is the "history" of statutory valuation and how is the role of asset adequacy analysis changing? ..... 82
-Q105. Which emerging standards follow the principle-based approach?. ..... 83
-Q106. Does meeting the requirements of a PBA reserve simultaneously satisfy the requirements of AOMR? ..... 83
-
-## ASSET ADEQUACY ANALYSIS PRACTICE NOTE
-
-Q107. How does AOMR interact with AG43 / VM-21? ..... 85
-Q108. How does AOMR interact with AG38? ..... 85
-Q109. How does AG38 8C interact with AG38 8D, and in turn with AOMR? ..... 86
-Q110. If an actuary establishes an additional reserve, is this additional reserve included in subsequent analyses? ..... 87
-Q111. What differences exist between completing the asset adequacy analysis required under AOMR versus that required under $\mathrm{AG3} 8 \mathrm{8C}$ ? ..... 88
-Q112. What differences exist in establishment of additional reserves under AOMR versus AG38 8C stand-alone asset adequacy analysis? ..... 88
-Q113. What differences exist in the reporting requirement of AOMR versus other regulatory analyses? 88
-Appendix A: Acronym Definitions .....  .89
+	Section A: Introduction and Background ..... 8
+	Q1. What current practices are the basis of this practice note? ..... 8
+	Q2. Is this practice note expected to become a standard that actuaries must follow? ..... 8
+	Q3. What is the goal of asset adequacy analysis? ..... 9
+	Q4. How is an asset (reserve) adequacy analysis different from a solvency test? ..... 9
+	Q5. What resources are available to assist the appointed actuary in understanding the requirements of asset adequacy analysis? ..... 10
+	Section B: Procedures for Accepting/Resigning the Position of Appointed Actuary 12
+	Q6. What are procedures that an actuary follows in accepting or resigning a position as appointed actuary? ..... 12
+	Q7. What information may the appointed actuary wish to obtain from the previous appointed actuary? ..... 12
+	Q8. What is the relationship between the appointed actuary and the board of directors? ..... 13
+	Q9. What documentation is provided with regard to the appointed actuary's personal qualifications?. ..... 14
+	Section C: General Considerations for Performing Asset Adequacy Analysis ..... 15
+	Q10. How does the actuary decide what to test? ..... 15
+	Q11. What methods are used when performing asset adequacy testing? ..... 16
+	Q12. What are the primary differences between cash flow testing and gross premium valuation? ..... 17
+	Q13. Are different lines of business aggregated for purposes of asset adequacy analysis? ..... 18
+	Q14. How are assets allocated among lines if cash flow testing is done separately for each line? ..... 20
+	Q15. Can the actuary use a testing date prior to Dec. 31 for the purpose of the year-end actuarial opinion? ..... 21
+	Q16. How do actuaries interpret "moderately adverse conditions" in asset adequacy analysis for purposes of compliance with ASOP No. 22? ..... 22
+	Section D: Modeling Considerations - General .....  23
+	Q17. What modeling platforms are used to model liabilities? ..... 23
+	Q18. How long are the projection periods used by actuaries? ..... 23
+	Q19. What types of model validation do appointed actuaries perform? ..... 24
+	Q20. How is the discount rate determined that is used to calculate the present value of ending surplus at the valuation date? ..... 24
+	Q21. How does the actuary set the discount rates for a gross premium valuation? ..... 25
+	Q22. The AOMR states that the interest maintenance reserve (IMR) should be used in asset adequacy analysis. Why? ..... 26
+	Q23. How does the actuary determine which portion of the IMR can be used to support certain products? How is the portion of the IMR used? ..... 26
+	Q24. How is the asset valuation reserve treated in cash flow testing?.. ..... 27
+	Q25. How does the actuary determine the portion of the AVR that can be used to support a certain business unit? ..... 28
+	Q26. If products with relatively short durations are cashed out at the end of the projection period, and the IMR and AVR are being modeled, what happens to the IMR and AVR at the end of the period?. 29
+	Q27. What are some methods for reflecting any net deferred tax asset (DTA) or net deferred tax liability
+	(DTL) in the asset adequacy determination? ..... 30
+	Q28. How are shareholder dividends treated? ..... 30
+	Q29. How are policyholder dividends treated? ..... 31
+	Q30. Do actuaries reflect reinsurance in modeling? ..... 31
+	Q31. How is modified coinsurance treated in asset adequacy analysis? ..... 32
+	Section E: Modeling Considerations-Scenarios. ..... 33
+	Q32. What approaches to modeling economic scenarios are currently included in appointed actuaries' practice when doing asset adequacy analysis? ..... 33
+	Q33. Which of the above approaches are appropriate if asset adequacy analysis is required, and how many and what types of scenarios are tested? ..... 34
+	Q34. Is there any time when a single interest rate scenario path may be appropriate? ..... 35
+	Q35. What types of stochastic scenario models are included in current actuarial practice? ..... 35
+	Q36. What is reversion to the mean? ..... 36
+	Q37. How can an economic scenario generator be validated? ..... 37
+	Q38. If some elements of a set of stochastic scenarios are clearly unreasonable, can these be ignored or replaced? ..... 37
+	Section F: Modeling Considerations-Assets. .....  .39
+	Q39. What types of assets are used by actuaries in asset adequacy analysis? ..... 39
+	Q40. How are policy loans treated in asset adequacy analysis?. ..... 40
+	Q41. What software platforms are used by appointed actuaries to model assets? ..... 40
+	Q42. How is asset management strategy modeled for asset adequacy analysis? ..... 40
+	Q43. How is the reinvestment strategy modeled? ..... 41
+	Q44. What spread assumptions (i.e., spreads to Treasuries) are used to model reinvestments of fixedincome securities? ..... 42
+	Q45. How is disinvestment modeled? ..... 42
+	Q46. What are the sources of guidance on how to select assumptions for asset modeling? ..... 43
+	Q47. What are the main asset-specific characteristics that affect cash flows? ..... 44
+	Q48. What types of asset-embedded options are modeled for cash flow testing? ..... 45
+	Q49. How are bond options modeled? ..... 46
+	Q50. How are expected credit losses on bonds modeled? ..... 46
+	Q51. Do bond credit losses vary by interest rate scenario?... ..... 48
+	Q52. How are variable rate bonds modeled? ..... 48
+	Q53. What are the relevant aspects of residential mortgages and securities collateralized by them (CMO/MBS)?. ..... 48
+	Q54. What are the key risks associated with CMOs and MBSs? ..... 49
+	Q55. What typically constitutes an adequate CMO model? ..... 50
+	Q56. What are some considerations for modeling prepayment assumptions for securities collateralized by residential mortgages? ..... 51
+	Q57. What are some common methods for determining the market value of CMOs and MBSs at a future point in time? ..... 52
+	Q58. What are the relevant aspects of commercial mortgages?. ..... 53
+	Q59. What are the risks associated with commercial mortgages? ..... 54
+	Q60. What are some approaches used to model default losses on mortgages? ..... 55
+	Q61. How is existing foreclosed real estate modeled? ..... 55
+	Q62. How might limited partnerships be evaluated? ..... 56
+	Q63. What are the relevant considerations for asset-backed securities?. ..... 56
+	Q64. Are derivatives included in asset adequacy analysis, and if so, how are they typically modeled?.. 56
+	Section G: Modeling Considerations-Policy Cash Flow Risk ..... 58
+	Q65. What is policy cash flow risk? ..... 58
+	Q66. How might the appointed actuary typically decide on the scope of policy cash flow risk testing?. 58
+	Q67. What is meant by "sensitivity testing" for policy cash flow risk? ..... 58
+	Q68. What type of sensitivity testing is commonly done? ..... 59
+	Q69. What policy cash flows are typically sensitivity tested under a gross premium valuation? ..... 59
+	Q70. Do actuaries use their company's own experience to set modeling assumptions for policy cash flow risk?. ..... 60
+	Q71. When may the use of dynamic lapse assumptions be appropriate? ..... 60
+	Q72. How might the actuary address longevity risk in the setting of mortality and mortality improvement assumptions? ..... 60
+	Q73. What are "secondary guarantees" and what additional policy cash flow risks are associated with them? ..... 62
+	Q74. What methods are used to perform asset adequacy analysis for products with secondary guarantees? ..... 62
+	Section H: Modeling Considerations-Expenses. ..... 63
+	Q75. What kinds of expenses are modeled for asset adequacy analysis? ..... 63
+	Q76. Must acquisition expenses be considered? ..... 63
+	Q77. How are expense assumptions checked for reasonableness? ..... 63
+	Q78. Some pricing actuaries assume that expenses will decrease over time, as economies of scale are reached. May this be reflected in testing? ..... 63
+	Q79. Are insurance expenses generally adjusted for inflation? ..... 64
+	Q80. Do actuaries perform sensitivity tests on the expense levels assumed in testing? ..... 64
+	Q81. How are overhead expenses commonly reflected in testing? ..... 64
+	Q82. How are investment expenses typically handled in cash flow testing? ..... 65
+	Section I: Reliance on Other Parties ..... 66
+	Q83. What is the relationship between the appointed actuary and those on whom the actuary relies? ..... 66
+	Q84. What data reliability tests might the appointed actuary perform? ..... 67
+	Q85. Upon whom may the appointed actuary rely for substantial accuracy of records and information?6 ..... 67
+	Q86. What level of detail is used to review the underlying liability inforce records from a third party? ..... 69
+	Q87. What level of detail is used to review the underlying asset inforce records from a third party? ..... 69
+	Q88. What level of detail is used to review assumption support from a third party?. ..... 70
+	Section J: Analysis of Results. ..... 71
+	Q89. What measures are commonly used to test reserve adequacy for the actuarial opinion? ..... 71
+	Q90. How do actuaries define the criteria used to determine reserve adequacy? ..... 71
+	Q91. What factors are considered in setting the criteria for reserve adequacy? ..... 72
+	Q92. How often have actuaries established additional reserves as a result of asset adequacy analysis? ..... 73
+	Q93. To what extent do actuaries look at interim results to determine reserve adequacy?. ..... 74
+	Q94. If, based on asset adequacy analysis, the reserves are judged to be inadequate, how does the actuary decide upon the amount of additional reserves? ..... 74
+	Q95. When additional reserves are established or released, does the change in reserve go through the gain from operations, or is it booked directly to the surplus of the company? ..... 75
+	Q96. What might the appointed actuary do if notified of a material reserve misstatement?. ..... 76
+	Section K: Preparing the Opinion and Memorandum ..... 77
+	Q97. How do actuaries define "qualified opinion"? ..... 77
+	Q98. What determines whether a reserve is in the formula reserve, additional reserve, or other amount column of the reserve table that appears in the scope paragraph of the actuarial opinion? ..... 77
+	Q99. What types of actuarial reports do actuaries prepare in connection with asset adequacy analysis? 78
+	Q100. What level of detail is typically included in the actuarial memorandum? ..... 79
+	Q101. What is typically contained in the executive summary for management? ..... 80
+	Q102. What is discussed in the regulatory asset adequacy issues summary (RAAIS)? ..... 80
+	Q103. What are regulators' suggestions for improvement in actuarial opinions and memoranda? ..... 80
+	Section L: Impact of AG43, PBR, and Other Nonformulaic Valuation Standards.. .....  .82
+	Q104. What is the "history" of statutory valuation and how is the role of asset adequacy analysis changing? ..... 82
+	Q105. Which emerging standards follow the principle-based approach?. ..... 83
+	Q106. Does meeting the requirements of a PBA reserve simultaneously satisfy the requirements of AOMR? ..... 83
+	Q107. How does AOMR interact with AG43 / VM-21? ..... 85
+	Q108. How does AOMR interact with AG38? ..... 85
+	Q109. How does AG38 8C interact with AG38 8D, and in turn with AOMR? ..... 86
+	Q110. If an actuary establishes an additional reserve, is this additional reserve included in subsequent analyses? ..... 87
+	Q111. What differences exist between completing the asset adequacy analysis required under AOMR versus that required under $\mathrm{AG3} 8 \mathrm{8C}$ ? ..... 88
+	Q112. What differences exist in establishment of additional reserves under AOMR versus AG38 8C stand-alone asset adequacy analysis? ..... 88
+	Q113. What differences exist in the reporting requirement of AOMR versus other regulatory analyses? 88
+	Appendix A: Acronym Definitions .....  .89
 
 ## ASSET ADEQUACY ANALYSIS PRACTICE NOTE <br> Section A: Introduction and Background
 

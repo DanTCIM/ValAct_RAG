@@ -1,92 +1,73 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_9fce911e313523e37433g-01.jpg?height=309&width=333&top_left_y=233&top_left_x=885" alt="image" style="width:100%;height:auto;">
-
-# ActUARIAL StANDARDS BOARD 
-
-## Actuarial Standard
-
-of Practice
-
-No. 48
+# Actuarial Standard of Practice No. 48
 
 ## Life Settlements Mortality
 
-Developed by the
+Developed by the Life Settlements Mortality Task Force of the Life Committee of the Actuarial Standards Board
 
-Life Settlements Mortality Task Force of the
-
-Life Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 December 2013
 
 Doc. No. 175
 
-## TABLEOFCONTENTS
+## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 1
-2.2 Actual-to-Expected A/E) Analysis ..... 1
-$2.1 \quad \mathrm{~A} / \mathrm{E}$ Ratio ..... 1
-2.3 Debits and Credits ..... 1
-$2.4 \quad$ Duration ..... 2
-2.5 Expected Deaths ..... 2
-2.6 Graduation ..... 2
-2.7 Historical A/E Mortality Basis ..... 2
-2.8 Impaired Mortality ..... 2
-2.9 Impairment ..... 2
-2.10 Incurred but not Reported Deaths ..... 2
-2.11 Incurred Death ..... 2
-2.12 Insured ..... 2
-2.13 Life Expectancy ..... 2
-2.14 Life Expectancy Provider ..... 2
-2.15 Life Settlement ..... 2
-2.16 Mean Life Expectancy ..... 2
-2.17 Median Life Expectancy ..... 2
-2.18 Modification Factor ..... 3
-2.19 Modified A/E Mortality Basis ..... 3
-2.20 Mortality Assumption ..... 3
-2.21 Mortality Multiple ..... 3
-2.22 Survival Curve ..... 3
-2.23 Underwriting ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Purpose of the Assignment ..... 3
-3.2 Required Knowledge ..... 3
-3.3 Developing Mortality Assumptions ..... 3
-3.3.1 Base Mortality Table Selection ..... 3
-3.3.2 Mortality Table Modifications ..... 4
-3.3.3 Mortality Improvement or Deterioration ..... 4
-
-## ASOP No. 48-December 2013
-
-3.3.4 Application of Individual Underwriting to Mortality Assumptions ..... 4
-3.3.5 Mortality Assumption Adjustments Using A/E Analysis ..... 4
-3.4 A/E Analysis ..... 4
-3.4.1 Incurred Deaths ..... 4
-3.4.2 Multiple Life Expectancies for a Single Life ..... 5
-3.4.3 Use of a Modified A/E Mortality Basis ..... 5
-3.5 Reliance on Data or Other Information Supplied by Others ..... 5
-3.6 Credibility of Data Used in Evaluation of Mortality ..... 5
-3.7 Documentation ..... 5
-Section 4. Communications and Disclosures ..... 5
-4.1 Disclosures ..... 5
-4.2 Disclosures when Performing an A/E Analysis ..... 6
-4.3 Other Disclosures ..... 6
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 8
-Background ..... 8
-Current Practices ..... 9
-Appendix 2-Comments on the Exposure Draft and Responses ..... 11
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 1
+	2.2 Actual-to-Expected A/E) Analysis ..... 1
+	$2.1 \quad \mathrm{~A} / \mathrm{E}$ Ratio ..... 1
+	2.3 Debits and Credits ..... 1
+	$2.4 \quad$ Duration ..... 2
+	2.5 Expected Deaths ..... 2
+	2.6 Graduation ..... 2
+	2.7 Historical A/E Mortality Basis ..... 2
+	2.8 Impaired Mortality ..... 2
+	2.9 Impairment ..... 2
+	2.10 Incurred but not Reported Deaths ..... 2
+	2.11 Incurred Death ..... 2
+	2.12 Insured ..... 2
+	2.13 Life Expectancy ..... 2
+	2.14 Life Expectancy Provider ..... 2
+	2.15 Life Settlement ..... 2
+	2.16 Mean Life Expectancy ..... 2
+	2.17 Median Life Expectancy ..... 2
+	2.18 Modification Factor ..... 3
+	2.19 Modified A/E Mortality Basis ..... 3
+	2.20 Mortality Assumption ..... 3
+	2.21 Mortality Multiple ..... 3
+	2.22 Survival Curve ..... 3
+	2.23 Underwriting ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Purpose of the Assignment ..... 3
+	3.2 Required Knowledge ..... 3
+	3.3 Developing Mortality Assumptions ..... 3
+	3.3.1 Base Mortality Table Selection ..... 3
+	3.3.2 Mortality Table Modifications ..... 4
+	3.3.3 Mortality Improvement or Deterioration ..... 4
+	3.3.4 Application of Individual Underwriting to Mortality Assumptions ..... 4
+	3.3.5 Mortality Assumption Adjustments Using A/E Analysis ..... 4
+	3.4 A/E Analysis ..... 4
+	3.4.1 Incurred Deaths ..... 4
+	3.4.2 Multiple Life Expectancies for a Single Life ..... 5
+	3.4.3 Use of a Modified A/E Mortality Basis ..... 5
+	3.5 Reliance on Data or Other Information Supplied by Others ..... 5
+	3.6 Credibility of Data Used in Evaluation of Mortality ..... 5
+	3.7 Documentation ..... 5
+	Section 4. Communications and Disclosures ..... 5
+	4.1 Disclosures ..... 5
+	4.2 Disclosures when Performing an A/E Analysis ..... 6
+	4.3 Other Disclosures ..... 6
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 8
+	Background ..... 8
+	Current Practices ..... 9
+	Appendix 2-Comments on the Exposure Draft and Responses ..... 11
 
 ## ASOP No. 48-December 2013
 
@@ -112,11 +93,7 @@ In May 2013, the ASB approved the exposure draft with a comment deadline of July
 
 Changes made to the final standard in response to the comment letters include the following:
 
-1. $\quad$ Sections 2.16, Mean Life Expectancy, and 2.17, Median Life Expectancy, were revised to
-
-## ASOP No. 48-December 2013
-
-remove examples of formulas that could be used to calculate mean and median life expectancy.
+1. $\quad$ Sections 2.16, Mean Life Expectancy, and 2.17, Median Life Expectancy, were revised to remove examples of formulas that could be used to calculate mean and median life expectancy.
 
 2. Section 2.20, Mortality Assumption, was revised to include mortality rates and survival curves period by period. Survival curves are commonly used in the life settlements market to illustrate the mortality assumption.
 3. Section 4.1, Disclosures, was revised after considering the feedback on a question raised in the exposure draft transmittal letter to require the actuary to disclose: a description of how the mortality assumption was developed and how the mortality assumption differs from that of the life expectancy provider, a description of how multiple life expectancy evaluations are handled (previously in section 4.2(f)), and the reason for choosing an IBNR assumption (if any).
@@ -127,8 +104,6 @@ Please see appendix 2 for a detailed discussion of the comments received and the
 The ASB thanks everyone who took the time to contribute comments and suggestions on the exposure draft.
 
 The ASB voted in December 2013 to adopt this standard.
-
-# ASOP No. 48-December 2013 
 
 Life Settlements Mortality Task Force
 
@@ -197,8 +172,6 @@ The terms below are defined for use in this actuarial standard of practice.
 2.2 Actual-to-Expected Ratio-Actual deaths (either face amount or number of lives) in a group of lives being evaluated, over a specified period divided by the expected deaths over the same period.
 
 2.3 Debits and Credits-The components of a system used by underwriters to determine a set of mortality multiples to apply to a base mortality table. Debits increase the mortality multiple due to various impairments that an insured may have; credits reduce the mortality multiple due to good health characteristics.
-
-## ASOP No. 48-December 2013
 
 2.4 Duration-The length of time since a life expectancy estimate was issued.
 
@@ -575,8 +548,6 @@ The term "reviewers" in appendix 2 includes the Life Settlements Task Force, the
 | Response | The reviewers agree and revised the last sentence to address the commentator's concern. |
 | Comment | One commentator suggested deleting the statement regarding "the main deficiency" of using <br> the "Latest submission" (see Current Practices) method. The commentator believes this <br> reflects an inappropriate bias. |
 | Response | The reviewers agree and deleted the last two sentences. |
-
-## ASOP No. 48-December 2013
 
 | Comment | One commentator stated that the discussion in the background section is limited to buyers of <br> policies and suggested that this be adjusted to reflect buyers "and sellers." <br> The reviewers believe the discussion provides a good overview of the market and made no <br> change. |
 | :--- | :--- |

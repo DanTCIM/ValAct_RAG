@@ -1,26 +1,10 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_473045aa4ab2896400d7g-01.jpg?height=309&width=350&top_left_y=274&top_left_x=885" alt="image" style="width:100%;height:auto;">
+# Actuarial Standard of Practice No. 40
 
-# ActUARIAL Standards BOARD 
+## Compliance with the NAIC Valuation of Life Insurance Policies Model Regulation with Respect to Deficiency Reserve Mortality
 
-Actuarial Standard
+Developed by the Task Force on XXX Regulation of the Life Committee of the Actuarial Standards Board
 
-of Practice
-
-No. 40
-
-Compliance with the NAIC Valuation of Life Insurance Policies Model Regulation with Respect to Deficiency Reserve Mortality
-
-Developed by the
-
-Task Force on XXX Regulation of the
-
-Life Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 December 2000
 
@@ -30,58 +14,58 @@ Updated for Deviation Language Effective May 1, 2011
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Anticipated Mortality ..... 2
-2.2 Antiselection ..... 2
-2.3 Appointed Actuary ..... 2
-2.4 Basic Reserves ..... 2
-2.5 Contract Segmentation Method ..... 2
-2.6 Credibility ..... 2
-2.7 Deficiency Reserves ..... 2
-2.8 Full Credibility ..... 2
-2.9 Model Select Mortality Factors ..... 2
-2.10 Policy ..... 2
-2.11 Ten-Year Select Factors ..... 2
-2.12 X Factor Class ..... 3
-$2.13 \mathrm{X}$ Factors ..... 3
-2.14 1980 CSO Valuation Tables ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Regulatory Requirements ..... 3
-3.2 Actuarial Opinion ..... 3
-3.3 X Factor Requirements ..... 3
-3.4 Creation of X Factor Classes ..... 4
-3.5 Selection of X Factors ..... 4
-3.5.1 Relevant Company Experience ..... 5
-3.5.2 Deriving Anticipated Mortality ..... 5
-3.6 Periodic Assessment of Anticipated Mortality ..... 6
-3.7 Adjustments to $\mathrm{X}$ Factors ..... 6
-3.8. Basis of Exposure ..... 6
-Section 4. Communications and Disclosures ..... 6
-4.1 Required Communications ..... 6
-4.1.1 Opinion ..... 7
-4.1.2 Actuarial Report ..... 7
-4.1.3 Additional Disclosures ..... 8
-
-4.2 Documentation 8
-
-4.3 Reliance on Data Supplied by Others 9
-
-## APPENDIXES
-
-$\begin{array}{ll}\text { Appendix 1- Background and Current Practices } & 10\end{array}$
-
-$\begin{array}{lr}\text { Background } & 10\end{array}$
-
-$\begin{array}{ll}\text { Current Practices } & 10\end{array}$
-
-Appendix 2-Comments on the Second Exposure Draft and Task Force Responses 13
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Anticipated Mortality ..... 2
+	2.2 Antiselection ..... 2
+	2.3 Appointed Actuary ..... 2
+	2.4 Basic Reserves ..... 2
+	2.5 Contract Segmentation Method ..... 2
+	2.6 Credibility ..... 2
+	2.7 Deficiency Reserves ..... 2
+	2.8 Full Credibility ..... 2
+	2.9 Model Select Mortality Factors ..... 2
+	2.10 Policy ..... 2
+	2.11 Ten-Year Select Factors ..... 2
+	2.12 X Factor Class ..... 3
+	$2.13 \mathrm{X}$ Factors ..... 3
+	2.14 1980 CSO Valuation Tables ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Regulatory Requirements ..... 3
+	3.2 Actuarial Opinion ..... 3
+	3.3 X Factor Requirements ..... 3
+	3.4 Creation of X Factor Classes ..... 4
+	3.5 Selection of X Factors ..... 4
+	3.5.1 Relevant Company Experience ..... 5
+	3.5.2 Deriving Anticipated Mortality ..... 5
+	3.6 Periodic Assessment of Anticipated Mortality ..... 6
+	3.7 Adjustments to $\mathrm{X}$ Factors ..... 6
+	3.8. Basis of Exposure ..... 6
+	Section 4. Communications and Disclosures ..... 6
+	4.1 Required Communications ..... 6
+	4.1.1 Opinion ..... 7
+	4.1.2 Actuarial Report ..... 7
+	4.1.3 Additional Disclosures ..... 8
+	
+	4.2 Documentation 8
+	
+	4.3 Reliance on Data Supplied by Others 9
+	
+	## APPENDIXES
+	
+	$\begin{array}{ll}\text { Appendix 1- Background and Current Practices } & 10\end{array}$
+	
+	$\begin{array}{lr}\text { Background } & 10\end{array}$
+	
+	$\begin{array}{ll}\text { Current Practices } & 10\end{array}$
+	
+	Appendix 2-Comments on the Second Exposure Draft and Task Force Responses 13
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in the Valuation of Life Insurance Policies
 

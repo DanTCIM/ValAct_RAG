@@ -2,11 +2,7 @@ NAIC
 
 National Association of Insurance Commissioners $\mathcal{Q}_{\overline{T h}}^{\overline{\text { Th }}} \overline{\mathrm{IN} T E R}$
 
-for INSURANCE
-
-POLICY
-
-and RESEARCH
+for INSURANCE POLICY and RESEARCH
 
 # Capital Markets Bureau Primer 
 

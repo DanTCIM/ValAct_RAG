@@ -1,78 +1,68 @@
-# IS <br> ActUARIAL StANDARDS BOARD 
-
-Actuarial Standard
-
-of Practice
-
-No. 38
+# Actuarial Standard of Practice No. 38
 
 Revised Edition
 
 ## Catastrophe Modeling (for All Practice Areas)
 
-Developed by the
+Developed by the Catastrophe Modeling Task Force of the General Committee of the Actuarial Standards Board
 
-Catastrophe Modeling Task Force of the
-
-General Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 July 2021
 
 Doc. No. 201
 
 ASOP No. 38-Doc. No. 201
-Transmittal Memorandum
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Assumptions ..... 2
-2.2 Catastrophe Model ..... 2
-2.3 Data ..... 2
-$2.4 \quad$ Expert ..... 2
-2.5 Input ..... 2
-2.6 Intended Purpose ..... 2
-2.7 Model ..... 3
-2.8 Output ..... 3
-2.9 Parameter ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Introduction ..... 3
-3.2 Catastrophe Models Developed by Experts ..... 3
-3.3 Understanding of the Catastrophe Model ..... 4
-3.3.1 Catastrophe Model Components ..... 4
-3.3.2 User Input ..... 4
-3.3.3 Catastrophe Model Output ..... 4
-3.4 Appropriateness of the Catastrophe Model for the Intended Purpose ..... 4
-3.4.1 Applicability of Historical Data ..... 5
-3.4.2 Developments in Relevant Fields ..... 5
-3.5 Output Validation ..... 5
-3.6 Appropriate Use of the Catastrophe Model and Output ..... 5
-3.7 Reliance on Another Actuary ..... 5
-3.8 Reliance on Data or Other Information Supplied by Others ..... 6
-3.9 Documentation ..... 6
-Section 4. Communications and Disclosures ..... 6
-4.1 Required Disclosures in an Actuarial Report ..... 6
-4.2 Additional Disclosures in an Actuarial Report ..... 6
-4.3 Confidential Information ..... 7
-TABLE OF CONTENTS
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 8
-Background ..... 8
 
-ASOP No. 38-Doc. No. 201
+### Table of Contents
 
-Current Practices 8
+	Transmittal Memorandum
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Assumptions ..... 2
+	2.2 Catastrophe Model ..... 2
+	2.3 Data ..... 2
+	$2.4 \quad$ Expert ..... 2
+	2.5 Input ..... 2
+	2.6 Intended Purpose ..... 2
+	2.7 Model ..... 3
+	2.8 Output ..... 3
+	2.9 Parameter ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Introduction ..... 3
+	3.2 Catastrophe Models Developed by Experts ..... 3
+	3.3 Understanding of the Catastrophe Model ..... 4
+	3.3.1 Catastrophe Model Components ..... 4
+	3.3.2 User Input ..... 4
+	3.3.3 Catastrophe Model Output ..... 4
+	3.4 Appropriateness of the Catastrophe Model for the Intended Purpose ..... 4
+	3.4.1 Applicability of Historical Data ..... 5
+	3.4.2 Developments in Relevant Fields ..... 5
+	3.5 Output Validation ..... 5
+	3.6 Appropriate Use of the Catastrophe Model and Output ..... 5
+	3.7 Reliance on Another Actuary ..... 5
+	3.8 Reliance on Data or Other Information Supplied by Others ..... 6
+	3.9 Documentation ..... 6
+	Section 4. Communications and Disclosures ..... 6
+	4.1 Required Disclosures in an Actuarial Report ..... 6
+	4.2 Additional Disclosures in an Actuarial Report ..... 6
+	4.3 Confidential Information ..... 7
+	TABLE OF CONTENTS
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 8
+	Background ..... 8
+	
+	ASOP No. 38-Doc. No. 201
+	
+	Current Practices 8
+	
+	Appendix 2-Comments on the Exposure Draft and Responses
 
-Appendix 2-Comments on the Exposure Draft and Responses
-
+### Transmittal Memorandum
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Catastrophe Modeling (for All Practice Areas)
 
 FROM: $\quad$ Actuarial Standards Board (ASB)

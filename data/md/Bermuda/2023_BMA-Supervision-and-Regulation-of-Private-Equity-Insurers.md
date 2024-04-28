@@ -1,29 +1,30 @@
 # Supervision and Regulation of PE Insurers in Bermuda 
 
 Contents
-Executive Summary/Foreword ..... 2
-Introduction ..... 3
-Growth of PE Insurers in the Provision of Retirement Protection ..... 4
-Managing the Two-edged Sword ..... 5
-Bermuda Regulatory and Supervisory Regime ..... 6
-Supervision of PE Insurers. ..... 8
 
-1) Licensing. ..... 8
-2) Supervisory collaboration ..... 9
-3) Intensified supervisory engagement ..... 10
-4) Recovery and resolution ..... 11
-5) Tailored asset reporting ..... 11
-6) Range of powers of intervention and supervisory measures ..... 12
-7) Supervisory enhancements (in place since January 2023) ..... 12
-Challenges and Supervisory Response ..... 13
-\#1 Structure of cross-border transactions ..... 13
-\#2 Arm's length transaction/conflicts of interest ..... 14
-\#3 Illiquid assets, prudent person principle. ..... 14
-\#4 Lapse risk ..... 18
-\#5 Valuation of technical provisions and regulatory differences ..... 19
-Foundational Elements of a Long-term Insurer's Balance Sheet and Use of the SBA ..... 19
-Cross-border Reinsurance to Explore Regulatory Differences Between Jurisdictions ..... 22
-Conclusion ..... 23
+	Executive Summary/Foreword ..... 2
+	Introduction ..... 3
+	Growth of PE Insurers in the Provision of Retirement Protection ..... 4
+	Managing the Two-edged Sword ..... 5
+	Bermuda Regulatory and Supervisory Regime ..... 6
+	Supervision of PE Insurers. ..... 8
+	
+	1) Licensing. ..... 8
+	2) Supervisory collaboration ..... 9
+	3) Intensified supervisory engagement ..... 10
+	4) Recovery and resolution ..... 11
+	5) Tailored asset reporting ..... 11
+	6) Range of powers of intervention and supervisory measures ..... 12
+	7) Supervisory enhancements (in place since January 2023) ..... 12
+	Challenges and Supervisory Response ..... 13
+	\#1 Structure of cross-border transactions ..... 13
+	\#2 Arm's length transaction/conflicts of interest ..... 14
+	\#3 Illiquid assets, prudent person principle. ..... 14
+	\#4 Lapse risk ..... 18
+	\#5 Valuation of technical provisions and regulatory differences ..... 19
+	Foundational Elements of a Long-term Insurer's Balance Sheet and Use of the SBA ..... 19
+	Cross-border Reinsurance to Explore Regulatory Differences Between Jurisdictions ..... 22
+	Conclusion ..... 23
 
 ## Executive Summary/Foreword
 

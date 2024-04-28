@@ -1,142 +1,136 @@
-Predictive Analytics and Machine Learning - Practical Applications for Actuarial Modeling (Nested Stochastic)
+# Predictive Analytics and Machine Learning - Practical Applications for Actuarial Modeling (Nested Stochastic)
 
 May | 2023
 
 SOA <br> Research <br> INSTITUTE
 
-# Predictive Analytics and Machine Learning Practical Applications for Actuarial Modeling (Nested Stochastic)
+AUTHORS 
 
-AUTHORS Jean-Philippe Larochelle, FSA, MAAA, CERA
+	Jean-Philippe Larochelle, FSA, MAAA, CERA
+	Peter Carlson, FSA, MAAA
+	Vincent Carrier Cote, FSA, MAAA
+	Ying Lu, FSA, MAAA
+	Noah Shapiro, FSA
+	Alex Tam, ASA, MAAA
+	Viresh Thusu
+	Ally Zhang, FSA, MAAA
 
-Peter Carlson, FSA, MAAA
-
-Vincent Carrier Cote, FSA, MAAA
-
-Ying Lu, FSA, MAAA
-
-Noah Shapiro, FSA
-
-Alex Tam, ASA, MAAA
-
-Viresh Thusu
-
-Ally Zhang, FSA, MAAA
 SPONSOR
 
 Actuarial Innovation and Technology Strategic Research Program Steering Committee
 
 # CONTENTS
 
-Executive Summary ..... 6
-Background. ..... 6
-Objectives and Content ..... 7
-Key Takeaways and Words of Caution. ..... 8
-Section 1: Predictive Analytics, Artificial Intelligence, and Machine Learning Overview ..... 9
-1.1. History and Recent Developments ..... 9
-1.1.1 Preliminary Developments and "AI Winter" ..... 9
-1.1.2 Recent Developments ..... 10
-1.1.3 Looking Forward ..... 10
-1.2 Fundamentals of AIML ..... 11
-1.2.1 Key Definitions ..... 11
-1.2.2 AIML Learning Approaches ..... 12
-1.2.3 Neural Networks ..... 13
-1.3 Key Phases of Building AIML Models ..... 14
-1.3.1 Business Problem Definition. ..... 14
-1.3.2 Data Discovery, Acquisition and Generation ..... 15
-1.3.3 Data Transformation ..... 15
-1.3.4 Model Selection ..... 15
-1.3.5 Model Training ..... 15
-1.3.6 Overfitting ..... 15
-1.3.7 Train Test Split ..... 16
-1.3.8 Model Testing ..... 16
-1.3.9 Learning Curve ..... 17
-1.3.10 Hyperparameter Tuning ..... 17
-1.3.11 Auto ML ..... 17
-1.4 Model Development Cycle and Management ..... 18
-1.4.1 ML OPS Overview ..... 18
-1.4.2 Model Build ..... 19
-1.4.3 Model Packaging and Registering. ..... 19
-1.4.4 Model Deploy ..... 19
-1.4.5 Application Testing ..... 19
-1.4.6 Production Release ..... 19
-1.4.7 Model Monitor ..... 20
-1.4.8 Model Analyzing ..... 20
-1.4.9 Model Governance ..... 20
-1.4.10 Model Retraining ..... 21
-Section 2: Literature Review ..... 22
-2.1 Relevant Research from the SOA and Other Actuarial Organizations ..... 22
-2.1.1 A Tour of Al Technologies in Time Series Prediction ..... 22
-2.1.2 Emerging Data Analytics Techniques with Actuarial Applications ..... 24
-2.1.3 Literature Review: Artificial Intelligence and Its Use in Actuarial Work ..... 25
-2.1.4 Cloud Computing and Machine Learning Uses in the Actuarial Profession ..... 26
-2.1.5 Considerations for Predictive Modeling in Insurance Applications ..... 26
-2.1.6 Nested Stochastic Modeling for Insurance Companies ..... 27
-2.2 Academic Papers Exploring AIML For Actuarial Modeling ..... 29
-2.2.1 Efficient Dynamic Hedging for Large Variable Annuity Portfolios with Multiple Underlying Assets ..... 29
-2.2.2 Efficient Nested Simulation for Conditional Tail Expectation of Variable Annuities ..... 32
-2.2.3 Efficient Simulation Designs for Valuation of Large Variable Annuity Portfolios ..... 33
-2.2.4 Fast and Efficient Nested Simulation for Large Variable Annuity Portfolios: A Surrogate Modeling Approach ..... 35
-2.2.5 Nested Simulation in Portfolio Risk Measurement ..... 37
-2.2.6 Efficient Risk Estimation via Nested Sequential Simulation. ..... 39
-2.2.7 Risk Estimation via Regression ..... 40
-2.2.8 A Comparative Study of Risk Measures for Guaranteed Minimum Maturity BeneFIts by a PDE Method ..... 41
-2.2.9 Valuation of Large Variable Annuity Portfolios under Nested Simulation: A Functional Data Approach ..... 42
-Section 3: Practical Application of AIML for Actuarial Modeling ..... 44
-3.1 AIML Actuarial Modeling Applications. ..... 44
-3.1.1 Clustering ..... 44
-3.1.2 Proxy Models ..... 46
-3.1.3 Scenario Selection ..... 48
-3.1.4 Hybrids ..... 48
-3.2 Approach Overview ..... 49
-3.2.1 Problem Statement, Business Case and Planning ..... 49
-3.2.2 Environment Preparation ..... 50
-3.2.3 Data Generation ..... 50
-3.2.4 Feature Engineering and Selection ..... 51
-3.2.5 Model Testing and Selection ..... 51
-3.2.6 Hyperparameter Tuning ..... 51
-3.2.7 Actuarial Evaluation ..... 51
-Section 4: Professional, Fairness and Regulatory Considerations ..... 52
-4.1. ASOP Review ..... 52
-4.2. Bias and Fairness ..... 52
-4.3. Regulatory Developments ..... 53
-Section 5: Case Study 1 - Index Crediting ..... 55
-5.1. Introduction ..... 55
-5.2. Product and Actuarial Methodology Specifications ..... 58
-5.3. AIML Model Development ..... 59
-5.3.1. Preparation ..... 60
-5.3.2. Data Generation ..... 60
-5.3.3. Feature Engineering and Feature Selection ..... 64
-5.3.4. Model Testing and Selection ..... 68
-5.3.5. Actuarial Evaluation ..... 76
-5.4. Business Case ..... 79
-5.5. Conclusions ..... 82
-Section 6: Case Study 2 - Variable Annuity Fair Value ..... 83
-6.1. Introduction ..... 83
-6.1.1 Background and Product Feature Overview ..... 83
-6.2 Product and Actuarial Methodology Specifications ..... 85
-6.3 AIML Model Development ..... 88
-6.3.1. Preparation ..... 90
-6.3.2. Data Generation ..... 90
-6.3.3 Feature Engineering, Feature Selection and Output Definition ..... 95
-6.3.4 Model Testing and Selection ..... 101
-6.3.5 Hyperparameter Tuning ..... 105
-6.3.6 Actuarial Evaluation ..... 107
-6.4 Conclusions ..... 113
-Section 7: Acknowledgments ..... 114
-Appendix A: Variable Annuity Product Specifications ..... 115
-A1: Base Product Features ..... 115
-A2: Guaranteed Minimum Death Benefit ..... 116
-A3: Guaranteed Lifetime Withdrawal Benefit ..... 117
-Appendix B: Variable Annuity Actuarial Assumptions ..... 119
-B1: Premiums ..... 119
-B2: Mortality ..... 119
-B3: Lapse ..... 119
-B4: Partial Withdrawal Behavior ..... 120
-B5: Maintenance Expenses ..... 121
-B6: Reinvestment Strategy ..... 121
-Appendix C: ASOP Review ..... 123
-References. ..... 129
-About The Society of Actuaries Research Institute ..... 132
+	Executive Summary ..... 6
+	Background. ..... 6
+	Objectives and Content ..... 7
+	Key Takeaways and Words of Caution. ..... 8
+	Section 1: Predictive Analytics, Artificial Intelligence, and Machine Learning Overview ..... 9
+	1.1. History and Recent Developments ..... 9
+	1.1.1 Preliminary Developments and "AI Winter" ..... 9
+	1.1.2 Recent Developments ..... 10
+	1.1.3 Looking Forward ..... 10
+	1.2 Fundamentals of AIML ..... 11
+	1.2.1 Key Definitions ..... 11
+	1.2.2 AIML Learning Approaches ..... 12
+	1.2.3 Neural Networks ..... 13
+	1.3 Key Phases of Building AIML Models ..... 14
+	1.3.1 Business Problem Definition. ..... 14
+	1.3.2 Data Discovery, Acquisition and Generation ..... 15
+	1.3.3 Data Transformation ..... 15
+	1.3.4 Model Selection ..... 15
+	1.3.5 Model Training ..... 15
+	1.3.6 Overfitting ..... 15
+	1.3.7 Train Test Split ..... 16
+	1.3.8 Model Testing ..... 16
+	1.3.9 Learning Curve ..... 17
+	1.3.10 Hyperparameter Tuning ..... 17
+	1.3.11 Auto ML ..... 17
+	1.4 Model Development Cycle and Management ..... 18
+	1.4.1 ML OPS Overview ..... 18
+	1.4.2 Model Build ..... 19
+	1.4.3 Model Packaging and Registering. ..... 19
+	1.4.4 Model Deploy ..... 19
+	1.4.5 Application Testing ..... 19
+	1.4.6 Production Release ..... 19
+	1.4.7 Model Monitor ..... 20
+	1.4.8 Model Analyzing ..... 20
+	1.4.9 Model Governance ..... 20
+	1.4.10 Model Retraining ..... 21
+	Section 2: Literature Review ..... 22
+	2.1 Relevant Research from the SOA and Other Actuarial Organizations ..... 22
+	2.1.1 A Tour of Al Technologies in Time Series Prediction ..... 22
+	2.1.2 Emerging Data Analytics Techniques with Actuarial Applications ..... 24
+	2.1.3 Literature Review: Artificial Intelligence and Its Use in Actuarial Work ..... 25
+	2.1.4 Cloud Computing and Machine Learning Uses in the Actuarial Profession ..... 26
+	2.1.5 Considerations for Predictive Modeling in Insurance Applications ..... 26
+	2.1.6 Nested Stochastic Modeling for Insurance Companies ..... 27
+	2.2 Academic Papers Exploring AIML For Actuarial Modeling ..... 29
+	2.2.1 Efficient Dynamic Hedging for Large Variable Annuity Portfolios with Multiple Underlying Assets ..... 29
+	2.2.2 Efficient Nested Simulation for Conditional Tail Expectation of Variable Annuities ..... 32
+	2.2.3 Efficient Simulation Designs for Valuation of Large Variable Annuity Portfolios ..... 33
+	2.2.4 Fast and Efficient Nested Simulation for Large Variable Annuity Portfolios: A Surrogate Modeling Approach ..... 35
+	2.2.5 Nested Simulation in Portfolio Risk Measurement ..... 37
+	2.2.6 Efficient Risk Estimation via Nested Sequential Simulation. ..... 39
+	2.2.7 Risk Estimation via Regression ..... 40
+	2.2.8 A Comparative Study of Risk Measures for Guaranteed Minimum Maturity BeneFIts by a PDE Method ..... 41
+	2.2.9 Valuation of Large Variable Annuity Portfolios under Nested Simulation: A Functional Data Approach ..... 42
+	Section 3: Practical Application of AIML for Actuarial Modeling ..... 44
+	3.1 AIML Actuarial Modeling Applications. ..... 44
+	3.1.1 Clustering ..... 44
+	3.1.2 Proxy Models ..... 46
+	3.1.3 Scenario Selection ..... 48
+	3.1.4 Hybrids ..... 48
+	3.2 Approach Overview ..... 49
+	3.2.1 Problem Statement, Business Case and Planning ..... 49
+	3.2.2 Environment Preparation ..... 50
+	3.2.3 Data Generation ..... 50
+	3.2.4 Feature Engineering and Selection ..... 51
+	3.2.5 Model Testing and Selection ..... 51
+	3.2.6 Hyperparameter Tuning ..... 51
+	3.2.7 Actuarial Evaluation ..... 51
+	Section 4: Professional, Fairness and Regulatory Considerations ..... 52
+	4.1. ASOP Review ..... 52
+	4.2. Bias and Fairness ..... 52
+	4.3. Regulatory Developments ..... 53
+	Section 5: Case Study 1 - Index Crediting ..... 55
+	5.1. Introduction ..... 55
+	5.2. Product and Actuarial Methodology Specifications ..... 58
+	5.3. AIML Model Development ..... 59
+	5.3.1. Preparation ..... 60
+	5.3.2. Data Generation ..... 60
+	5.3.3. Feature Engineering and Feature Selection ..... 64
+	5.3.4. Model Testing and Selection ..... 68
+	5.3.5. Actuarial Evaluation ..... 76
+	5.4. Business Case ..... 79
+	5.5. Conclusions ..... 82
+	Section 6: Case Study 2 - Variable Annuity Fair Value ..... 83
+	6.1. Introduction ..... 83
+	6.1.1 Background and Product Feature Overview ..... 83
+	6.2 Product and Actuarial Methodology Specifications ..... 85
+	6.3 AIML Model Development ..... 88
+	6.3.1. Preparation ..... 90
+	6.3.2. Data Generation ..... 90
+	6.3.3 Feature Engineering, Feature Selection and Output Definition ..... 95
+	6.3.4 Model Testing and Selection ..... 101
+	6.3.5 Hyperparameter Tuning ..... 105
+	6.3.6 Actuarial Evaluation ..... 107
+	6.4 Conclusions ..... 113
+	Section 7: Acknowledgments ..... 114
+	Appendix A: Variable Annuity Product Specifications ..... 115
+	A1: Base Product Features ..... 115
+	A2: Guaranteed Minimum Death Benefit ..... 116
+	A3: Guaranteed Lifetime Withdrawal Benefit ..... 117
+	Appendix B: Variable Annuity Actuarial Assumptions ..... 119
+	B1: Premiums ..... 119
+	B2: Mortality ..... 119
+	B3: Lapse ..... 119
+	B4: Partial Withdrawal Behavior ..... 120
+	B5: Maintenance Expenses ..... 121
+	B6: Reinvestment Strategy ..... 121
+	Appendix C: ASOP Review ..... 123
+	References. ..... 129
+	About The Society of Actuaries Research Institute ..... 132
 
 ## Executive Summary
 

@@ -1,24 +1,20 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_624ee488fc142a8f422cg-01.jpg?height=282&width=263&top_left_y=225&top_left_x=958" alt="image" style="width:100%;height:auto;">
-
-Actuarial Valuations
-
-# Rules and Statement of Guidance 
+# Actuarial Valuations Rules and Statement of Guidance 
 
 December 2019
 
 ## Table of Contents
 
-List of Acronyms ..... 1
-Statement of Objectives ..... 2
-Statutory Authority ..... 2
-Scope of Application ..... 2
-Definitions ..... 3
-Submission and Availability of the Actuarial Valuation to the Authority ..... 4
-Preparation of the Actuarial Valuation Report ..... 4
-Communication with the Authority ..... 5
-Structure and Content of the Actuarial Valuation Report ..... 6
-Additional Guidance ..... 10
-Enforcement ..... 12
+	List of Acronyms ..... 1
+	Statement of Objectives ..... 2
+	Statutory Authority ..... 2
+	Scope of Application ..... 2
+	Definitions ..... 3
+	Submission and Availability of the Actuarial Valuation to the Authority ..... 4
+	Preparation of the Actuarial Valuation Report ..... 4
+	Communication with the Authority ..... 5
+	Structure and Content of the Actuarial Valuation Report ..... 6
+	Additional Guidance ..... 10
+	Enforcement ..... 12
 
 ## List of Acronyms
 

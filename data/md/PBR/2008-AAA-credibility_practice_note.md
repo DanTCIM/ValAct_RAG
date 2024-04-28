@@ -6,12 +6,6 @@
 
 American Academy of Actuaries'<br>Life Valuation Subcommittee
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-01.jpg?height=252&width=290&top_left_y=2091&top_left_x=923" alt="image" style="width:100%;height:auto;">
-
-AMERICAN ACADEMy of ACTUARIES
-
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_f28a3f25d528fcc8c97ag-02.jpg?height=135&width=181&top_left_y=122&top_left_x=972" alt="image" style="width:100%;height:auto;">
-
 AMERICAN ACADEMY of ACTUARIES
 
 ## Credibility Practice Note
@@ -58,44 +52,44 @@ Thomas Herzog, ASA, Ph.D.
 
 ## TABLE OF CONTENTS
 
-1. Introduction
-
-1.1. The Purpose of a Practice Note
-
-1.2. Scope
-
-1.3. Current References to Credibility Theory
-
-2. Regulatory Guidance
-
-2.1. Examples of Credibility Standards Used by State Regulators
-
-2.2. Credibility Theory and Regulatory Practice - An Example: Credibility of Annual Claims Experience Data as Reported by Health Insurance Companies to State Regulatory Agencies
-
-3. Industry Practice
-
-3.1. A Limited Fluctuation Credibility Example
-
-3.2. A Greatest Accuracy Credibility Example
-
-3.3. Credibility for Mortality Ratios
-
-3.4. Practical Considerations for Credibility in Reinsurance Pricing
-
-3.5. Practical Considerations for using Credibility for Mortality
-
-3.6. An Example Using Limited Fluctuation Credibility to Update Lapse Assumptions
-
-3.7. Credibility Conflict I
-
-3.8. Credibility Conflict II
-
-4. A Short History and Background of Credibility Theory and its Usage in Actuarial Practice
-5. Appendices
-
-5.1. Bibliography of Recommended Reading on the Subject of Credibility Theory and Related Approaches
-
-5.2. Regulatory Guidance
+	1. Introduction
+	
+	1.1. The Purpose of a Practice Note
+	
+	1.2. Scope
+	
+	1.3. Current References to Credibility Theory
+	
+	2. Regulatory Guidance
+	
+	2.1. Examples of Credibility Standards Used by State Regulators
+	
+	2.2. Credibility Theory and Regulatory Practice - An Example: Credibility of Annual Claims Experience Data as Reported by Health Insurance Companies to State Regulatory Agencies
+	
+	3. Industry Practice
+	
+	3.1. A Limited Fluctuation Credibility Example
+	
+	3.2. A Greatest Accuracy Credibility Example
+	
+	3.3. Credibility for Mortality Ratios
+	
+	3.4. Practical Considerations for Credibility in Reinsurance Pricing
+	
+	3.5. Practical Considerations for using Credibility for Mortality
+	
+	3.6. An Example Using Limited Fluctuation Credibility to Update Lapse Assumptions
+	
+	3.7. Credibility Conflict I
+	
+	3.8. Credibility Conflict II
+	
+	4. A Short History and Background of Credibility Theory and its Usage in Actuarial Practice
+	5. Appendices
+	
+	5.1. Bibliography of Recommended Reading on the Subject of Credibility Theory and Related Approaches
+	
+	5.2. Regulatory Guidance
 
 ## 1. Introduction
 

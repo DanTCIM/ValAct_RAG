@@ -6,13 +6,7 @@ American Academy of Actuaries
 
 Life Financial Reporting Committee
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_4e5bb2c5bffa9cf1bb32g-01.jpg?height=252&width=288&top_left_y=2097&top_left_x=924" alt="image" style="width:100%;height:auto;">
-
 AMERICAN ACADEMy of ACTUARIES
-
-## $\Delta$
-
-AMERICAN ACADEMY of ACTUARIES
 
 ## Practice Note: Identification and Valuation of Embedded Derivatives in Modified Coinsurance and Similar Insurance Arrangements
 

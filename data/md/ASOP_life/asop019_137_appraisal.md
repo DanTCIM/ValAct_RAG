@@ -1,27 +1,14 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_6d6abdec942d7e7ddc1dg-01.jpg?height=311&width=347&top_left_y=251&top_left_x=886" alt="image" style="width:100%;height:auto;">
+# Actuarial Standard of Practice No. 19
 
-# ActUARIal Standards BOARD 
-
-Actuarial Standard<br>of Practice
-
-No. 19
-
-Appraisals of
-
-Casualty, Health, and Life Insurance Businesses
+## Appraisals of Casualty, Health, and Life Insurance Businesses
 
 Revised Edition
 
 Developed by the
-
 Task Force to Revise ASOP No. 19 of the
-
 Life Committee of the
-
 Actuarial Standards Board
-
 Adopted by the
-
 Actuarial Standards Board
 
 June 2005
@@ -31,41 +18,41 @@ Updated for Deviation Language Effective May 1, 2011
 (Doc. No. 137)
 
 ## TABLE OF CONTENTS
-
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 2
-2.1 Actuarial Appraisal ..... 2
-2.2 Actuarial Appraisal Value ..... 2
-2.3 Appraisal ..... 2
-2.4 Appraisal Date ..... 2
-2.5 Discount Rate ..... 2
-2.6 Distributable Earnings ..... 2
-2.7 Insurance Business ..... 2
-2.8 Intended Audience ..... 2
-2.9 Other User ..... 3
-2.10 Principal ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Introduction ..... 3
-3.2 Projected Earnings ..... 3
-3.3 Setting Assumptions ..... 3
-3.4 Discount Rate ..... 3
-3.5 Applicability of Appraisal ..... 4
-3.6 Treatment of Assets ..... 4
-3.7 Modeling and Model Validation ..... 4
-3.8 Sensitivity Testing ..... 4
-3.9 Reliance on Data or Other Information Supplied by Others ..... 4
-3.10 Documentation ..... 4
-Section 4. Communications and Disclosures ..... 5
-4.1 Appraisal Report ..... 5
-4.2 Variation of Results ..... 6
-4.3 Appropriate Use of the Term Actuarial Appraisal ..... 6
-4.4 No Obligation to Communicate with Other Users ..... 6
+	
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 2
+	2.1 Actuarial Appraisal ..... 2
+	2.2 Actuarial Appraisal Value ..... 2
+	2.3 Appraisal ..... 2
+	2.4 Appraisal Date ..... 2
+	2.5 Discount Rate ..... 2
+	2.6 Distributable Earnings ..... 2
+	2.7 Insurance Business ..... 2
+	2.8 Intended Audience ..... 2
+	2.9 Other User ..... 3
+	2.10 Principal ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Introduction ..... 3
+	3.2 Projected Earnings ..... 3
+	3.3 Setting Assumptions ..... 3
+	3.4 Discount Rate ..... 3
+	3.5 Applicability of Appraisal ..... 4
+	3.6 Treatment of Assets ..... 4
+	3.7 Modeling and Model Validation ..... 4
+	3.8 Sensitivity Testing ..... 4
+	3.9 Reliance on Data or Other Information Supplied by Others ..... 4
+	3.10 Documentation ..... 4
+	Section 4. Communications and Disclosures ..... 5
+	4.1 Appraisal Report ..... 5
+	4.2 Variation of Results ..... 6
+	4.3 Appropriate Use of the Term Actuarial Appraisal ..... 6
+	4.4 No Obligation to Communicate with Other Users ..... 6
 
 ## APPENDIXES
 

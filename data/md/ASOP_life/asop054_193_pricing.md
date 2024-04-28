@@ -1,80 +1,64 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_7f47f11248ffe593ae98g-01.jpg?height=312&width=336&top_left_y=229&top_left_x=903" alt="image" style="width:100%;height:auto;">
+# Actuarial Standard of Practice No. 54
 
-ActUARIal Standards BoARD
+## Pricing of Life Insurance and Annuity Products
 
-Actuarial Standard
+Developed by the Life Insurance and Annuity Pricing Task Force of the Life Committee of the Actuarial Standards Board
 
-of Practice
-
-No. 54
-
-Pricing of Life Insurance and Annuity Products
-
-Developed by the
-
-Life Insurance and Annuity Pricing Task Force
-
-of the Life Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 June 2018
 
 Doc. No. 193
 
-## TABLEOFCONTENTS
+## TABLE OF CONTENTS
 
-Transmittal Memo ..... iv
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Modeling Cell ..... 2
-2.2 Pricing ..... 2
-2.3 Profitability Analysis ..... 2
-2.4 Profitability Metric ..... 2
-2.5 Risk Capital ..... 3
-2.6 Sensitivity Analysis ..... 3
-2.7 Stochastic Analysis ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Initial Pricing Considerations ..... 3
-3.1.1 Criteria of the Actuary's Principal ..... 3
-3.1.2 Relevant Characteristics of the Product ..... 3
-3.2 Selecting Profitability Metrics ..... 4
-3.2.1 Profitability Metrics ..... 4
-3.2.2 Considerations When Selecting a Profitability Metric ..... 4
-3.3 Developing or Selecting the Model ..... 5
-3.4 Pricing Assumptions ..... 6
-3.4.1 Historical Experience Used When Setting Assumptions ..... 6
-3.4.1.1 Assumptions Based on Relevant and Credible Data ..... 6
-3.4.1.2 Assumptions Based on Historical Experience ..... 6
-3.4.1.3 Assumptions When There is No Relevant Historical Experience ..... 6
-3.4.2 Assumption Margins ..... 6
-3.4.3 Consistency of Assumptions ..... 7
-3.4.4 Assumption Setting ..... 7
-3.4.5 Capital Market Assumptions ..... 8
-3.4.6 Documentation of Assumptions, Rationale, and Data Modifications ..... 8
-3.5 Risk Evaluation ..... 8
-3.5.1 Sensitivity Analysis ..... 8
-3.5.2 Stochastic Analysis ..... 8
-3.6 Governance and Controls ..... 9
-3.7 Reliance on Data or Other Information Supplied by Others ..... 9
-3.8 Reliance on Assumptions Provided by Others ..... 9
-3.9 Documentation ..... 9
-Section 4. Communications and Disclosures ..... 9
-4.1 Actuarial Communications ..... 9
-4.2 Additional Disclosures ..... 10
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 11
-Background ..... 11
-Current Practices ..... 12
-Appendix 2-Comments on the Second Exposure Draft and Responses ..... 13
+	Transmittal Memo ..... iv
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Modeling Cell ..... 2
+	2.2 Pricing ..... 2
+	2.3 Profitability Analysis ..... 2
+	2.4 Profitability Metric ..... 2
+	2.5 Risk Capital ..... 3
+	2.6 Sensitivity Analysis ..... 3
+	2.7 Stochastic Analysis ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Initial Pricing Considerations ..... 3
+	3.1.1 Criteria of the Actuary's Principal ..... 3
+	3.1.2 Relevant Characteristics of the Product ..... 3
+	3.2 Selecting Profitability Metrics ..... 4
+	3.2.1 Profitability Metrics ..... 4
+	3.2.2 Considerations When Selecting a Profitability Metric ..... 4
+	3.3 Developing or Selecting the Model ..... 5
+	3.4 Pricing Assumptions ..... 6
+	3.4.1 Historical Experience Used When Setting Assumptions ..... 6
+	3.4.1.1 Assumptions Based on Relevant and Credible Data ..... 6
+	3.4.1.2 Assumptions Based on Historical Experience ..... 6
+	3.4.1.3 Assumptions When There is No Relevant Historical Experience ..... 6
+	3.4.2 Assumption Margins ..... 6
+	3.4.3 Consistency of Assumptions ..... 7
+	3.4.4 Assumption Setting ..... 7
+	3.4.5 Capital Market Assumptions ..... 8
+	3.4.6 Documentation of Assumptions, Rationale, and Data Modifications ..... 8
+	3.5 Risk Evaluation ..... 8
+	3.5.1 Sensitivity Analysis ..... 8
+	3.5.2 Stochastic Analysis ..... 8
+	3.6 Governance and Controls ..... 9
+	3.7 Reliance on Data or Other Information Supplied by Others ..... 9
+	3.8 Reliance on Assumptions Provided by Others ..... 9
+	3.9 Documentation ..... 9
+	Section 4. Communications and Disclosures ..... 9
+	4.1 Actuarial Communications ..... 9
+	4.2 Additional Disclosures ..... 10
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 11
+	Background ..... 11
+	Current Practices ..... 12
+	Appendix 2-Comments on the Second Exposure Draft and Responses ..... 13
 
 | TO: | Members of Actuarial Organizations Governed by the Standards of Practice of |
 | :--- | :--- |

@@ -1,14 +1,10 @@
-# A PUBLIC POLICY PRACTICE NOTE 
+A PUBLIC POLICY PRACTICE NOTE 
 
 ## Principle-Based Approach Projections Practice Note
 
-## December 2019
+December 2019
 
 Developed by the PBA Projections Practice Note Work Group, a joint effort between the Life Valuation Committee, the PBR Governance Work Group, and the Life Product Committee of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-01.jpg?height=266&width=721&top_left_y=2098&top_left_x=694" alt="image" style="width:100%;height:auto;">
-
-Objective. Independent. Effective. ${ }^{\text {m }}$
 
 This practice note is not a promulgation of the Actuarial Standards Board, is not an actuarial standard of practice, is not binding upon any actuary, and is not a definitive statement as to what constitutes generally accepted practice in the area under discussion. Events occurring subsequent to this publication of the practice note may make some of the practices described in this practice note irrelevant or obsolete.
 
@@ -44,8 +40,6 @@ Gary Osterhout, MAAA, FSA
 
 Tim Cardinal, MAAA, FSA
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_4f09c645f1955e5c0e52g-02.jpg?height=344&width=696&top_left_y=1576&top_left_x=709" alt="image" style="width:100%;height:auto;">
-
 1850 M Street NW, Suite 300
 
 Washington, D.C. 20036-5805
@@ -54,26 +48,26 @@ The American Academy of Actuaries is a 19,500-member professional association wh
 
 ## TABLE OF CONTENTS
 
-Introduction ..... 4
-PBR Projection Demonstration of Nested Modeling for VM-20 ..... 6
-List of Acronyms ..... 7
-Definitions and Overview ..... 8
-
-1. Definitions ..... 8
-2. Overview of Nested Modeling and Inner/Outer Loops ..... 11
-High Level Subject Areas ..... 16
-3. General PBA Projections ..... 16
-4. Analysis and Reporting ..... 19
-5: Governance and Validation ..... 25
-6: Pricing ..... 29
-5. Model Efficiency and Reserve Estimation ..... 32
-Specific Topics ..... 39
-6. Mortality ..... 39
-7. Policyholder Behavior and Non-Guaranteed Elements ..... 44
-8. Reinsurance ..... 47
-9. Economic Scenario Generation ..... 53
-10. Assets ..... 57
-Appendix - External References ..... 61
+	Introduction ..... 4
+	PBR Projection Demonstration of Nested Modeling for VM-20 ..... 6
+	List of Acronyms ..... 7
+	Definitions and Overview ..... 8
+	
+	1. Definitions ..... 8
+	2. Overview of Nested Modeling and Inner/Outer Loops ..... 11
+	High Level Subject Areas ..... 16
+	3. General PBA Projections ..... 16
+	4. Analysis and Reporting ..... 19
+	5: Governance and Validation ..... 25
+	6: Pricing ..... 29
+	5. Model Efficiency and Reserve Estimation ..... 32
+	Specific Topics ..... 39
+	6. Mortality ..... 39
+	7. Policyholder Behavior and Non-Guaranteed Elements ..... 44
+	8. Reinsurance ..... 47
+	9. Economic Scenario Generation ..... 53
+	10. Assets ..... 57
+	Appendix - External References ..... 61
 
 ## Introduction
 

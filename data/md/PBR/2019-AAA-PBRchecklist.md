@@ -1,8 +1,7 @@
 # What is PBR for life insurance? 
 
-## PBR, or principle-based reserving, is a new method of calculating U.S. statutory reserves that better quantifies product risks.
+ PBR, or principle-based reserving, is a new method of calculating U.S. statutory reserves that better quantifies product risks.
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_6b6d69d7de8f94c04c25g-1.jpg?height=583&width=352&top_left_y=107&top_left_x=1423" alt="image" style="width:100%;height:auto;">
 
 ## Why is PBR needed?
 

@@ -1,24 +1,11 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_522e2ba4af47d3b2a1f1g-01.jpg?height=306&width=331&top_left_y=270&top_left_x=889" alt="image" style="width:100%;height:auto;">
-
-# Actuarial Standards Board 
-
-Actuarial Standard<br>of Practice
-
-No. 56
+# Actuarial Standard<br>of Practice No. 56
 
 ## Modeling
 
-Developed by the
+Developed by the Modeling Task Force of the 
+General Committee of the Actuarial Standards Board
 
-Modeling Task Force of the
-
-General Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 December 2019
 
@@ -28,56 +15,53 @@ ASOP No. 56-Doc. No. 195
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-$1.1 \quad$ Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Assumption ..... 2
-2.2 Data ..... 2
-2.3 Governance and Controls ..... 2
-2.4 Hold-out Data ..... 2
-2.5 Input ..... 2
-2.6 Intended Purpose ..... 2
-2.7 Intended User ..... 3
-$2.8 \quad$ Model ..... 3
-2.9 Model Risk ..... 3
-2.10 Model Run ..... 3
-2.11 Output ..... 3
-2.12 Overfitting ..... 3
-2.13 Parameter ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Model Meeting the Intended Purpose ..... 3
-3.1.1 Designing, Developing, or Modifying the Model ..... 3
-3.1.2 Selecting, Reviewing, or Evaluating the Model ..... 4
-3.1.3 Using the Model ..... 4
-3.1.4 Model Structure ..... 4
-3.1.5 Data ..... 4
-3.1.6 Assumptions Used As Input ..... 4
-3.2 Understanding the Model ..... 6
-3.3 Reliance on Data or Other Information Supplied by Others ..... 6
-3.4 Reliance on Models Developed by Others ..... 6
-3.5 Reliance on Experts ..... 6
-3.6 Evaluation and Mitigation of Model Risk ..... 7
-3.6.1 Model Testing ..... 7
-3.6.2 Model Output Validation ..... 8
-3.6.3 Review by Another Professional ..... 8
-3.6.4 Reasonable Governance and Controls ..... 8
-3.6.5 Mitigating Misuse and Misinterpretation ..... 8
-
-## ASOP No. 56-Doc. No. 195
-
-3.7 Documentation ..... 8
-Section 4. Communications and Disclosures ..... 9
-4.1 Required Disclosures in an Actuarial Report ..... 9
-4.2 Additional Disclosures in an Actuarial Report ..... 9
-4.3 Confidential Information ..... 9
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 10
-Appendix 2-Comments on the Fourth Exposure Draft and Responses ..... 12
+	Transmittal Memorandum
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	$1.1 \quad$ Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Assumption ..... 2
+	2.2 Data ..... 2
+	2.3 Governance and Controls ..... 2
+	2.4 Hold-out Data ..... 2
+	2.5 Input ..... 2
+	2.6 Intended Purpose ..... 2
+	2.7 Intended User ..... 3
+	$2.8 \quad$ Model ..... 3
+	2.9 Model Risk ..... 3
+	2.10 Model Run ..... 3
+	2.11 Output ..... 3
+	2.12 Overfitting ..... 3
+	2.13 Parameter ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Model Meeting the Intended Purpose ..... 3
+	3.1.1 Designing, Developing, or Modifying the Model ..... 3
+	3.1.2 Selecting, Reviewing, or Evaluating the Model ..... 4
+	3.1.3 Using the Model ..... 4
+	3.1.4 Model Structure ..... 4
+	3.1.5 Data ..... 4
+	3.1.6 Assumptions Used As Input ..... 4
+	3.2 Understanding the Model ..... 6
+	3.3 Reliance on Data or Other Information Supplied by Others ..... 6
+	3.4 Reliance on Models Developed by Others ..... 6
+	3.5 Reliance on Experts ..... 6
+	3.6 Evaluation and Mitigation of Model Risk ..... 7
+	3.6.1 Model Testing ..... 7
+	3.6.2 Model Output Validation ..... 8
+	3.6.3 Review by Another Professional ..... 8
+	3.6.4 Reasonable Governance and Controls ..... 8
+	3.6.5 Mitigating Misuse and Misinterpretation ..... 8
+	3.7 Documentation ..... 8
+	Section 4. Communications and Disclosures ..... 9
+	4.1 Required Disclosures in an Actuarial Report ..... 9
+	4.2 Additional Disclosures in an Actuarial Report ..... 9
+	4.3 Confidential Information ..... 9
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 10
+	Appendix 2-Comments on the Fourth Exposure Draft and Responses ..... 12
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Modeling
 
@@ -100,8 +84,6 @@ Based upon the feedback received, and numerous other discussions on the topic of
 ## First Exposure Draft
 
 The first exposure draft was released in June 2013 with a comment deadline of September 30, 2013. Forty-eight comment letters were received and considered in making changes that were reflected in the second exposure draft.
-
-## ASOP No. 56-Doc. No. 195
 
 ## Second Exposure Draft
 
@@ -127,15 +109,11 @@ As a next step, the ASB will review the previously approved but pending ASOP No.
 
 The ASB thanks everyone who took the time to contribute comments and suggestions on the exposure drafts.
 
-## ASOP No. 56-Doc. No. 195
-
 The ASB also thanks former task force member Aaron R. Weindling for his assistance during the earlier drafting of this standard.
 
 The ASB voted in December 2019 to adopt this standard.
 
-# ASOP No. 56-Doc. No. 195 
-
-Modeling Task Force
+### Modeling Task Force
 
 Dale S. Hagstrom, Chairperson
 
@@ -180,8 +158,6 @@ The guidance in this ASOP applies to the actuary when, in the actuary's professi
 The guidance in this ASOP does not apply to the actuary when performing services with respect to individual pension benefit calculations and nondiscrimination testing, as described in section 1.2 of ASOP No. 4, Measuring Pension Obligations and Determining Pension Plan Costs or Contributions.
 
 This standard only applies to the extent of the actuary's responsibilities. The actuary's responsibilities may extend to performing actuarial services related to an entire model or to only a small portion of a model.
-
-## ASOP No. 56-Doc. No. 195
 
 Other ASOPs may provide guidance for actuarial services that involve models. If the actuary determines that the guidance from another ASOP conflicts with the guidance of this ASOP, the guidance of the other ASOP will govern.
 
@@ -324,8 +300,6 @@ b. checking formulas, logic, and table references;
 
 c. running tests of variations on key assumptions used as input to test that changes in the output are consistent with expectations given the changes in the input (i.e., sensitivity testing); and
 
-## ASOP No. 56-Doc. No. 195
-
 d. reconciling the output of a model run to prior model runs, given changes in data, assumptions, formulas, or other aspects of the model since the prior model run.
 
 3.6.2 Model Output Validation-The actuary should validate that the model output reasonably represents that which is being modeled. Depending on the intended purpose, model output validation may include the following:
@@ -399,10 +373,6 @@ Appropriate model governance and controls are important when using models. Examp
 - $\quad$ confirmation that model output is reproducible upon rerun (if the model allows for such reproducibility);
 - $\quad$ implementing a model change management process;
 - $\quad$ specification, documentation, and programming standards for the model;
-
-
-## ASOP No. 56-Doc. No. 195
-
 - $\quad$ procedures for secure back-up of the media storing the programming code and data;
 - $\quad$ appropriate staff training or cross-training for continuity of use and mitigation of key-person risk;
 - plans for periodic consideration of the organization's continued ability to access and maintain the model, including data, software, staff, hardware, and any vendor relationships; and

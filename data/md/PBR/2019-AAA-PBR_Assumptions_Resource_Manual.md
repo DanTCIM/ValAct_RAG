@@ -35,8 +35,6 @@ Steve Strommen, MAAA, FSA, CERA
 
 Brian Hartman, PhD, ASA
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_488ae642d07f1df5f06ag-02.jpg?height=279&width=705&top_left_y=1704&top_left_x=707" alt="image" style="width:100%;height:auto;">
-
 Objective. Independent. Effective. ${ }^{\text {т }}$
 
 1850 M Street NW, Suite 300
@@ -45,22 +43,22 @@ Washington, D.C. 20036-5805
 
 ## Table of Contents
 
-Overview and Intended Use ..... 1
-Visual of Valuation Assumption Update Sample Framework ..... 3
-Section I: Identify Assumptions ..... 4
-Section II: Select Timing ..... 14
-Section III: Analyze Experience ..... 17
-Section IV: Determine Margins .....  .21
-Section V: Review Reasonableness. ..... 33
-Section VI: Document Assumptions ..... 40
-Section VII: Implement Decisions ..... 45
-Section VIII: Monitor Experience ..... 52
-Case Study 1: ULSG Margin Impact Analysis ..... 55
-Case Study 2: ULSG VM-20 Premium Pattern Considerations under VM-20 ..... 61
-Case Study 3: Term Lapse Margin.... ..... 66
-Case Study 4: Term Lapse Margin - VM-31 and Governance Considerations ..... 73
-Appendix I: Resource List and Links ..... 78
-
+	Overview and Intended Use ..... 1
+	Visual of Valuation Assumption Update Sample Framework ..... 3
+	Section I: Identify Assumptions ..... 4
+	Section II: Select Timing ..... 14
+	Section III: Analyze Experience ..... 17
+	Section IV: Determine Margins .....  .21
+	Section V: Review Reasonableness. ..... 33
+	Section VI: Document Assumptions ..... 40
+	Section VII: Implement Decisions ..... 45
+	Section VIII: Monitor Experience ..... 52
+	Case Study 1: ULSG Margin Impact Analysis ..... 55
+	Case Study 2: ULSG VM-20 Premium Pattern Considerations under VM-20 ..... 61
+	Case Study 3: Term Lapse Margin.... ..... 66
+	Case Study 4: Term Lapse Margin - VM-31 and Governance Considerations ..... 73
+	Appendix I: Resource List and Links ..... 78
+	
 ## Overview and Intended Use
 
 What is this? This resource manual is intended to provide a step-by-step sample roadmap of a life insurance assumption development cycle. It provides considerations for actuaries tasked with setting and updating experience assumptions, determining margins, generating documentation, and reviewing modifications made to valuation model inputs. The focus is not necessarily on specific methodologies for setting and updating assumptions themselves, but rather on governance, process, margin development, and considerations for updating valuation assumptions, especially for principle-based reserving (PBR) purposes.

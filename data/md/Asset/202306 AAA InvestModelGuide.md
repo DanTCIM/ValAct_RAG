@@ -1,18 +1,10 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_137032a06da735bf6577g-01.jpg?height=1279&width=1993&top_left_y=0&top_left_x=131" alt="image" style="width:100%;height:auto;">
+##Actuarial Review of Investments in Actuarial Modeling - A Resource \& Discussion Guide
 
-Actuarial Review of Investments in Actuarial Modeling-
-
-A Resource \& Discussion Guide
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_137032a06da735bf6577g-01.jpg?height=583&width=634&top_left_y=1584&top_left_x=1315" alt="image" style="width:100%;height:auto;">
-
-# American Academy of Actuaries Life Experience Committee 
+American Academy of Actuaries Life Experience Committee 
 
 Donna Claire, MAAA, FSA-Chairperson<br>Robert Astleford, MAAA, FSA<br>Mary Bahna-Nolan, MAAA, FSA<br>Mary Elizabeth Caramagno, MAAA, FSA<br>Lori Helge, MAAA, FSA<br>Allen Klein, MAAA, FSA<br>Leonard Mangini, MAAA, FSA<br>John R. Miller, MAAA, FSA<br>Melissa J. Miller, MAAA, FSA<br>Craig Morrow, MAAA, FSA<br>Maambo Mujala, MAAA, FSA<br>Catherine Murphy, MAAA, FCIA, FSA<br>Marianne Purushotham, MAAA, FSA<br>Alan Routhenstein, MAAA, FSA<br>Mary Simmons, MAAA, FSA<br>Benjamin Slutsker, MAAA, FSA<br>Connie Tang, MAAA, FSA<br>Kyle Wan, MAAA, FSA<br>Yuwen Wang, MAAA, ASA<br>Shuhan Wang, MAAA, FSA<br>Michael Watanabe, MAAA, FSA<br>Haofeng Yu, MAAA, FSA
 
 The American Academy of Actuaries is a 19,500-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
-
-## American Academy $\Delta$ of ACTUARIES
 
 AMERICAN ACADEMY OF ACTUARIES 1850 M STREET NW, SUITE 300, WASHINGTON, D.C. 20036 202-223-8196 | WWW.ACTUARY.ORG
 ๑) 2023 American Academy of Actuaries. All rights reserved. June 2023

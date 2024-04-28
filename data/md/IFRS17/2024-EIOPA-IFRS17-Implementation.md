@@ -4,52 +4,52 @@ EIOPA's report on the implementation \& synergies and differences with Solvency 
 
 ## EIOPA 1FRS 17 Report - CONTENTS
 
-1. Introduction 3
-
-1.1. Background 4
-
-1.2. Description of the data 5
-
-2. Implementation of IFRS 17
-
-2.1. First application 7
-
-2.1.1. Overview 7
-
-2.1.2. Main challenges 8
-
-2.1.3. Transition approach 9
-
-2.1.4. interaction with ifrs 9: First application of IFRS $9 \quad 10$
-
-2.2. Implementation 11
-
-2.2.1. Groups of contracts 11
-
-2.2.2. Valuation methods 13
-
-2.2.3. Discount rates 14
-
-2.2.4. Risk adjustment 16
-
-2.2.5. Contractual service margin 19
-
-3. Differences between IFRS 17 and Solvency II 21
-
-3.1. Overview 21
-
-3.2. Scope 22
-
-3.3. Valuation 23
-
-3.3.1. Overview 23
-
-3.3.2. Contract boundaries and initial recognition 25
-
-3.3.3. Cashflows 26
-
-3.3.4. Discount rates 27
-
+	1. Introduction 3
+	
+	1.1. Background 4
+	
+	1.2. Description of the data 5
+	
+	2. Implementation of IFRS 17
+	
+	2.1. First application 7
+	
+	2.1.1. Overview 7
+	
+	2.1.2. Main challenges 8
+	
+	2.1.3. Transition approach 9
+	
+	2.1.4. interaction with ifrs 9: First application of IFRS $9 \quad 10$
+	
+	2.2. Implementation 11
+	
+	2.2.1. Groups of contracts 11
+	
+	2.2.2. Valuation methods 13
+	
+	2.2.3. Discount rates 14
+	
+	2.2.4. Risk adjustment 16
+	
+	2.2.5. Contractual service margin 19
+	
+	3. Differences between IFRS 17 and Solvency II 21
+	
+	3.1. Overview 21
+	
+	3.2. Scope 22
+	
+	3.3. Valuation 23
+	
+	3.3.1. Overview 23
+	
+	3.3.2. Contract boundaries and initial recognition 25
+	
+	3.3.3. Cashflows 26
+	
+	3.3.4. Discount rates 27
+	
 $\begin{array}{lll}\text { 3.3.5. } & \text { Risk adjustment } & 28\end{array}$
 
 ## EIOPA 1FRS 17 Report - EXECUTIVE SUMMARY

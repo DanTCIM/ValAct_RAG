@@ -1,5 +1,3 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_4f2552432b7e65567312g-1.jpg?height=236&width=222&top_left_y=180&top_left_x=930" alt="image" style="width:100%;height:auto;">
-
 # Rule <br> Risk Management for Insurers 
 
 ## 1. Statement of Objectives
@@ -26,11 +24,8 @@
 
 4.2. In this Rule, the "Board" refers to the Board of Directors of an insurer.
 
-MARCH 2015
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_4f2552432b7e65567312g-2.jpg?height=239&width=228&top_left_y=176&top_left_x=927" alt="image" style="width:100%;height:auto;">
-
-5. Rules
+## 5. Rules
 
 ### 5.1. The Risk Management Framework
 
@@ -66,8 +61,6 @@ h) money laundering, terrorist financing and fraud risk; and
 
 i) operational risk (including outsourcing and business continuity management).
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_4f2552432b7e65567312g-3.jpg?height=233&width=222&top_left_y=179&top_left_x=930" alt="image" style="width:100%;height:auto;">
-
 5.1.5 The insurer must document the approach and key assumptions made when measuring risks. Such documentation must describe and explain the risks covered.
 
 5.1.6 The risk management framework must include an appropriate tolerance level or risk limit for material sources of risk. This risk tolerance and risk appetite must be defined by the Board. The tolerance level should take into account the relationships between sources of risk.
@@ -87,8 +80,6 @@ i) operational risk (including outsourcing and business continuity management).
 5.3.3 The insurer must implement and communicate to relevant staff an escalation process for reporting on risk issues within established reporting cycles and outside of them for matters of particular urgency.
 
 5.3.4 The risk management framework must include a "feedback loop" which allows the Board and Senior Management to take necessary action in response to changes in the risk profile of an insurer. The feedback loop will also ensure that decisions made by the Board and Senior Management are implemented and their effects monitored to determine whether they are in fact appropriate.
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_4f2552432b7e65567312g-4.jpg?height=233&width=222&top_left_y=179&top_left_x=930" alt="image" style="width:100%;height:auto;">
 
 ### 5.4. Role of the Board of Directors
 
@@ -121,8 +112,6 @@ c) periodically review the risk management framework.
 5.8.2 An insurer's outsourcing provider(s) must be approved by the Board or Senior Management.
 
 ### 5.9. Capital
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_4f2552432b7e65567312g-5.jpg?height=238&width=228&top_left_y=179&top_left_x=927" alt="image" style="width:100%;height:auto;">
 
 5.9.1 An insurer's risk management policy should describe how its risk management links with its management of capital (regulatory capital requirement and economic capital ${ }^{1}$ ).
 

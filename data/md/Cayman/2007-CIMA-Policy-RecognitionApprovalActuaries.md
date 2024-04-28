@@ -1,10 +1,7 @@
-# July 2007 
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-1.jpg?height=244&width=244&top_left_y=122&top_left_x=924" alt="image" style="width:100%;height:auto;">
+July 2007 Regulatory Policy
 
-## Regulatory Policy
-
-The Recognition and Approval of an Actuary under the Insurance Law (2004 Revision)
+# The Recognition and Approval of an Actuary under the Insurance Law (2004 Revision)
 
 ## 1. Statement of Objectives
 
@@ -20,11 +17,7 @@ To set out the criteria that the Authority will use for determining whether to r
 
 2.3. Section 7 and 10 stipulate the reporting requirements of licensees and for those licensed insurers writing long term business, certification of the actuarially determined assets and liabilities must be provided by an actuary approved by the Authority. Section 7(6) states
 
-"Every insurer licensed under Class ' $A$ ' and Class ' $B$ ' who is carrying on long term business shall, in addition to subsection (4), prepare annually an actuarial valuation of its assets and liabilities, certified by an actuary approved by the Authority, so as to enable the Authority to be satisfied as to its
-
-## July 2007
-
-solvency."
+"Every insurer licensed under Class ' $A$ ' and Class ' $B$ ' who is carrying on long term business shall, in addition to subsection (4), prepare annually an actuarial valuation of its assets and liabilities, certified by an actuary approved by the Authority, so as to enable the Authority to be satisfied as to its solvency."
 
 Section 10 (1) (f) and Section 10(2) (d) further provide that if the insurer is licensed under Class ' $A$ ' for long-term business, an actuarial valuation of its assets and liabilities certified by an actuary approved by the Authority, in accordance with section 7(6); must be provided with its annual return.
 
@@ -42,11 +35,7 @@ To be recognised as actuaries under the Law, the following minimum criteria must
 
 ### 3.2. Code of professional conduct
 
-The code of professional conduct in place, should set the professional
-
-## July 2007
-
-standards by which the actuary is expected to abide, and all member actuaries should be required to know the current version of the code. In particular the code should include requirements that member actuaries:
+The code of professional conduct in place, should set the professional standards by which the actuary is expected to abide, and all member actuaries should be required to know the current version of the code. In particular the code should include requirements that member actuaries:
 
 3.2.1 perform professional services with integrity, skill and care, and fulfil professional responsibility to the client or employer,
 
@@ -69,8 +58,6 @@ standards by which the actuary is expected to abide, and all member actuaries sh
 3.2.10 when asked to take on professional services previously provided by another actuary, shall consider whether it is appropriate to consult with the previous provider to ensure that it is suitable to take on this new responsibility, and
 
 3.2.11 shall timely disclose, to the client in writing, all sources of income related to any service on behalf of a client.
-
-## July 2007
 
 3.3. Disciplinary process
 
@@ -100,13 +87,7 @@ The body must implement and maintain education requirements that match or exceed
 
 4.2. To be approved, the following criteria must be met:
 
-4.2.1 The person must be an "actuary" as defined in section 2, including
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1bc4c04e5101131eb5e8g-5.jpg?height=242&width=227&top_left_y=123&top_left_x=930" alt="image" style="width:100%;height:auto;">
-
-## July 2007
-
-persons recognised in accordance with 3.1.1 and 3.1.2 of this Policy, and
+4.2.1 The person must be an "actuary" as defined in section 2, including persons recognised in accordance with 3.1.1 and 3.1.2 of this Policy, and
 
 4.2.2 The person must have experience in the relevant line of business, and
 

@@ -1,6 +1,4 @@
-# IS ActuARIAL Standards BOARD 
-
-Actuarial Standard<br>of Practice<br>No. 23
+# Actuarial Standard of Practice No. 23
 
 Revised Edition
 
@@ -15,57 +13,36 @@ Transmittal Memorandum
 
 ## STANDARD OF PRACTICE
 
-Section 1. Purpose, Scope, Cross References, and Effective Date 1
-
-1.1 Purpose 1
-
-1.2 Scope 1
-
-1.3 Cross References 1
-
-1.4 Effective 2
-
-Section 2. Definitions 2
-
-2.1 Appropriate Data 2
-
-2.2 Audit 2
-
-2.3 Data 2
-
-2.4 Data Element 2
-
-2.5 Review 2
-
-2.6 Sufficient 2
-
-Section 3. Analysis of Issues and Recommended Practices 2
-
-3.1 Overview 2
-
-3.2 Selection of Data 2
-
-3.3 Review of Data 3
-
-3.4 Use of Data 4
-
-3.5 Reliance on Data Supplied by Others 5
-
-3.6 Reliance on Other Information Relevant to the Use of Data 5
-
-3.7 Confidentiality 5
-
-3.8 Limitation of the Actuary's Responsibility 5
-
-Section 4. Communications and Disclosures 6
-
-4.1 Communication and Disclosure 6
-
-## APPENDIXES
-
-Appendix 1—Background and Current Practices 8
-
-Appendix 2-Comments on the Exposure Draft and Responses 10
+	Section 1. Purpose, Scope, Cross References, and Effective Date 1
+	1.1 Purpose 1
+	1.2 Scope 1
+	1.3 Cross References 1
+	1.4 Effective 2
+	
+	Section 2. Definitions 2
+	2.1 Appropriate Data 2
+	2.2 Audit 2
+	2.3 Data 2
+	2.4 Data Element 2
+	2.5 Review 2
+	2.6 Sufficient 2
+	
+	Section 3. Analysis of Issues and Recommended Practices 2
+	3.1 Overview 2
+	3.2 Selection of Data 2
+	3.3 Review of Data 3
+	3.4 Use of Data 4
+	3.5 Reliance on Data Supplied by Others 5
+	3.6 Reliance on Other Information Relevant to the Use of Data 5
+	3.7 Confidentiality 5
+	3.8 Limitation of the Actuary's Responsibility 5
+	
+	Section 4. Communications and Disclosures 6
+	4.1 Communication and Disclosure 6
+	
+	## APPENDIXES
+	Appendix 1—Background and Current Practices 8
+	Appendix 2-Comments on the Exposure Draft and Responses 10
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Data Quality
 

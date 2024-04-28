@@ -1,8 +1,8 @@
-# NAIC <br> National Association of Insurance Commissioners 
+NAIC <br> National Association of Insurance Commissioners 
 
 The NAIC's Capital Markets Bureau monitors developments in the capital markets globally and analyzes their potential impact on the investment portfolios of U.S. insurance companies. A list of archived Capital Markets Bureau Primers is available via the INDEX.
 
-Auto Asset-Backed Securities (Auto ABS) Primer
+# Auto Asset-Backed Securities (Auto ABS) Primer
 
 Analyst: Jennifer Johnson
 

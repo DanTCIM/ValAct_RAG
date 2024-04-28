@@ -31,25 +31,24 @@ Michael J. Lockerman, MAAA, FSA.
 
 The American Academy of Actuaries is a 19,500-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
-## American Academy A of ACTUARIEs
-
 AMERICAN ACADEMY OF ACTUARIES 1850 M STREET NW, SUITE 300, WASHINGTON, DC 20036 202-223-8196 | ACTUARY.ORG
 
-(0) 2023 American Academy of Actuaries. All rights reserved. March 2023
-Contents
-Background \& Introduction ..... 2
-Primary Source Materials ..... 3
-Considerations When Implementing the Enhanced Disclosures ..... 4
-Annual and Quarterly LFPB and SOP 03-1 Rollforwards ..... 6
-LFPB \& SOP 03-1 Liability—Inputs, Judgments, ..... 18
-Assumptions, \& Methods
-General Account (GA) PAB Rollforwards and Disclosures ..... 20
-Separate Account (SA) Rollforwards and Disclosures ..... 25
-MRB Rollforwards and Disclosures ..... 27
-DAC, SIA \& URL Rollforwards and Disclosures ..... 32
-Disclosures for Loss Recognition and ..... 35
-Premium Sufficiency Testing
-Conclusion. ..... 37
+
+## Contents
+
+	Background \& Introduction ..... 2
+	Primary Source Materials ..... 3
+	Considerations When Implementing the Enhanced Disclosures ..... 4
+	Annual and Quarterly LFPB and SOP 03-1 Rollforwards ..... 6
+	LFPB \& SOP 03-1 Liability—Inputs, Judgments, ..... 18
+	Assumptions, \& Methods
+	General Account (GA) PAB Rollforwards and Disclosures ..... 20
+	Separate Account (SA) Rollforwards and Disclosures ..... 25
+	MRB Rollforwards and Disclosures ..... 27
+	DAC, SIA \& URL Rollforwards and Disclosures ..... 32
+	Disclosures for Loss Recognition and ..... 35
+	Premium Sufficiency Testing
+	Conclusion. ..... 37
 
 ## Background \& Introduction
 

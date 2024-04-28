@@ -1,35 +1,29 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_11_db6a380d890405d163c4g-01.jpg?height=344&width=588&top_left_y=430&top_left_x=1235" alt="image" style="width:100%;height:auto;">
+BERMUDA MONETARY AUTHORITY 
 
-# BERMUDA MONETARY AUTHORITY 
-
-## GUIDANCE NOTE
-
-## ACTUARY'S OPINION
-
-on EBS Technical Provisions
+## GUIDANCE NOTE ACTUARY'S OPINION on EBS Technical Provisions
 
 MAY 2016
 
 ## Table of Contents
 
-INTRODUCTION ..... 3
-I. Definitions ..... 3
-II. Background ..... 4
-III. Interpretation ..... 5
-FIT AND PROPER CRITERIA AND APPROVAL PROCESS FOR ACTUARIES ..... 6
-IV. Appointment of an Actuary ..... 6
-V. Approval Process for an Actuary ..... 7
-VI. Criteria for Approval ..... 8
-VII. Fitness and Propriety of an Actuary. ..... 9
-VIII. Acceptance of an Engagement ..... 10
-IX. Notification of Approval. ..... 11
-$\mathrm{X}$. Change in Actuary ..... 11
-XI. Disqualifications ..... 11
-ROLE OF ACTUARIES. ..... 12
-XII. Accepted Actuarial Practice ..... 12
-XIII. EBS valuation principles ..... 12
-XIV. Right to Information ..... 14
-XV. Communication of Opinion. ..... 14
+	INTRODUCTION ..... 3
+	I. Definitions ..... 3
+	II. Background ..... 4
+	III. Interpretation ..... 5
+	FIT AND PROPER CRITERIA AND APPROVAL PROCESS FOR ACTUARIES ..... 6
+	IV. Appointment of an Actuary ..... 6
+	V. Approval Process for an Actuary ..... 7
+	VI. Criteria for Approval ..... 8
+	VII. Fitness and Propriety of an Actuary. ..... 9
+	VIII. Acceptance of an Engagement ..... 10
+	IX. Notification of Approval. ..... 11
+	$\mathrm{X}$. Change in Actuary ..... 11
+	XI. Disqualifications ..... 11
+	ROLE OF ACTUARIES. ..... 12
+	XII. Accepted Actuarial Practice ..... 12
+	XIII. EBS valuation principles ..... 12
+	XIV. Right to Information ..... 14
+	XV. Communication of Opinion. ..... 14
 
 ## INTRODUCTION
 

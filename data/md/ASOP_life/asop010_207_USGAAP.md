@@ -1,91 +1,80 @@
-# 10 <br> ActUARIAL StAndards BOARD 
-
-Actuarial Standard
-
-of Practice
-
-No. 10
+# Actuarial Standard of Practice No. 10
 
 ## U.S. GAAP for Long-Duration Life, Annuity, and Health Products
 
 Revised Edition
 
 Developed by the
-
 Task Force to Revise ASOP No. 10 of the
-
 Life Committee of the
-
 Actuarial Standards Board
 
 Adopted by the
-
 Actuarial Standards Board
-
 December 2022
 
 Doc. No. 207
 
 ## STANDARD OF PRACTICE
 
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Best-Estimate Assumption ..... 2
-2.2 Cohort ..... 2
-2.3 Costs ..... 2
-2.4 Deferred Policy Acquisition Cost (DPAC) ..... 2
-2.5 Deferred Sales Inducements (DSI) ..... 2
-2.6 GAAP Net Premiums ..... 2
-2.7 Gross Premiums ..... 2
-2.8 Liability for Future Policy Benefits ..... 2
-2.9 Lock-In ..... 2
-2.10 Market-Estimate Assumption ..... 2
-2.11 Market Risk Benefit ..... 2
-2.12 Net GAAP Liability ..... 3
-2.13 Policy Benefit Liability ..... 3
-2.14 Premium Deficiency ..... 3
-2.15 Risk of Adverse Deviation ..... 3
-2.16 Value of Business Acquired (VOBA) ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Overview ..... 3
-3.2 Classification of Contracts, Features, and Benefits ..... 3
-3.3 Types of Assumptions ..... 4
-3.3.1 Best-Estimate Assumptions ..... 4
-3.3.2 Market-Estimate Assumptions ..... 4
-3.3.2.1 Direct Observation ..... 4
-3.3.2.2 Inference ..... 5
-3.3.2.3 Relevant Information ..... 5
-3.3.2.4 Anticipated Experience ..... 5
-3.4 Discount Rate Assumptions ..... 5
-3.5 Provision for Risk of Adverse Deviation ..... 6
-3.5.1 Degree of Risk ..... 6
-3.5.2 Relationship to Anticipated Experience ..... 6
-3.5.3 Effect of Provision ..... 6
-3.6 Risk Adjustment ..... 6
-3.7 Internal Consistency ..... 6
-3.8 Assumptions Selected by Another Party ..... 7
-3.9 Methods ..... 7
-3.10 Financial Statement Disclosures ..... 7
-3.11 Premium Deficiency Testing ..... 8
-3.12 Recognition of Premiums ..... 8
-3.13 Simplifications and Approximations ..... 8
-3.14 Reliance on Others for Data, Projections, Models, and Supporting Analysis ..... 8
-3.15 Reliance on Another Actuary ..... 8
-3.16 Reliance on Expertise of Others ..... 8
-3.17 Documentation ..... 9
-Section 4. Communications and Disclosures ..... 9
-4.1 Required Disclosures in an Actuarial Report ..... 9
-4.2 Additional Disclosures in an Actuarial Report ..... 10
-4.3 Confidential Information ..... 10
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 11
-Background ..... 11
-Current Practices ..... 12
-Appendix 2-Comments on the Exposure Draft and Responses ..... 13
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Best-Estimate Assumption ..... 2
+	2.2 Cohort ..... 2
+	2.3 Costs ..... 2
+	2.4 Deferred Policy Acquisition Cost (DPAC) ..... 2
+	2.5 Deferred Sales Inducements (DSI) ..... 2
+	2.6 GAAP Net Premiums ..... 2
+	2.7 Gross Premiums ..... 2
+	2.8 Liability for Future Policy Benefits ..... 2
+	2.9 Lock-In ..... 2
+	2.10 Market-Estimate Assumption ..... 2
+	2.11 Market Risk Benefit ..... 2
+	2.12 Net GAAP Liability ..... 3
+	2.13 Policy Benefit Liability ..... 3
+	2.14 Premium Deficiency ..... 3
+	2.15 Risk of Adverse Deviation ..... 3
+	2.16 Value of Business Acquired (VOBA) ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Overview ..... 3
+	3.2 Classification of Contracts, Features, and Benefits ..... 3
+	3.3 Types of Assumptions ..... 4
+	3.3.1 Best-Estimate Assumptions ..... 4
+	3.3.2 Market-Estimate Assumptions ..... 4
+	3.3.2.1 Direct Observation ..... 4
+	3.3.2.2 Inference ..... 5
+	3.3.2.3 Relevant Information ..... 5
+	3.3.2.4 Anticipated Experience ..... 5
+	3.4 Discount Rate Assumptions ..... 5
+	3.5 Provision for Risk of Adverse Deviation ..... 6
+	3.5.1 Degree of Risk ..... 6
+	3.5.2 Relationship to Anticipated Experience ..... 6
+	3.5.3 Effect of Provision ..... 6
+	3.6 Risk Adjustment ..... 6
+	3.7 Internal Consistency ..... 6
+	3.8 Assumptions Selected by Another Party ..... 7
+	3.9 Methods ..... 7
+	3.10 Financial Statement Disclosures ..... 7
+	3.11 Premium Deficiency Testing ..... 8
+	3.12 Recognition of Premiums ..... 8
+	3.13 Simplifications and Approximations ..... 8
+	3.14 Reliance on Others for Data, Projections, Models, and Supporting Analysis ..... 8
+	3.15 Reliance on Another Actuary ..... 8
+	3.16 Reliance on Expertise of Others ..... 8
+	3.17 Documentation ..... 9
+	Section 4. Communications and Disclosures ..... 9
+	4.1 Required Disclosures in an Actuarial Report ..... 9
+	4.2 Additional Disclosures in an Actuarial Report ..... 10
+	4.3 Confidential Information ..... 10
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 11
+	Background ..... 11
+	Current Practices ..... 12
+	Appendix 2-Comments on the Exposure Draft and Responses ..... 13
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in U.S. GAAP for Long-Duration Life, Annuity, and Health Products
 

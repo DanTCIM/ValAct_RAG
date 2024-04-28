@@ -1,15 +1,9 @@
-# ActUARIAL StANDARDS BoARD 
+# Actuarial Standard of Practice No. 11
 
-Actuarial Standard<br>of Practice
-
-No. 11
-
-Treatment of Reinsurance or Similar Risk Transfer Programs Involving Life Insurance, Annuities, or Health Benefit Plans in Financial Reports
+## Treatment of Reinsurance or Similar Risk Transfer Programs Involving Life Insurance, Annuities, or Health Benefit Plans in Financial Reports
 
 Developed by the Task Force to Revise ASOP No. 11 of the
-
 Life Committee of the
-
 Actuarial Standards Board
 
 Adopted by the Actuarial Standards Board
@@ -20,59 +14,59 @@ Doc. No. 199
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Assuming Entity ..... 2
-2.2 Ceding Entity ..... 2
-2.3 Collectability of Reinsurance Proceeds ..... 2
-2.4 Counterparty ..... 2
-2.5 Counterparty Risk ..... 2
-2.6 Financial Report ..... 2
-2.7 Health Benefit Plan ..... 2
-2.8 Model ..... 3
-2.9 Net Liabilities ..... 3
-2.10 Net Retained Business ..... 3
-2.11 Nonguaranteed Reinsurance Elements ..... 3
-2.12 Nonproportional Feature ..... 3
-2.13 Reinsurance Agreement ..... 3
-2.14 Reinsurance Assumed ..... 3
-2.15 Reinsurance Ceded ..... 3
-2.16 Reinsurance Program ..... 3
-2.17 Service Provider ..... 4
-Section 3. Analysis of Issues and Recommended Practices ..... 4
-3.1 Reinsurance Program Features ..... 4
-3.2 Impact of Risks Reinsured ..... 4
-3.3 Impact of Risks Retained ..... 5
-3.4 Models Used in Preparing Financial Reports ..... 7
-3.5 Assessing and Analyzing the Impact of Counterparty Risk ..... 7
-3.6 Assessing and Analyzing the Risks Being Transferred in a Reinsurance Program ..... 8
-3.7 Treatment of Reinsurance Risks ..... 8
-3.7.1 Treatment of Reinsurance Ceded ..... 9
-3.7.2 Treatment of Reinsurance Assumed ..... 9
-3.8 Risk of Termination of Reinsurance Programs ..... 9
-3.9 Additional Liabilities, Reserves, or Allocation of Capital ..... 10
-3.10 Accounting Guidance ..... 11
-3.11 Experience Analysis ..... 11
-3.12 Reliance on Data or Other Information Supplied by Others ..... 11
-3.13 Reliance on Assumptions or Methods Selected by Another Party ..... 11
-3.14 Reliance on Models Developed by Others ..... 11
-3.15 Reliance on Another Actuary ..... 11
-3.16 Reliance on Expertise of Others ..... 12
-3.17 Documentation ..... 12
-Section 4. Communications and Disclosures ..... 12
-4.1 Required Disclosures in an Actuarial Report ..... 12
-4.2 Additional Disclosures in an Actuarial Report ..... 14
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 15
-Background ..... 15
-Current Practices ..... 18
-Appendix 2-Comments on the First Exposure Draft and Responses ..... 19
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Assuming Entity ..... 2
+	2.2 Ceding Entity ..... 2
+	2.3 Collectability of Reinsurance Proceeds ..... 2
+	2.4 Counterparty ..... 2
+	2.5 Counterparty Risk ..... 2
+	2.6 Financial Report ..... 2
+	2.7 Health Benefit Plan ..... 2
+	2.8 Model ..... 3
+	2.9 Net Liabilities ..... 3
+	2.10 Net Retained Business ..... 3
+	2.11 Nonguaranteed Reinsurance Elements ..... 3
+	2.12 Nonproportional Feature ..... 3
+	2.13 Reinsurance Agreement ..... 3
+	2.14 Reinsurance Assumed ..... 3
+	2.15 Reinsurance Ceded ..... 3
+	2.16 Reinsurance Program ..... 3
+	2.17 Service Provider ..... 4
+	Section 3. Analysis of Issues and Recommended Practices ..... 4
+	3.1 Reinsurance Program Features ..... 4
+	3.2 Impact of Risks Reinsured ..... 4
+	3.3 Impact of Risks Retained ..... 5
+	3.4 Models Used in Preparing Financial Reports ..... 7
+	3.5 Assessing and Analyzing the Impact of Counterparty Risk ..... 7
+	3.6 Assessing and Analyzing the Risks Being Transferred in a Reinsurance Program ..... 8
+	3.7 Treatment of Reinsurance Risks ..... 8
+	3.7.1 Treatment of Reinsurance Ceded ..... 9
+	3.7.2 Treatment of Reinsurance Assumed ..... 9
+	3.8 Risk of Termination of Reinsurance Programs ..... 9
+	3.9 Additional Liabilities, Reserves, or Allocation of Capital ..... 10
+	3.10 Accounting Guidance ..... 11
+	3.11 Experience Analysis ..... 11
+	3.12 Reliance on Data or Other Information Supplied by Others ..... 11
+	3.13 Reliance on Assumptions or Methods Selected by Another Party ..... 11
+	3.14 Reliance on Models Developed by Others ..... 11
+	3.15 Reliance on Another Actuary ..... 11
+	3.16 Reliance on Expertise of Others ..... 12
+	3.17 Documentation ..... 12
+	Section 4. Communications and Disclosures ..... 12
+	4.1 Required Disclosures in an Actuarial Report ..... 12
+	4.2 Additional Disclosures in an Actuarial Report ..... 14
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 15
+	Background ..... 15
+	Current Practices ..... 18
+	Appendix 2-Comments on the First Exposure Draft and Responses ..... 19
 
 April 2021
 

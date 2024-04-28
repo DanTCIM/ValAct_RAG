@@ -4,11 +4,7 @@
 
 Developed by the Life Principle-Based Approach Practice Note Work Group of the Life Valuation Committee of the American Academy of Actuaries
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_15_8ba611b8476c665b9018g-001.jpg?height=201&width=718&top_left_y=2087&top_left_x=693" alt="image" style="width:100%;height:auto;">
-
 AMERICAN ACADEMY of ACTUARIES
-
-Objective. Independent. Effective. ${ }^{\text {m }}$
 
 This practice note is not a promulgation of the Actuarial Standards Board, is not an actuarial standard of practice, is not binding upon any actuary, and is not a definitive statement as to what constitutes generally accepted practice in the area under discussion. Events occurring subsequent to this publication of the practice note may make some of the practices described in this practice note irrelevant or obsolete.
 
@@ -67,31 +63,31 @@ Washington, DC 20036-5805
 
 ## TABLE OF CONTENTS
 
-Introduction. ..... 3
-PBR Calculation Schematic ..... 4
-
-1. Exemptions, Transition Rules, and Details on Products Covered. ..... 3
-2. Available Information on Common Practice ..... 10
-3. VM-20 Calculation ..... 11
-4. VM-20 Calculation Overview—Part A. Net Premium Reserve (NPR) ..... 18
-5. VM-20 Calculation Overview—Part B. Deterministic Reserve ..... 28
-6. VM-20 Calculation Overview—Part C. Stochastic Reserve ..... 33
-7. Stochastic Exclusion Test ..... 36
-8. Deterministic Exclusion Test ..... 43
-9. Difference From Cash Flow Testing-Scenario Reserve Calculation ..... 46
-10. Considerations When Performing Reserve Calculations on Other Than the Valuation Date ..... 49
-11. Details on Starting Assets and Asset Modeling. ..... 51
-12. Details on Scenarios / Scenario Generators / Economic Assumptions ..... 68
-13. Setting Prudent Estimate and Anticipated Experience Assumptions ..... 73
-14. Setting Margins ..... 77
-15. Setting Mortality Assumptions ..... 82
-16. Setting Premium Assumptions ..... 93
-17. Setting Policyholder Behavior Assumptions Other Than Premiums. ..... 95
-18. Setting Expense Assumptions ..... 99
-19. Setting Non-Guaranteed Element Assumptions ..... 101
-20. Treatment of Reinsurance ..... 104
-21. Treatment of Hedging / Derivative Programs ..... 109
-American Academy of Actuaries
+	Introduction. ..... 3
+	PBR Calculation Schematic ..... 4
+	
+	1. Exemptions, Transition Rules, and Details on Products Covered. ..... 3
+	2. Available Information on Common Practice ..... 10
+	3. VM-20 Calculation ..... 11
+	4. VM-20 Calculation Overview—Part A. Net Premium Reserve (NPR) ..... 18
+	5. VM-20 Calculation Overview—Part B. Deterministic Reserve ..... 28
+	6. VM-20 Calculation Overview—Part C. Stochastic Reserve ..... 33
+	7. Stochastic Exclusion Test ..... 36
+	8. Deterministic Exclusion Test ..... 43
+	9. Difference From Cash Flow Testing-Scenario Reserve Calculation ..... 46
+	10. Considerations When Performing Reserve Calculations on Other Than the Valuation Date ..... 49
+	11. Details on Starting Assets and Asset Modeling. ..... 51
+	12. Details on Scenarios / Scenario Generators / Economic Assumptions ..... 68
+	13. Setting Prudent Estimate and Anticipated Experience Assumptions ..... 73
+	14. Setting Margins ..... 77
+	15. Setting Mortality Assumptions ..... 82
+	16. Setting Premium Assumptions ..... 93
+	17. Setting Policyholder Behavior Assumptions Other Than Premiums. ..... 95
+	18. Setting Expense Assumptions ..... 99
+	19. Setting Non-Guaranteed Element Assumptions ..... 101
+	20. Treatment of Reinsurance ..... 104
+	21. Treatment of Hedging / Derivative Programs ..... 109
+	American Academy of Actuaries
 
 ## Introduction
 

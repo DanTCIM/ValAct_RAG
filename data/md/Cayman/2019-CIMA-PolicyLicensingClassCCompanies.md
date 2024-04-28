@@ -1,5 +1,3 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-01.jpg?height=241&width=228&top_left_y=199&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
 # Regulatory Policy Licensing - Class C Insurance Companies 
 
 ## 1. Statement of Objectives
@@ -24,8 +22,6 @@ c) business as an insurance agent, insurance broker or insurance manager, in or 
 
 "Insurance Linked Securities" ("ILS") are financial instruments which serve to transfer insurance risk to investors and capital market institutions typically via securities or structured finance arrangements and whose value is affected by an insured loss event.
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-02.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
 ## 4. Scope
 
 4.1. According to the Law, persons require a class C licence "for the carrying on of insurance business involving the provision of reinsurance arrangements in respect of which the insurance obligations of the class $C$ insurer are limited in recourse to and collateralised by the class $C$ insurer's funding sources or the proceeds of such funding sources which include the issuance of bonds or other instruments, contracts for differences and such other funding mechanisms approved by the Authority".
@@ -44,13 +40,7 @@ c) business as an insurance agent, insurance broker or insurance manager, in or 
 
 5.3. All class $\mathrm{C}$ insurer licence applications ("applications") should be accompanied by the licensing checklist $^{1}$ issued by the Authority for class $C$ insurer applicants.
 
-5.4. Applications for non-Cat bond ILS vehicles, complex Cat bond vehicles and[^0]
-
-## May 2019
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-03.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-Cat bonds that are not repeated programs will be presented to the Authority's Management Committee ("MC"), which meets weekly, for approval. The Authority may allow its insurance division to process and issue licenses for non-complex Cat bond vehicles and Cat bonds that are repeated programs ${ }^{2}$. A non-complex Cat bond application is one where:
+5.4. Applications for non-Cat bond ILS vehicles, complex Cat bond vehicles and[^0] Cat bonds that are not repeated programs will be presented to the Authority's Management Committee ("MC"), which meets weekly, for approval. The Authority may allow its insurance division to process and issue licenses for non-complex Cat bond vehicles and Cat bonds that are repeated programs ${ }^{2}$. A non-complex Cat bond application is one where:
 
 a) all the investors are sophisticated ${ }^{3}$;
 
@@ -70,7 +60,6 @@ Regardless of the applicant satisfying the above criteria, if the insurance divi
 
 5.8. The Authority may reject an application where the applicant does not meet the requirements prescribed in the Law, Regulations, the criteria set out in this Policy or where the Authority believes that granting a license would not be in the best interests of the public, proposed investors, policyholders, or creditors.[^1]
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-04.jpg?height=236&width=228&top_left_y=202&top_left_x=1076" alt="image" style="width:100%;height:auto;">
 
 ## 6. Assessment Criteria for Licensing Class C Insurers
 
@@ -96,11 +85,7 @@ b) Competence and capability; and
 
 c) Financial soundness.
 
-6.5.4 Fit and proper assessments will be conducted on all persons performing controlled functions (as stipulated in the Regulatory Policy on Fitness and Propriety) including persons holding managerial functions where applicants will have staff to discharge managerial functions in the jurisdiction. Where[^2]
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-05.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-an applicant chooses to outsource its management function to an Insurance Manager ("IM"), the Authority expects that the IM is adequately qualified and fit and proper to carry on that outsourced function. The IM should be licensed and in good standing with the Authority.
+6.5.4 Fit and proper assessments will be conducted on all persons performing controlled functions (as stipulated in the Regulatory Policy on Fitness and Propriety) including persons holding managerial functions where applicants will have staff to discharge managerial functions in the jurisdiction. Where[^2] an applicant chooses to outsource its management function to an Insurance Manager ("IM"), the Authority expects that the IM is adequately qualified and fit and proper to carry on that outsourced function. The IM should be licensed and in good standing with the Authority.
 
 6.5.5 Where a shareholder of the applicant is a trust, the Authority will conduct fit and proper assessments, including complete due diligence for anti-money laundering and counter terrorist financing ("AML/CFT") purposes, on the said trust, trustees (unless licensed by the Authority) and the ultimate beneficiary(ies), if known at the time of application.
 
@@ -118,11 +103,7 @@ an applicant chooses to outsource its management function to an Insurance Manage
 
 6.6.4 Applicants that are single transaction Cat bonds should provide a schematic chart, a copy of the offering circular and offering circular supplement or similar documents. The offering circular and offering circular supplement should provide sufficient details of the proposed transaction to allow investors to make an informed decision. Specific disclosures required in the offering circular are listed in section 6.9.3 herein.
 
-6.6.5 Any changes to the business plan or offering circular must be notified to or approved by the Authority. Applicants shall refer to the regulatory
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-06.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-procedure on business plan changes ${ }^{6}$ for guidance on which changes require approval, which require notification, and the procedure to follow.
+6.6.5 Any changes to the business plan or offering circular must be notified to or approved by the Authority. Applicants shall refer to the regulatory procedure on business plan changes ${ }^{6}$ for guidance on which changes require approval, which require notification, and the procedure to follow.
 
 ### 6.7. Funding and Collateral Arrangements
 
@@ -141,10 +122,6 @@ d) Claims of any investors are subordinated to those of the cedent and the inves
 6.7.3 The proposed class $\mathrm{C}$ insurer is expected to have at all times assets the value of which is equal to or exceeds the aggregate maximum risk exposure and be able to pay the amounts it is liable for as they fall due. Applicants should establish that their assets satisfy the definition of admissible assets as provided in the Capital Regulations. The type of assets should match the expected duration of liabilities.
 
 6.7.4 With a view to mitigate market risks and to ensure that the proposed structure is and remains fully funded and collateralized, the class $C$ insurer should hold the majority of its investments in low risk asset classes such as cash, cash equivalents and money market funds. The Authority may consider contingent assets for inclusion in the funding structure to partially meet the fully funded and collateralized requirement. Applicants' investment policy, strategy and guidelines should reflect these principles.[^3]
-
-## May 2019
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-07.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
 
 6.7.5 The Authority must be satisfied that the cedent is aware and is satisfied with the nature of assets maintained by the proposed class $C$ insurer, where necessary, through the service providers (such as reinsurance and indenture trust(ee)s).
 
@@ -168,11 +145,7 @@ b) has achieved a financial rating ${ }^{7}$ of at least A- by Standard \& Poor'
 
 6.7.10 LOCs should be clean, irrevocable, unconditional and evergreen and should name the applicant as beneficiary.
 
-6.7.11 Further, the Authority expects a full disclosure to all relevant parties by the applicants with respect to the intended use of LOCs or other debt mechanisms as collateral and details of the issuers of the funding/collateral[^4]
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-08.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-instruments.
+6.7.11 Further, the Authority expects a full disclosure to all relevant parties by the applicants with respect to the intended use of LOCs or other debt mechanisms as collateral and details of the issuers of the funding/collateral[^4] instruments.
 
 6.7.12 The collateral should be maintained for the account of the applicant. The collateral agreement should specify under what conditions funds can be disbursed to investors or the cedent.
 
@@ -194,11 +167,7 @@ instruments.
 
 ### 6.9. Disclosure Requirements
 
-6.9.1 The Authority recognises the importance of a high level of transparency in relation to the structure, assets, and investments of the proposed vehicle, which would enable the key parties to understand the associated risks and
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-09.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-make an informed decision whether to enter into a business relationship with the applicant. As such, the Authority expects that applicants will make full disclosures to all relevant parties, including the cedent, investors, financiers, or similar third party capital-providers, and the Authority, as appropriate.
+6.9.1 The Authority recognises the importance of a high level of transparency in relation to the structure, assets, and investments of the proposed vehicle, which would enable the key parties to understand the associated risks and make an informed decision whether to enter into a business relationship with the applicant. As such, the Authority expects that applicants will make full disclosures to all relevant parties, including the cedent, investors, financiers, or similar third party capital-providers, and the Authority, as appropriate.
 
 6.9.2 As a part of investor protection, the Authority must be satisfied that the applicant has provided to all prospective investors in writing all the material information that is necessary to enable the prospective investors to make an informed decision about whether or not to invest in the applicant.
 
@@ -242,8 +211,6 @@ q) the subordination of claims of investors to those of creditors under the insu
 
 r) rights of investors to receive information on the composition of assets, and market and/or net value of assets, including frequency of the reporting;
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-10.jpg?height=238&width=228&top_left_y=201&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
 s) a top-up provision, if it exists, and details in relation to the named party, conditions under which top-up will be required and the timeframe within which top-up must be carried out after the asset deterioration; and
 
 t) whether the applicant intends to seek an audit waiver from the authority; and
@@ -268,11 +235,7 @@ u) whether financial statements will be distributed to the investors.
 
 ## 7. Record Keeping
 
-7.1. Applicants shall provide details on how and where their books and records, including management information will be stored securely and could be accessed at all reasonable times. Books and records shall include licensing documentation, details of key personnel (if applicable), funding mechanism, claims handling and outsourcing. The Authority must be satisfied with the location and accessibility of applicant's books and records. Applicants shall refer to the Authority's Statement of Guidance on the Nature, Accessibility and Retention of Records and any
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-11.jpg?height=236&width=228&top_left_y=199&top_left_x=1076" alt="image" style="width:100%;height:auto;">
-
-additional guidance issued.
+7.1. Applicants shall provide details on how and where their books and records, including management information will be stored securely and could be accessed at all reasonable times. Books and records shall include licensing documentation, details of key personnel (if applicable), funding mechanism, claims handling and outsourcing. The Authority must be satisfied with the location and accessibility of applicant's books and records. Applicants shall refer to the Authority's Statement of Guidance on the Nature, Accessibility and Retention of Records and any additional guidance issued.
 
 ## 8. Audited Financial Statements
 
@@ -297,10 +260,6 @@ d) Declaration of trust.
 9.4. Where there are material changes prior to the submission of the closing documentation, but subsequent to the granting of a licence, the licensee shall refer to the relevant provisions under the Law and relevant regulatory measures for the procedures to follow to notify or obtain required approval(s) from the Authority.
 
 9.5. In addition to the information and documentation specified in this RPy, the Authority may require any other information or documentation that is necessary for processing an application and granting a licence.
-
-May 2019
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1f0a668c1f5cd92f86a9g-12.jpg?height=241&width=244&top_left_y=199&top_left_x=1062" alt="image" style="width:100%;height:auto;">
 
 
 [^0]:    ${ }^{1}$ The licensing checklist issued by the Authority gathers detailed information specific to the applicant's proposed transaction, funding mechanisms and operational matters, and includes references to the application form or other documents where exact details (with page numbers) of that information can be found. This checklist is available on the Authority's website.

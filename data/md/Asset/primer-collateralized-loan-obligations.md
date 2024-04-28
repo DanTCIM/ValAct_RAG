@@ -2,11 +2,7 @@ NAIC
 
 National Association of Insurance Commissioners $\&^{\text {The }}$ CENTER
 
-for INSURANCE
-
-POLICY
-
-and RESEARCH
+for INSURANCE POLICY and RESEARCH
 
 # Capital Markets Bureau Primer 
 

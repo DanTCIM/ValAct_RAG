@@ -1,6 +1,6 @@
 # Additional Considerations in Data Science 
 
-## An Actuarial View of Data Bias: Definitions, Impacts, and Considerations
+# An Actuarial View of Data Bias: Definitions, Impacts, and Considerations
 
 JULY 2023
 

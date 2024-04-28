@@ -1,24 +1,12 @@
-# IS <br> ActuARIAL StANDARDS BoARD 
-
-Actuarial Standard of
-
-Practice No. 25
+# Actuarial Standard of Practice No. 25
 
 ## Credibility Procedures
 
-## Revised Edition
+Revised Edition
 
-Developed by the
+Developed by the Credibility Task Force of the General Committee of the Actuarial Standards Board
 
-Credibility Task Force of the
-
-General Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 December 2013
 
@@ -26,34 +14,34 @@ Doc. No. 174
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iii
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Credibility ..... 2
-2.2 Credibility Procedure ..... 2
-2.3 Full Credibility ..... 2
-2.4 Relevant Experience ..... 2
-2.5 Risk Characteristics ..... 2
-2.6 Risk Classification System ..... 2
-2.7 Subject Experience ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 2
-3.1 Purpose and Use of Credibility Procedures ..... 2
-3.2 Selection of Credibility Procedure ..... 3
-3.3 Selection of Relevant Experience ..... 3
-3.4 Professional Judgment ..... 3
-3.5 Homogeneity of Data ..... 4
-Section 4. Communications and Disclosures ..... 4
-4.1 Disclosure ..... 4
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 5
-Background ..... 5
-Current Practices ..... 5
-Appendix 2-Comments on the Second Exposure Draft and Responses ..... 7
+	Transmittal Memorandum ..... iii
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Credibility ..... 2
+	2.2 Credibility Procedure ..... 2
+	2.3 Full Credibility ..... 2
+	2.4 Relevant Experience ..... 2
+	2.5 Risk Characteristics ..... 2
+	2.6 Risk Classification System ..... 2
+	2.7 Subject Experience ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 2
+	3.1 Purpose and Use of Credibility Procedures ..... 2
+	3.2 Selection of Credibility Procedure ..... 3
+	3.3 Selection of Relevant Experience ..... 3
+	3.4 Professional Judgment ..... 3
+	3.5 Homogeneity of Data ..... 4
+	Section 4. Communications and Disclosures ..... 4
+	4.1 Disclosure ..... 4
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 5
+	Background ..... 5
+	Current Practices ..... 5
+	Appendix 2-Comments on the Second Exposure Draft and Responses ..... 7
 
 ## ASOP No. 25-December 2013
 

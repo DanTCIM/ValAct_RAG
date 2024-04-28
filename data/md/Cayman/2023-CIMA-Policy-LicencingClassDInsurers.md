@@ -1,11 +1,10 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_ada09872f86978ac530bg-01.jpg?height=480&width=501&top_left_y=112&top_left_x=80" alt="image" style="width:100%;height:auto;">
-
 # REGULATORY POLICY Licencing for Class D Insurers 
 
 May 2023
 
 Table of Contents
-List of Acronyms ..... 3
+
+- List of Acronyms ..... 3
 
 1. Statement of Objectives ..... 4
 2. Scope of Application. ..... 4

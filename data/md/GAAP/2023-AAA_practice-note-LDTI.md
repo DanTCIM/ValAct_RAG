@@ -2,21 +2,17 @@ A PUBLIC POLICY PRACTICE NOTE
 
 # Application of ASU 2018-12 to the Accounting for Long-Duration Contracts under U.S. GAAP 
 
-## December 2023
+December 2023
 
 Developed by<br>The Financial Reporting Committee's<br>Long-Duration Contracts Work Group
 
-American Academy
-
-of ACTUARIES
+American Academy of ACTUARIES
 
 ## Application of ASU 2018-12 to the Accounting for Long-Duration Contracts under U.S. GAAP
 
 December 2023
 
 ## Developed by the Long-Duration Contract Work Group of the Financial Reporting Committee of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_72fe7170f164683eb7abg-002.jpg?height=322&width=859&top_left_y=1384&top_left_x=660" alt="image" style="width:100%;height:auto;">
 
 Objective. Independent. Effective. ${ }^{\text {тм }}$
 
@@ -92,39 +88,39 @@ This practice note is specifically designed to cover issues of interest to actua
 
 ## Contents
 
-I. Level of Aggregation ..... 5
-Overall level of aggregation ..... 5
-Product considerations ..... 8
-Impacts of how the business was acquired ..... 10
-Issue date considerations ..... 12
-Other considerations ..... 13
-II. Cash Flow Assumption Setting and Remeasurement ..... 15
-III. Discount Rate Assumptions ..... 28
-IV. Claim Reserves and Long-Duration Health Insurance ..... 40
-Scope ..... 40
-Long-tail claim liabilities ..... 41
-Updates for actual experience and assumption changes ..... 43
-Other concerns ..... 46
-Transition ..... 46
-V. Limited-Payment Contracts ..... 48
-VI. Deferred Acquisition Costs ..... 64
-Introduction ..... 64
-Deferred Expenses ..... 64
-Individual contract basis ..... 65
-Grouped amortization basis ..... 68
-Excess terminations ..... 75
-Assumption setting and updating ..... 78
-Other considerations ..... 79
-Transition ..... 81
-Reinsurance ..... 83
-Supplement-A Walk Through the Changes to Amortization of Deferred Acquisition Costs ..... 84
-VII. Reinsurance ..... 89
-General ..... 89
-Ceded (General) ..... 91
-Ceded (Concurrent) ..... 100
-Ceding (Existing in Force) ..... 102
-Assumed ..... 109
-Supplement-Attributed Retrospective Remeasurement of Ceded Reinsurance. ..... 113
+	I. Level of Aggregation ..... 5
+	Overall level of aggregation ..... 5
+	Product considerations ..... 8
+	Impacts of how the business was acquired ..... 10
+	Issue date considerations ..... 12
+	Other considerations ..... 13
+	II. Cash Flow Assumption Setting and Remeasurement ..... 15
+	III. Discount Rate Assumptions ..... 28
+	IV. Claim Reserves and Long-Duration Health Insurance ..... 40
+	Scope ..... 40
+	Long-tail claim liabilities ..... 41
+	Updates for actual experience and assumption changes ..... 43
+	Other concerns ..... 46
+	Transition ..... 46
+	V. Limited-Payment Contracts ..... 48
+	VI. Deferred Acquisition Costs ..... 64
+	Introduction ..... 64
+	Deferred Expenses ..... 64
+	Individual contract basis ..... 65
+	Grouped amortization basis ..... 68
+	Excess terminations ..... 75
+	Assumption setting and updating ..... 78
+	Other considerations ..... 79
+	Transition ..... 81
+	Reinsurance ..... 83
+	Supplement-A Walk Through the Changes to Amortization of Deferred Acquisition Costs ..... 84
+	VII. Reinsurance ..... 89
+	General ..... 89
+	Ceded (General) ..... 91
+	Ceded (Concurrent) ..... 100
+	Ceding (Existing in Force) ..... 102
+	Assumed ..... 109
+	Supplement-Attributed Retrospective Remeasurement of Ceded Reinsurance. ..... 113
 
 ## I. Level of Aggregation
 

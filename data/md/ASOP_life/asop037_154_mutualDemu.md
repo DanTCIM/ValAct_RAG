@@ -1,19 +1,11 @@
-# 10 <br> ActUARIal Standards BOARD 
-
-## Actuarial Standard
-
-of Practice
-
-No. 37
+# Actuarial Standard of Practice No. 37
 
 ## Allocation of Policyholder Consideration in Mutual Life Insurance Company Demutualizations
 
 Developed by the Task Force on Allocation of Policyholder Equity of the Life Committee of the
-
 Actuarial Standards Board
 
 Adopted by the
-
 Actuarial Standards Board
 
 June 2000
@@ -24,60 +16,60 @@ Updated for Deviation Language Effective May 1, 2011
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 1
-2.1 Actuarial Contribution ..... 2
-2.2 Consideration ..... 2
-2.3 Demutualization ..... 2
-2.4 Eligibility Date ..... 2
-2.5 Eligible Policyholder ..... 2
-2.6 Historical Contribution ..... 2
-2.7 Membership Rights ..... 2
-2.8 Mutual Company ..... 2
-2.9 Plan of Conversion ..... 2
-2.10 Policy ..... 2
-2.11 Voting Rights ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Policyholder Eligibility ..... 3
-3.1.1 Components of Consideration ..... 3
-3.1.2 Reinsurance ..... 3
-3.2 Basis of Allocation ..... 3
-3.2.1 Basis for Allocating the Fixed Component ..... 4
-3.2.2 Amount Allocated as the Fixed Component ..... 4
-3.2.3 Basis for Allocating the Variable Component ..... 4
-3.2.4 Calculating the Actuarial Contribution ..... 5
-3.2.5 Treatment of Negatives ..... 6
-3.3 Experience Factors ..... 7
-3.3.1 Experience Factors Related to Past Experience ..... 7
-3.3.2 Experience Factors Related to Anticipated Future Experience ..... 8
-3.3.3 Other Approaches ..... 9
-3.4 Continuity Issues ..... 9
-Section 4. Communications and Disclosures ..... 10
-4.1 Reliance on Data Supplied by Others ..... 10
-4.2 Reliance on Asset Cash-Flow Projections Supplied by Others ..... 10
-4.3 Actuarial Report or Statement of Actuarial Opinion ..... 10
-4.4 Disclosures ..... 11
-APPENDIXES
-Appendix 1—Background and Current Practices ..... 12
-Background ..... 12
-Current Practices ..... 12
-Actuarial Contribution ..... 12
-Eligibility ..... 12
-Amount Allocated as the Fixed Component ..... 13
-Amount Allocated as the Variable Component ..... 13
-Legitimacy of Historical Practice ..... 14
-Converted Policies, Replacements, and Policy Exchanges ..... 14
-Supplemental Contracts and Settlement Options ..... 15
-Change in Policy Conditions Due to Update Programs ..... 15
-Non-Par Coverages Associated with Terminated Group Contracts ..... 15
-Data Problems ..... 15
-Appendix 2-Comments on the Second Exposure Draft and Task Force Responses ..... 16
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 1
+	2.1 Actuarial Contribution ..... 2
+	2.2 Consideration ..... 2
+	2.3 Demutualization ..... 2
+	2.4 Eligibility Date ..... 2
+	2.5 Eligible Policyholder ..... 2
+	2.6 Historical Contribution ..... 2
+	2.7 Membership Rights ..... 2
+	2.8 Mutual Company ..... 2
+	2.9 Plan of Conversion ..... 2
+	2.10 Policy ..... 2
+	2.11 Voting Rights ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Policyholder Eligibility ..... 3
+	3.1.1 Components of Consideration ..... 3
+	3.1.2 Reinsurance ..... 3
+	3.2 Basis of Allocation ..... 3
+	3.2.1 Basis for Allocating the Fixed Component ..... 4
+	3.2.2 Amount Allocated as the Fixed Component ..... 4
+	3.2.3 Basis for Allocating the Variable Component ..... 4
+	3.2.4 Calculating the Actuarial Contribution ..... 5
+	3.2.5 Treatment of Negatives ..... 6
+	3.3 Experience Factors ..... 7
+	3.3.1 Experience Factors Related to Past Experience ..... 7
+	3.3.2 Experience Factors Related to Anticipated Future Experience ..... 8
+	3.3.3 Other Approaches ..... 9
+	3.4 Continuity Issues ..... 9
+	Section 4. Communications and Disclosures ..... 10
+	4.1 Reliance on Data Supplied by Others ..... 10
+	4.2 Reliance on Asset Cash-Flow Projections Supplied by Others ..... 10
+	4.3 Actuarial Report or Statement of Actuarial Opinion ..... 10
+	4.4 Disclosures ..... 11
+	APPENDIXES
+	Appendix 1—Background and Current Practices ..... 12
+	Background ..... 12
+	Current Practices ..... 12
+	Actuarial Contribution ..... 12
+	Eligibility ..... 12
+	Amount Allocated as the Fixed Component ..... 13
+	Amount Allocated as the Variable Component ..... 13
+	Legitimacy of Historical Practice ..... 14
+	Converted Policies, Replacements, and Policy Exchanges ..... 14
+	Supplemental Contracts and Settlement Options ..... 15
+	Change in Policy Conditions Due to Update Programs ..... 15
+	Non-Par Coverages Associated with Terminated Group Contracts ..... 15
+	Data Problems ..... 15
+	Appendix 2-Comments on the Second Exposure Draft and Task Force Responses ..... 16
 
 ## ASOP No. 37-June 2000
 

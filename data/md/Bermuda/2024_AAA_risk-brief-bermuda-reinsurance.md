@@ -9,8 +9,6 @@ The U.S. life insurance market has traditionally employed reinsurance as a strat
 - Many factors motivate the cession of such business to Bermuda-based entities; this increased activity has drawn the attention of U.S. regulators who are charged with ensuring appropriate protection of U.S. life insurer policyholders and the life insurance industry.
 - This issue brief provides a concise overview of the incentives, typical procedures, and pertinent actuarial directives tailored for U.S.-based actuaries engaged in reinsurance transactions specific to Bermuda.
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_d16240b348672ff8384cg-01.jpg?height=90&width=103&top_left_y=2275&top_left_x=176" alt="image" style="width:100%;height:auto;">
-
 American Academy of ACTUARIES 1850 M Street NW, Suite 300 Washington, DC 20036 202-223-8196 | www.actuary.org Geralyn Trujillo Senior Director, Public Policy
 The U.S. life insurance market has a long-established practice of using reinsurance to efficiently manage both risk and capital. Recently, there has been a significant increase in the volume of asset-intensive reinsurance (AIR) ceded by U.S.-domiciled life insurers to Bermuda-based entities. While there are many reasons motivating the cession of such business to Bermuda-based entities, this increased activity has drawn the attention of U.S. regulators who are charged with ensuring appropriate protection of U.S. life insurer policyholders and the life insurance industry.
 

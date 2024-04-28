@@ -22,11 +22,9 @@ American Academy of ActUaries
 
 Ali Zaker-Shahrak, MAAA, FSA
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_c6ed40200ab25ed70b4dg-01.jpg?height=287&width=483&top_left_y=2139&top_left_x=1336" alt="image" style="width:100%;height:auto;">
-
 ACTUARY.ORG
 
-## The Principle-Based Reserves Checklist Subgroup of the Model Governance Work Group of the American Academy of Actuaries has developed a model governance checklist. This nonexhaustive checklist is offered as a resource for practicing life actuaries involved in actuarial model governance. Its development was prompted in response to the need for good model governance as addressed in PBR regulation; however, it will also be of value wherever actuarial modeling is performed. It should also be made clear that although this checklist represents model governance practices that many life actuaries and their companies would aspire to, they will not apply in every situation, as model governance is a complex and evolving process specific to a company's modeling environment.
+The Principle-Based Reserves Checklist Subgroup of the Model Governance Work Group of the American Academy of Actuaries has developed a model governance checklist. This nonexhaustive checklist is offered as a resource for practicing life actuaries involved in actuarial model governance. Its development was prompted in response to the need for good model governance as addressed in PBR regulation; however, it will also be of value wherever actuarial modeling is performed. It should also be made clear that although this checklist represents model governance practices that many life actuaries and their companies would aspire to, they will not apply in every situation, as model governance is a complex and evolving process specific to a company's modeling environment.
 
 A model is defined in the most recent exposure draft of the Modeling Actuarial Standard as "A representation of relationships among variables, entities, or events using statistical, financial, economic, mathematical, or scientific concepts and equations." It is likely that all the models that life actuaries work with will fall into these categories, but for the purposes of this checklist, there is no intention to exclude any model that life actuaries would work with.
 

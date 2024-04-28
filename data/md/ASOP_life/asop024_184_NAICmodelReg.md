@@ -1,76 +1,63 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_18_ce0de7c74caa1beeb231g-01.jpg?height=303&width=334&top_left_y=236&top_left_x=901" alt="image" style="width:100%;height:auto;">
-
-# ActuARIAL StANDARDS BoARD 
-
-Actuarial Standard
-
-of Practice
-
-No. 24
+# Actuarial Standard of Practice No. 24
 
 ## Compliance with the <br> NAIC Life Insurance Illustrations <br> Model Regulation
 
-## Revised Edition
+Revised Edition
 
 Developed by the
-
 Task Force to Revise ASOP No. 24 of the
-
 Life Committee of the
 
 Actuarial Standards Board
-
 Adopted by the
-
 Actuarial Standards Board
 
 December 2016
 
 Doc. No. 184
 
-## TABLEOFCONTENTS
+## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Actual Experience ..... 2
-2.2 Currently Payable Scale ..... 2
-2.3 Disciplined Current Scale ..... 2
-$2.4 \quad$ Experience Factor ..... 2
-2.5 Experience Factor Class ..... 2
-$2.6 \quad$ Illustrated Scale ..... 2
-$2.7 \quad$ Illustration Actuary ..... 2
-2.8 Nonguaranteed Element ..... 2
-2.9 Nonguaranteed Element Framework ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Regulatory Requirements ..... 3
-3.2 Appointment as Illustration Actuary ..... 3
-3.3 Illustrated Scale Requirements ..... 3
-3.3.1 Currently Payable Scale ..... 3
-3.3.2 Disciplined Current Scale ..... 3
-3.3.3 Interest Credited Rate ..... 3
-3.4 Developing the Disciplined Current Scale ..... 3
-3.4.1 Assumptions Underlying the Disciplined Current Scale ..... 3
-3.4.2 Relationship of Actual Experience to Disciplined Current Scale ..... 7
-3.5 Requirements for Self-Support ..... 7
-3.6 Requirements to Prevent Lapse-Supported Illustrations ..... 8
-3.7 Illustrations on Policies In Force One Year or More ..... 8
-3.8 Changes in Practice ..... 9
-3.9 Reliance on Data or Other Information Supplied by Others ..... 10
-3.10 Documentation ..... 10
-Section 4. Communications and Disclosures ..... 10
-4.1 Certification ..... 10
-4.2 Notice of Error in Certification ..... 11
-4.3 Disclosures ..... 11
-
-## APPENDIXES
-
-Appendix 1-Background and Current Practices
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Actual Experience ..... 2
+	2.2 Currently Payable Scale ..... 2
+	2.3 Disciplined Current Scale ..... 2
+	$2.4 \quad$ Experience Factor ..... 2
+	2.5 Experience Factor Class ..... 2
+	$2.6 \quad$ Illustrated Scale ..... 2
+	$2.7 \quad$ Illustration Actuary ..... 2
+	2.8 Nonguaranteed Element ..... 2
+	2.9 Nonguaranteed Element Framework ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Regulatory Requirements ..... 3
+	3.2 Appointment as Illustration Actuary ..... 3
+	3.3 Illustrated Scale Requirements ..... 3
+	3.3.1 Currently Payable Scale ..... 3
+	3.3.2 Disciplined Current Scale ..... 3
+	3.3.3 Interest Credited Rate ..... 3
+	3.4 Developing the Disciplined Current Scale ..... 3
+	3.4.1 Assumptions Underlying the Disciplined Current Scale ..... 3
+	3.4.2 Relationship of Actual Experience to Disciplined Current Scale ..... 7
+	3.5 Requirements for Self-Support ..... 7
+	3.6 Requirements to Prevent Lapse-Supported Illustrations ..... 8
+	3.7 Illustrations on Policies In Force One Year or More ..... 8
+	3.8 Changes in Practice ..... 9
+	3.9 Reliance on Data or Other Information Supplied by Others ..... 10
+	3.10 Documentation ..... 10
+	Section 4. Communications and Disclosures ..... 10
+	4.1 Certification ..... 10
+	4.2 Notice of Error in Certification ..... 11
+	4.3 Disclosures ..... 11
+	
+	## APPENDIXES
+	Appendix 1-Background and Current Practices
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Compliance with the NAIC Life Insurance Illustrations Model Regulation
 

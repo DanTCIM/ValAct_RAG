@@ -1,16 +1,8 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_e36d8b52125097b4245fg-01.jpg?height=304&width=317&top_left_y=230&top_left_x=904" alt="image" style="width:100%;height:auto;">
-
-# Actuarial Standards Board 
-
-Actuarial Standard
-
-of Practice
-
-No. 27
+# Actuarial Standard of Practice No. 27
 
 Revised Edition
 
-Selection of Economic Assumptions for Measuring Pension Obligations
+## Selection of Economic Assumptions for Measuring Pension Obligations
 
 Developed by the Pension Committee of the Actuarial Standards Board
 
@@ -18,77 +10,77 @@ Adopted by the Actuarial Standards Board June 2020
 
 Doc. No. 197
 
-## TABLE OF CON TENTS
+## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-$1.4 \quad$ Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Inflation ..... 2
-2.2 Measurement Date ..... 2
-2.3 Measurement Period ..... 2
-2.4 Merit Adjustments ..... 3
-2.5 Prescribed Assumption or Method Set by Another Party ..... 3
-2.6 Prescribed Assumption or Method Set by Law ..... 3
-2.7 Productivity Growth ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Overview ..... 3
-3.2 Identification of Types of Economic Assumptions Used in the Measurement ..... 3
-3.3 General Selection Process ..... 4
-3.4 Relevant Data ..... 4
-3.5 General Considerations ..... 4
-3.5.1 Adverse Deviation or Plan Provisions That Are Difficult to Measure ..... 4
-3.5.2 Materiality ..... 4
-3.5.3 Cost of Using Refined Assumptions ..... 4
-3.5.4 Rounding ..... 5
-3.5.5 Changes in Circumstances ..... 5
-3.5.6 Other Sources of Economic Data and Analyses ..... 5
-3.6 Selecting a Reasonable Assumption ..... 5
-3.6.1 Reasonable Assumption Based on Future Experience or Market Data ..... 5
-3.6.2 Range of Reasonable Assumptions ..... 6
-3.6.3 Combined Effect of Assumptions ..... 6
-3.7 Selecting an Inflation Assumption ..... 7
-3.7.1 Data ..... 7
-3.7.2 Select and Ultimate Inflation Rates ..... 7
-3.8 Selecting an Investment Return Assumption ..... 7
-3.8.1 Data ..... 7
-3.8.2 Components of the Investment Return Assumption ..... 8
-3.8.3 Measurement-Specific Considerations ..... 8
-3.8.4 Multiple Investment Return Rates ..... 9
-3.9 Selecting a Discount Rate ..... 10
-3.10 Selecting a Compensation Increase Assumption ..... 10
-3.10.1 Data ..... 11
-3.10.2 Measurement-Specific Considerations ..... 11
-3.10.3 Multiple Compensation Increase Assumptions ..... 12
-3.11 Selecting Other Economic Assumptions ..... 12
-3.11.1 Social Security ..... 13
-3.11.2 Cost-of-Living Adjustments ..... 13
-3.11.3 Rate of Payroll Growth ..... 13
-3.11.4 Growth of Individual Account Balances ..... 13
-3.11.5 Variable Conversion Factors ..... 13
-3.12 Consistency among Assumptions Selected by the Actuary for a Particular Measurement ..... 13
-3.13 Reviewing Assumptions Previously Selected by the Actuary ..... 14
-3.14 Assessing Assumptions Not Selected by the Actuary ..... 14
-3.15 Phase-In of Changes in Assumptions ..... 14
-3.16 Documentation ..... 14
-Section 4. Communications and Disclosures ..... 15
-4.1. Required Disclosures in an Actuarial Report ..... 15
-4.1.1 Assumptions Used ..... 15
-4.1.2 Rationale for Assumptions ..... 15
-4.1.3 Changes in Assumptions ..... 16
-4.1.4 Changes in Circumstances ..... 16
-4.2 Disclosure about Assumptions Not Selected by the Actuary ..... 16
-4.3 Additional Disclosures ..... 16
-4.4 Confidential Information ..... 16
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 17
-Background ..... 17
-Current Practices ..... 17
-Appendix 2- Comments on the Second Exposure Draft and Responses ..... 20
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	$1.4 \quad$ Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Inflation ..... 2
+	2.2 Measurement Date ..... 2
+	2.3 Measurement Period ..... 2
+	2.4 Merit Adjustments ..... 3
+	2.5 Prescribed Assumption or Method Set by Another Party ..... 3
+	2.6 Prescribed Assumption or Method Set by Law ..... 3
+	2.7 Productivity Growth ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Overview ..... 3
+	3.2 Identification of Types of Economic Assumptions Used in the Measurement ..... 3
+	3.3 General Selection Process ..... 4
+	3.4 Relevant Data ..... 4
+	3.5 General Considerations ..... 4
+	3.5.1 Adverse Deviation or Plan Provisions That Are Difficult to Measure ..... 4
+	3.5.2 Materiality ..... 4
+	3.5.3 Cost of Using Refined Assumptions ..... 4
+	3.5.4 Rounding ..... 5
+	3.5.5 Changes in Circumstances ..... 5
+	3.5.6 Other Sources of Economic Data and Analyses ..... 5
+	3.6 Selecting a Reasonable Assumption ..... 5
+	3.6.1 Reasonable Assumption Based on Future Experience or Market Data ..... 5
+	3.6.2 Range of Reasonable Assumptions ..... 6
+	3.6.3 Combined Effect of Assumptions ..... 6
+	3.7 Selecting an Inflation Assumption ..... 7
+	3.7.1 Data ..... 7
+	3.7.2 Select and Ultimate Inflation Rates ..... 7
+	3.8 Selecting an Investment Return Assumption ..... 7
+	3.8.1 Data ..... 7
+	3.8.2 Components of the Investment Return Assumption ..... 8
+	3.8.3 Measurement-Specific Considerations ..... 8
+	3.8.4 Multiple Investment Return Rates ..... 9
+	3.9 Selecting a Discount Rate ..... 10
+	3.10 Selecting a Compensation Increase Assumption ..... 10
+	3.10.1 Data ..... 11
+	3.10.2 Measurement-Specific Considerations ..... 11
+	3.10.3 Multiple Compensation Increase Assumptions ..... 12
+	3.11 Selecting Other Economic Assumptions ..... 12
+	3.11.1 Social Security ..... 13
+	3.11.2 Cost-of-Living Adjustments ..... 13
+	3.11.3 Rate of Payroll Growth ..... 13
+	3.11.4 Growth of Individual Account Balances ..... 13
+	3.11.5 Variable Conversion Factors ..... 13
+	3.12 Consistency among Assumptions Selected by the Actuary for a Particular Measurement ..... 13
+	3.13 Reviewing Assumptions Previously Selected by the Actuary ..... 14
+	3.14 Assessing Assumptions Not Selected by the Actuary ..... 14
+	3.15 Phase-In of Changes in Assumptions ..... 14
+	3.16 Documentation ..... 14
+	Section 4. Communications and Disclosures ..... 15
+	4.1. Required Disclosures in an Actuarial Report ..... 15
+	4.1.1 Assumptions Used ..... 15
+	4.1.2 Rationale for Assumptions ..... 15
+	4.1.3 Changes in Assumptions ..... 16
+	4.1.4 Changes in Circumstances ..... 16
+	4.2 Disclosure about Assumptions Not Selected by the Actuary ..... 16
+	4.3 Additional Disclosures ..... 16
+	4.4 Confidential Information ..... 16
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 17
+	Background ..... 17
+	Current Practices ..... 17
+	Appendix 2- Comments on the Second Exposure Draft and Responses ..... 20
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in the Selection of Economic Assumptions for Measuring Pension Obligations
 

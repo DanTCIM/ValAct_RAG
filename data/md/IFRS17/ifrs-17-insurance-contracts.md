@@ -14,41 +14,42 @@ Other Standards have made minor consequential amendments to IFRS 17, including A
 
 ## CONTENTS
 
-from paragraph
-IFRS 17 INSURANCE CONTRACTS
-OBJECTIVE
-SCOPE ..... 3
-Combination of insurance contracts ..... 9
-Separating components from an insurance contract ..... 10
-LEVEL OF AGGREGATION OF INSURANCE CONTRACTS ..... 14
-RECOGNITION ..... 25
-Insurance acquisition cash flows ..... 28A
-MEASUREMENT ..... 29
-Measurement on initial recognition ..... 32
-Subsequent measurement ..... 40
-Onerous contracts ..... 47
-Premium allocation approach ..... 53
-Reinsurance contracts held ..... 60
-Investment contracts with discretionary participation features ..... 71
-MODIFICATION AND DERECOGNITION ..... 72
-Modification of an insurance contract ..... 72
-Derecognition ..... 74
-PRESENTATION IN THE STATEMENT OF FINANCIAL POSITION ..... 78
-RECOGNITION AND PRESENTATION IN THE STATEMENT(S) OF FINANCIAL PERFORMANCE ..... 80
-Insurance service result ..... 83
-Insurance finance income or expenses ..... 87
-DISCLOSURE ..... 93
-Explanation of recognised amounts ..... 97
-Significant judgements in applying IFRS 17 ..... 117
-Nature and extent of risks that arise from contracts within the scope of IFRS 17 ..... 121
-APPENDICES
-A Defined terms
-B Application guidance
-C Effective date and transition
-D Amendments to other IFRS Standards
-APPROVAL BY THE BOARD OF IFRS 17 INSURANCE CONTRACTS
-APPROVAL BY THE BOARD OF AMENDMENTS TO IFRS 17 ISSUED IN JUNE 2020
-APPROVAL BY THE BOARD OF INITIAL APPLICATION OF IFRS 17 AND IFRS 9-COMPARATIVE INFORMATION ISSUED IN DECEMBER 2021 FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION
+	from paragraph
+	IFRS 17 INSURANCE CONTRACTS
+	OBJECTIVE
+	SCOPE ..... 3
+	Combination of insurance contracts ..... 9
+	Separating components from an insurance contract ..... 10
+	LEVEL OF AGGREGATION OF INSURANCE CONTRACTS ..... 14
+	RECOGNITION ..... 25
+	Insurance acquisition cash flows ..... 28A
+	MEASUREMENT ..... 29
+	Measurement on initial recognition ..... 32
+	Subsequent measurement ..... 40
+	Onerous contracts ..... 47
+	Premium allocation approach ..... 53
+	Reinsurance contracts held ..... 60
+	Investment contracts with discretionary participation features ..... 71
+	MODIFICATION AND DERECOGNITION ..... 72
+	Modification of an insurance contract ..... 72
+	Derecognition ..... 74
+	PRESENTATION IN THE STATEMENT OF FINANCIAL POSITION ..... 78
+	RECOGNITION AND PRESENTATION IN THE STATEMENT(S) OF FINANCIAL PERFORMANCE ..... 80
+	Insurance service result ..... 83
+	Insurance finance income or expenses ..... 87
+	DISCLOSURE ..... 93
+	Explanation of recognised amounts ..... 97
+	Significant judgements in applying IFRS 17 ..... 117
+	Nature and extent of risks that arise from contracts within the scope of IFRS 17 ..... 121
+	APPENDICES
+	A Defined terms
+	B Application guidance
+	C Effective date and transition
+	D Amendments to other IFRS Standards
+
+- APPROVAL BY THE BOARD OF IFRS 17 INSURANCE CONTRACTS
+- APPROVAL BY THE BOARD OF AMENDMENTS TO IFRS 17 ISSUED IN JUNE 2020
+- APPROVAL BY THE BOARD OF INITIAL APPLICATION OF IFRS 17 AND IFRS 9-COMPARATIVE INFORMATION ISSUED IN DECEMBER 2021 FOR THE ACCOMPANYING GUIDANCE LISTED BELOW, SEE PART B OF THIS EDITION
 
 ILLUSTRATIVE EXAMPLES
 
@@ -56,9 +57,7 @@ FOR THE BASIS FOR CONCLUSIONS, SEE PART C OF THIS EDITION
 
 BASIS FOR CONCLUSIONS
 
-IFRS 17 Insurance Contracts is set out in paragraphs 1-132 and appendices A-D. All the paragraphs have equal authority. Paragraphs in bold type state the main principles. Terms defined in Appendix A are in italics the first time that they appear in the Standard. Definitions of other terms are given in the Glossary for IFRS Standards. The Standard should be read in the context of its objective and the Basis for Conclusions,
-
-the Preface to IFRS Standards and the Conceptual Framework for Financial Reporting. IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for selecting and applying accounting policies in the absence of explicit guidance.
+IFRS 17 Insurance Contracts is set out in paragraphs 1-132 and appendices A-D. All the paragraphs have equal authority. Paragraphs in bold type state the main principles. Terms defined in Appendix A are in italics the first time that they appear in the Standard. Definitions of other terms are given in the Glossary for IFRS Standards. The Standard should be read in the context of its objective and the Basis for Conclusions, the Preface to IFRS Standards and the Conceptual Framework for Financial Reporting. IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for selecting and applying accounting policies in the absence of explicit guidance.
 
 ## International Financial Reporting Standard 17 Insurance Contracts
 

@@ -1,70 +1,60 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_1d4b2d0e287b009cd4b6g-01.jpg?height=309&width=339&top_left_y=233&top_left_x=904" alt="image" style="width:100%;height:auto;">
-
-# ActUARIAL StANDARDS BoARD 
-
-Actuarial Standard
-
-of Practice
-
-No. 55
+# Actuarial Standard of Practice No. 55
 
 ## Capital Adequacy Assessment
 
 Developed by the<br>Enterprise Risk Management Committee of the<br>Actuarial Standards Board
 
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 June 2019
 
 Doc. No. 194
 
-## TABLEOF CONTENTS
+## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose
-1.2 Scope ..... 1
-1.3 Cross References ..... 2
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Adverse Capital Event ..... 2
-2.2 Capital ..... 2
-2.3 Capital Adequacy Assessment ..... 2
-2.4 Group ..... 2
-2.5 Risk Appetite ..... 2
-2.6 Risk Capital Target ..... 2
-2.7 Risk Capital Threshold ..... 2
-2.8 Risk Profile ..... 3
-2.9 Risk Tolerance ..... 3
-2.10 Valuation Basis ..... 3
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 General Considerations ..... 3
-3.2 Additional General Considerations ..... 4
-3.3 Valuation Bases Underlying a Capital Adequacy Assessment ..... 4
-3.4 Risk Capital Target or Risk Capital Threshold ..... 5
-3.5 Additional Considerations Regarding Risk Capital Target or Risk Capital Threshold
-3.6 Scenario Tests and Stress Tests ..... 6
-3.6.1 Types of Tests ..... 6
-3.6.2 Level of Adversity ..... 6
-3.6.3 Sensitivity Testing ..... 6
-3.7 Incorporating Management Actions ..... 6
-3.8 Insurers That Operate under More Than One Regulatory Regime ..... 7
-3.9 Additional Considerations Regarding Insurers That Are Part of a Group ..... 8
-3.10 Reliance on Data or Other Information Supplied by Others ..... 8
-3.11 Documentation ..... 8
-Section 4. Communications and Disclosures ..... 8
-4.1 Required Disclosures in an Actuarial Report ..... 8
-4.2 Additional Disclosures in an Actuarial Report ..... 9
-
-## APPENDIXES
-
-Appendix 1-Background and Current Practices ..... 11
-Background ..... 11
-Current Practices ..... 11
-Appendix 2-Comments on the Third Exposure Draft and Responses ..... 13
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 2
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Adverse Capital Event ..... 2
+	2.2 Capital ..... 2
+	2.3 Capital Adequacy Assessment ..... 2
+	2.4 Group ..... 2
+	2.5 Risk Appetite ..... 2
+	2.6 Risk Capital Target ..... 2
+	2.7 Risk Capital Threshold ..... 2
+	2.8 Risk Profile ..... 3
+	2.9 Risk Tolerance ..... 3
+	2.10 Valuation Basis ..... 3
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 General Considerations ..... 3
+	3.2 Additional General Considerations ..... 4
+	3.3 Valuation Bases Underlying a Capital Adequacy Assessment ..... 4
+	3.4 Risk Capital Target or Risk Capital Threshold ..... 5
+	3.5 Additional Considerations Regarding Risk Capital Target or Risk Capital Threshold
+	3.6 Scenario Tests and Stress Tests ..... 6
+	3.6.1 Types of Tests ..... 6
+	3.6.2 Level of Adversity ..... 6
+	3.6.3 Sensitivity Testing ..... 6
+	3.7 Incorporating Management Actions ..... 6
+	3.8 Insurers That Operate under More Than One Regulatory Regime ..... 7
+	3.9 Additional Considerations Regarding Insurers That Are Part of a Group ..... 8
+	3.10 Reliance on Data or Other Information Supplied by Others ..... 8
+	3.11 Documentation ..... 8
+	Section 4. Communications and Disclosures ..... 8
+	4.1 Required Disclosures in an Actuarial Report ..... 8
+	4.2 Additional Disclosures in an Actuarial Report ..... 9
+	
+	## APPENDIXES
+	
+	Appendix 1-Background and Current Practices ..... 11
+	Background ..... 11
+	Current Practices ..... 11
+	Appendix 2-Comments on the Third Exposure Draft and Responses ..... 13
 
 | TO: | Members of Actuarial Organizations Governed by the Standards of Practice of ther |
 | :--- | :--- |

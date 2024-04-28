@@ -1,7 +1,5 @@
 # Considerations in Market Risk Benefits 
 
-$\mathbf{A}_{\text {AfARCLAN ACADAMY }}^{\text {of }}$
-
 A PUBLIC POLICY WHITE PAPER
 
 Life Financial Reporting Committee

@@ -1,26 +1,10 @@
-# $\square$ <br> ActuARIal Standards BOARD 
+# Actuarial Standard of Practice No. 57
 
-Actuarial Standard
+## Statements of Actuarial Opinion Not Based on an Asset Adequacy Analysis for Life Insurance, Annuity, or Health Insurance Reserves and Related Actuarial Items
 
-of Practice
+Developed by the Actuarial Compliance Guideline No. 4 Task Force of the Life Committee of the Actuarial Standards Board
 
-No. 57
-
-Statements of Actuarial Opinion Not Based on an
-
-Asset Adequacy Analysis for Life Insurance, Annuity, or Health Insurance
-
-Reserves and Related Actuarial Items
-
-Developed by the Actuarial Compliance Guideline No. 4 Task Force of the
-
-Life Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 January 2023
 
@@ -28,35 +12,35 @@ Doc. No. 208
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iii
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 2
-Section 2. Definitions ..... 2
-2.1 Subsequent Events ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 2
-3.1 Intended Purpose and Intended Users of the Statement of Actuarial Opinion ..... 2
-3.2 Exemption from Asset Adequacy Analysis ..... 2
-3.3 Statement of Opinion ..... 2
-3.4 Policy and Contract Provisions Affecting Reserves and Related Actuarial Items ..... 3
-3.5 Methods of Determination ..... 3
-3.6 Reinsurance ..... 3
-3.7 Use of Data Predating the Valuation Date ..... 3
-3.8 Subsequent Events ..... 3
-3.9 Changes in Methods, Models, or Assumptions ..... 3
-3.10 Reliance on Data or Other Information Supplied by Others ..... 3
-3.11 Opinions of Other Actuaries ..... 4
-3.12 Documentation ..... 4
-Section 4. Communications and Disclosures ..... 4
-4.1 Required Disclosures in an Actuarial Report ..... 4
-4.2 Additional Disclosures in an Actuarial Report ..... 5
-APPENDIXES
-Appendix 1-Background and Current Practices ..... 6
-Background ..... 6
-Current Practices ..... 7
-Appendix 2 ..... 9
+	Transmittal Memorandum ..... iii
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 2
+	Section 2. Definitions ..... 2
+	2.1 Subsequent Events ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 2
+	3.1 Intended Purpose and Intended Users of the Statement of Actuarial Opinion ..... 2
+	3.2 Exemption from Asset Adequacy Analysis ..... 2
+	3.3 Statement of Opinion ..... 2
+	3.4 Policy and Contract Provisions Affecting Reserves and Related Actuarial Items ..... 3
+	3.5 Methods of Determination ..... 3
+	3.6 Reinsurance ..... 3
+	3.7 Use of Data Predating the Valuation Date ..... 3
+	3.8 Subsequent Events ..... 3
+	3.9 Changes in Methods, Models, or Assumptions ..... 3
+	3.10 Reliance on Data or Other Information Supplied by Others ..... 3
+	3.11 Opinions of Other Actuaries ..... 4
+	3.12 Documentation ..... 4
+	Section 4. Communications and Disclosures ..... 4
+	4.1 Required Disclosures in an Actuarial Report ..... 4
+	4.2 Additional Disclosures in an Actuarial Report ..... 5
+	APPENDIXES
+	Appendix 1-Background and Current Practices ..... 6
+	Background ..... 6
+	Current Practices ..... 7
+	Appendix 2 ..... 9
 
 TO:
 

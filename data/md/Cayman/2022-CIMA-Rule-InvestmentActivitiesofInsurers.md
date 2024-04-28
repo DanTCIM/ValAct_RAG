@@ -1,7 +1,8 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_1a51bdfb5a979085969ag-01.jpg?height=480&width=499&top_left_y=9&top_left_x=84" alt="image" style="width:100%;height:auto;">
+# Rule on Investment Activities of Insurers
 
 Table of Contents
-List of Acronyms. ..... 4
+
+- List of Acronyms. ..... 4
 
 1. Introduction ..... 5
 2. Statement of Objectives ..... 5

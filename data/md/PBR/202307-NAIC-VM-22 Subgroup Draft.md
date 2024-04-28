@@ -1,82 +1,84 @@
+# VM-22
 Comment Categories:
-Tier 1: Key Decision Points - Discuss first
-Tier 2: High Substance Edits - Discuss second
-Tier 3: Moderate Substance Edits - Discuss third
-Tier 4: Noncontroversial or Low Substance Edits - Will expose and only discuss upon comment
-VM-22 PBR: Requirements for Principle-Based Reserves for Non-Variable Annuities
-Table of Contents
-Valuation Manual Section II. Reserve Requirements ..... 4
-Subsection 2: Annuity Products ..... 4
-Subsection 3: Deposit-Type Contracts ..... 6
-Subsection 6: Riders and Supplemental Benefits ..... 7
-VM-01: Definitions for Terms in Requirements ..... 9
-VM-22 ..... 11
-Section 1: Background ..... 11
-A. Purpose ..... 11
-B. Principles ..... 11
-C. Risks Reflected and Risks Not Reflected ..... 13
-D. Materiality ..... 15
-Section 2: Scope and Effective Date ..... 15
-A. Scope ..... 15
-B. Effective Date \& Transition ..... 15
-Section 3: Reserve Methodology ..... 16
-A. Aggregate Reserve ..... 16
-B. Impact of Reinsurance Ceded ..... 16
-C. The Additional Standard Projection Amount ..... 16
-D. The SR ..... 16
-E. The DR ..... 16
-F. Aggregation of Contracts for the DR and SR ..... 16
-G. Stochastic Exclusion Test ..... 18
-H. Allocation of the Aggregate Reserve to Contracts ..... 18
-I. Prudent Estimate Assumptions ..... 18
-J. Approximations, Simplifications, and Modeling Efficiency Techniques ..... 19
-Section 4: Determination of SR ..... 21
-A. Projection of Accumulated Deficiencies ..... 21
-B. Determination of Scenario Reserve ..... 25
-C. Projection Scenarios ..... 27
-D. Projection of Assets ..... 28
-E. Projection of Annuitization Benefits ..... 31
-F. Frequency of Projection ..... 32
-G. Compliance with ASOPs ..... 32
-Section 5: Reinsurance. ..... 33
-A. Treatment of Reinsurance in the Aggregate Reserve ..... 33
-Section 6: Standard Projection Amount ..... 36
-Section 7: Exclusion Testing ..... 37
-A. Stochastic Exclusion Test Requirement Overview ..... 37
-B. Requirement to Pass the Stochastic Exclusion Tests ..... 39
-C. Stochastic Exclusion Ratio Test ..... 40
-D. Stochastic Exclusion Demonstration Test ..... 42
-E. Deterministic Certification Option ..... 44
-Section 8: To Be Determined (Scenario Generation for VM-21) ..... 44
-Section 9: Modeling Hedges under a Non-Index Credit Future Hedging Strategy.. ..... 45
-A. Initial Considerations ..... 45
-B. Modeling Approaches. ..... 45
-C. Calculation of SR (Reported) ..... 46
-D. Additional Considerations for CTE70 (best efforts) ..... 50
-E. Specific Considerations and Requirements ..... 50
-Section 10: Guidance and Requirements for Setting Contract Holder Behavior Prudent Estimate Assumptions ..... 52
-A. General. ..... 52
-B. Aggregate vs. Individual Margins ..... 52
-C. Sensitivity Testing ..... 53
-D. Specific Considerations and Requirements ..... 54
-E. Dynamic Assumptions ..... 55
-F. Consistency with the CTE Level ..... 56
-G. Additional Considerations and Requirements for Assumptions Applicable to Guaranteed Living Benefits ..... 57
-H. Policy Loans ..... 57
-I. Non-Guaranteed Elements ..... 58
-Section 11: Guidance and Requirements for Setting Prudent Estimate Mortality Assumptions ..... 60
-A. Overview ..... 60
-B. Determination of Expected Mortality Curves ..... 61
-C. Adjustment for Credibility to Determine Prudent Estimate Mortality ..... 64
-D. Future Mortality Improvement ..... 65
-Section 12: Other Guidance and Requirements for Assumptions ..... 66
-Section 13: Allocation of Aggregate Reserves to the Contract Level ..... 72
-VM-V: Statutory Maximum Valuation Interest Rates for Formulaic Reserves. ..... 76
 
-1. Income Annuities. ..... 76
-A. Purpose and Scope ..... 76
-B. Definitions ..... 77
-C. Determination of the Statutory Maximum Valuation Interest Rate. ..... 79
+	Tier 1: Key Decision Points - Discuss first
+	Tier 2: High Substance Edits - Discuss second
+	Tier 3: Moderate Substance Edits - Discuss third
+	Tier 4: Noncontroversial or Low Substance Edits - Will expose and only discuss upon comment
+	VM-22 PBR: Requirements for Principle-Based Reserves for Non-Variable Annuities
+	Table of Contents
+	Valuation Manual Section II. Reserve Requirements ..... 4
+	Subsection 2: Annuity Products ..... 4
+	Subsection 3: Deposit-Type Contracts ..... 6
+	Subsection 6: Riders and Supplemental Benefits ..... 7
+	VM-01: Definitions for Terms in Requirements ..... 9
+	VM-22 ..... 11
+	Section 1: Background ..... 11
+	A. Purpose ..... 11
+	B. Principles ..... 11
+	C. Risks Reflected and Risks Not Reflected ..... 13
+	D. Materiality ..... 15
+	Section 2: Scope and Effective Date ..... 15
+	A. Scope ..... 15
+	B. Effective Date \& Transition ..... 15
+	Section 3: Reserve Methodology ..... 16
+	A. Aggregate Reserve ..... 16
+	B. Impact of Reinsurance Ceded ..... 16
+	C. The Additional Standard Projection Amount ..... 16
+	D. The SR ..... 16
+	E. The DR ..... 16
+	F. Aggregation of Contracts for the DR and SR ..... 16
+	G. Stochastic Exclusion Test ..... 18
+	H. Allocation of the Aggregate Reserve to Contracts ..... 18
+	I. Prudent Estimate Assumptions ..... 18
+	J. Approximations, Simplifications, and Modeling Efficiency Techniques ..... 19
+	Section 4: Determination of SR ..... 21
+	A. Projection of Accumulated Deficiencies ..... 21
+	B. Determination of Scenario Reserve ..... 25
+	C. Projection Scenarios ..... 27
+	D. Projection of Assets ..... 28
+	E. Projection of Annuitization Benefits ..... 31
+	F. Frequency of Projection ..... 32
+	G. Compliance with ASOPs ..... 32
+	Section 5: Reinsurance. ..... 33
+	A. Treatment of Reinsurance in the Aggregate Reserve ..... 33
+	Section 6: Standard Projection Amount ..... 36
+	Section 7: Exclusion Testing ..... 37
+	A. Stochastic Exclusion Test Requirement Overview ..... 37
+	B. Requirement to Pass the Stochastic Exclusion Tests ..... 39
+	C. Stochastic Exclusion Ratio Test ..... 40
+	D. Stochastic Exclusion Demonstration Test ..... 42
+	E. Deterministic Certification Option ..... 44
+	Section 8: To Be Determined (Scenario Generation for VM-21) ..... 44
+	Section 9: Modeling Hedges under a Non-Index Credit Future Hedging Strategy.. ..... 45
+	A. Initial Considerations ..... 45
+	B. Modeling Approaches. ..... 45
+	C. Calculation of SR (Reported) ..... 46
+	D. Additional Considerations for CTE70 (best efforts) ..... 50
+	E. Specific Considerations and Requirements ..... 50
+	Section 10: Guidance and Requirements for Setting Contract Holder Behavior Prudent Estimate Assumptions ..... 52
+	A. General. ..... 52
+	B. Aggregate vs. Individual Margins ..... 52
+	C. Sensitivity Testing ..... 53
+	D. Specific Considerations and Requirements ..... 54
+	E. Dynamic Assumptions ..... 55
+	F. Consistency with the CTE Level ..... 56
+	G. Additional Considerations and Requirements for Assumptions Applicable to Guaranteed Living Benefits ..... 57
+	H. Policy Loans ..... 57
+	I. Non-Guaranteed Elements ..... 58
+	Section 11: Guidance and Requirements for Setting Prudent Estimate Mortality Assumptions ..... 60
+	A. Overview ..... 60
+	B. Determination of Expected Mortality Curves ..... 61
+	C. Adjustment for Credibility to Determine Prudent Estimate Mortality ..... 64
+	D. Future Mortality Improvement ..... 65
+	Section 12: Other Guidance and Requirements for Assumptions ..... 66
+	Section 13: Allocation of Aggregate Reserves to the Contract Level ..... 72
+	VM-V: Statutory Maximum Valuation Interest Rates for Formulaic Reserves. ..... 76
+	
+	1. Income Annuities. ..... 76
+	A. Purpose and Scope ..... 76
+	B. Definitions ..... 77
+	C. Determination of the Statutory Maximum Valuation Interest Rate. ..... 79
 
 ## Valuation Manual Section II. Reserve Requirements
 

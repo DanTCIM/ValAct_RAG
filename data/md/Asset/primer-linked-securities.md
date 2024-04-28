@@ -3,11 +3,7 @@ NAIC
 National Association of Insurance Commissioners
 \& $\overline{\text { The }}$ CENTER
 
-for INSURANCE
-
-POLICY
-
-and RESEARCH
+for INSURANCE POLICY and RESEARCH
 
 # Capital Markets Buregu Primer 
 

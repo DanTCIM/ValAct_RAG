@@ -1,8 +1,8 @@
-# NAIC <br> National Association of Insurance Commissioners 
+NAIC <br> National Association of Insurance Commissioners 
 
 The NAIC's Capital Markets Bureau monitors developments in the capital markets globally and analyzes their potential impact on the investment portfolios of U.S. insurance companies. Please see the Capital Markets Bureau website at INDEX.
 
-## Leveraged Bank Loans Primer
+# Leveraged Bank Loans Primer
 
 Analyst: Jennifer Johnson
 

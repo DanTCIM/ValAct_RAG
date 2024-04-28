@@ -1,6 +1,4 @@
-# ActUARIAL StANDARDS BOARD 
-
-Actuarial Standard<br>of Practice<br>No. 15
+# Actuarial Standard of Practice No. 15
 
 ## Dividends for Individual Participating Life Insurance, Annuities, and Disability Insurance
 
@@ -16,53 +14,53 @@ Updated for Deviation Language Effective May 1, 2011
 
 ## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 2
-2.1 Actual Experience ..... 2
-2.2 Contribution Principle ..... 2
-2.3 Dividend Determination ..... 2
-2.4 Dividend Factor ..... 2
-2.5 Dividend Factor Class ..... 2
-2.6 Dividend Framework ..... 2
-2.7 Divisible Surplus ..... 2
-2.8 Policies ..... 2
-2.9 Policy Factors ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Contribution Principle ..... 3
-3.2 Dividend Framework ..... 3
-3.3 Dividend Factors ..... 3
-3.3.1 Projection of Experience ..... 3
-3.3.2 Dividend Factor Classes ..... 4
-3.3.3 Uniform Criteria ..... 4
-3.3.4 Dividend Factors for New Policies ..... 4
-3.4 Policy Factors ..... 4
-3.5 Mortality, Morbidity, and Policy Termination ..... 4
-3.6 Investment Income ..... 5
-3.7 Policy Loans ..... 5
-3.8 Expense ..... 5
-3.9 Reinsurance ..... 5
-3.10 Tax ..... 5
-3.11 Stockholder Retention on Policies Originally Issued by a Stock Company ..... 5
-3.12 Termination Dividends ..... 6
-3.13 Illustrated Dividends Not Subject to ASOP No. 24 ..... 6
-3.14 Documentation ..... 6
-3.15 Reliance on Data or Other Information Supplied by Others ..... 6
-Section 4. Communications and Disclosures ..... 6
-4.1 Actuarial Report ..... 6
-4.2 Disclosures Concerning Process of Dividend Determination ..... 6
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 2
+	2.1 Actual Experience ..... 2
+	2.2 Contribution Principle ..... 2
+	2.3 Dividend Determination ..... 2
+	2.4 Dividend Factor ..... 2
+	2.5 Dividend Factor Class ..... 2
+	2.6 Dividend Framework ..... 2
+	2.7 Divisible Surplus ..... 2
+	2.8 Policies ..... 2
+	2.9 Policy Factors ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Contribution Principle ..... 3
+	3.2 Dividend Framework ..... 3
+	3.3 Dividend Factors ..... 3
+	3.3.1 Projection of Experience ..... 3
+	3.3.2 Dividend Factor Classes ..... 4
+	3.3.3 Uniform Criteria ..... 4
+	3.3.4 Dividend Factors for New Policies ..... 4
+	3.4 Policy Factors ..... 4
+	3.5 Mortality, Morbidity, and Policy Termination ..... 4
+	3.6 Investment Income ..... 5
+	3.7 Policy Loans ..... 5
+	3.8 Expense ..... 5
+	3.9 Reinsurance ..... 5
+	3.10 Tax ..... 5
+	3.11 Stockholder Retention on Policies Originally Issued by a Stock Company ..... 5
+	3.12 Termination Dividends ..... 6
+	3.13 Illustrated Dividends Not Subject to ASOP No. 24 ..... 6
+	3.14 Documentation ..... 6
+	3.15 Reliance on Data or Other Information Supplied by Others ..... 6
+	Section 4. Communications and Disclosures ..... 6
+	4.1 Actuarial Report ..... 6
+	4.2 Disclosures Concerning Process of Dividend Determination ..... 6
 
-## APPENDIXES
+	APPENDIXES
 
-Appendix 1-Background and Current Practices ..... 8
-Background ..... 8
-Current Practicies ..... 9
-Appendix 2-Comments on the Exposure Draft and Responses ..... 12
+	Appendix 1-Background and Current Practices ..... 8
+	Background ..... 8
+	Current Practicies ..... 9
+	Appendix 2-Comments on the Exposure Draft and Responses ..... 12
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Dividends for Individual Participating Life Insurance, Annuities, and Disability Insurance
 

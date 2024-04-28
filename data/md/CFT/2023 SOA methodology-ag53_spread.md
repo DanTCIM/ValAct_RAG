@@ -1,12 +1,4 @@
-# DSOA Research INSTITUTE 
-
-## Practitioner Considerations for
-
-Guideline Excess Spread
-
-Attribution Methodology under
-
-Actuarial Guideline LIII (AG53)
+SOA Research INSTITUTE 
 
 JANUARY | 2023
 
@@ -18,29 +10,27 @@ Investment Section
 
 Committee on Finance Research
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-02.jpg?height=253&width=1510&top_left_y=1844&top_left_x=313" alt="image" style="width:100%;height:auto;">
-
 Caveat and Disclaimer
 
 The opinions expressed and conclusions reached by the authors are their own and do not represent any official position or opinion of the Society of Actuaries Research Institute, the Society of Actuaries or its members. The Society of Actuaries Research Institute makes no representation or warranty to the accuracy of the information.
 
 ## CONTENTS
 
-Introduction. ..... 4
-Section 1: Actuarial Guideline LIII - The Requirement for Guideline Excess Spread Attribution ..... 5
-Section 2: Objectives for Developing Principles for Attribution Analysis ..... 7
-Section 3: Challenges and Limitations ..... 8
-Section 4: Market Spreads - Overview ..... 9
-Section 5: Types of Asset Risk and Relationship to Spread ..... 11
-Section 6: Principles for Attribution Analysis ..... 13
-Section 7: Ideas for Follow-up Research ..... 15
-Section 8: Acknowledgments ..... 15
-Appendix A: Guideline Excess Spread Attribution Templates ..... 17
-Appendix B: Illustrative Example of Spread Attribution with Negative Guideline Excess Spread Components ..... 18
-Appendix C: Potential Sources of Information. ..... 19
-Appendix D: Other Practical and Technical Implications ..... 21
-References ..... 22
-About The Society of Actuaries Research Institute ..... 23
+	Introduction. ..... 4
+	Section 1: Actuarial Guideline LIII - The Requirement for Guideline Excess Spread Attribution ..... 5
+	Section 2: Objectives for Developing Principles for Attribution Analysis ..... 7
+	Section 3: Challenges and Limitations ..... 8
+	Section 4: Market Spreads - Overview ..... 9
+	Section 5: Types of Asset Risk and Relationship to Spread ..... 11
+	Section 6: Principles for Attribution Analysis ..... 13
+	Section 7: Ideas for Follow-up Research ..... 15
+	Section 8: Acknowledgments ..... 15
+	Appendix A: Guideline Excess Spread Attribution Templates ..... 17
+	Appendix B: Illustrative Example of Spread Attribution with Negative Guideline Excess Spread Components ..... 18
+	Appendix C: Potential Sources of Information. ..... 19
+	Appendix D: Other Practical and Technical Implications ..... 21
+	References ..... 22
+	About The Society of Actuaries Research Institute ..... 23
 
 ## Practitioner Considerations for Guideline Excess Spread Attribution Methodology under Actuarial Guideline LIII (AG53)
 
@@ -58,7 +48,6 @@ The paper is also not intended to create a specific methodology to attribute Gui
 
 The documentation requirements for AG 53 can be found at https://content.naic.org/sites/default/files/inlinefiles/AG\ 53.pdf. The principles will build on financial industry research and analytics where practical.
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-04.jpg?height=220&width=1302&top_left_y=1950&top_left_x=409" alt="image" style="width:100%;height:auto;">[^0]
 
 ## Section 1: Background on Actuarial Guideline LIII (“AG 53") and the Requirement for Guideline Excess Spread Attribution
 
@@ -267,7 +256,6 @@ While this research paper can provide useful information to an Appointed Actuary
 - Specific methodological approaches to spread attribution and development of an accepted industry methodology as a "safe harbor"
 - Survey of current practices resulting in publication of a practice note
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_02_42c4e85ed8fa192c1455g-15.jpg?height=252&width=1523&top_left_y=1804&top_left_x=236" alt="image" style="width:100%;height:auto;">
 
 ## Section 8: Acknowledgments
 

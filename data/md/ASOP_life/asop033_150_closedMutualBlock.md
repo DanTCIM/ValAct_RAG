@@ -1,57 +1,61 @@
 <img src="https://cdn.mathpix.com/cropped/2024_04_18_01f0c3a9cb1ece059f2dg-01.jpg?height=2423&width=1791&top_left_y=165&top_left_x=167" alt="image" style="width:100%;height:auto;">
 
-## TABLE OF CONTENTS
+# Actuarial Standards of Practice No. 33
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 1
-2.1 Applicable Law ..... 1
-2.2 Closed Block ..... 2
-2.3 Individual Policy ..... 2
-2.4 Initial Assets ..... 2
-2.5 Initial Liabilities ..... 2
-$2.6 \quad$ Operating Rules ..... 2
-2.7 Reasonable Dividend Expectations ..... 2
-2.8 Reinvestment Rate ..... 2
-2.9 Tontine ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 2
-3.1 Objectives of the Closed Block ..... 3
-3.2 Policy Inclusion Criteria ..... 3
-3.3 Determination of Funding ..... 3
-3.4 Funding Assumptions ..... 3
-3.4.1 Reinvestment Rate ..... 3
-3.4.2 Mortality and Morbidity ..... 5
-3.4.3 Lapses ..... 5
-3.4.4 Commissions and Expenses ..... 5
-3.4.5 Taxes ..... 5
-3.4.6 Other Factors ..... 5
-$3.5 \quad$ Operating Rules ..... 5
-3.5.1 Insurance Cash Flows ..... 5
-3.5.2 Investment Cash Flows ..... 5
-3.5.3 Commissions and Expenses ..... 6
-3.5.4 Taxes ..... 6
-3.5.5 Initial Liabilities ..... 6
-3.6 Closed Block Operation ..... 6
-Section 4. Communications and Disclosures ..... 6
-4.1 Reliance on Data Supplied by Others ..... 6
-4.2 Reliance on Asset Cash-Flow Projections Supplied by Others ..... 6
+## Actuarial Responsibilities with Respect to Closed Blocks in Mutual Life Insurance Company Conversions
 
-4.3 Actuarial Report and Statement of Actuarial Opinion 6
+### TABLE OF CONTENTS
 
-$\begin{array}{lll}4.4 & \text { Disclosures } & 7\end{array}$
-
-## APPENDIXES
-
-Appendix 1-Background and Current Practices ..... 8
-Background ..... 8
-Demutualization Statutes ..... 9
-The Role of the Actuary ..... 9
-Appendix 2-Comments on the Exposure Draft and Committee Responses ..... 11
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 1
+	2.1 Applicable Law ..... 1
+	2.2 Closed Block ..... 2
+	2.3 Individual Policy ..... 2
+	2.4 Initial Assets ..... 2
+	2.5 Initial Liabilities ..... 2
+	$2.6 \quad$ Operating Rules ..... 2
+	2.7 Reasonable Dividend Expectations ..... 2
+	2.8 Reinvestment Rate ..... 2
+	2.9 Tontine ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 2
+	3.1 Objectives of the Closed Block ..... 3
+	3.2 Policy Inclusion Criteria ..... 3
+	3.3 Determination of Funding ..... 3
+	3.4 Funding Assumptions ..... 3
+	3.4.1 Reinvestment Rate ..... 3
+	3.4.2 Mortality and Morbidity ..... 5
+	3.4.3 Lapses ..... 5
+	3.4.4 Commissions and Expenses ..... 5
+	3.4.5 Taxes ..... 5
+	3.4.6 Other Factors ..... 5
+	$3.5 \quad$ Operating Rules ..... 5
+	3.5.1 Insurance Cash Flows ..... 5
+	3.5.2 Investment Cash Flows ..... 5
+	3.5.3 Commissions and Expenses ..... 6
+	3.5.4 Taxes ..... 6
+	3.5.5 Initial Liabilities ..... 6
+	3.6 Closed Block Operation ..... 6
+	Section 4. Communications and Disclosures ..... 6
+	4.1 Reliance on Data Supplied by Others ..... 6
+	4.2 Reliance on Asset Cash-Flow Projections Supplied by Others ..... 6
+	
+	4.3 Actuarial Report and Statement of Actuarial Opinion 6
+	
+	4.4 Disclosures
+	
+	## APPENDIXES
+	
+	Appendix 1-Background and Current Practices ..... 8
+	Background ..... 8
+	Demutualization Statutes ..... 9
+	The Role of the Actuary ..... 9
+	Appendix 2-Comments on the Exposure Draft and Committee Responses ..... 11
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Mutual Life Insurance Company Conversions
 

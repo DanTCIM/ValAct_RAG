@@ -1,90 +1,78 @@
-# IS <br> ActuARIAL StandARds Board 
-
-Actuarial Standard
-
-of Practice
-
-No. 41
+# Actuarial Standard of Practice No. 41
 
 ## Actuarial Communications
 
 Revised Edition
 
-Developed by the
+Developed by the General Committee of the Actuarial Standards Board
 
-General Committee of the
-
-Actuarial Standards Board
-
-Adopted by the
-
-Actuarial Standards Board
+Adopted by the Actuarial Standards Board
 
 December 2010
 
 (Doc. No. 120)
 
-## TABLEOF CONTENTS
+## TABLE OF CONTENTS
 
-Transmittal Memorandum ..... iv
-STANDARD OF PRACTICE
-Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
-1.1 Purpose ..... 1
-1.2 Scope ..... 1
-1.3 Cross References ..... 1
-1.4 Effective Date ..... 1
-Section 2. Definitions ..... 2
-2.1 Actuarial Communication ..... 2
-2.2 Actuarial Document ..... 2
-2.3 Actuarial Finding ..... 2
-2.4 Actuarial Report ..... 2
-2.5 Actuarial Services ..... 2
-2.6 Deviation ..... 2
-2.7 Intended User ..... 2
-2.8 Oral Communication ..... 2
-2.9 Other User ..... 2
-2.10 Principal ..... 2
-Section 3. Analysis of Issues and Recommended Practices ..... 3
-3.1 Requirements for Actuarial Communications ..... 3
-3.1.1 Form and Content ..... 3
-3.1.2 Clarity ..... 3
-3.1.3 Timing of Communication ..... 3
-3.1.4 Identification of Responsible Actuary ..... 3
-3.2 Actuarial Report ..... 3
-3.3 Specific Circumstances ..... 4
-3.4 Disclosures Within an Actuarial Report ..... 4
-3.4.1 Uncertainty or Risk ..... 4
-3.4.2 Conflict of Interest ..... 4
-3.4.3 Reliance on Other Sources for Data and Other Information ..... 4
-3.4.4 Responsibility for Assumptions and Methods ..... 4
-3.4.5 Information Date of Report ..... 5
-3.4.6 Subsequent Events ..... 5
-3.5 Explanation of Material Differences ..... 6
-3.6 Oral Communications ..... 6
-3.7 Responsibility to Other Users ..... 6
-3.8 Retention of Other Materials ..... 6
-Section 4. Communications and Disclosures ..... 7
-
-4.1 Disclosures in any Actuarial Communication 7
-
-4.1.1 Identification of Responsible Actuary 7
-
-4.1.2 Identification of Actuarial Documents 7
-
-4.1.3 Disclosures in Actuarial Reports 7
-
-4.2 Certain Assumptions or Methods Prescribed by Law 8
-
-4.3 Responsibility for Assumptions and Methods 8
-
-4.4 Deviation from the Guidance of an ASOP 9
-
-## APPENDIXES
-
-Appendix 1—Background and Current Practices ..... 10
-Background ..... 10
-Current Practices ..... 10
-Appendix 2-Comments on the Second Exposure Draft and Responses ..... 12
+	Transmittal Memorandum ..... iv
+	STANDARD OF PRACTICE
+	Section 1. Purpose, Scope, Cross References, and Effective Date ..... 1
+	1.1 Purpose ..... 1
+	1.2 Scope ..... 1
+	1.3 Cross References ..... 1
+	1.4 Effective Date ..... 1
+	Section 2. Definitions ..... 2
+	2.1 Actuarial Communication ..... 2
+	2.2 Actuarial Document ..... 2
+	2.3 Actuarial Finding ..... 2
+	2.4 Actuarial Report ..... 2
+	2.5 Actuarial Services ..... 2
+	2.6 Deviation ..... 2
+	2.7 Intended User ..... 2
+	2.8 Oral Communication ..... 2
+	2.9 Other User ..... 2
+	2.10 Principal ..... 2
+	Section 3. Analysis of Issues and Recommended Practices ..... 3
+	3.1 Requirements for Actuarial Communications ..... 3
+	3.1.1 Form and Content ..... 3
+	3.1.2 Clarity ..... 3
+	3.1.3 Timing of Communication ..... 3
+	3.1.4 Identification of Responsible Actuary ..... 3
+	3.2 Actuarial Report ..... 3
+	3.3 Specific Circumstances ..... 4
+	3.4 Disclosures Within an Actuarial Report ..... 4
+	3.4.1 Uncertainty or Risk ..... 4
+	3.4.2 Conflict of Interest ..... 4
+	3.4.3 Reliance on Other Sources for Data and Other Information ..... 4
+	3.4.4 Responsibility for Assumptions and Methods ..... 4
+	3.4.5 Information Date of Report ..... 5
+	3.4.6 Subsequent Events ..... 5
+	3.5 Explanation of Material Differences ..... 6
+	3.6 Oral Communications ..... 6
+	3.7 Responsibility to Other Users ..... 6
+	3.8 Retention of Other Materials ..... 6
+	Section 4. Communications and Disclosures ..... 7
+	
+	4.1 Disclosures in any Actuarial Communication 7
+	
+	4.1.1 Identification of Responsible Actuary 7
+	
+	4.1.2 Identification of Actuarial Documents 7
+	
+	4.1.3 Disclosures in Actuarial Reports 7
+	
+	4.2 Certain Assumptions or Methods Prescribed by Law 8
+	
+	4.3 Responsibility for Assumptions and Methods 8
+	
+	4.4 Deviation from the Guidance of an ASOP 9
+	
+	## APPENDIXES
+	
+	Appendix 1—Background and Current Practices ..... 10
+	Background ..... 10
+	Current Practices ..... 10
+	Appendix 2-Comments on the Second Exposure Draft and Responses ..... 12
 
 TO: $\quad$ Members of Actuarial Organizations Governed by the Standards of Practice of the Actuarial Standards Board and Other Persons Interested in Actuarial Communications
 

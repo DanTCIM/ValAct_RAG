@@ -1,26 +1,17 @@
-# A PUBLIC POLICY PRACTICE NOTE 
-
-## Model Governance
-
+# Model Governance
 Some Considerations for Practicing Life Actuaries
 
-## April 2017
-
-Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
-
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-01.jpg?height=269&width=711&top_left_y=2088&top_left_x=704" alt="image" style="width:100%;height:auto;">
-
-Objective. Independent. Effective. ${ }^{\text {TM }}$
-
-## Model Governance
-
-Some Considerations for Practicing Life Actuaries
+A PUBLIC POLICY PRACTICE NOTE 
 
 April 2017
 
-## Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
+Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
 
-<img src="https://cdn.mathpix.com/cropped/2024_03_24_d1ff9ef7a72f83e1ec20g-02.jpg?height=355&width=702&top_left_y=1720&top_left_x=646" alt="image" style="width:100%;height:auto;">
+## Model Governance
+
+Some Considerations for Practicing Life Actuaries
+
+Developed by the Model Governance Practice Note Work Group of the American Academy of Actuaries
 
 The American Academy of Actuaries is a 19,000-member professional association whose mission is to serve the public and the U.S. actuarial profession. For more than 50 years, the Academy has assisted public policymakers on all levels by providing leadership, objective expertise, and actuarial advice on risk and financial security issues. The Academy also sets qualification, practice, and professionalism standards for actuaries in the United States.
 
@@ -50,8 +41,8 @@ Christopher A. Wheeler, MAAA, FSA
 Amanda E. Young, MAAA, FSA, CPA
 
 TABLE OF CONTENTS
-INTRODUCTION ..... 4
 
+0. INTRODUCTION ..... 4
 1. Model ..... 4
 2. Model Development ..... 5
 3. Model Governance Policy and Standards ..... 7
@@ -60,8 +51,9 @@ INTRODUCTION ..... 4
 6. Model Processes and Controls ..... 10
 7. Model Validation ..... 11
 8. Model Documentation ..... 14
-9. Principle-Based Reserve Model Governance Considerations ..... 15
-DEFINITIONS ..... 16
+9. Principle-Based Reserve Model Governance
+10. Considerations ..... 15
+11. DEFINITIONS ..... 16
 
 ## INTRODUCTION
 

@@ -1,9 +1,8 @@
-<img src="https://cdn.mathpix.com/cropped/2024_04_09_ff2747bf991a93fe5c00g-01.jpg?height=485&width=507&top_left_y=83&top_left_x=83" alt="image" style="width:100%;height:auto;">
-
 # RULES AND STATEMENT OF GUIDANCE Reinsurance Arrangements 
 
 Table of Contents
-List of Acronyms ..... 4
+
+- List of Acronyms ..... 4
 
 1. Introduction ..... 5
 2. Statement of Objectives ..... 5

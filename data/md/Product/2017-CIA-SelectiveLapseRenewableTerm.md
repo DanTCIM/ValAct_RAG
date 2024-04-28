@@ -12,7 +12,6 @@ Ce document est disponible en français
 
 (C) 2017 Canadian Institute of Actuaries[^0]
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_5ff594c76995a9e329bbg-02.jpg?height=176&width=721&top_left_y=191&top_left_x=694" alt="image" style="width:100%;height:auto;">
 
 ## MEMORANDUM
 

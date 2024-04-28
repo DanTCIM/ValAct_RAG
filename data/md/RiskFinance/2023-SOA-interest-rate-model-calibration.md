@@ -1,12 +1,8 @@
-# Research INSTITUTE 
+SOA Research INSTITUTE 
 
-Calibrating Interest Rate Models
+# Calibrating Interest Rate Models
 
 October 2023
-
-## 8SOA <br> Research <br> INSTITUTE
-
-## Calibrating Interest Rate Models
 
 AUTHORS Rohana Ambagaspitiya, FSA, FCIA, PhD
 
@@ -25,56 +21,56 @@ Copyright (C) 2023 by the Society of Actuaries Research Institute. All rights re
 
 ## TABLE OF CONTENTS
 
-Executive Summary ..... 5
-1 Introduction ..... 7
-1.1 R Setup ..... 7
-1.2 Introduction to Scenarios ..... 8
-1.3 Interest Rate Markets. ..... 8
-1.4 Market-Consistent Models ..... 9
-1.5 The Market Price of Risk ..... 9
-1.6 Parameter Uncertainty ..... 11
-2 Three Continuous-Time Interest Rate Models ..... 11
-2.1 The Vasicek Model ..... 11
-2.1.1 Simulating paths of the Vasicek model: Euler-Maruyama discretization ..... 12
-2.1.2 Simulating paths of the Vasicek model: Transition Density Method ..... 13
-2.2 Cox-Ingersoll-Ross (CIR) Model ..... 15
-2.2.1 Simulating paths of the CIR Model: Euler-Maruyama discretization ..... 15
-2.2.2 Simulating paths of the CIR model: Transition density method ..... 17
-2.3 The Two-Factor Vasicek model with correlated factors. ..... 18
-2.3.1 Simulating paths of the two-factor Vasicek model: Transition density method ..... 19
-3 Calibration Techniques ..... 20
-3.1 The Vasicek model: real-world calibration. ..... 20
-3.1.1 Maximum Likelihood Estimator Method ..... 21
-3.1.2 Long Term Quantile Method. ..... 25
-3.2 The Vasicek model: risk-neutral calibration ..... 27
-3.3 The CIR model: real-world calibration ..... 33
-3.3.1 Euler method ..... 33
-3.3.2 Maximum likelihood estimate ..... 34
-3.4 THE GENERALIZED METHOD OF MOMENTS ..... 36
-3.5 The CIR model: risk-neutral calibration ..... 39
-3.6 The two-factor Vasicek model calibration ..... 46
-4 No-Arbitrage Models ..... 52
-4.1 Hull-white models ..... 52
-4.1.1 One factor Hull-white model. ..... 52
-4.1.2 The two-factor Hull-white model ..... 54
-4.1.3 Hull-white model calibration ..... 55
-4.2 Yield curve interpolation: one-factor model ..... 56
-4.2.1 Fitting an $\boldsymbol{n}$ degree polynomial for $\boldsymbol{r} \mathbf{0}, \boldsymbol{t}$ ..... 57
-4.2.2 Fitting a Nelson-Siegel Curve to $\boldsymbol{r} \mathbf{0}, \boldsymbol{t}$ ..... 59
-4.3 Calibration of the One-Factor Hull-White Model ..... 61
-4.4 Calibration of the Two-Factor Hull-White Model ..... 67
-5 Model Validation ..... 78
-5.1 Data and Assumptions ..... 78
-5.2 Investigate the Data ..... 81
-5.3 Recalibrate ..... 82
-5.4 Validate ..... 85
-5.5 Model Governance..... ..... 86
-6 Conclusion ..... 87
-7 Acknowledgments ..... 88
-References ..... 89
-Appendix A: Zero coupon bond prices under one-factor Vasicek model . ..... 91
-Appendix B: Zero coupon bond prices under the two-factor Vasicek model ..... 93
-About The Society of Actuaries Research Institute ..... 98
+	Executive Summary ..... 5
+	1 Introduction ..... 7
+	1.1 R Setup ..... 7
+	1.2 Introduction to Scenarios ..... 8
+	1.3 Interest Rate Markets. ..... 8
+	1.4 Market-Consistent Models ..... 9
+	1.5 The Market Price of Risk ..... 9
+	1.6 Parameter Uncertainty ..... 11
+	2 Three Continuous-Time Interest Rate Models ..... 11
+	2.1 The Vasicek Model ..... 11
+	2.1.1 Simulating paths of the Vasicek model: Euler-Maruyama discretization ..... 12
+	2.1.2 Simulating paths of the Vasicek model: Transition Density Method ..... 13
+	2.2 Cox-Ingersoll-Ross (CIR) Model ..... 15
+	2.2.1 Simulating paths of the CIR Model: Euler-Maruyama discretization ..... 15
+	2.2.2 Simulating paths of the CIR model: Transition density method ..... 17
+	2.3 The Two-Factor Vasicek model with correlated factors. ..... 18
+	2.3.1 Simulating paths of the two-factor Vasicek model: Transition density method ..... 19
+	3 Calibration Techniques ..... 20
+	3.1 The Vasicek model: real-world calibration. ..... 20
+	3.1.1 Maximum Likelihood Estimator Method ..... 21
+	3.1.2 Long Term Quantile Method. ..... 25
+	3.2 The Vasicek model: risk-neutral calibration ..... 27
+	3.3 The CIR model: real-world calibration ..... 33
+	3.3.1 Euler method ..... 33
+	3.3.2 Maximum likelihood estimate ..... 34
+	3.4 THE GENERALIZED METHOD OF MOMENTS ..... 36
+	3.5 The CIR model: risk-neutral calibration ..... 39
+	3.6 The two-factor Vasicek model calibration ..... 46
+	4 No-Arbitrage Models ..... 52
+	4.1 Hull-white models ..... 52
+	4.1.1 One factor Hull-white model. ..... 52
+	4.1.2 The two-factor Hull-white model ..... 54
+	4.1.3 Hull-white model calibration ..... 55
+	4.2 Yield curve interpolation: one-factor model ..... 56
+	4.2.1 Fitting an $\boldsymbol{n}$ degree polynomial for $\boldsymbol{r} \mathbf{0}, \boldsymbol{t}$ ..... 57
+	4.2.2 Fitting a Nelson-Siegel Curve to $\boldsymbol{r} \mathbf{0}, \boldsymbol{t}$ ..... 59
+	4.3 Calibration of the One-Factor Hull-White Model ..... 61
+	4.4 Calibration of the Two-Factor Hull-White Model ..... 67
+	5 Model Validation ..... 78
+	5.1 Data and Assumptions ..... 78
+	5.2 Investigate the Data ..... 81
+	5.3 Recalibrate ..... 82
+	5.4 Validate ..... 85
+	5.5 Model Governance..... ..... 86
+	6 Conclusion ..... 87
+	7 Acknowledgments ..... 88
+	References ..... 89
+	Appendix A: Zero coupon bond prices under one-factor Vasicek model . ..... 91
+	Appendix B: Zero coupon bond prices under the two-factor Vasicek model ..... 93
+	About The Society of Actuaries Research Institute ..... 98
 
 ## Calibrating Interest Rate Models
 

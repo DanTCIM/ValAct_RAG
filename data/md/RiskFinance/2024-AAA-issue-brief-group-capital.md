@@ -10,8 +10,6 @@ JANUARY 2024
 - Both the Aggregation Method and the consolidated ICS exhibit favorable characteristics, contributing value to the comprehension of group-wide capital sufficiency.
 - With these measures recently developed and continuously implemented, it is crucial for pertinent stakeholders to grasp the underlying principles of these group capital approaches, preventing misinterpretation or misuse of the results.
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_c9ed13881acc3c3c02abg-1.jpg?height=106&width=100&top_left_y=2267&top_left_x=167" alt="image" style="width:100%;height:auto;">
-
 American Academy of ACTUARIES 1850 M Street NW, Suite 300 Washington, DC 20036 202-223-8196 | www.actuary.org Geralyn Trujillo Senior Director, Public Policy
 This issue brief provides an overview of insurance group capital requirements, with a focus on U.S. application, including a discussion of the two primary approaches used to determine group capital.
 

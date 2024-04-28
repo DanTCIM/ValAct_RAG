@@ -1,8 +1,6 @@
 # A PUBLIC POLICY PRACTICE NOTE 
 
-## Credit for Life Reinsurance
-
-## in U.S. Statutory Financial Statements
+## Credit for Life Reinsurance in U.S. Statutory Financial Statements
 
 ## February 2018
 
@@ -59,53 +57,53 @@ We welcome comments and questions. Please send comments to RMFRCPolicyAnalyst@ac
 
 ## Table of Contents
 
-Introduction ..... 6
-Background ..... 8
-Section A: General Issues Regarding Credit for Reinsurance. ..... 9
-Q1. What regulations, laws, actuarial standards of practice (ASOPs), etc., regarding credit for reinsurance would the actuary normally take into account? ..... 9
-Q2. What are the regulatory requirements that must be satisfied for a reinsurance agreement to provide credit for reinsurance? ..... 10
-Q3. What are the rules that govern the collateral that a reinsurer must provide for the ceding company to take credit for reinsurance? ..... 11
-Q4. Is a company required to have a signed reinsurance agreement in place to take statutory credit for reinsurance? ..... 12
-Q5. How is credit for reinsurance determined for non-proportional reinsurance, such as an aggregate cap on benefit payments? ..... 13
-Q6. What are the accounting requirements for the reinsurance of inforce business? ..... 13
-Q7. Is it permissible under statutory accounting to reflect credit for reinsurance on a policy that exceeds the reserve that would be set up for the reinsured portion of the policy if there were no reinsurance? ..... 14
-Q8. Is it permissible under statutory accounting to reflect credit for reinsurance for just a specific benefit in a policy, such as for the no-lapse guarantee provided in a universal life policy or a guaranteed living or death benefit provided in a variable annuity contract?. ..... 15
-Section B: Credit for Reinsurance Issues Relating to the Valuation of Life Insurance Policies Model Regulation ("Regulation XXX") ..... 16
-Q9. What credit for reinsurance issues are there related to YRT reinsurance; e.g., what limitations on credit for reinsurance taken by a ceding company apply when the reinsurer elects the optional exemption for YRT reinsurance under Regulation XXX? ..... 16
-Q10. Would the ceding company actuary usually take into account any analysis done in conjunction with setting $\mathrm{X}$ factors on a gross basis for Regulation XXX business when establishing credit for reinsurance? ..... 16
-Section C: Credit for Reinsurance Issues Related to Asset Adequacy Analysis ..... 18
-Q11. How is credit for reinsurance treated in asset adequacy analysis? ..... 19
-Q12. My company has a reinsurance agreement in place. We anticipate that we will recapture the agreement within the next five years. Would it be preferable for my asset adequacy analysis to assume that recapture occurs, or to assume that the agreement remains in place?. . 19
-Q13. How does the appointed actuary take into account reinsurer counterparty risk? ..... 19
-Section D: Credit for Reinsurance Issues Related to Certified Reinsurers. ..... 21
-Q14. My company has a reinsurance agreement with a reinsurer domiciled outside the United States that is now listed as a certified reinsurer in my company's state of domicile. Before
-being designated as a certified reinsurer, the reinsurer held an irrevocable letter of credit equal to 100 percent of the credit for reinsurance that my company was taking. What amount of security must the reinsurer now hold for my company to take full reserve credit on this agreement? ..... 21
-Q15. What happens to my company's credit for reinsurance when a certified reinsurer has a change in rating? ..... 21
-Section E: Credit for Reinsurance Issues Related to the Dodd-Frank Wall Street Reform and Consumer Protection Act ("Dodd-Frank Act") ..... 22
-Q16. My state of domicile has recognized credit for reinsurance for certain risks my company has ceded under a reinsurance agreement. Can another state disallow credit for reinsurance for these risks?................................................................................................................... 22
-Q17. What is a "covered agreement" under the Dodd-Frank Act and what effect could such agreement have on credit for reinsurance?. ..... 22
-Q18. On Jan. 13, 2017, the Treasury announced the successful completion of a covered agreement with the European Union (the "Covered Agreement"). Which provisions of the Covered Agreement would have an impact on U.S.-based reinsurers and cedents? ..... 22
-Section F: Credit for Reinsurance Issues Related to Principle-Based Reserving. ..... 26
-Q19. Under what circumstances is a reinsurance agreement or amendment included in the calculation of principle-based reserves? ..... 26
-Q20. If a reinsurance agreement or amendment does not qualify for credit for reinsurance under the terms of the APPM, how is the minimum reserve under VM-20 affected? ..... 26
-Q21. How is credit for reinsurance defined for life insurance policies subject to principlebased reserving? ..... 26
-Q22. How is the pre-reinsurance-ceded minimum reserve calculated under VM-20? ..... 28
-Section G: Credit for Reinsurance Issues Addressed by AG 48, the 2016 Revision to the Credit for Reinsurance Model Law, and the Reserve Financing Model Regulation. ..... 30
-Q23. What reinsurance issues are addressed by AG 48 and the Reserve Financing Model Regulation? ..... 30
-Q24. When were AG 48 and the Reserve Financing Model Regulation adopted and what are their effective dates? ..... 30
-Q25. To which policies do the Reserve Financing Model Regulation and AG 48 apply?. ..... 31
-Q26. What constitutes Primary Security and Other Security? ..... 31
-Q27. What are the "Required Level of Primary Security" and the "Actuarial Method"? ..... 32
-Q28. What is the impact of the Reserve Financing Model Regulation on credit for reinsurance taken relative to reinsurance of XXX/AXXX business? ..... 33
-Q29. What is the impact of AG48 on credit for reinsurance taken relative to reinsurance of XXX/AXXX business? ..... 34
-Q30. To which situations involving the reinsurance of XXX/AXXX business do the Reserve Financing Model Regulation and AG 48 not apply? ..... 34
-Q31. What are the differences between the original version of AG 48 and the Reserve
-
-Financing Model Regulation and the revised version of AG 48? ......................................... 36 Q32. If a qualified opinion is filed due to AG 48 requirements, does that mean that a C-3 adjustment will need to be made, too?. ..... 39
-
-Q33. What is meant by the phrase "Securities listed by the SVO" used in the definition of Primary Security? ..... 39
-
-Q34. Is a reinsurance agreement out of compliance with risk transfer requirements if it requires that all Primary Security be depleted before Other Security can be used to satisfy the obligations of the reinsurer?
+	Introduction ..... 6
+	Background ..... 8
+	Section A: General Issues Regarding Credit for Reinsurance. ..... 9
+	Q1. What regulations, laws, actuarial standards of practice (ASOPs), etc., regarding credit for reinsurance would the actuary normally take into account? ..... 9
+	Q2. What are the regulatory requirements that must be satisfied for a reinsurance agreement to provide credit for reinsurance? ..... 10
+	Q3. What are the rules that govern the collateral that a reinsurer must provide for the ceding company to take credit for reinsurance? ..... 11
+	Q4. Is a company required to have a signed reinsurance agreement in place to take statutory credit for reinsurance? ..... 12
+	Q5. How is credit for reinsurance determined for non-proportional reinsurance, such as an aggregate cap on benefit payments? ..... 13
+	Q6. What are the accounting requirements for the reinsurance of inforce business? ..... 13
+	Q7. Is it permissible under statutory accounting to reflect credit for reinsurance on a policy that exceeds the reserve that would be set up for the reinsured portion of the policy if there were no reinsurance? ..... 14
+	Q8. Is it permissible under statutory accounting to reflect credit for reinsurance for just a specific benefit in a policy, such as for the no-lapse guarantee provided in a universal life policy or a guaranteed living or death benefit provided in a variable annuity contract?. ..... 15
+	Section B: Credit for Reinsurance Issues Relating to the Valuation of Life Insurance Policies Model Regulation ("Regulation XXX") ..... 16
+	Q9. What credit for reinsurance issues are there related to YRT reinsurance; e.g., what limitations on credit for reinsurance taken by a ceding company apply when the reinsurer elects the optional exemption for YRT reinsurance under Regulation XXX? ..... 16
+	Q10. Would the ceding company actuary usually take into account any analysis done in conjunction with setting $\mathrm{X}$ factors on a gross basis for Regulation XXX business when establishing credit for reinsurance? ..... 16
+	Section C: Credit for Reinsurance Issues Related to Asset Adequacy Analysis ..... 18
+	Q11. How is credit for reinsurance treated in asset adequacy analysis? ..... 19
+	Q12. My company has a reinsurance agreement in place. We anticipate that we will recapture the agreement within the next five years. Would it be preferable for my asset adequacy analysis to assume that recapture occurs, or to assume that the agreement remains in place?. . 19
+	Q13. How does the appointed actuary take into account reinsurer counterparty risk? ..... 19
+	Section D: Credit for Reinsurance Issues Related to Certified Reinsurers. ..... 21
+	Q14. My company has a reinsurance agreement with a reinsurer domiciled outside the United States that is now listed as a certified reinsurer in my company's state of domicile. Before
+	being designated as a certified reinsurer, the reinsurer held an irrevocable letter of credit equal to 100 percent of the credit for reinsurance that my company was taking. What amount of security must the reinsurer now hold for my company to take full reserve credit on this agreement? ..... 21
+	Q15. What happens to my company's credit for reinsurance when a certified reinsurer has a change in rating? ..... 21
+	Section E: Credit for Reinsurance Issues Related to the Dodd-Frank Wall Street Reform and Consumer Protection Act ("Dodd-Frank Act") ..... 22
+	Q16. My state of domicile has recognized credit for reinsurance for certain risks my company has ceded under a reinsurance agreement. Can another state disallow credit for reinsurance for these risks?................................................................................................................... 22
+	Q17. What is a "covered agreement" under the Dodd-Frank Act and what effect could such agreement have on credit for reinsurance?. ..... 22
+	Q18. On Jan. 13, 2017, the Treasury announced the successful completion of a covered agreement with the European Union (the "Covered Agreement"). Which provisions of the Covered Agreement would have an impact on U.S.-based reinsurers and cedents? ..... 22
+	Section F: Credit for Reinsurance Issues Related to Principle-Based Reserving. ..... 26
+	Q19. Under what circumstances is a reinsurance agreement or amendment included in the calculation of principle-based reserves? ..... 26
+	Q20. If a reinsurance agreement or amendment does not qualify for credit for reinsurance under the terms of the APPM, how is the minimum reserve under VM-20 affected? ..... 26
+	Q21. How is credit for reinsurance defined for life insurance policies subject to principlebased reserving? ..... 26
+	Q22. How is the pre-reinsurance-ceded minimum reserve calculated under VM-20? ..... 28
+	Section G: Credit for Reinsurance Issues Addressed by AG 48, the 2016 Revision to the Credit for Reinsurance Model Law, and the Reserve Financing Model Regulation. ..... 30
+	Q23. What reinsurance issues are addressed by AG 48 and the Reserve Financing Model Regulation? ..... 30
+	Q24. When were AG 48 and the Reserve Financing Model Regulation adopted and what are their effective dates? ..... 30
+	Q25. To which policies do the Reserve Financing Model Regulation and AG 48 apply?. ..... 31
+	Q26. What constitutes Primary Security and Other Security? ..... 31
+	Q27. What are the "Required Level of Primary Security" and the "Actuarial Method"? ..... 32
+	Q28. What is the impact of the Reserve Financing Model Regulation on credit for reinsurance taken relative to reinsurance of XXX/AXXX business? ..... 33
+	Q29. What is the impact of AG48 on credit for reinsurance taken relative to reinsurance of XXX/AXXX business? ..... 34
+	Q30. To which situations involving the reinsurance of XXX/AXXX business do the Reserve Financing Model Regulation and AG 48 not apply? ..... 34
+	Q31. What are the differences between the original version of AG 48 and the Reserve
+	
+	Financing Model Regulation and the revised version of AG 48? ......................................... 36 Q32. If a qualified opinion is filed due to AG 48 requirements, does that mean that a C-3 adjustment will need to be made, too?. ..... 39
+	
+	Q33. What is meant by the phrase "Securities listed by the SVO" used in the definition of Primary Security? ..... 39
+	
+	Q34. Is a reinsurance agreement out of compliance with risk transfer requirements if it requires that all Primary Security be depleted before Other Security can be used to satisfy the obligations of the reinsurer?
 
 ## Introduction
 

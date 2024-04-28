@@ -1,25 +1,20 @@
-# Actuaries 
+# Report On Premium Persistency Assumptions Study Of Flexible Premium Universal Life Products
 
-Risk is Opportunity.
-
-## Report On Premium Persistency Assumptions Study Of Flexible Premium Universal Life Products
 
 MAY 2012
 
 SPONSORED BY
 
-Product Development Section
+* Product Development Section
+* Financial Reporting Section
+* Committee on Life Insurance Research
+* Society of Actuaries
 
-Financial Reporting Section
-
-Committee on Life Insurance Research
-
-Society of Actuaries
 PREPARED BY
 
-Carl Friedrich, FSA, MAAA Donna Megregian, FSA, MAAA
-
-Sue Saip, FSA, MAAA
+* Carl Friedrich, FSA, MAAA 
+* Donna Megregian, FSA, MAAA
+* Sue Saip, FSA, MAAA
 
 ## Milliman
 
@@ -29,20 +24,20 @@ The opinions expressed and conclusions reached by the authors are their own and 
 
 ## TABLE OF CONTENTS
 
-Acknowledgement ..... 3
-Disclaimer of Liability ..... 4
-Project Overview ..... 5
-Introduction ..... 6
-Executive Summary. ..... 9
-General Issues: All Product Categories ..... 16
-Product-Specific Questions ..... 19
-Universal Life with Secondary Guarantees (ULSG) ..... 19
-Cash Accumulation Universal Life (AccumUL) ..... 36
-Current Assumption Universal Life (CAUL) ..... 49
-Indexed Universal Life (IUL) ..... 61
-Variable Universal Life (VUL) ..... 74
-Appendix A: Survey Participants ..... 84
-Appendix B: Glossary of Terms ..... 85
+	Acknowledgement ..... 3
+	Disclaimer of Liability ..... 4
+	Project Overview ..... 5
+	Introduction ..... 6
+	Executive Summary. ..... 9
+	General Issues: All Product Categories ..... 16
+	Product-Specific Questions ..... 19
+	Universal Life with Secondary Guarantees (ULSG) ..... 19
+	Cash Accumulation Universal Life (AccumUL) ..... 36
+	Current Assumption Universal Life (CAUL) ..... 49
+	Indexed Universal Life (IUL) ..... 61
+	Variable Universal Life (VUL) ..... 74
+	Appendix A: Survey Participants ..... 84
+	Appendix B: Glossary of Terms ..... 85
 
 # Acknowledgement 
 

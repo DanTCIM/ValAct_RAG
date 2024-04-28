@@ -20,147 +20,147 @@ This paper is published by the Society of Actuaries (SOA) and contains informati
 
 ## TABLE OF CONTENTS
 
-Preface: Revisions Made to this Report Subsequent to October 2016 ..... 6
-June 2023 Updates ..... 6
-January 2019 Updates ..... 6
-June 2018 Updates ..... 6
-January 2018 Updates ..... 6
-November 2016 Updates ..... 6
-October 2017 Updates
-1 Acknowledgements ..... 8
-2 Introduction ..... 9
-2.1 Scope ..... 9
-2.2 Guide to Usage ..... 9
-3 Experience Study Overview ..... 11
-3.1 Basic Terminology ..... 11
-3.2 Experience Study Segmentation ..... 12
-4 Simple Mortality Study Examples ..... 14
-4.1 Cohort Study with Deaths only..... ..... 14
-4.1.1 Summary Rates with Deaths Only. ..... 15
-4.2 Cohort Study with Deaths and Withdrawals ..... 15
-4.2.1 Individual Exposure Calculation ..... 17
-4.2.2 Grouped Exposure Calculation ..... 18
-4.2.3 Summary Rates with Deaths and Withdrawals..... ..... 18
-4.3 Period Study with Deaths and Withdrawals ..... 19
-4.3.1 Individual Exposure Calculation ..... 20
-4.3.2 Grouped Exposure Calculation ..... 21
-4.4 Amount-Weighted Studies. ..... 23
-4.4.1 Individual Amount Weights ..... 23
-4.4.2 Grouped Amount Weights ..... 24
-5 Distributed Exposure ..... 26
-5.1 Period Study ..... 27
-6 Fractional Rates ..... 29
-6.1 Half-Year Period Study ..... 30
-6.2 Average Fractional Rates ..... 30
-6.3 Annual Period Study by Calendar Year ..... 33
-7 Average Daily Rates and Exposure ..... 35
-7.1 Period Study with Daily Exposure ..... 36
-8 Average Force of Mortality ..... 38
-8.1 Period Study with Constant Force ..... 39
-8.2 Changing Force of Mortality ..... 39
-9 Distributions of Deaths ..... 42
-9.1 Comparison of Distributions ..... 43
-9.1.1 Balducci Hypothesis ..... 44
-9.1.2 Uniform Distribution of Deaths ..... 45
-9.1.3 Constant Mortality Rates. ..... 47
-9.1.4 Increasing Force. ..... 47
-9.2 Estimating Errors ..... 51
-10 Decrement Studies ..... 54
-10.1 Decrement Types. ..... 54
-10.2 Rate Intervals ..... 54
-10.2.1 Partial Rate Intervals ..... 55
-10.3 Time Intervals ..... 55
-10.4 Discrete Decrements. ..... 57
-10.5 Population States. ..... 57
-11 Simple Withdrawal Study Example ..... 59
-11.1 Period Study ..... 59
-11.1.1 Exposure Calculation ..... 59
-12 Actual to Expected Analysis ..... 61
-12.1 Period Study with Deaths and Withdrawals ..... 62
-12.2 Amount-Weighted Period Study ..... 62
-12.3 Period Study with Calendar Year ..... 63
-12.4 Half-Year Study ..... 63
-12.5 Half-Year Study with Daily Decrement Rates ..... 64
-13 Central Rates ..... 66
-13.1 Annual Period Study ..... 67
-13.2 Force of Decrement ..... 68
-14 Dependent Rates ..... 69
-14.1 Cohort Study with Deaths and Withdrawals ..... 69
-14.2 Period Study with Deaths and Withdrawals ..... 70
-14.3 Population Projection ..... 72
-14.4 Formula Derivation. ..... 73
-15 Utilization Studies ..... 75
-15.1 Frequency and Severity ..... 75
-15.2 Utilization of Maximum Limits ..... 76
-15.3 Loss Ratio ..... 77
-15.4 Variable Annuity Withdrawal Utilization ..... 77
-16 Exposure and Rate Comparisons ..... 79
-17 Practical Considerations ..... 81
-17.1 Amount-Weighted Distortions ..... 81
-17.2 Data Extracts for Multi-Year Studies ..... 81
-17.3 Homogeneity of Data ..... 81
-17.4 Reporting Lags ..... 82
-17.5 Non-Uniform Distribution of Events ..... 82
-17.6 Partial Policy Years ..... 83
-17.6.1 Overview ..... 83
-17.6.2 Inclusion of Partial Policy Years ..... 84
-17.6.3 Overview of Exposure Methods ..... 84
-17.6.4 Annual Exposure Method ..... 84
-17.6.5 Distributed Exposure Method ..... 85
-18 Product-Related Considerations ..... 86
-18.1 Individual Life Insurance ..... 86
-18.1.1 Grace Period ..... 86
-18.1.2 Compromised and Denied Claims ..... 86
-18.1.3 Study Variables Changing Over Time ..... 86
-18.1.4 Treatment of Reinsured Amounts ..... 87
-18.1.5 Use of Net Amount at Risk. ..... 87
-18.1.6 Inclusion of Substandard or Uninsurable Lives . ..... 87
-18.1.7 Backdated New Business. ..... 87
-18.2 Group Life Insurance ..... 88
-18.3 Morbidity Products. ..... 88
-18.3.1 Claim Incidence Studies ..... 89
-18.3.2 Claim Severity Studies ..... 89
-18.3.3 Claim Termination Studies ..... 90
-18.4 Disability Income ..... 90
-18.4.1 Elimination Periods ..... 90
-18.4.2 Partial Disability Benefits ..... 91
-18.4.3 Recovery Followed by Relapse. ..... 91
-18.4.4 Claim Settlements ..... 91
-18.4.5 Other DI Considerations ..... 92
-18.5 Long-Term Care ..... 92
-18.5.1 Elimination Period ..... 92
-18.5.2 Inflation Protection ..... 93
-18.5.3 Benefit Utilization Rate. ..... 93
-18.5.4 Other LTC Considerations ..... 93
-18.6 Deferred Annuities ..... 93
-18.6.1 Deferred Annuity Utilization Rates ..... 94
-18.6.2 Contract Year Data Challenges ..... 95
-18.7 Payout Annuities ..... 95
-18.8 Retirement Pensions ..... 96
-18.9 Credit Life and Disability ..... 96
-18.9.1 Credit Life Insurance ..... 96
-18.9.2 Credit Disability Income. ..... 97
-Standard Method Error Derivation ..... 99
-19.1 Errors from Fractional Exposure Method ..... 99
-19.1.1 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 99
-19.1.2 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 100
-19.1.3 Error for Fractional Period ..... 101
-19.2 Errors for Annual Exposure Method ..... 101
-19.2.1 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 102
-19.2.2 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 102
-19.2.3 Error for Fractional Period ..... 103
-19.3 Errors from Distributed Exposure Method ..... 104
-19.3.1 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 104
-19.3.2 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 105
-19.3.3 Error for Fractional Period ..... 106
-20 Linear Force Method ..... 108
-20.1 Formula Development ..... 108
-20.1.1 Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 108
-20.1.2 Partial Year from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 109
-20.1.3 Fractional Periods ..... 110
-20.2 Increasing Force Example ..... 111
-21 Glossary ..... 112
-22 About the Society of Actuaries ..... 116
+	Preface: Revisions Made to this Report Subsequent to October 2016 ..... 6
+	June 2023 Updates ..... 6
+	January 2019 Updates ..... 6
+	June 2018 Updates ..... 6
+	January 2018 Updates ..... 6
+	November 2016 Updates ..... 6
+	October 2017 Updates
+	1 Acknowledgements ..... 8
+	2 Introduction ..... 9
+	2.1 Scope ..... 9
+	2.2 Guide to Usage ..... 9
+	3 Experience Study Overview ..... 11
+	3.1 Basic Terminology ..... 11
+	3.2 Experience Study Segmentation ..... 12
+	4 Simple Mortality Study Examples ..... 14
+	4.1 Cohort Study with Deaths only..... ..... 14
+	4.1.1 Summary Rates with Deaths Only. ..... 15
+	4.2 Cohort Study with Deaths and Withdrawals ..... 15
+	4.2.1 Individual Exposure Calculation ..... 17
+	4.2.2 Grouped Exposure Calculation ..... 18
+	4.2.3 Summary Rates with Deaths and Withdrawals..... ..... 18
+	4.3 Period Study with Deaths and Withdrawals ..... 19
+	4.3.1 Individual Exposure Calculation ..... 20
+	4.3.2 Grouped Exposure Calculation ..... 21
+	4.4 Amount-Weighted Studies. ..... 23
+	4.4.1 Individual Amount Weights ..... 23
+	4.4.2 Grouped Amount Weights ..... 24
+	5 Distributed Exposure ..... 26
+	5.1 Period Study ..... 27
+	6 Fractional Rates ..... 29
+	6.1 Half-Year Period Study ..... 30
+	6.2 Average Fractional Rates ..... 30
+	6.3 Annual Period Study by Calendar Year ..... 33
+	7 Average Daily Rates and Exposure ..... 35
+	7.1 Period Study with Daily Exposure ..... 36
+	8 Average Force of Mortality ..... 38
+	8.1 Period Study with Constant Force ..... 39
+	8.2 Changing Force of Mortality ..... 39
+	9 Distributions of Deaths ..... 42
+	9.1 Comparison of Distributions ..... 43
+	9.1.1 Balducci Hypothesis ..... 44
+	9.1.2 Uniform Distribution of Deaths ..... 45
+	9.1.3 Constant Mortality Rates. ..... 47
+	9.1.4 Increasing Force. ..... 47
+	9.2 Estimating Errors ..... 51
+	10 Decrement Studies ..... 54
+	10.1 Decrement Types. ..... 54
+	10.2 Rate Intervals ..... 54
+	10.2.1 Partial Rate Intervals ..... 55
+	10.3 Time Intervals ..... 55
+	10.4 Discrete Decrements. ..... 57
+	10.5 Population States. ..... 57
+	11 Simple Withdrawal Study Example ..... 59
+	11.1 Period Study ..... 59
+	11.1.1 Exposure Calculation ..... 59
+	12 Actual to Expected Analysis ..... 61
+	12.1 Period Study with Deaths and Withdrawals ..... 62
+	12.2 Amount-Weighted Period Study ..... 62
+	12.3 Period Study with Calendar Year ..... 63
+	12.4 Half-Year Study ..... 63
+	12.5 Half-Year Study with Daily Decrement Rates ..... 64
+	13 Central Rates ..... 66
+	13.1 Annual Period Study ..... 67
+	13.2 Force of Decrement ..... 68
+	14 Dependent Rates ..... 69
+	14.1 Cohort Study with Deaths and Withdrawals ..... 69
+	14.2 Period Study with Deaths and Withdrawals ..... 70
+	14.3 Population Projection ..... 72
+	14.4 Formula Derivation. ..... 73
+	15 Utilization Studies ..... 75
+	15.1 Frequency and Severity ..... 75
+	15.2 Utilization of Maximum Limits ..... 76
+	15.3 Loss Ratio ..... 77
+	15.4 Variable Annuity Withdrawal Utilization ..... 77
+	16 Exposure and Rate Comparisons ..... 79
+	17 Practical Considerations ..... 81
+	17.1 Amount-Weighted Distortions ..... 81
+	17.2 Data Extracts for Multi-Year Studies ..... 81
+	17.3 Homogeneity of Data ..... 81
+	17.4 Reporting Lags ..... 82
+	17.5 Non-Uniform Distribution of Events ..... 82
+	17.6 Partial Policy Years ..... 83
+	17.6.1 Overview ..... 83
+	17.6.2 Inclusion of Partial Policy Years ..... 84
+	17.6.3 Overview of Exposure Methods ..... 84
+	17.6.4 Annual Exposure Method ..... 84
+	17.6.5 Distributed Exposure Method ..... 85
+	18 Product-Related Considerations ..... 86
+	18.1 Individual Life Insurance ..... 86
+	18.1.1 Grace Period ..... 86
+	18.1.2 Compromised and Denied Claims ..... 86
+	18.1.3 Study Variables Changing Over Time ..... 86
+	18.1.4 Treatment of Reinsured Amounts ..... 87
+	18.1.5 Use of Net Amount at Risk. ..... 87
+	18.1.6 Inclusion of Substandard or Uninsurable Lives . ..... 87
+	18.1.7 Backdated New Business. ..... 87
+	18.2 Group Life Insurance ..... 88
+	18.3 Morbidity Products. ..... 88
+	18.3.1 Claim Incidence Studies ..... 89
+	18.3.2 Claim Severity Studies ..... 89
+	18.3.3 Claim Termination Studies ..... 90
+	18.4 Disability Income ..... 90
+	18.4.1 Elimination Periods ..... 90
+	18.4.2 Partial Disability Benefits ..... 91
+	18.4.3 Recovery Followed by Relapse. ..... 91
+	18.4.4 Claim Settlements ..... 91
+	18.4.5 Other DI Considerations ..... 92
+	18.5 Long-Term Care ..... 92
+	18.5.1 Elimination Period ..... 92
+	18.5.2 Inflation Protection ..... 93
+	18.5.3 Benefit Utilization Rate. ..... 93
+	18.5.4 Other LTC Considerations ..... 93
+	18.6 Deferred Annuities ..... 93
+	18.6.1 Deferred Annuity Utilization Rates ..... 94
+	18.6.2 Contract Year Data Challenges ..... 95
+	18.7 Payout Annuities ..... 95
+	18.8 Retirement Pensions ..... 96
+	18.9 Credit Life and Disability ..... 96
+	18.9.1 Credit Life Insurance ..... 96
+	18.9.2 Credit Disability Income. ..... 97
+	Standard Method Error Derivation ..... 99
+	19.1 Errors from Fractional Exposure Method ..... 99
+	19.1.1 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 99
+	19.1.2 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 100
+	19.1.3 Error for Fractional Period ..... 101
+	19.2 Errors for Annual Exposure Method ..... 101
+	19.2.1 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 102
+	19.2.2 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 102
+	19.2.3 Error for Fractional Period ..... 103
+	19.3 Errors from Distributed Exposure Method ..... 104
+	19.3.1 Error for Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 104
+	19.3.2 Error for Partial Year Running from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 105
+	19.3.3 Error for Fractional Period ..... 106
+	20 Linear Force Method ..... 108
+	20.1 Formula Development ..... 108
+	20.1.1 Partial Year Running from Age $\boldsymbol{x}$ to $\boldsymbol{x}+\boldsymbol{s}$ ..... 108
+	20.1.2 Partial Year from Age $\boldsymbol{x}+\boldsymbol{s}$ to $\boldsymbol{x}+\mathbf{1}$ ..... 109
+	20.1.3 Fractional Periods ..... 110
+	20.2 Increasing Force Example ..... 111
+	21 Glossary ..... 112
+	22 About the Society of Actuaries ..... 116
 
 ## Preface: Revisions Made to this Report Subsequent to October 2016
 

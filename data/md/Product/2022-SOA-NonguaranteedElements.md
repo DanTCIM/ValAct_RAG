@@ -1,16 +1,10 @@
-# DSOA Research INSTITUTE 
+SOA Research INSTITUTE 
 
-Overview of Nonguaranteed Elements (NGEs)
+# Overview of Nonguaranteed Elements (NGEs)
 
 NOVEMBER | 2022
 
-# DSOA <br> Research <br> INSTITUTE 
-
-## Overview of Nonguaranteed Elements (NGEs)
-
 AUTHORS David Cook, FSA, MAAA<br>SPONSOR<br>Individual Life and Annuity Curriculum Committee<br>Kristen Koon, FSA, MAAA<br>Zohair Motiwalla, FSA, MAAA<br>Karen Rudolph, FSA, MAAA
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-02.jpg?height=236&width=1526&top_left_y=1758&top_left_x=191" alt="image" style="width:100%;height:auto;">
 
 ## Caveat and Disclaimer
 
@@ -18,35 +12,35 @@ The opinions expressed and conclusions reached by the authors are their own and 
 
 ## Contents
 
-Acknowledgements ..... 4
-Section 1: Background and History of Nonguaranteed Elements in Insurance Policies ..... 5
-Section 2: Context ..... 7
-2.1 Types of NGEs ..... 7
-2.2 Original Determination ..... 8
-2.3 Impacts of Revising NGEs ..... 9
-Section 3: Professional Guidance related to NGEs ..... 10
-3.1 General Practice ..... 10
-3.2 Determination Process ..... 11
-3.3 Documentation ..... 11
-3.4 Data Considerations ..... 11
-3.5 Modeling Considerations. ..... 12
-Section 4: Regulations affecting NGEs ..... 13
-4.1 New York Regulation 210 ..... 14
-Section 5: International Considerations ..... 15
-5.1 Canada ..... 15
-5.2 Asia ..... 15
-5.3 United Kingdom ..... 16
-Section 6: Common Practical Issues ..... 18
-6.1 Available pricing documentation ..... 18
-6.2 Company framework ..... 18
-6.3 Experience data ..... 18
-6.4 No industry standard ..... 18
-6.5 Litigation. ..... 19
-6.6 Implementation ..... 19
-6.7 Communication ..... 19
-6.8 Establish a repeatable process ..... 19
-Section7: Case Study ..... 20
-7.1 Conclusion ..... 22
+	Acknowledgements ..... 4
+	Section 1: Background and History of Nonguaranteed Elements in Insurance Policies ..... 5
+	Section 2: Context ..... 7
+	2.1 Types of NGEs ..... 7
+	2.2 Original Determination ..... 8
+	2.3 Impacts of Revising NGEs ..... 9
+	Section 3: Professional Guidance related to NGEs ..... 10
+	3.1 General Practice ..... 10
+	3.2 Determination Process ..... 11
+	3.3 Documentation ..... 11
+	3.4 Data Considerations ..... 11
+	3.5 Modeling Considerations. ..... 12
+	Section 4: Regulations affecting NGEs ..... 13
+	4.1 New York Regulation 210 ..... 14
+	Section 5: International Considerations ..... 15
+	5.1 Canada ..... 15
+	5.2 Asia ..... 15
+	5.3 United Kingdom ..... 16
+	Section 6: Common Practical Issues ..... 18
+	6.1 Available pricing documentation ..... 18
+	6.2 Company framework ..... 18
+	6.3 Experience data ..... 18
+	6.4 No industry standard ..... 18
+	6.5 Litigation. ..... 19
+	6.6 Implementation ..... 19
+	6.7 Communication ..... 19
+	6.8 Establish a repeatable process ..... 19
+	Section7: Case Study ..... 20
+	7.1 Conclusion ..... 22
 
 ## Acknowledgements
 

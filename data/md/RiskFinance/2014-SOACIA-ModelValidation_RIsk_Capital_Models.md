@@ -30,34 +30,34 @@ Model validation should be viewed as one part of the larger process of risk mana
 
 ## Contents
 
-Abstract/Executive Summary ..... 3
-Introduction ..... 5
-Definition of Model Risk ..... 5
-Survey of Validation Approaches Used Elsewhere ..... 6
-Process Guide ..... 8
-Conceptual Risk ..... 9
-Purpose of the Model ..... 9
-Concepts and Their Limitations ..... 10
-Implementation Risk ..... 12
-Input Risk ..... 14
-Output Risk ..... 16
-Reporting Risk ..... 19
-Risk Management Control Cycle ..... 20
-Presentation and Communication ..... 24
-Governance ..... 26
-A Case Study of AIG's Model of Credit Defaul Swaps ..... 26
-A Case of Failed Model Governance: JPMorgan Chase and the London Whale ..... 27
-A Case Study in Model Risk: Universal Life with Secondary Guarantees (ULSG) ..... 28
-Model Risk in the Regulatory Framework ..... 29
-Model Risk in Pricing ..... 30
-A Limited Model for Future Mortality Rates ..... 30
-Conflicting Models for Future Interest Rates ..... 31
-References ..... 34
-Appendix 1: Some Approaches to Graphical Reporting of Risk ..... 36
-Appendix 2: Comparison with Other Frameworks ..... 44
-North American CRO Council ..... 44
-Solvency II Criteria for Regulatory Approval of Internal Models ..... 45
-Guidance on Model Risk Management from the Office of the Comptroller of the Currency ..... 47
+	Abstract/Executive Summary ..... 3
+	Introduction ..... 5
+	Definition of Model Risk ..... 5
+	Survey of Validation Approaches Used Elsewhere ..... 6
+	Process Guide ..... 8
+	Conceptual Risk ..... 9
+	Purpose of the Model ..... 9
+	Concepts and Their Limitations ..... 10
+	Implementation Risk ..... 12
+	Input Risk ..... 14
+	Output Risk ..... 16
+	Reporting Risk ..... 19
+	Risk Management Control Cycle ..... 20
+	Presentation and Communication ..... 24
+	Governance ..... 26
+	A Case Study of AIG's Model of Credit Defaul Swaps ..... 26
+	A Case of Failed Model Governance: JPMorgan Chase and the London Whale ..... 27
+	A Case Study in Model Risk: Universal Life with Secondary Guarantees (ULSG) ..... 28
+	Model Risk in the Regulatory Framework ..... 29
+	Model Risk in Pricing ..... 30
+	A Limited Model for Future Mortality Rates ..... 30
+	Conflicting Models for Future Interest Rates ..... 31
+	References ..... 34
+	Appendix 1: Some Approaches to Graphical Reporting of Risk ..... 36
+	Appendix 2: Comparison with Other Frameworks ..... 44
+	North American CRO Council ..... 44
+	Solvency II Criteria for Regulatory Approval of Internal Models ..... 45
+	Guidance on Model Risk Management from the Office of the Comptroller of the Currency ..... 47
 
 ## Introduction
 

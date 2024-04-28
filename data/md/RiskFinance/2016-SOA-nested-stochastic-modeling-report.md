@@ -27,38 +27,38 @@ Copyright @2016 All rights reserved by the Society of Actuaries
 
 CONTENTS
 
-1. Executive Summary ..... 4
-2. Acknowledgements
-3. Introduction ..... 7
-4. Terminology and Categories ..... 8
-5. Study Findings on Case I ..... 10
-5.1. Closed-form solution ..... 10
-5.2. Crude Monte Carlo ..... 12
-5.3. Optimal budget allocation ..... 13
-5.4. Sequential allocation of inner loops ..... 14
-5.5. Preprocessed inner loops ..... 16
-5.6. Least-Squares Monte Carlo (LSMC) ..... 18
-5.7. LSMC with basis selection ..... 20
-5.8. Numerical results ..... 22
-5.9. Error analysis of inner-loop approximation ..... 29
-6. Study Findings on Case II ..... 38
-6.1. Overview of nested structure ..... 38
-6.2. Conceptual comparison of Monte Carlo and PDE methods ..... 40
-6.3. Modeling GLWB liabilities: practice versus mathematical formulation ..... 42
-6.4. Computational techniques ..... 52
-6.5. Numerical comparison of Monte Carlo and PDE methods: inner loop ..... 54
-6.6. Numerical comparison of all techniques: outer loop ..... 66
-6.7. Conclusions and future work ..... 72
-Appendix A. Technical Details ..... 75
-A.1. Optimal budget allocation ..... 75
-A.2. Sequential allocation ..... 76
-A.3. LSMC with basis selection ..... 77
-A.4. Derivation of PDE ..... 78
-A.5. Dynamics of mixed surplus and hedging portfolio ..... 80
-A.6. Derivation of analytical solution ..... 81
-A.7. Stochastic representation of $u(t, s)$ ..... 82
-Appendix B. Numerical Algorithms ..... 83
-References ..... 85
+	1. Executive Summary ..... 4
+	2. Acknowledgements
+	3. Introduction ..... 7
+	4. Terminology and Categories ..... 8
+	5. Study Findings on Case I ..... 10
+	5.1. Closed-form solution ..... 10
+	5.2. Crude Monte Carlo ..... 12
+	5.3. Optimal budget allocation ..... 13
+	5.4. Sequential allocation of inner loops ..... 14
+	5.5. Preprocessed inner loops ..... 16
+	5.6. Least-Squares Monte Carlo (LSMC) ..... 18
+	5.7. LSMC with basis selection ..... 20
+	5.8. Numerical results ..... 22
+	5.9. Error analysis of inner-loop approximation ..... 29
+	6. Study Findings on Case II ..... 38
+	6.1. Overview of nested structure ..... 38
+	6.2. Conceptual comparison of Monte Carlo and PDE methods ..... 40
+	6.3. Modeling GLWB liabilities: practice versus mathematical formulation ..... 42
+	6.4. Computational techniques ..... 52
+	6.5. Numerical comparison of Monte Carlo and PDE methods: inner loop ..... 54
+	6.6. Numerical comparison of all techniques: outer loop ..... 66
+	6.7. Conclusions and future work ..... 72
+	Appendix A. Technical Details ..... 75
+	A.1. Optimal budget allocation ..... 75
+	A.2. Sequential allocation ..... 76
+	A.3. LSMC with basis selection ..... 77
+	A.4. Derivation of PDE ..... 78
+	A.5. Dynamics of mixed surplus and hedging portfolio ..... 80
+	A.6. Derivation of analytical solution ..... 81
+	A.7. Stochastic representation of $u(t, s)$ ..... 82
+	Appendix B. Numerical Algorithms ..... 83
+	References ..... 85
 
 ## Nested Stochastic Modeling for Insurance Companies
 

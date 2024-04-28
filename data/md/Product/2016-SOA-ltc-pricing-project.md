@@ -57,32 +57,32 @@ Copyright (C) 2016 by the Society of Actuaries. All rights reserved.
 
 ## CONTENTS
 
-Introduction ..... 4
-Executive Summary ..... 4
-A New Offering for Consumers ..... 5
-A Need for Protection ..... 5
-Tomorrow's LTC Insurance Consumer. ..... 7
-Company Perspective ..... 8
-Introduction ..... 8
-New Policy Pricing: Today's Environment ..... 8
-Implications to Company Risks. ..... 9
-Current Pricing Perspective ..... 9
-Morbidity ..... 10
-Mortality...... ..... 11
-Morbidity and Mortality Improvement ..... 12
-Voluntary lapse ..... 12
-Investment Income ..... 12
-Expenses. ..... 13
-Earning Back the Trust of Long-Term Care Producers ..... 16
-Technical Appendix ..... 18
-Introduction ..... 18
-Data. ..... 19
-Summary of Key Illustrative Pricing Assumptions ..... 19
-Sales Distribution ..... 20
-Claim Cost Uncertainty ..... 20
-Lapse Uncertainty ..... 21
-Stochastic Methodology ..... 21
-Observations ..... 22
+	Introduction ..... 4
+	Executive Summary ..... 4
+	A New Offering for Consumers ..... 5
+	A Need for Protection ..... 5
+	Tomorrow's LTC Insurance Consumer. ..... 7
+	Company Perspective ..... 8
+	Introduction ..... 8
+	New Policy Pricing: Today's Environment ..... 8
+	Implications to Company Risks. ..... 9
+	Current Pricing Perspective ..... 9
+	Morbidity ..... 10
+	Mortality...... ..... 11
+	Morbidity and Mortality Improvement ..... 12
+	Voluntary lapse ..... 12
+	Investment Income ..... 12
+	Expenses. ..... 13
+	Earning Back the Trust of Long-Term Care Producers ..... 16
+	Technical Appendix ..... 18
+	Introduction ..... 18
+	Data. ..... 19
+	Summary of Key Illustrative Pricing Assumptions ..... 19
+	Sales Distribution ..... 20
+	Claim Cost Uncertainty ..... 20
+	Lapse Uncertainty ..... 21
+	Stochastic Methodology ..... 21
+	Observations ..... 22
 
 ## Long-Term Care Insurance: The SOA Pricing Project
 

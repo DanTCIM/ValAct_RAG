@@ -1,4 +1,4 @@
-# (1) SOCIETY OF ACTUARIES 
+SOCIETY OF ACTUARIES 
 
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_c738c3b4945a0bf71b5fg-01.jpg?height=515&width=873&top_left_y=84&top_left_x=1168" alt="image" style="width:100%;height:auto;">
 
@@ -29,42 +29,42 @@ Copyright (C)2016 All rights reserved by the Society of Actuaries
 
 ## TABLE OF CONTENTS
 
-Section 1: Acknowledgements ..... 4
-Section 2: Background and Scope ..... 5
-2.1 Background ..... 5
-2.2 Scope ..... 5
-2.3 Fundamentals ..... 5
-Section 3: EC Methodology and Modeling ..... 12
-3.1 Main Considerations ..... 12
-3.2 The Liability Runoff Approach ..... 17
-3.3 The Finite Risk Horizon Approach ..... 19
-3.4 Contrasting runoff and finite horizon approaches ..... 21
-3.5 Risk Aggregation ..... 22
-3.6 Pros and Cons of EC Approaches ..... 25
-3.7 Prevalence of Approaches ..... 27
-Section 4: Risk Calibration and Validation ..... 30
-4.1 Risk Metrics ..... 30
-4.2 Risk Factors ..... 32
-Section 5: Influence of Market and Supervisory Developments. ..... 39
-5.1 Global Financial Crisis. ..... 39
-5.2 Solvency II ..... 39
-5.3 Own Risk and Solvency Assessment ..... 40
-5.4 Global Capital Standards ..... 40
-5.5 U.S. Federal Regulatory Activities ..... 41
-Section 6: Applications of Economic Capital ..... 42
-6.1 Capital Adequacy ..... 42
-6.2 Capital Allocation ..... 42
-6.3 Risk Appetite ..... 43
-6.4 Performance Measurement ..... 44
-6.5 Strategic Planning ..... 45
-6.6 Pricing ..... 45
-6.7 Mergers \& Acquisitions ..... 45
-Section 7: Implementation and Communication ..... 46
-7.1 Objectives ..... 46
-7.2 Constraints ..... 47
-7.3 Governance ..... 48
-7.4 Validation ..... 48
-7.5 Reporting. ..... 49
+	Section 1: Acknowledgements ..... 4
+	Section 2: Background and Scope ..... 5
+	2.1 Background ..... 5
+	2.2 Scope ..... 5
+	2.3 Fundamentals ..... 5
+	Section 3: EC Methodology and Modeling ..... 12
+	3.1 Main Considerations ..... 12
+	3.2 The Liability Runoff Approach ..... 17
+	3.3 The Finite Risk Horizon Approach ..... 19
+	3.4 Contrasting runoff and finite horizon approaches ..... 21
+	3.5 Risk Aggregation ..... 22
+	3.6 Pros and Cons of EC Approaches ..... 25
+	3.7 Prevalence of Approaches ..... 27
+	Section 4: Risk Calibration and Validation ..... 30
+	4.1 Risk Metrics ..... 30
+	4.2 Risk Factors ..... 32
+	Section 5: Influence of Market and Supervisory Developments. ..... 39
+	5.1 Global Financial Crisis. ..... 39
+	5.2 Solvency II ..... 39
+	5.3 Own Risk and Solvency Assessment ..... 40
+	5.4 Global Capital Standards ..... 40
+	5.5 U.S. Federal Regulatory Activities ..... 41
+	Section 6: Applications of Economic Capital ..... 42
+	6.1 Capital Adequacy ..... 42
+	6.2 Capital Allocation ..... 42
+	6.3 Risk Appetite ..... 43
+	6.4 Performance Measurement ..... 44
+	6.5 Strategic Planning ..... 45
+	6.6 Pricing ..... 45
+	6.7 Mergers \& Acquisitions ..... 45
+	Section 7: Implementation and Communication ..... 46
+	7.1 Objectives ..... 46
+	7.2 Constraints ..... 47
+	7.3 Governance ..... 48
+	7.4 Validation ..... 48
+	7.5 Reporting. ..... 49
 
 ## Economic Capital for Life Insurance Companies
 

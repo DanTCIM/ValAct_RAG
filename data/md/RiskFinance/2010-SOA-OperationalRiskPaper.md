@@ -10,9 +10,7 @@ Prepared by:
 
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_e02fc804ed9f8f26d2edg-01.jpg?height=114&width=569&top_left_y=1797&top_left_x=388" alt="image" style="width:100%;height:auto;">
 
-TOWERS
-
-PERRIN
+TOWERS PERRIN
 
 Originally Published: December 2009
 
@@ -24,58 +22,58 @@ The opinions expressed and conclusions reached by the authors are their own and 
 
 ## Table of Contents
 
-1. Executive Summary ..... 3
-2. Introduction ..... 7
-2.1 Project Background and Scope. ..... 7
-2.2 Project Team ..... 8
-3. What is Risk? ..... 10
-3.1 Origin and Use ..... 10
-3.2 Traditional and Modern Interpretations ..... 10
-3.3 A Practical Definition of Risk ..... 13
-4. Key Risk Concepts ..... 15
-4.1 Likelihood vs. Frequency ..... 15
-4.2 Expected Loss and Unexpected Loss ..... 17
-4.3 Risk Measurement and Assessment. ..... 20
-4.4 Risk Assessment/Measurement Under Traditional ORM ..... 21
-4.5 The Educational Challenge ..... 23
-5. What is Operational Risk?. ..... 25
-5.1 The Nature and Magnitude of Operational Risk ..... 25
-5.2 Wrong Turn: From Operational Risk to Operations Risk ..... 25
-6. Risk Architecture and Taxonomy ..... 28
-6.1 The Traditional Risk Universe ..... 28
-6.2 The Modern Risk Universe ..... 29
-6.3 Modern Operational Risk Taxonomy ..... 31
-6.4 Criminal Risk and Principal-Agent Risk ..... 33
-7. The ORM Business Problem ..... 36
-7.1 Roles and Responsibilities ..... 36
-7.2 Modern ORM in Practice. ..... 37
-7.3 The Modern ORM Infrastructure ..... 40
-7.4 Traditional ORM in Practice ..... 42
-8. Measuring/Assessing Operational Risk ..... 45
-8.1 Goals of Measuring/Assessing Operational Risk ..... 45
-8.2 The Actuarial Approach ..... 45
-8.3 Data Requirements ..... 47
-8.4 Frequency and Severity Distributions ..... 50
-8.5 How to Model Frequency ..... 52
-8.6 How to Model Severity ..... 53
-8.7 Combining Internal and External Loss Data ..... 57
-8.8 Risk Assessment, Scenario Analysis and Stress Testing ..... 60
-8.9 Calculating Value at Risk ..... 62
-8.10 Modeling the Operational Risk Component of Other Risks ..... 65
-9. The Business Case for Modern ORM ..... 67
-9.1 The Current State of ORM ..... 67
-9.2 Key Differences between Traditional and Modern ORM ..... 68
-9.3 The ORM Evolutionary Path ..... 69
-9.4 The ORM Roadmap ..... 70
-9.5 The Economics of Modern ORM. ..... 71
-10. Conclusions and Recommendations ..... 73
-11. References ..... 77
-12. Appendix A - Principal-Agent Risk and the $\mathbf{2 0 0 8}$ Global Financial Crisis ..... 79
-The Sub-Prime Credit Crisis ..... 79
-AIG and Credit Default Swaps ..... 81
-Summary and Conclusions ..... 81
-13. Appendix B - Modeling ORM: Key Concepts ..... 83
-14. Appendix C - Glossary of Operational Risk Terminology ..... 86
+	1. Executive Summary ..... 3
+	2. Introduction ..... 7
+	2.1 Project Background and Scope. ..... 7
+	2.2 Project Team ..... 8
+	3. What is Risk? ..... 10
+	3.1 Origin and Use ..... 10
+	3.2 Traditional and Modern Interpretations ..... 10
+	3.3 A Practical Definition of Risk ..... 13
+	4. Key Risk Concepts ..... 15
+	4.1 Likelihood vs. Frequency ..... 15
+	4.2 Expected Loss and Unexpected Loss ..... 17
+	4.3 Risk Measurement and Assessment. ..... 20
+	4.4 Risk Assessment/Measurement Under Traditional ORM ..... 21
+	4.5 The Educational Challenge ..... 23
+	5. What is Operational Risk?. ..... 25
+	5.1 The Nature and Magnitude of Operational Risk ..... 25
+	5.2 Wrong Turn: From Operational Risk to Operations Risk ..... 25
+	6. Risk Architecture and Taxonomy ..... 28
+	6.1 The Traditional Risk Universe ..... 28
+	6.2 The Modern Risk Universe ..... 29
+	6.3 Modern Operational Risk Taxonomy ..... 31
+	6.4 Criminal Risk and Principal-Agent Risk ..... 33
+	7. The ORM Business Problem ..... 36
+	7.1 Roles and Responsibilities ..... 36
+	7.2 Modern ORM in Practice. ..... 37
+	7.3 The Modern ORM Infrastructure ..... 40
+	7.4 Traditional ORM in Practice ..... 42
+	8. Measuring/Assessing Operational Risk ..... 45
+	8.1 Goals of Measuring/Assessing Operational Risk ..... 45
+	8.2 The Actuarial Approach ..... 45
+	8.3 Data Requirements ..... 47
+	8.4 Frequency and Severity Distributions ..... 50
+	8.5 How to Model Frequency ..... 52
+	8.6 How to Model Severity ..... 53
+	8.7 Combining Internal and External Loss Data ..... 57
+	8.8 Risk Assessment, Scenario Analysis and Stress Testing ..... 60
+	8.9 Calculating Value at Risk ..... 62
+	8.10 Modeling the Operational Risk Component of Other Risks ..... 65
+	9. The Business Case for Modern ORM ..... 67
+	9.1 The Current State of ORM ..... 67
+	9.2 Key Differences between Traditional and Modern ORM ..... 68
+	9.3 The ORM Evolutionary Path ..... 69
+	9.4 The ORM Roadmap ..... 70
+	9.5 The Economics of Modern ORM. ..... 71
+	10. Conclusions and Recommendations ..... 73
+	11. References ..... 77
+	12. Appendix A - Principal-Agent Risk and the $\mathbf{2 0 0 8}$ Global Financial Crisis ..... 79
+	The Sub-Prime Credit Crisis ..... 79
+	AIG and Credit Default Swaps ..... 81
+	Summary and Conclusions ..... 81
+	13. Appendix B - Modeling ORM: Key Concepts ..... 83
+	14. Appendix C - Glossary of Operational Risk Terminology ..... 86
 
 ## 1. Executive Summary
 

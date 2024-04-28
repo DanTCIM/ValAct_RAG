@@ -1,6 +1,4 @@
-# DSOA 
-
-## Structured Settlement Annuities
+# Structured Settlement Annuities
 
 This report was prepared for use in the educational curriculum of the Society of Actuaries. It describes the main features of structured settlement annuities in North America and current actuarial practices and issues related to this product. It draws upon a study note on the same topic authored by Roger Harbin, FSA in 1991. Perspective on the Canadian structured settlement market was provided by Robert (Bob) Nigol, B.A., M.A., Managing Partner of EPS Settlements Group of Canada.
 
@@ -36,33 +34,31 @@ The opinions expressed and conclusions reached by the authors are their own and 
 
 ## CONTENTS
 
-Section 1: Overview of Structured Settlements ..... 3
-1.1 History of Structured Settlements ..... 3
-1.2 Forms of Benefit Payments under a Structured Settlement ..... 4
-Section 2: Pricing Considerations ..... 4
-2.1 Mortality. ..... 4
-2.2 Interest Rates ..... 5
-2.3 Expenses and Premium Taxes ..... 6
-2.4 Post-tax Return on Invested Surplus .....  .6
-2.5 Administration of Pricing and Rate Changes ..... 6
-Section 3: Risk Considerations. ..... 7
-3.1 Mortality Risk ..... 7
-3.2 Interest Rate and Asset / Liability Mismatch Risk ..... 7
-3.3 Credit Risk ..... 8
-3.4 Impact of Benefit Escalators on Risk ..... 8
-3.5 Risk-Based Capital ..... 8
-Section 4: Reserving / Valuation Methodology ..... 8
-4.1 Statutory Reserving. ..... 9
-4.2 GAAP Reserving ..... 9
-Section 5: Other Considerations ..... 9
-5.1 Taxation ..... 9
-5.2 Attorneys' Fees ..... 9
-5.3 Factoring. ..... 10
-5.4 Inflation Considerations ..... 10
-5.5 Canadian Market ..... 10
-About The Society of Actuaries Research Institute ..... 11
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_80406dff56ae901a718dg-02.jpg?height=261&width=1577&top_left_y=1924&top_left_x=247" alt="image" style="width:100%;height:auto;">
+    Section 1: Overview of Structured Settlements ..... 3
+    1.1 History of Structured Settlements ..... 3
+    1.2 Forms of Benefit Payments under a Structured Settlement ..... 4
+    Section 2: Pricing Considerations ..... 4
+    2.1 Mortality. ..... 4
+    2.2 Interest Rates ..... 5
+    2.3 Expenses and Premium Taxes ..... 6
+    2.4 Post-tax Return on Invested Surplus .....  .6
+    2.5 Administration of Pricing and Rate Changes ..... 6
+    Section 3: Risk Considerations. ..... 7
+    3.1 Mortality Risk ..... 7
+    3.2 Interest Rate and Asset / Liability Mismatch Risk ..... 7
+    3.3 Credit Risk ..... 8
+    3.4 Impact of Benefit Escalators on Risk ..... 8
+    3.5 Risk-Based Capital ..... 8
+    Section 4: Reserving / Valuation Methodology ..... 8
+    4.1 Statutory Reserving. ..... 9
+    4.2 GAAP Reserving ..... 9
+    Section 5: Other Considerations ..... 9
+    5.1 Taxation ..... 9
+    5.2 Attorneys' Fees ..... 9
+    5.3 Factoring. ..... 10
+    5.4 Inflation Considerations ..... 10
+    5.5 Canadian Market ..... 10
+    About The Society of Actuaries Research Institute ..... 11
 
 ## Section 1: Overview of Structured Settlements
 

@@ -1,5 +1,3 @@
-# (1) SOCIETYOF 
-
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_6020bc830b5c00304c62g-01.jpg?height=510&width=1111&top_left_y=84&top_left_x=927" alt="image" style="width:100%;height:auto;">
 
 Impact of VM-20 on Life Insurance Product Development
@@ -47,33 +45,33 @@ Copyright (C) 2016 All rights reserved by the Society of Actuaries
 
 ## TABLE OF CONTENTS
 
-Section 1: Background ..... 4
-Section 2: Disclaimer of Liability ..... 4
-Section 3: Research Phases and Report Content ..... 5
-Section 4: Executive Summary ..... 5
-Section 5: High-Level Summary of VM-20 Requirements ..... 6
-Section 6: Case Study Parameters . ..... 7
-Section 7: Term Case Studies ..... 12
-Section 8: ULSG Case Studies ..... 21
-Section 9: Observations and Other Commentary ..... 28
-Section 10: What's Coming in Phase 2 Report ..... 31
-References ..... 32
-Appendix A: Phase 1 Case Studies: Term Product ..... 33
-Product Definition, Pricing Metrics and Basis for Experience Assumptions ..... 33
-Product Specifications ..... 34
-Pricing Assumptions: Lapse Rates ..... 35
-Pricing Assumptions: Mortality Rates ..... 37
-VM-20 Reserves ..... 38
-Appendix B: Phase 1 Case Studies: ULSG ..... 39
-Product Definitions, Pricing Metrics and Basis for Experience Assumptions ..... 39
-Product Specifications ..... 40
-Pricing Assumptions: Lapse Rates ..... 41
-Pricing Assumptions: Mortality Rates ..... 41
-VM-20 Reserves ..... 42
-Appendix C: Asset Modeling and Assumptions: Portfolio Earned Rates under Pricing Scenario ..... 43
-Appendix D: Asset Modeling and Assumptions: DR Discount Rates ..... 46
-Appendix E: Asset Modeling and Assumptions: SR ..... 51
-About The Society of Actuaries Error! Bookmark not defined.
+	Section 1: Background ..... 4
+	Section 2: Disclaimer of Liability ..... 4
+	Section 3: Research Phases and Report Content ..... 5
+	Section 4: Executive Summary ..... 5
+	Section 5: High-Level Summary of VM-20 Requirements ..... 6
+	Section 6: Case Study Parameters . ..... 7
+	Section 7: Term Case Studies ..... 12
+	Section 8: ULSG Case Studies ..... 21
+	Section 9: Observations and Other Commentary ..... 28
+	Section 10: What's Coming in Phase 2 Report ..... 31
+	References ..... 32
+	Appendix A: Phase 1 Case Studies: Term Product ..... 33
+	Product Definition, Pricing Metrics and Basis for Experience Assumptions ..... 33
+	Product Specifications ..... 34
+	Pricing Assumptions: Lapse Rates ..... 35
+	Pricing Assumptions: Mortality Rates ..... 37
+	VM-20 Reserves ..... 38
+	Appendix B: Phase 1 Case Studies: ULSG ..... 39
+	Product Definitions, Pricing Metrics and Basis for Experience Assumptions ..... 39
+	Product Specifications ..... 40
+	Pricing Assumptions: Lapse Rates ..... 41
+	Pricing Assumptions: Mortality Rates ..... 41
+	VM-20 Reserves ..... 42
+	Appendix C: Asset Modeling and Assumptions: Portfolio Earned Rates under Pricing Scenario ..... 43
+	Appendix D: Asset Modeling and Assumptions: DR Discount Rates ..... 46
+	Appendix E: Asset Modeling and Assumptions: SR ..... 51
+	About The Society of Actuaries Error! Bookmark not defined.
 
 ## Impact of VM-20 on Life insurance Product Development
 

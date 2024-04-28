@@ -1,9 +1,3 @@
-# (2) SOCIETYOF 
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_e6dbe46bf741779f55bbg-01.jpg?height=512&width=1117&top_left_y=80&top_left_x=924" alt="image" style="width:100%;height:auto;">
-
-## Table Development
-
 # Table Development 
 
 AUTHOR<br>David B. Atkinson, FSA<br>Society of Actuaries<br>REVIEWERS Mary J. Bahna-Nolan, FSA<br>Robert W. Beal, FSA<br>Thomas P. Edwalds, FSA<br>Mervyn Kopinsky, FSA<br>Cynthia MacDonald, FSA<br>Patrick D. Nolan, FSA<br>C. Allen Pinkham, ASA<br>Laurence Pinzur, FSA<br>Marianne C. Purushotham, FSA<br>Thomas E. Rhodes, FSA<br>Bradley C. Spenney FSA
@@ -20,124 +14,124 @@ Copyright (C)2018 All rights reserved by the Society of Actuaries
 
 ## TABLE OF CONTENTS
 
-Section 1: Overview ..... 6
-1.1 Scope ..... 6
-1.2 Project Planning and Oversight ..... 6
-1.3 Table Development Flow Chart ..... 7
-1.4 Future Table Development ..... 7
-Section 2: Data Development. ..... 8
-2.1 Preliminaries ..... 8
-2.1.1 Clarify Purpose and Goals ..... 8
-2.1.2 Data Confidentiality ..... 8
-2.1.3 Available Data. ..... 8
-2.2 Data Call ..... 9
-2.3 Common Data Challenges ..... 10
-2.4 Experience Study Calculations ..... 10
-2.4.1 Age Basis ..... 11
-2.4.2 Experience Study Summary Records ..... 11
-2.4.3 Count-Based Results ..... 12
-2.4.4 Amount-Based Results ..... 12
-2.4.5 Expected Results ..... 13
-2.4.6 Summary ..... 13
-Section 3: Data Analysis ..... 14
-3.1 Overview of Data Analysis Process ..... 14
-3.2 Data Acquisition. ..... 14
-3.3 Data Validation and Preliminary Exploration ..... 15
-3.3.1 Preliminary Data Exploration ..... 15
-3.3.2 Outlier Analysis ..... 15
-3.4 Data Visualization and Preparation ..... 16
-3.4.1 Variable Grouping ..... 16
-3.4.2 Variable Creation. ..... 16
-3.4.3 Variable Reduction ..... 16
-3.5 Determination of Analytical Approach ..... 17
-3.5.1 Exploratory Analytics ..... 17
-3.5.2 Advanced Analytics ..... 18
-3.6 Model Creation and Assessment ..... 18
-3.6.1 Selecting Appropriate Model Forms ..... 18
-3.6.2 Generalized Linear Models ..... 19
-3.6.3 Survival Models . ..... 20
-3.6.4 The Modeling Process ..... 20
-3.6.5 Count- and Amount-Based Rates ..... 22
-3.7 Final Model Selection. ..... 23
-3.8 Minimizing Table Dimensions ..... 23
-3.9 Replacing Grids with Factors ..... 23
-Section 4: Graduation of Rates ..... 25
-4.1 Input Rates ..... 25
-4.2 Insufficiently Credible Data and Grouping of Data ..... 26
-4.3 Graduation Methods ..... 26
-4.4 Graduation Components ..... 27
-4.5 The Graduation Process ..... 28
-4.5.1 Populate and Adjust Graduation Input ..... 28
-4.5.2 Review and Evaluate Graduation Results ..... 29
-4.6 Variance for Amount-Based Observed Rates ..... 30
-4.7 Interpolation of Graduated Rates ..... 31
-4.7.1 Use of Weighted Averages Instead of Midpoints ..... 31
-4.7.2 Common Interpolation Methods ..... 31
-Section 5: Extension of Rates ..... 33
-5.1 Using Rates from an Existing Table ..... 33
-5.2 Using Data from Other Sources ..... 33
-5.3 Using Formulas ..... 33
-Section 6: Review and Adjustment of Rates ..... 34
-6.1 Creative Reviews ..... 34
-6.1.1 Preservation of Events ..... 35
-6.1.2 Creating Acceptable Rates. ..... 35
-6.2 Enforcing Relationships. ..... 35
-6.2.1 Define Relationships to Be Enforced ..... 36
-6.2.2 Define When Relationships Will Be Checked. ..... 37
-6.2.3 Create Spreadsheets to Check Relationships ..... 37
-6.2.4 Checking Select and Ultimate Mortality Rates ..... 38
-6.2.5 Adjusting Rates to Enforce Relationships ..... 38
-Section 7: Projecting Future Rates. ..... 39
-7.1 Data Considerations for Projecting Future Rates. ..... 39
-7.2 Connecting Cause and Effect . ..... 39
-7.3 Three Types of Projections ..... 40
-Section 8: Financial Impact ..... 42
-8.1 Considerations ..... 42
-8.2 Internal Table versus Industry Table in Life Insurance ..... 42
-8.3 Impact on Reserves for Financial Reporting ..... 43
-8.4 Impact on Best-Estimate Actuarial Assumptions ..... 43
-8.4.1 Life and Health Insurance. ..... 43
-8.4.2 Pensions ..... 43
-8.5 Impact on Life and Health Insurance Premium Rates ..... 44
-Section 9: Finalization of the Table ..... 45
-9.1 Creation of Derived Tables ..... 45
-9.1.1 Common Constraints ..... 45
-9.1.2 Projected Trend Factors ..... 45
-9.1.3 Valuation Loading Factors ..... 46
-9.1.4 Rates for Additional Age Definitions ..... 46
-9.1.5 Gender-Blended Rates ..... 47
-9.1.6 Relative Risk Rates ..... 47
-9.2 Project Documentation ..... 47
-9.3 Project Oversight ..... 47
-Appendix A-Introduction to Exposure ..... 49
-Annual Rates, Monthly Rates and Exposures ..... 49
-Daily Rates and Exposure ..... 50
-Fractional Rates and Exposure ..... 51
-Appendix B-Select Period Considerations ..... 52
-Appendix C-Table of Standard Deviations and 90\% Confidence Intervals ..... 53
-Appendix D-Using Howard's Whittaker-Henderson Functions ..... 54
-Downloading Howard's .dll File. ..... 54
-Using Excel Arrays ..... 54
-Balancing Fit and Smoothness ..... 55
-Graduation Strategies ..... 56
-Graduation Production ..... 57
-Graduation Statistics ..... 57
-Appendix E-Estimating Variance for Amount-Based Observed Rates ..... 59
-Variance for Amount-Based Rates ..... 59
-Simple Variance Approximations for Amount-Based Rates ..... 60
-Allocating Exposed Counts ..... 60
-Appendix F-Mortality Study of 100 Oldest People. ..... 62
-Appendix G-A Method for Creating Acceptable Rates ..... 63
-Appendix H-Converting Mortality Rates between Age Nearest and Age Last Birthdays ..... 64
-Age Zero ..... 64
-UDD Conversion Method ..... 64
-Geometric Conversion Method. ..... 65
-Appendix J-Valuation Loading ..... 67
-Valuation Basic Table ..... 67
-Coverage Ratios ..... 68
-Loaded Experience Table ..... 68
-Commissioners' Valuation Table ..... 68
-About the Society of Actuaries. ..... 69
+	Section 1: Overview ..... 6
+	1.1 Scope ..... 6
+	1.2 Project Planning and Oversight ..... 6
+	1.3 Table Development Flow Chart ..... 7
+	1.4 Future Table Development ..... 7
+	Section 2: Data Development. ..... 8
+	2.1 Preliminaries ..... 8
+	2.1.1 Clarify Purpose and Goals ..... 8
+	2.1.2 Data Confidentiality ..... 8
+	2.1.3 Available Data. ..... 8
+	2.2 Data Call ..... 9
+	2.3 Common Data Challenges ..... 10
+	2.4 Experience Study Calculations ..... 10
+	2.4.1 Age Basis ..... 11
+	2.4.2 Experience Study Summary Records ..... 11
+	2.4.3 Count-Based Results ..... 12
+	2.4.4 Amount-Based Results ..... 12
+	2.4.5 Expected Results ..... 13
+	2.4.6 Summary ..... 13
+	Section 3: Data Analysis ..... 14
+	3.1 Overview of Data Analysis Process ..... 14
+	3.2 Data Acquisition. ..... 14
+	3.3 Data Validation and Preliminary Exploration ..... 15
+	3.3.1 Preliminary Data Exploration ..... 15
+	3.3.2 Outlier Analysis ..... 15
+	3.4 Data Visualization and Preparation ..... 16
+	3.4.1 Variable Grouping ..... 16
+	3.4.2 Variable Creation. ..... 16
+	3.4.3 Variable Reduction ..... 16
+	3.5 Determination of Analytical Approach ..... 17
+	3.5.1 Exploratory Analytics ..... 17
+	3.5.2 Advanced Analytics ..... 18
+	3.6 Model Creation and Assessment ..... 18
+	3.6.1 Selecting Appropriate Model Forms ..... 18
+	3.6.2 Generalized Linear Models ..... 19
+	3.6.3 Survival Models . ..... 20
+	3.6.4 The Modeling Process ..... 20
+	3.6.5 Count- and Amount-Based Rates ..... 22
+	3.7 Final Model Selection. ..... 23
+	3.8 Minimizing Table Dimensions ..... 23
+	3.9 Replacing Grids with Factors ..... 23
+	Section 4: Graduation of Rates ..... 25
+	4.1 Input Rates ..... 25
+	4.2 Insufficiently Credible Data and Grouping of Data ..... 26
+	4.3 Graduation Methods ..... 26
+	4.4 Graduation Components ..... 27
+	4.5 The Graduation Process ..... 28
+	4.5.1 Populate and Adjust Graduation Input ..... 28
+	4.5.2 Review and Evaluate Graduation Results ..... 29
+	4.6 Variance for Amount-Based Observed Rates ..... 30
+	4.7 Interpolation of Graduated Rates ..... 31
+	4.7.1 Use of Weighted Averages Instead of Midpoints ..... 31
+	4.7.2 Common Interpolation Methods ..... 31
+	Section 5: Extension of Rates ..... 33
+	5.1 Using Rates from an Existing Table ..... 33
+	5.2 Using Data from Other Sources ..... 33
+	5.3 Using Formulas ..... 33
+	Section 6: Review and Adjustment of Rates ..... 34
+	6.1 Creative Reviews ..... 34
+	6.1.1 Preservation of Events ..... 35
+	6.1.2 Creating Acceptable Rates. ..... 35
+	6.2 Enforcing Relationships. ..... 35
+	6.2.1 Define Relationships to Be Enforced ..... 36
+	6.2.2 Define When Relationships Will Be Checked. ..... 37
+	6.2.3 Create Spreadsheets to Check Relationships ..... 37
+	6.2.4 Checking Select and Ultimate Mortality Rates ..... 38
+	6.2.5 Adjusting Rates to Enforce Relationships ..... 38
+	Section 7: Projecting Future Rates. ..... 39
+	7.1 Data Considerations for Projecting Future Rates. ..... 39
+	7.2 Connecting Cause and Effect . ..... 39
+	7.3 Three Types of Projections ..... 40
+	Section 8: Financial Impact ..... 42
+	8.1 Considerations ..... 42
+	8.2 Internal Table versus Industry Table in Life Insurance ..... 42
+	8.3 Impact on Reserves for Financial Reporting ..... 43
+	8.4 Impact on Best-Estimate Actuarial Assumptions ..... 43
+	8.4.1 Life and Health Insurance. ..... 43
+	8.4.2 Pensions ..... 43
+	8.5 Impact on Life and Health Insurance Premium Rates ..... 44
+	Section 9: Finalization of the Table ..... 45
+	9.1 Creation of Derived Tables ..... 45
+	9.1.1 Common Constraints ..... 45
+	9.1.2 Projected Trend Factors ..... 45
+	9.1.3 Valuation Loading Factors ..... 46
+	9.1.4 Rates for Additional Age Definitions ..... 46
+	9.1.5 Gender-Blended Rates ..... 47
+	9.1.6 Relative Risk Rates ..... 47
+	9.2 Project Documentation ..... 47
+	9.3 Project Oversight ..... 47
+	Appendix A-Introduction to Exposure ..... 49
+	Annual Rates, Monthly Rates and Exposures ..... 49
+	Daily Rates and Exposure ..... 50
+	Fractional Rates and Exposure ..... 51
+	Appendix B-Select Period Considerations ..... 52
+	Appendix C-Table of Standard Deviations and 90\% Confidence Intervals ..... 53
+	Appendix D-Using Howard's Whittaker-Henderson Functions ..... 54
+	Downloading Howard's .dll File. ..... 54
+	Using Excel Arrays ..... 54
+	Balancing Fit and Smoothness ..... 55
+	Graduation Strategies ..... 56
+	Graduation Production ..... 57
+	Graduation Statistics ..... 57
+	Appendix E-Estimating Variance for Amount-Based Observed Rates ..... 59
+	Variance for Amount-Based Rates ..... 59
+	Simple Variance Approximations for Amount-Based Rates ..... 60
+	Allocating Exposed Counts ..... 60
+	Appendix F-Mortality Study of 100 Oldest People. ..... 62
+	Appendix G-A Method for Creating Acceptable Rates ..... 63
+	Appendix H-Converting Mortality Rates between Age Nearest and Age Last Birthdays ..... 64
+	Age Zero ..... 64
+	UDD Conversion Method ..... 64
+	Geometric Conversion Method. ..... 65
+	Appendix J-Valuation Loading ..... 67
+	Valuation Basic Table ..... 67
+	Coverage Ratios ..... 68
+	Loaded Experience Table ..... 68
+	Commissioners' Valuation Table ..... 68
+	About the Society of Actuaries. ..... 69
 
 ## Section 1: Overview
 

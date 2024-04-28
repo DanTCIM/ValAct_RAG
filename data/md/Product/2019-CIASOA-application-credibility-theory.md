@@ -1,19 +1,9 @@
-Canadian Institute of
+Canadian Institute of Actuaries
 
-Actuaries
-(1)
-
-canadien
-
-des actuaires
 SOCIETY OF ACTUARIES
 
-# The Application of Credibility Theory 
-
-in the Canadian Life Insurance Industry
+# The Application of Credibility Theory in the Canadian Life Insurance Industry
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_f44fe343abb7289f1f65g-01.jpg?height=1376&width=1830&top_left_y=984&top_left_x=82" alt="image" style="width:100%;height:auto;">
-
-# The Application of Credibility Theory in the Canadian Life Insurance Industry 
 
 AUTHORS Leslie M. Jones, ASA, MAAA<br>Consulting Actuary<br>SPONSORS<br>Canadian Institute of Actuaries (CIA)<br>Risk \& Regulatory Consulting<br>Society of Actuaries (SOA)<br>Patricia Matson, FSA, MAAA<br>Partner<br>Risk \& Regulatory Consulting
 
@@ -23,39 +13,39 @@ This study is published by the Society of Actuaries (SOA) and the Canadian Insti
 
 ## Contents
 
-Executive Summary ..... 4
-Section 1: Introduction ..... 6
-1.1 An Introduction to the Study ..... 6
-1.2 An Introduction to Credibility Theory. ..... 7
-Section 2: Survey Development ..... 7
-2.1 General Background ..... 7
-2.2 Selection of Survey Participants and Response Rate ..... 8
-Section 3: Survey Results ..... 8
-3.1 Application of Credibility Theory for Mortality and Lapse Assumption Setting ..... 8
-3.2 Application of Credibility Theory to Other Assumptions ..... 11
-3.3 Internal and External Guidelines ..... 11
-3.4 Sources of Data. ..... 11
-3.5 Software. ..... 12
-3.6 Application of Credibility Theory by Product Type ..... 12
-3.7 Adjustments for New Products ..... 12
-3.8 Supplementation of Experience Data with Industry Data. ..... 12
-3.9 Basis Risk Adjustment ..... 12
-3.10 Weighting of Company Experience ..... 13
-3.11 Evaluation of the Credibility Method ..... 13
-3.12 Standard Basis for Defining Credibility (Count versus Amount) ..... 13
-3.13 Identification and Treatment of Exceptions ..... 14
-Section 4: Analysis and Comparison of Credibility Methods ..... 14
-4.1 General Background and Approach to Analysis ..... 14
-4.2 Overview of Credibility Theory ..... 15
-4.3 Development of the Sample Data Sets. ..... 17
-4.4 Credibility Analysis for Mortality ..... 18
-4.5 Credibility Analysis for Lapse ..... 23
-Section 5: Acknowledgements ..... 29
-Appendix A: Survey Questions. ..... 30
-Appendix B: Annotated Credibility Bibliography ..... 32
-Appendix C: Credibility Methods. ..... 33
-About the Canadian Institute of Actuaries ..... 38
-About the Society of Actuaries. ..... 39
+	Executive Summary ..... 4
+	Section 1: Introduction ..... 6
+	1.1 An Introduction to the Study ..... 6
+	1.2 An Introduction to Credibility Theory. ..... 7
+	Section 2: Survey Development ..... 7
+	2.1 General Background ..... 7
+	2.2 Selection of Survey Participants and Response Rate ..... 8
+	Section 3: Survey Results ..... 8
+	3.1 Application of Credibility Theory for Mortality and Lapse Assumption Setting ..... 8
+	3.2 Application of Credibility Theory to Other Assumptions ..... 11
+	3.3 Internal and External Guidelines ..... 11
+	3.4 Sources of Data. ..... 11
+	3.5 Software. ..... 12
+	3.6 Application of Credibility Theory by Product Type ..... 12
+	3.7 Adjustments for New Products ..... 12
+	3.8 Supplementation of Experience Data with Industry Data. ..... 12
+	3.9 Basis Risk Adjustment ..... 12
+	3.10 Weighting of Company Experience ..... 13
+	3.11 Evaluation of the Credibility Method ..... 13
+	3.12 Standard Basis for Defining Credibility (Count versus Amount) ..... 13
+	3.13 Identification and Treatment of Exceptions ..... 14
+	Section 4: Analysis and Comparison of Credibility Methods ..... 14
+	4.1 General Background and Approach to Analysis ..... 14
+	4.2 Overview of Credibility Theory ..... 15
+	4.3 Development of the Sample Data Sets. ..... 17
+	4.4 Credibility Analysis for Mortality ..... 18
+	4.5 Credibility Analysis for Lapse ..... 23
+	Section 5: Acknowledgements ..... 29
+	Appendix A: Survey Questions. ..... 30
+	Appendix B: Annotated Credibility Bibliography ..... 32
+	Appendix C: Credibility Methods. ..... 33
+	About the Canadian Institute of Actuaries ..... 38
+	About the Society of Actuaries. ..... 39
 
 ## The Application of Credibility Theory in the Canadian Life Insurance Industry
 

@@ -84,17 +84,17 @@ We welcome comments and questions. Please send comments to RMFRCPolicyAnalyst@ac
 
 ## Table of Contents
 
-Introduction ..... 6
-Background ..... 6
-Risk Exposure Questions ..... 7
-Q1. What risk categories are commonly considered in the ORSA report? What risks are quantified versus not quantified? ..... 7
-Q2. How often is a formal enterprise risk identification or assessment process performed? What may cause monitoring frequency to change? ..... 10
-Q3. How do companies quantify risk? What are the limitations of those efforts/methods? How does the approach differ between types of risk (catastrophe, operational, etc.)? ..... 11
-Q4. What are companies using stress testing for? ..... 15
-Q5. How do companies determine stress scenarios for purposes of risk quantification? Are the stress scenarios calibrated to the same degree of severity? ..... 16
-Q6. How is inherent versus residual risk addressed, and how can management action be integrated into the risk quantification process? ..... 17
-Q7. How are more challenging risks, such as emerging risks, being addressed? ..... 18
-Q8. How do companies deal with risk interactions (across risk types, product lines, legal entities, etc.) in the risk assessment process? ..... 19
+	Introduction ..... 6
+	Background ..... 6
+	Risk Exposure Questions ..... 7
+	Q1. What risk categories are commonly considered in the ORSA report? What risks are quantified versus not quantified? ..... 7
+	Q2. How often is a formal enterprise risk identification or assessment process performed? What may cause monitoring frequency to change? ..... 10
+	Q3. How do companies quantify risk? What are the limitations of those efforts/methods? How does the approach differ between types of risk (catastrophe, operational, etc.)? ..... 11
+	Q4. What are companies using stress testing for? ..... 15
+	Q5. How do companies determine stress scenarios for purposes of risk quantification? Are the stress scenarios calibrated to the same degree of severity? ..... 16
+	Q6. How is inherent versus residual risk addressed, and how can management action be integrated into the risk quantification process? ..... 17
+	Q7. How are more challenging risks, such as emerging risks, being addressed? ..... 18
+	Q8. How do companies deal with risk interactions (across risk types, product lines, legal entities, etc.) in the risk assessment process? ..... 19
 
 ## Practice Note on Quantifying Risk Exposures for Own-Risk and Solvency Assessment Reports
 

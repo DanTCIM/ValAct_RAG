@@ -1,12 +1,9 @@
-Modeling of Policyholder Behavior for Life Insurance and Annuity Products
-
-A Survey and Literature Review
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-01.jpg?height=1049&width=1659&top_left_y=782&top_left_x=298" alt="image" style="width:100%;height:auto;">
-
 # Modeling of Policyholder Behavior for Life Insurance and Annuity Products 
 
 ## A survey and literature review
+
+<img src="https://cdn.mathpix.com/cropped/2024_04_13_7db65cabe3a33265ab64g-01.jpg?height=1049&width=1659&top_left_y=782&top_left_x=298" alt="image" style="width:100%;height:auto;">
+
 
 Research Team: Jason Campbell (PwC)<br>Michael Chan, FSA (PwC)<br>Kate Li, FSA, MAAA (PwC)<br>Louis Lombardi, FSA, MAAA (PwC)<br>Lucian Lombardi, ASA, MAAA (LIMRA)<br>Marianne Purushotham, FSA, MAAA (LIMRA)<br>Anand Rao, PhD (PwC)
 
@@ -34,46 +31,46 @@ The opinions expressed and conclusions reached by the authors are their own and 
 
 ## Contents
 
-Research Overview ..... 5
-Introduction ..... 7
-Research methodology ..... 7
-Behavioral economics
-Policyholder Behavior Defined. ..... 9
-What is policyholder behavior? ..... 9
-Why has the term "policyholder behavior" only entered the vocabulary relatively recently? ..... 9
-Why is understanding policyholder behavior important? ..... 12
-What are the challenges of understanding policyholder behavior? ..... 14
-Survey of Dynamic Policyholder Behavior Assumptions ..... 16
-Executive summary ..... 16
-Survey design ..... 17
-Survey results ..... 17
-Behavioral Economics: Background ..... 34
-Behavioral Economics: Life Insurance Purchasing Behaviors Literature Review ..... 37
-Decision shortcuts ..... 37
-Value assessment ..... 37
-Emotional impacts ..... 38
-Social impacts ..... 39
-Behavioral Economics: Annuities Purchasing Behaviors Literature Review ..... 41
-Decision shortcuts ..... 41
-Value assessments ..... 43
-Emotional impacts ..... 43
-Social impacts ..... 44
-Behavioral Economics: Policyholder Behaviors Literature Review. ..... 45
-Lapse and surrender ..... 47
-Premium and funding levels ..... 53
-Timing of withdrawals ..... 56
-Partial withdrawal amounts ..... 59
-Investment decisions and fund transfers ..... 60
-Annuitization ..... 66
-Advancing Policyholder Behavior Modeling ..... 68
-The traditional actuarial approach to policyholder behavior ..... 68
-How do we advance our knowledge of policyholder behaviors? ..... 70
-Turning insights into action ..... 74
-Conclusions ..... 80
-Appendices ..... 81
-Behavioral economics - History ..... 81
-PwC's behavioral economics analysis framework ..... 86
-Endnotes ..... 87
+	Research Overview ..... 5
+	Introduction ..... 7
+	Research methodology ..... 7
+	Behavioral economics
+	Policyholder Behavior Defined. ..... 9
+	What is policyholder behavior? ..... 9
+	Why has the term "policyholder behavior" only entered the vocabulary relatively recently? ..... 9
+	Why is understanding policyholder behavior important? ..... 12
+	What are the challenges of understanding policyholder behavior? ..... 14
+	Survey of Dynamic Policyholder Behavior Assumptions ..... 16
+	Executive summary ..... 16
+	Survey design ..... 17
+	Survey results ..... 17
+	Behavioral Economics: Background ..... 34
+	Behavioral Economics: Life Insurance Purchasing Behaviors Literature Review ..... 37
+	Decision shortcuts ..... 37
+	Value assessment ..... 37
+	Emotional impacts ..... 38
+	Social impacts ..... 39
+	Behavioral Economics: Annuities Purchasing Behaviors Literature Review ..... 41
+	Decision shortcuts ..... 41
+	Value assessments ..... 43
+	Emotional impacts ..... 43
+	Social impacts ..... 44
+	Behavioral Economics: Policyholder Behaviors Literature Review. ..... 45
+	Lapse and surrender ..... 47
+	Premium and funding levels ..... 53
+	Timing of withdrawals ..... 56
+	Partial withdrawal amounts ..... 59
+	Investment decisions and fund transfers ..... 60
+	Annuitization ..... 66
+	Advancing Policyholder Behavior Modeling ..... 68
+	The traditional actuarial approach to policyholder behavior ..... 68
+	How do we advance our knowledge of policyholder behaviors? ..... 70
+	Turning insights into action ..... 74
+	Conclusions ..... 80
+	Appendices ..... 81
+	Behavioral economics - History ..... 81
+	PwC's behavioral economics analysis framework ..... 86
+	Endnotes ..... 87
 
 ## Tables
 

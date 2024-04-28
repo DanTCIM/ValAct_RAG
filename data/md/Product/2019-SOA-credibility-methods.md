@@ -1,8 +1,6 @@
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_5db09d0f7fcb93eba36bg-01.jpg?height=523&width=1118&top_left_y=80&top_left_x=924" alt="image" style="width:100%;height:auto;">
 
-Credibility Methods Applied
-
-to Life, Health, and Pensions
+# Credibility Methods Applied to Life, Health, and Pensions
 
 February 2019
 
@@ -18,45 +16,45 @@ DB Atkinson Consulting
 
 ## TABLE OF CONTENTS
 
-Preface ..... 4
-Purpose. ..... 4
-Acknowledgements ..... 4
-Background and Scope ..... 4
-Chapter 1: Overview of Credibility ..... 5
-1.1 Credibility Methods
-1.2 General Formula for Credibility Methods
-Chapter 2: Limited Fluctuation Method ..... 9
-2.1 Relevance of Prior Rate ..... 9
-2.2 Square Root Formula ..... 10
-2.2.1 FULL CREDIBILITY ..... 10
-2.2.2 DERIVATION OF THE NUMBER 1,082 ..... 11
-2.2.3 COUNTERPART OF 1,082 FOR MORTALITY AND LAPSE RISKS ..... 12
-2.3 Asymptotic Formula. ..... 13
-2.4 Credibility Weights Based on Confidence Intervals ..... 14
-2.5 Mortality Study Example ..... 16
-2.5.1 MORTALITY STUDY DATA AND RESULTS ..... 16
-2.5.2 DETERMINATION OF THRESHOLD FOR FULL CREDIBILITY ..... 17
-2.5.3 CALCULATION OF CREDIBILITY-WEIGHTED RATE ..... 18
-2.6 Credibility Applied to Mortality Ratios ..... 19
-2.7 Strengths and Weaknesses ..... 20
-Chapter 3: Greatest Accuracy Method ..... 21
-3.1 Bayesian Credibility, Stepping Stone to Greatest Accuracy ..... 21
-3.2 Overview of Greatest Accuracy ..... 21
-3.3 Greatest Accuracy Formulas ..... 22
-3.4 Bühlmann-Straub Model ..... 24
-3.5 Estimating the Components of $K$ ..... 25
-3.6 Strengths and Weaknesses ..... 25
-Chapter 4: Recommended Credibility Readings ..... 26
-4.1 Foundations of Casualty Actuarial Science ..... 26
-4.2 Credibility Practice Note, American Academy of Actuaries, July 2008 ..... 26
-4.3 Credibility Theory Practices, SOA Report, December 2009 ..... 27
-4.4 Other Recommended Readings for Life, Health, and Pensions ..... 28
-4.5 Other Recommended Readings from Casualty Actuarial Practice ..... 30
-Appendix A: Calculation of $E[\operatorname{Var}[X]]$ and $\operatorname{Var}[E[X]]$. ..... 34
-A. 1 Weights, Means, and Variance ..... 34
-A. 2 Portfolio Statistics ..... 36
-Appendix B: Minimizing Mean-Squared Error ..... 37
-About the Society of Actuaries. ..... 40
+	Preface ..... 4
+	Purpose. ..... 4
+	Acknowledgements ..... 4
+	Background and Scope ..... 4
+	Chapter 1: Overview of Credibility ..... 5
+	1.1 Credibility Methods
+	1.2 General Formula for Credibility Methods
+	Chapter 2: Limited Fluctuation Method ..... 9
+	2.1 Relevance of Prior Rate ..... 9
+	2.2 Square Root Formula ..... 10
+	2.2.1 FULL CREDIBILITY ..... 10
+	2.2.2 DERIVATION OF THE NUMBER 1,082 ..... 11
+	2.2.3 COUNTERPART OF 1,082 FOR MORTALITY AND LAPSE RISKS ..... 12
+	2.3 Asymptotic Formula. ..... 13
+	2.4 Credibility Weights Based on Confidence Intervals ..... 14
+	2.5 Mortality Study Example ..... 16
+	2.5.1 MORTALITY STUDY DATA AND RESULTS ..... 16
+	2.5.2 DETERMINATION OF THRESHOLD FOR FULL CREDIBILITY ..... 17
+	2.5.3 CALCULATION OF CREDIBILITY-WEIGHTED RATE ..... 18
+	2.6 Credibility Applied to Mortality Ratios ..... 19
+	2.7 Strengths and Weaknesses ..... 20
+	Chapter 3: Greatest Accuracy Method ..... 21
+	3.1 Bayesian Credibility, Stepping Stone to Greatest Accuracy ..... 21
+	3.2 Overview of Greatest Accuracy ..... 21
+	3.3 Greatest Accuracy Formulas ..... 22
+	3.4 Bühlmann-Straub Model ..... 24
+	3.5 Estimating the Components of $K$ ..... 25
+	3.6 Strengths and Weaknesses ..... 25
+	Chapter 4: Recommended Credibility Readings ..... 26
+	4.1 Foundations of Casualty Actuarial Science ..... 26
+	4.2 Credibility Practice Note, American Academy of Actuaries, July 2008 ..... 26
+	4.3 Credibility Theory Practices, SOA Report, December 2009 ..... 27
+	4.4 Other Recommended Readings for Life, Health, and Pensions ..... 28
+	4.5 Other Recommended Readings from Casualty Actuarial Practice ..... 30
+	Appendix A: Calculation of $E[\operatorname{Var}[X]]$ and $\operatorname{Var}[E[X]]$. ..... 34
+	A. 1 Weights, Means, and Variance ..... 34
+	A. 2 Portfolio Statistics ..... 36
+	Appendix B: Minimizing Mean-Squared Error ..... 37
+	About the Society of Actuaries. ..... 40
 
 ## Preface
 

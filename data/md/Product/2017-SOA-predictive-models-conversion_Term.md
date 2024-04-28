@@ -35,32 +35,32 @@ Copyright (C) 2017 by the Society of Actuaries. All rights reserved.
 
 ## CONTENTS
 
-Section 1: Introduction ..... 4
-1.1 Disclaimer of Liability ..... 4
-Section 2: Executive Summary . ..... 5
-Section 3: Data ..... 6
-3.1 Conversion Rate Model ..... 6
-3.2 Post-Conversion Mortality Model ..... 6
-3.3 Post-Conversion Lapse Model ..... 6
-Section 4: Modeling Approach. ..... 7
-Section 5: Key Model Findings ..... 8
-5.1 Conversion Rate Model ..... 8
-5.1.1 Risk Class and Duration ..... 9
-5.1.2 Issue Age and Duration ..... 10
-5.1.3 Face Amount and Duration ..... 11
-5.2 Point-in-Scale Mortality Model ..... 12
-5.2.1 Face Amount and Duration since Conversion ..... 13
-5.2.2 Duration since Conversion and Conversion Group ..... 14
-5.2.3 Issue Age Group and Duration since Conversion ..... 15
-5.3 Post-Conversion Lapse Model ..... 16
-5.3.1 Gender ..... 17
-5.3.2 Duration since Conversion and Duration at Conversion. ..... 18
-5.3.3 Face Amount and Duration since Conversion ..... 19
-Section 6: Conclusion ..... 20
-Section 7: Acknowledgments ..... 21
-Appendix A: Sample Cohorts ..... 22
-Appendix B: Underwriting Class Groupings ..... 24
-Appendix C: Actual Claim Counts in the Point-in-Scale Mortality Model. ..... 26
+	Section 1: Introduction ..... 4
+	1.1 Disclaimer of Liability ..... 4
+	Section 2: Executive Summary . ..... 5
+	Section 3: Data ..... 6
+	3.1 Conversion Rate Model ..... 6
+	3.2 Post-Conversion Mortality Model ..... 6
+	3.3 Post-Conversion Lapse Model ..... 6
+	Section 4: Modeling Approach. ..... 7
+	Section 5: Key Model Findings ..... 8
+	5.1 Conversion Rate Model ..... 8
+	5.1.1 Risk Class and Duration ..... 9
+	5.1.2 Issue Age and Duration ..... 10
+	5.1.3 Face Amount and Duration ..... 11
+	5.2 Point-in-Scale Mortality Model ..... 12
+	5.2.1 Face Amount and Duration since Conversion ..... 13
+	5.2.2 Duration since Conversion and Conversion Group ..... 14
+	5.2.3 Issue Age Group and Duration since Conversion ..... 15
+	5.3 Post-Conversion Lapse Model ..... 16
+	5.3.1 Gender ..... 17
+	5.3.2 Duration since Conversion and Duration at Conversion. ..... 18
+	5.3.3 Face Amount and Duration since Conversion ..... 19
+	Section 6: Conclusion ..... 20
+	Section 7: Acknowledgments ..... 21
+	Appendix A: Sample Cohorts ..... 22
+	Appendix B: Underwriting Class Groupings ..... 24
+	Appendix C: Actual Claim Counts in the Point-in-Scale Mortality Model. ..... 26
 
 ## Predictive Models on Conversion Studies for the Level Term Premium Plans
 

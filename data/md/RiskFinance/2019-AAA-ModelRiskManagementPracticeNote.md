@@ -65,34 +65,34 @@ RMFRCPolicyAnalyst@actuary.org.
 
 ## Table of Contents
 
-I. Executive Summary ..... 6
-II. Model Risk ..... 7
-
-1. Definition of Model ..... 7
-2. Definition of Model Risk ..... 8
-3. Practical aspects of model definition ..... 8
-4. Model Validation ..... 9
-III. Model Risk Management Practice ..... 10
-5. Model Risk Policy and Governance ..... 10
-6. Model Inventory ..... 12
-7. Model Documentation ..... 14
-8. Process and Control ..... 14
-9. Model Risk Scoring/Measurement ..... 16
-1) Scoring Model Risk - Model Risk Scorecard ..... 17
-2) Model Risk Quantification ..... 17
-6. Model Development and Implementation ..... 18
-7. Model Review/Validation ..... 20
-1) Model Owner's Role. ..... 20
-2) Model Validation ..... 20
-8. Performance Monitoring ..... 22
-9. Practical Aspects of Modeling ..... 22
-IV. Relevant Regulation. ..... 25
-United States ..... 25
-Canada. ..... 25
-United Kingdom ..... 25
-APPENDIX 1 Sample Model Validation Plan ..... 26
-Model Validation Plan Assumptions ..... 26
-Detailed Model Validation Plan ..... 26
+	I. Executive Summary ..... 6
+	II. Model Risk ..... 7
+	
+	1. Definition of Model ..... 7
+	2. Definition of Model Risk ..... 8
+	3. Practical aspects of model definition ..... 8
+	4. Model Validation ..... 9
+	III. Model Risk Management Practice ..... 10
+	5. Model Risk Policy and Governance ..... 10
+	6. Model Inventory ..... 12
+	7. Model Documentation ..... 14
+	8. Process and Control ..... 14
+	9. Model Risk Scoring/Measurement ..... 16
+	1) Scoring Model Risk - Model Risk Scorecard ..... 17
+	2) Model Risk Quantification ..... 17
+	6. Model Development and Implementation ..... 18
+	7. Model Review/Validation ..... 20
+	1) Model Owner's Role. ..... 20
+	2) Model Validation ..... 20
+	8. Performance Monitoring ..... 22
+	9. Practical Aspects of Modeling ..... 22
+	IV. Relevant Regulation. ..... 25
+	United States ..... 25
+	Canada. ..... 25
+	United Kingdom ..... 25
+	APPENDIX 1 Sample Model Validation Plan ..... 26
+	Model Validation Plan Assumptions ..... 26
+	Detailed Model Validation Plan ..... 26
 
 ## A PUBLIC POLICY PRACTICE NOTE
 

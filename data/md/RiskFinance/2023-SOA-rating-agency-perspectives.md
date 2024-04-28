@@ -1,23 +1,12 @@
-# - SOA <br> Research INSTITUTE 
-
 <img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=141&width=493&top_left_y=336&top_left_x=1228" alt="image" style="width:100%;height:auto;">
 
-## Rating Agency Perspectives on
-
-Insurance Company Capital
+# Rating Agency Perspectives on Insurance Company Capital
 
 AUGUST | 2023
-<img src="https://cdn.mathpix.com/cropped/2024_04_10_67cf6e0fb7907b621a4ag-01.jpg?height=1390&width=2124&top_left_y=1366&top_left_x=0" alt="image" style="width:100%;height:auto;">
-
-# SOA <br> Research 
-
-INSTITUTE
-
-## Rating Agency Perspectives on Insurance Company Capital
 
 A look at the impact rating agencies have on insurers' capital management
 
-## AUTHORS Wesley Reynolds, FSA
+AUTHORS Wesley Reynolds, FSA
 
 Robert Humphreys, FSA
 
@@ -42,33 +31,33 @@ Copyright (C) 2023 by the Society of Actuaries Research Institute. All rights re
 
 ## CONTENTS
 
-Executive Summary ..... 4
-Section 1: Introduction ..... 5
-1.1 Rating Agencies ..... 5
-1.2 Rating Types ..... 6
-1.3 Rating Process. ..... 6
-1.4 Rating Scales ..... 7
-1.5 Insurance Rating Applications ..... 8
-Section 2: Insurance Rating Methodology ..... 9
-2.1 Core Rating Factors .....  .9
-2.2 Additional Factors ..... 12
-Section 3: Insurance Capital Model Methodology ..... 14
-3.1 Rating Agency Capital models ..... 14
-AM Best ..... 14
-Fitch Ratings ..... 16
-Moody's ..... 16
-S\&P ..... 17
-3.2 Available Capital ..... 19
-Section 4: Acknowledgments ..... 21
-Appendix A: Sample Insurer Financial Strength Ratings as of June 1, 2023 ..... 22
-Appendix B: Metrics. ..... 25
-Glossary. ..... 26
-References ..... 27
-AM Best ..... 27
-Fitch Ratings ..... 27
-Moody's ..... 27
-S\&P ..... 27
-About the Society of Actuaries Research Institute ..... 28
+	Executive Summary ..... 4
+	Section 1: Introduction ..... 5
+	1.1 Rating Agencies ..... 5
+	1.2 Rating Types ..... 6
+	1.3 Rating Process. ..... 6
+	1.4 Rating Scales ..... 7
+	1.5 Insurance Rating Applications ..... 8
+	Section 2: Insurance Rating Methodology ..... 9
+	2.1 Core Rating Factors .....  .9
+	2.2 Additional Factors ..... 12
+	Section 3: Insurance Capital Model Methodology ..... 14
+	3.1 Rating Agency Capital models ..... 14
+	AM Best ..... 14
+	Fitch Ratings ..... 16
+	Moody's ..... 16
+	S\&P ..... 17
+	3.2 Available Capital ..... 19
+	Section 4: Acknowledgments ..... 21
+	Appendix A: Sample Insurer Financial Strength Ratings as of June 1, 2023 ..... 22
+	Appendix B: Metrics. ..... 25
+	Glossary. ..... 26
+	References ..... 27
+	AM Best ..... 27
+	Fitch Ratings ..... 27
+	Moody's ..... 27
+	S\&P ..... 27
+	About the Society of Actuaries Research Institute ..... 28
 
 ## Rating Agency Perspectives on Insurance Company Capital
 

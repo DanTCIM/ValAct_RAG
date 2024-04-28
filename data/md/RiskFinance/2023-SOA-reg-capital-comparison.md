@@ -1,16 +1,7 @@
-# Regulatory Capital Adequacy for 
-
-Life Insurance Companies
-
-A Comparison of Four
-
-Jurisdictions
-
-JULY | 2023
-
-## DSOA <br> Research <br> INSTITUTE
 
 ## Regulatory Capital Adequacy for Life Insurance Companies <br> A Comparison of Four Jurisdictions
+
+JULY | 2023
 
 AUTHORS Ben Leiser, FSA, MAAA
 
@@ -23,8 +14,6 @@ Society of Actuaries Individual Life \& Annuities (ILA track) Curriculum Committ
 
 Society of Actuaries Research Institute
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_59edaaf1c3ec26f7eb72g-02.jpg?height=249&width=1510&top_left_y=1843&top_left_x=313" alt="image" style="width:100%;height:auto;">
-
 Caveat and Disclaimer
 
 The opinions expressed and conclusions reached by the authors are their own and do not represent any official position or opinion of the Society of Actuaries Research Institute, the Society of Actuaries or its members. The Society of Actuaries Research Institute makes no representation or warranty to the accuracy of the information.
@@ -33,37 +22,37 @@ Copyright (C) 2023 by the Society of Actuaries Research Institute. All rights re
 
 ## CONTENTS
 
-Executive Summary ..... 4
-Section 1: Introduction ..... 5
-Section 2: Overview of Capital ..... 6
-Section 3: Regulatory Approaches to Capital ..... 8
-Section 4: US Capital Requirements ..... 10
-4.1 Regulatory Action ..... 12
-4.2 Group Level Capital ..... 12
-4.3 Future Updates ..... 13
-Section 5: Canadian Solvency Requirements ..... 14
-5.1 Regulatory Action ..... 15
-5.2 Future updates ..... 15
-Section 6: Solvency II ..... 16
-6.1 Regulatory Action ..... 19
-6.2 Future Updates ..... 19
-Section 7: Bermuda Solvency Requirements ..... 19
-7.1 Regulatory Action ..... 22
-7.2 Future Updates ..... 22
-Section 8: Model Results and Comparison ..... 23
-Section 9: Conclusion ..... 29
-Section 10: Acknowledgments ..... 30
-Appendix A: Solvency II Formulas ..... 31
-Appendix B: Bermuda Solvency Capital Requirement Formulas ..... 33
-Appendix C: Model Simplifications ..... 37
-C. 1 Simplifications that apply to all jurisdictions ..... 37
-C. 2 Simplifications specific to US RBC ..... 37
-C. 3 Simplifications specific to Canadian LICAT ..... 37
-C. 4 Simplifications specific to SOLVENCY II. ..... 38
-C. 5 Simplifications specific to Bermuda Insurance Solvency.... ..... 38
-Glossary ..... 39
-References ..... 41
-About The Society of Actuaries Research Institute ..... 43
+	Executive Summary ..... 4
+	Section 1: Introduction ..... 5
+	Section 2: Overview of Capital ..... 6
+	Section 3: Regulatory Approaches to Capital ..... 8
+	Section 4: US Capital Requirements ..... 10
+	4.1 Regulatory Action ..... 12
+	4.2 Group Level Capital ..... 12
+	4.3 Future Updates ..... 13
+	Section 5: Canadian Solvency Requirements ..... 14
+	5.1 Regulatory Action ..... 15
+	5.2 Future updates ..... 15
+	Section 6: Solvency II ..... 16
+	6.1 Regulatory Action ..... 19
+	6.2 Future Updates ..... 19
+	Section 7: Bermuda Solvency Requirements ..... 19
+	7.1 Regulatory Action ..... 22
+	7.2 Future Updates ..... 22
+	Section 8: Model Results and Comparison ..... 23
+	Section 9: Conclusion ..... 29
+	Section 10: Acknowledgments ..... 30
+	Appendix A: Solvency II Formulas ..... 31
+	Appendix B: Bermuda Solvency Capital Requirement Formulas ..... 33
+	Appendix C: Model Simplifications ..... 37
+	C. 1 Simplifications that apply to all jurisdictions ..... 37
+	C. 2 Simplifications specific to US RBC ..... 37
+	C. 3 Simplifications specific to Canadian LICAT ..... 37
+	C. 4 Simplifications specific to SOLVENCY II. ..... 38
+	C. 5 Simplifications specific to Bermuda Insurance Solvency.... ..... 38
+	Glossary ..... 39
+	References ..... 41
+	About The Society of Actuaries Research Institute ..... 43
 
 ## Regulatory Capital Adequacy for Life Insurance Companies A Comparison of Four Regimes
 

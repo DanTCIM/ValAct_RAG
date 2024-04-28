@@ -1,12 +1,10 @@
-# (2)SOA Research INSTITUTE 
-
-Mechanics of Dividends
+# Mechanics of Dividends
 
 <img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-01.jpg?height=1699&width=1982&top_left_y=869&top_left_x=77" alt="image" style="width:100%;height:auto;">
 
 March 2022
 
-# (2)SOA <br> Research <br> INSTITUTE 
+SOA <br> Research <br> INSTITUTE 
 
 ## Mechanics of Dividends
 
@@ -16,8 +14,6 @@ SPONSOR
 
 Individual Life and Annuities Track Curriculum Committee
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_9680e8b64d182731702bg-02.jpg?height=233&width=1499&top_left_y=1849&top_left_x=318" alt="image" style="width:100%;height:auto;">
-
 Caveat and Disclaimer
 
 The opinions expressed and conclusions reached by the author are his own and do not represent any official position or opinion of the Society of Actuaries Research Institute, the Society of Actuaries or its members. The Society of Actuaries Research Institute makes no representation or warranty to the accuracy of the information.
@@ -26,37 +22,37 @@ Copyright (C) 2022 by the Society of Actuaries Research Institute. All rights re
 
 ## CONTENTS
 
-Section 1: Introduction. ..... 4
-Section 2: How Dividends Work ..... 5
-2.1 process to set dividends ..... 5
-2.1.1 Declaration by Board, after recommendation by management and/or dividend actuary ..... 5
-2.1.2 Distribution to individual policies according to dividend scale adopted ..... 5
-2.2 Payment Options ..... 6
-2.3 Types of dividend methods and types of dividend formulas ..... 7
-2.3.1 Common Dividend methods ..... 8
-2.3.2 Illustrative Dividend Formulas.... ..... 10
-2.4 Dividend framework ..... 14
-2.5 Recognition of policy activity ..... 14
-2.6 Handling one-time changes ..... 15
-2.7 Constraints and context ..... 17
-2.7.1 Allocation based on past contributions, but with an eye to the future ..... 17
-2.7.2 RelationSHIPs between existing business in force and new business ..... 17
-2.7.3 Effect on regulatory/statutory liabilities ..... 18
-2.8 Case studies in increasing or decreasing the dividend scale ..... 18
-2.8.1 Mixed Experience. ..... 18
-2.8.2 Deteriorating Experience ..... 19
-2.9 Insurers of policies with dividends ..... 20
-Section 3: Considerations ..... 21
-3.1 Different concepts of "fair and equitable" may arise from different perspectives ..... 21
-3.1.1 Unconstrained perspective is fundamentally retrospective ..... 21
-3.1.2 Perspective may be broadened to improve ability of insurer to serve the public ..... 21
-3.1.3 Perspective may be broadened to consider external challenges ..... 22
-3.1.4 Perspective may need to consider the special circumstances of a Closed Block ..... 22
-3.2 Other Considerations Beyond The Scope Of This Paper ..... 23
-3.2.1 Related subjects and considerations not covered by this paper ..... 23
-3.2.2 Other forms of nonguaranteed elements. ..... 25
-Section 4: Acknowledgments ..... 26
-Appendix: References and Related Reading ..... 27
+	Section 1: Introduction. ..... 4
+	Section 2: How Dividends Work ..... 5
+	2.1 process to set dividends ..... 5
+	2.1.1 Declaration by Board, after recommendation by management and/or dividend actuary ..... 5
+	2.1.2 Distribution to individual policies according to dividend scale adopted ..... 5
+	2.2 Payment Options ..... 6
+	2.3 Types of dividend methods and types of dividend formulas ..... 7
+	2.3.1 Common Dividend methods ..... 8
+	2.3.2 Illustrative Dividend Formulas.... ..... 10
+	2.4 Dividend framework ..... 14
+	2.5 Recognition of policy activity ..... 14
+	2.6 Handling one-time changes ..... 15
+	2.7 Constraints and context ..... 17
+	2.7.1 Allocation based on past contributions, but with an eye to the future ..... 17
+	2.7.2 RelationSHIPs between existing business in force and new business ..... 17
+	2.7.3 Effect on regulatory/statutory liabilities ..... 18
+	2.8 Case studies in increasing or decreasing the dividend scale ..... 18
+	2.8.1 Mixed Experience. ..... 18
+	2.8.2 Deteriorating Experience ..... 19
+	2.9 Insurers of policies with dividends ..... 20
+	Section 3: Considerations ..... 21
+	3.1 Different concepts of "fair and equitable" may arise from different perspectives ..... 21
+	3.1.1 Unconstrained perspective is fundamentally retrospective ..... 21
+	3.1.2 Perspective may be broadened to improve ability of insurer to serve the public ..... 21
+	3.1.3 Perspective may be broadened to consider external challenges ..... 22
+	3.1.4 Perspective may need to consider the special circumstances of a Closed Block ..... 22
+	3.2 Other Considerations Beyond The Scope Of This Paper ..... 23
+	3.2.1 Related subjects and considerations not covered by this paper ..... 23
+	3.2.2 Other forms of nonguaranteed elements. ..... 25
+	Section 4: Acknowledgments ..... 26
+	Appendix: References and Related Reading ..... 27
 
 ## Mechanics of Dividends
 

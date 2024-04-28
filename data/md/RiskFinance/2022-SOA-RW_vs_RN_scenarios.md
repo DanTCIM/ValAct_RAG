@@ -1,12 +1,4 @@
-Understanding the Connection between Real-World and RiskNeutral Scenario Generators AUGUST | 2022
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-01.jpg?height=1448&width=1762&top_left_y=1325&top_left_x=0" alt="image" style="width:100%;height:auto;">
-
-## (2SOA <br> Research <br> INSTITUTE
-
-## Understanding the Connection between Real-World and Risk-Neutral Scenario Generators
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_0bb24bb408e2190e7c6eg-02.jpg?height=231&width=1499&top_left_y=1435&top_left_x=318" alt="image" style="width:100%;height:auto;">
+# Understanding the Connection between Real-World and Risk-Neutral Scenario Generators
 
 The opinions expressed and conclusions reached by the authors are their own and do not represent any official position or opinion of the Society of Actuaries Research Institute, the Society of Actuaries or its members. The Society of Actuaries Research Institute makes no representation or warranty to the accuracy of the information.
 
@@ -14,41 +6,41 @@ Copyright (C) 2022 by the Society of Actuaries Research Institute. All rights re
 
 ## CONTENTS
 
-Introduction ..... 4
-Section 1: Why are there two kinds of generators? (Fitness for purpose) ..... 5
-Section 2: What it means to be market-consistent ..... 8
-2.1 Reflecting expectations ..... 8
-2.2 Common mathematical form of scenario generators ..... 9
-2.3 The common connection between real-world and risk-neutral calibrations ..... 9
-Section 3: Interest rate models ..... 10
-3.1 Market behavior in interest rate models ..... 11
-3.2 The market price of risk in interest rate models ..... 13
-Section 4: Equity index models ..... 16
-4.1 Market behavior in equity index models ..... 16
-Alternatives for the expected drift term ..... 16
-Alternatives for the random shock term ..... 17
-4.2 Market price of risk in equity index models ..... 17
-Section 5: Calibration of market-consistent and market-coherent models ..... 18
-5.1 General approach ..... 18
-5.2 Risk-neutral calibration ..... 18
-5.3 Real-world calibration ..... 19
-5.4 Combined calibration: a market-coherent real-world model .... ..... 20
-Section 6: Acknowledgments ..... 23
-Appendix A: The P-measure and the Q-measure ..... 24
-Interest rates ..... 24
-Equity returns ..... 27
-Appendix B: Some more complex interest rate models ..... 28
-Double mean reverting models. ..... 28
-The three-factor Cox-Ingersoll-Ross model ..... 30
-Appendix C: The meaning of arbitrage-free ..... 32
-Appendix D: Term premiums and the market price of risk ..... 33
-Notes on calibration of term premiums ..... 35
-Appendix E: Fair value, Principle-based Reserves, and the Valuation Manual ..... 37
-Obtaining scenario-specific values ..... 37
-Blending scenario-specific values into a single reported value ..... 38
-Selecting a scenario generator that is fit for purpose ..... 39
-References ..... 40
-About The Society of Actuaries Research Institute ..... 41
+	Introduction ..... 4
+	Section 1: Why are there two kinds of generators? (Fitness for purpose) ..... 5
+	Section 2: What it means to be market-consistent ..... 8
+	2.1 Reflecting expectations ..... 8
+	2.2 Common mathematical form of scenario generators ..... 9
+	2.3 The common connection between real-world and risk-neutral calibrations ..... 9
+	Section 3: Interest rate models ..... 10
+	3.1 Market behavior in interest rate models ..... 11
+	3.2 The market price of risk in interest rate models ..... 13
+	Section 4: Equity index models ..... 16
+	4.1 Market behavior in equity index models ..... 16
+	Alternatives for the expected drift term ..... 16
+	Alternatives for the random shock term ..... 17
+	4.2 Market price of risk in equity index models ..... 17
+	Section 5: Calibration of market-consistent and market-coherent models ..... 18
+	5.1 General approach ..... 18
+	5.2 Risk-neutral calibration ..... 18
+	5.3 Real-world calibration ..... 19
+	5.4 Combined calibration: a market-coherent real-world model .... ..... 20
+	Section 6: Acknowledgments ..... 23
+	Appendix A: The P-measure and the Q-measure ..... 24
+	Interest rates ..... 24
+	Equity returns ..... 27
+	Appendix B: Some more complex interest rate models ..... 28
+	Double mean reverting models. ..... 28
+	The three-factor Cox-Ingersoll-Ross model ..... 30
+	Appendix C: The meaning of arbitrage-free ..... 32
+	Appendix D: Term premiums and the market price of risk ..... 33
+	Notes on calibration of term premiums ..... 35
+	Appendix E: Fair value, Principle-based Reserves, and the Valuation Manual ..... 37
+	Obtaining scenario-specific values ..... 37
+	Blending scenario-specific values into a single reported value ..... 38
+	Selecting a scenario generator that is fit for purpose ..... 39
+	References ..... 40
+	About The Society of Actuaries Research Institute ..... 41
 
 ## Understanding the Connection between RealWorld and Risk-Neutral Scenario Generators
 

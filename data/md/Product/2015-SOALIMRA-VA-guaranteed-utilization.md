@@ -1,14 +1,6 @@
 # Variable Annuity Guaranteed Living Benefits Utillization 
 
-## 2015 EXPERIENCE
 
-A Joint Study Sponsored by the Society of Actuaries and LIMRA
-
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-001.jpg?height=79&width=365&top_left_y=2389&top_left_x=1563" alt="image" style="width:100%;height:auto;">
-
-Secure
-
-## Variable Annuity Guaranteed Living Benefits Utilization
 
  2015 EXPERIENCE Participants' Report A Joint Study Sponsored by The Society of Actuaries and LIMRA<img src="https://cdn.mathpix.com/cropped/2024_04_13_bee18418576896d823a1g-003.jpg?height=266&width=1262&top_left_y=1035&top_left_x=392" alt="image" style="width:100%;height:auto;">
 
@@ -55,147 +47,147 @@ This publication is a benefit of Society of Actuaries and LIMRA membership. No p
 
 ## Contents
 
-About the Study. ..... 17
-Executive Summary ..... 19
-Chapter One: Guaranteed Lifetime Withdrawal Benefits ..... 35
-Buyer and Owner Profiles ..... 36
-Buyers by Age ..... 40
-Source of Funds ..... 41
-Ownership of IRA and Nonqualified Annuities. ..... 44
-GLWB Owner and Contract Characteristics ..... 45
-Benefit Base ..... 48
-Benefit Base by Quarter and Year of Issue ..... 50
-Benefit Base to Contract Value Ratios by Age. ..... 55
-Benefit Base for Contracts with Withdrawals versus without Withdrawals ..... 58
-Withdrawal Benefit Utilization ..... 60
-Utilization. ..... 60
-Overall Utilization for Contracts Issued Before 2015 ..... 61
-Withdrawal Activity by Source of Funds ..... 64
-Taking First Withdrawals ..... 68
-Taking First Withdrawal from IRA Annuity in 2015 ..... 68
-Taking First Withdrawal from Nonqualified Annuity in 2015 ..... 71
-Impact of Step-Ups in Maximum Annual Withdrawal Percentages on First Withdrawal Activity. ..... 73
-First Withdrawal Activity for IRA Contracts Issued in 2007 ..... 74
-First Withdrawal Activity for Nonqualified Contracts Issued in 2007 ..... 78
-Systematic Withdrawal Activity ..... 82
-First Withdrawals Through SWPs for IRA Contracts Issued in 2007 ..... 84
-First Withdrawal Through SWPs for Nonqualified Contracts Issued in 2007 ..... 86
-Percentage of Benefit Maximum Withdrawn ..... 88
-Withdrawal Activity by Duration. ..... 95
-Withdrawal Activity by Duration and Age ..... 97
-Withdrawals in Contracts With Non-Withdrawal Incentives ..... 99
-Average Withdrawal Amounts ..... 100
-Withdrawals as a Percentage of Contract Value and Benefit Base ..... 101
-Total Withdrawal Amount versus Total Contract Value ..... 103
-Withdrawal Activity in Single- and Joint-Lives Contracts. ..... 104
-Withdrawal Activity by Channel ..... 106
-In-the-Money Analyses. ..... 107
-Withdrawal Activity for Contracts In-the-Money or Not-in-the-Money ..... 108
-Withdrawal Activity for Contracts Issued in 2015 ..... 111
-Utilization by Selected Characteristics ..... 112
-GLWB Actuarial Present Value of Future Payments. ..... 114
-Additional Premium and Net Flows. ..... 116
-Persistency ..... 119
-Surrender Activity by Share Class and Presence of Surrender Charge. ..... 121
-Surrender Activity of Owners Taking Withdrawals ..... 124
-Surrender Activity by Percentage of Annual Benefit Maximum Withdrawn ..... 127
-Surrender Activity by Owners Taking Systematic Withdrawals ..... 129
-Surrender Activity Based on the Amount the Benefit Base Exceeds Contract Value ..... 130
-Product and Benefit Characteristics ..... 135
-Chapter Two: Guaranteed Minimum Withdrawal Benefits. ..... 141
-GMWB Owner and Contract Characteristics. ..... 142
-Benefit Base Balance ..... 144
-Benefit Base Balance for Contracts with Withdrawals versus Without Withdrawals ..... 145
-Benefit Base Balance to Contract Value Ratios by Age ..... 146
-Withdrawal Activity ..... 148
-Overall Utilization for Contracts Issued Before 2015 ..... 148
-Withdrawal Activity by Source of Funds ..... 149
-Taking First Withdrawals ..... 152
-Taking First Withdrawal from IRA Annuity in 2015 ..... 153
-Taking First Withdrawal from Nonqualified Annuity in 2015 ..... 154
-First Withdrawal Activity for Contracts Issued in 2007 ..... 154
-Systematic Withdrawal Activity ..... 156
-Percentage of Benefit Maximum Withdrawn. ..... 158
-Withdrawal Activity by Duration ..... 165
-Average Withdrawal Amounts ..... 166
-Withdrawals as a Percentage of Contract Value and Benefit Base Balance ..... 168
-Ratio of Withdrawal to Contract Value and Benefit Base Balance ..... 170
-Ratio of Total Withdrawal Amount to Total Contract Value. ..... 171
-Withdrawal Activity in Contracts Where the Benefit Base Balance Exceeded the Contract Value ..... 172
-Utilization by Select Characteristics ..... 176
-Additional Premium and Net Flows. ..... 178
-Persistency ..... 179
-Surrender Activity of Owners Taking Withdrawals ..... 180
-Surrender Activity by Share Class and Presence of Surrender Charge. ..... 182
-Surrender Activity by Percentage of Benefit Maximum Withdrawn. ..... 184
-Surrender Activity by Owners Taking Withdrawals by Withdrawal Method ..... 186
-Product and Benefit Characteristics ..... 190
-Chapter Three: Guaranteed Minimum Income Benefits ..... 195
-Owner Profiles ..... 196
-Source of Funds and Ownership of GMIBs ..... 196
-GMIB Owner and Contract Characteristics ..... 197
-Benefit Base. ..... 199
-Benefit Bases by Quarter and Year of Issue..... ..... 200
-Benefit Base to Contract Value Ratios by Age. ..... 204
-Benefit Base for Contracts With Withdrawals versus Without Withdrawals ..... 206
-In-the-Moneyness ..... 206
-GMIB Benefit Calculation Methods ..... 211
-Annuitization. ..... 212
-Contracts With Benefit Maturities in 2014 or 2015 ..... 213
-Withdrawal Activity ..... 217
-Withdrawals ..... 217
-Overall Withdrawals From Contracts Issued Before 2015 ..... 217
-Withdrawal Activity by Benefit Reduction Methods ..... 218
-Withdrawal Activity by Source of Funds ..... 218
-First Withdrawals ..... 221
-First Withdrawals From IRA Annuity in 2015 ..... 222
-First Withdrawal From Nonqualified Annuity in 2015 ..... 224
-First Withdrawal Activity for IRA Contracts Issued in 2008 ..... 226
-First Withdrawal Activity for Nonqualified Contracts Issued in 2008 ..... 228
-Systematic Withdrawal Activity. ..... 229
-Percentage of Maximum Annual Benefit Withdrawn ..... 232
-Withdrawal Activity by Duration. ..... 238
-Withdrawal Activity by Duration and Age ..... 240
-Withdrawal Amount as a Percentage of Contract Value ..... 240
-Ratio of Withdrawal to Contract Value and to Benefit Base (for Contracts With Withdrawals Only) ..... 242
-Ratio of Withdrawal Amount to Contract Value ..... 243
-Withdrawal Activity for GMIB Contracts In-the-Money or Not-In-the-Money. ..... 245
-Withdrawals by Selected Characteristics .....  .248
-Additional Premium and Net Flows ..... 249
-Persistency ..... 250
-Surrender Activity by Share Class .....  252
-Surrender Activity of Owners Who Take Withdrawals .....  254
-Surrender Activity by Percentage of Annual Benefit Maximum Withdrawn .....  257
-Surrender Activity of Owners Taking Systematic Withdrawals .....  258
-Surrender Activity by Amount the Benefit Base Exceeded the Contract Value ..... 260
-Surrender Activity by GMIB Benefit Maturity Year ..... 262
-Chapter Four: Guaranteed Minimum Accumulation Benefits ..... 267
-Owner Profiles ..... 268
-Ownership of IRA and Nonqualified GMAB Annuities ..... 268
-GMAB Owner and Contract Characteristics ..... 270
-Benefit Base ..... 272
-Benefit Base by Quarter and Year of Issue ..... 273
-Benefit Base for Contracts with Withdrawals versus Without Withdrawals. ..... 277
-Benefit Base to Contract Value Ratios by Age ..... 279
-GMAB Benefit Calculation Method. ..... 280
-Benefit Maturity. ..... 281
-Benefit Maturity of GMAB Contracts . ..... 281
-Year of Benefit Maturity ..... 282
-Withdrawal Activity ..... 284
-Withdrawal Activity by Source of Funds ..... 285
-Average Amount of Withdrawals ..... 287
-Systematic Withdrawal Activity. ..... 288
-Additional Premium and Net Flows ..... 289
-Persistency ..... 290
-Surrender Activity by Share Class and Surrender Charge. .....  .291
-Surrender Activity by Owners Who Took Withdrawals .....  294
-Surrender Activity when Benefit Base Exceeded the Contract Value ..... 298
-Product and Benefit Characteristics ..... 302
-Participating Companies ..... 305
-Appendix A: About the Survey ..... 306
-Appendix B ..... 308
-Appendix $C$ ..... 335
-Related Links. ..... 338
+	About the Study. ..... 17
+	Executive Summary ..... 19
+	Chapter One: Guaranteed Lifetime Withdrawal Benefits ..... 35
+	Buyer and Owner Profiles ..... 36
+	Buyers by Age ..... 40
+	Source of Funds ..... 41
+	Ownership of IRA and Nonqualified Annuities. ..... 44
+	GLWB Owner and Contract Characteristics ..... 45
+	Benefit Base ..... 48
+	Benefit Base by Quarter and Year of Issue ..... 50
+	Benefit Base to Contract Value Ratios by Age. ..... 55
+	Benefit Base for Contracts with Withdrawals versus without Withdrawals ..... 58
+	Withdrawal Benefit Utilization ..... 60
+	Utilization. ..... 60
+	Overall Utilization for Contracts Issued Before 2015 ..... 61
+	Withdrawal Activity by Source of Funds ..... 64
+	Taking First Withdrawals ..... 68
+	Taking First Withdrawal from IRA Annuity in 2015 ..... 68
+	Taking First Withdrawal from Nonqualified Annuity in 2015 ..... 71
+	Impact of Step-Ups in Maximum Annual Withdrawal Percentages on First Withdrawal Activity. ..... 73
+	First Withdrawal Activity for IRA Contracts Issued in 2007 ..... 74
+	First Withdrawal Activity for Nonqualified Contracts Issued in 2007 ..... 78
+	Systematic Withdrawal Activity ..... 82
+	First Withdrawals Through SWPs for IRA Contracts Issued in 2007 ..... 84
+	First Withdrawal Through SWPs for Nonqualified Contracts Issued in 2007 ..... 86
+	Percentage of Benefit Maximum Withdrawn ..... 88
+	Withdrawal Activity by Duration. ..... 95
+	Withdrawal Activity by Duration and Age ..... 97
+	Withdrawals in Contracts With Non-Withdrawal Incentives ..... 99
+	Average Withdrawal Amounts ..... 100
+	Withdrawals as a Percentage of Contract Value and Benefit Base ..... 101
+	Total Withdrawal Amount versus Total Contract Value ..... 103
+	Withdrawal Activity in Single- and Joint-Lives Contracts. ..... 104
+	Withdrawal Activity by Channel ..... 106
+	In-the-Money Analyses. ..... 107
+	Withdrawal Activity for Contracts In-the-Money or Not-in-the-Money ..... 108
+	Withdrawal Activity for Contracts Issued in 2015 ..... 111
+	Utilization by Selected Characteristics ..... 112
+	GLWB Actuarial Present Value of Future Payments. ..... 114
+	Additional Premium and Net Flows. ..... 116
+	Persistency ..... 119
+	Surrender Activity by Share Class and Presence of Surrender Charge. ..... 121
+	Surrender Activity of Owners Taking Withdrawals ..... 124
+	Surrender Activity by Percentage of Annual Benefit Maximum Withdrawn ..... 127
+	Surrender Activity by Owners Taking Systematic Withdrawals ..... 129
+	Surrender Activity Based on the Amount the Benefit Base Exceeds Contract Value ..... 130
+	Product and Benefit Characteristics ..... 135
+	Chapter Two: Guaranteed Minimum Withdrawal Benefits. ..... 141
+	GMWB Owner and Contract Characteristics. ..... 142
+	Benefit Base Balance ..... 144
+	Benefit Base Balance for Contracts with Withdrawals versus Without Withdrawals ..... 145
+	Benefit Base Balance to Contract Value Ratios by Age ..... 146
+	Withdrawal Activity ..... 148
+	Overall Utilization for Contracts Issued Before 2015 ..... 148
+	Withdrawal Activity by Source of Funds ..... 149
+	Taking First Withdrawals ..... 152
+	Taking First Withdrawal from IRA Annuity in 2015 ..... 153
+	Taking First Withdrawal from Nonqualified Annuity in 2015 ..... 154
+	First Withdrawal Activity for Contracts Issued in 2007 ..... 154
+	Systematic Withdrawal Activity ..... 156
+	Percentage of Benefit Maximum Withdrawn. ..... 158
+	Withdrawal Activity by Duration ..... 165
+	Average Withdrawal Amounts ..... 166
+	Withdrawals as a Percentage of Contract Value and Benefit Base Balance ..... 168
+	Ratio of Withdrawal to Contract Value and Benefit Base Balance ..... 170
+	Ratio of Total Withdrawal Amount to Total Contract Value. ..... 171
+	Withdrawal Activity in Contracts Where the Benefit Base Balance Exceeded the Contract Value ..... 172
+	Utilization by Select Characteristics ..... 176
+	Additional Premium and Net Flows. ..... 178
+	Persistency ..... 179
+	Surrender Activity of Owners Taking Withdrawals ..... 180
+	Surrender Activity by Share Class and Presence of Surrender Charge. ..... 182
+	Surrender Activity by Percentage of Benefit Maximum Withdrawn. ..... 184
+	Surrender Activity by Owners Taking Withdrawals by Withdrawal Method ..... 186
+	Product and Benefit Characteristics ..... 190
+	Chapter Three: Guaranteed Minimum Income Benefits ..... 195
+	Owner Profiles ..... 196
+	Source of Funds and Ownership of GMIBs ..... 196
+	GMIB Owner and Contract Characteristics ..... 197
+	Benefit Base. ..... 199
+	Benefit Bases by Quarter and Year of Issue..... ..... 200
+	Benefit Base to Contract Value Ratios by Age. ..... 204
+	Benefit Base for Contracts With Withdrawals versus Without Withdrawals ..... 206
+	In-the-Moneyness ..... 206
+	GMIB Benefit Calculation Methods ..... 211
+	Annuitization. ..... 212
+	Contracts With Benefit Maturities in 2014 or 2015 ..... 213
+	Withdrawal Activity ..... 217
+	Withdrawals ..... 217
+	Overall Withdrawals From Contracts Issued Before 2015 ..... 217
+	Withdrawal Activity by Benefit Reduction Methods ..... 218
+	Withdrawal Activity by Source of Funds ..... 218
+	First Withdrawals ..... 221
+	First Withdrawals From IRA Annuity in 2015 ..... 222
+	First Withdrawal From Nonqualified Annuity in 2015 ..... 224
+	First Withdrawal Activity for IRA Contracts Issued in 2008 ..... 226
+	First Withdrawal Activity for Nonqualified Contracts Issued in 2008 ..... 228
+	Systematic Withdrawal Activity. ..... 229
+	Percentage of Maximum Annual Benefit Withdrawn ..... 232
+	Withdrawal Activity by Duration. ..... 238
+	Withdrawal Activity by Duration and Age ..... 240
+	Withdrawal Amount as a Percentage of Contract Value ..... 240
+	Ratio of Withdrawal to Contract Value and to Benefit Base (for Contracts With Withdrawals Only) ..... 242
+	Ratio of Withdrawal Amount to Contract Value ..... 243
+	Withdrawal Activity for GMIB Contracts In-the-Money or Not-In-the-Money. ..... 245
+	Withdrawals by Selected Characteristics .....  .248
+	Additional Premium and Net Flows ..... 249
+	Persistency ..... 250
+	Surrender Activity by Share Class .....  252
+	Surrender Activity of Owners Who Take Withdrawals .....  254
+	Surrender Activity by Percentage of Annual Benefit Maximum Withdrawn .....  257
+	Surrender Activity of Owners Taking Systematic Withdrawals .....  258
+	Surrender Activity by Amount the Benefit Base Exceeded the Contract Value ..... 260
+	Surrender Activity by GMIB Benefit Maturity Year ..... 262
+	Chapter Four: Guaranteed Minimum Accumulation Benefits ..... 267
+	Owner Profiles ..... 268
+	Ownership of IRA and Nonqualified GMAB Annuities ..... 268
+	GMAB Owner and Contract Characteristics ..... 270
+	Benefit Base ..... 272
+	Benefit Base by Quarter and Year of Issue ..... 273
+	Benefit Base for Contracts with Withdrawals versus Without Withdrawals. ..... 277
+	Benefit Base to Contract Value Ratios by Age ..... 279
+	GMAB Benefit Calculation Method. ..... 280
+	Benefit Maturity. ..... 281
+	Benefit Maturity of GMAB Contracts . ..... 281
+	Year of Benefit Maturity ..... 282
+	Withdrawal Activity ..... 284
+	Withdrawal Activity by Source of Funds ..... 285
+	Average Amount of Withdrawals ..... 287
+	Systematic Withdrawal Activity. ..... 288
+	Additional Premium and Net Flows ..... 289
+	Persistency ..... 290
+	Surrender Activity by Share Class and Surrender Charge. .....  .291
+	Surrender Activity by Owners Who Took Withdrawals .....  294
+	Surrender Activity when Benefit Base Exceeded the Contract Value ..... 298
+	Product and Benefit Characteristics ..... 302
+	Participating Companies ..... 305
+	Appendix A: About the Survey ..... 306
+	Appendix B ..... 308
+	Appendix $C$ ..... 335
+	Related Links. ..... 338
 
 ## Figures
 

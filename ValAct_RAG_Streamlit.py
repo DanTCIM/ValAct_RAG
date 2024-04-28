@@ -176,7 +176,7 @@ with tab1:
 if document_name == "All":
     with tab2:
         st.write(
-            "When you select a document, the app loads the pre-converted Markdown file as text and displays the content within the Streamlit interface for your review. Note that the displayed text, formula, charts, and images may contain some rendering errors due to the conversion process. To access the original content, download the PDF file using the button in the sidebar."
+            "When you select a document, the app loads the pre-converted Markdown file and displays the content within the Streamlit interface for your review. Please note that the displayed text, formulas, tables, charts, and images may contain some rendering errors due to the conversion process. To access the original content, download the PDF file using the button in the sidebar."
         )
 else:
     pdf_file_path = os.path.join(base_path, collection_name, document_name)

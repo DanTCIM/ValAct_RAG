@@ -4,6 +4,7 @@ langchain-community
 langchain-anthropic
 langchain-pinecone==0.1.0
 streamlit
+streamlit-pdf-viewer==0.0.10
 pinecone-client==3.2.2
 ipython  # For display, Markdown, Latex functionalities
 python-dotenv

@@ -2,6 +2,7 @@ import os
 import streamlit as st
 import json
 import base64
+from streamlit_pdf_viewer import pdf_viewer
 
 base_path = "./data/pdf"
 md_path = "./data/md"
@@ -82,8 +83,8 @@ def md_loader(path):
     return data
 
 
-def show_pdf(tab, file_path):
-    with open(file_path, "rb") as f:
+def pdf_loader(path):
+    with open(path, "rb") as f:
         base64_pdf = base64.b64encode(f.read()).decode("utf-8")
 
     pdf_display = f"""
@@ -93,15 +94,25 @@ def show_pdf(tab, file_path):
             height: calc(100vh - 15rem);
             overflow: auto;
         }}
-        .pdf-container embed {{
+        .pdf-container iframe {{
             width: 100%;
             height: 100%;
         }}
     </style>
     <div class="pdf-container">
-        <embed src="data:application/pdf;base64,{base64_pdf}" type="application/pdf">
+        <iframe src="data:application/pdf;base64,{base64_pdf}" type="application/pdf"></iframe>
     </div>
     """
 
+    return pdf_display
+
+
+# def show_pdf(tab, file_path):
+#     with tab:
+#         st.write(pdf_loader(file_path), unsafe_allow_html=True)
+
+
+def show_pdf(tab, file_path):
     with tab:
-        st.markdown(pdf_display, unsafe_allow_html=True)
+        with st.container(height=600):
+            st.write(pdf_viewer(file_path), unsafe_allow_html=True)

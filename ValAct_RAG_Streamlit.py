@@ -107,7 +107,7 @@ def setup_vectorstore(collection_name):
     pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
     vectorstore = PineconeVectorStore(
         index=pc.Index("valact-rag"),
-        embedding=OpenAIEmbeddings(model="text-embedding-ada-002"),
+        embedding=OpenAIEmbeddings(model="text-embedding-3-large"),
         namespace=collection_name,
     )
     return vectorstore

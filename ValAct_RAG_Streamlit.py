@@ -5,10 +5,11 @@ from common.config import (
     md_path,
     document_list,
     collection_list,
-    summary_data,
     md_path_creator,
     md_loader,
     show_pdf,
+    display_summary,
+    download_pdf_button,
 )
 
 from common.handler import (
@@ -61,6 +62,9 @@ def setup_sidebar(model_name):
                 "Actuaries are strongly advised to **evaluate for accuracy** when using AI. Download the documents to read and review the source. Read the retrieved contexts to compare to AI's responses. The process is built for educational purposes only."
             )
 
+
+def setup_doc_selector():
+    with st.sidebar:
         collection_name = st.selectbox(
             "Select your document collection",
             collection_list,
@@ -70,7 +74,14 @@ def setup_sidebar(model_name):
             "Select your document",
             document_list[collection_name],
         )
+    return (
+        collection_name,
+        document_name,
+    )
 
+
+def setup_rag_param():
+    with st.sidebar:
         with st.expander("⚙️ RAG Parameters"):
             num_source = st.slider(
                 "Top N sources to view:", min_value=4, max_value=20, value=5, step=1
@@ -92,10 +103,7 @@ def setup_sidebar(model_name):
                 value=False,
                 help="The retrieval process may become slower due to the cosine similarity calculations. A similarity score of 100% indicates the highest level of similarity between the query and the retrieved chunk.",
             )
-
     return (
-        collection_name,
-        document_name,
         num_source,
         flag_mmr,
         _lambda_mult,
@@ -208,7 +216,7 @@ def display_markdown(tab, document_name, collection_name):
     if document_name == "All":
         with tab:
             st.write(
-                "When you select a document, the app loads the pre-converted Markdown file and displays the content within the Streamlit interface for your review. Please note that the displayed text, formulas, tables, charts, and images may contain some rendering errors due to the conversion process. To access the original content, download the PDF file using the button in the sidebar."
+                "When you select a document, the app loads the pre-converted Markdown file and displays the content for your review. Please note that the displayed text, formulas, tables, charts, and images may contain some rendering errors due to the conversion process. To access the original content, download the PDF file using the button in the sidebar."
             )
     else:
         md_file_path = md_path_creator(md_path, collection_name, document_name)
@@ -217,16 +225,6 @@ def display_markdown(tab, document_name, collection_name):
             with md_container:
                 md_txt = md_loader(md_file_path)
                 st.write(md_txt, unsafe_allow_html=True)
-
-
-def display_summary(document_name):
-    if document_name != "All":
-        summary = summary_data.get(document_name)
-        with st.sidebar.expander("AI generated summary of the document", expanded=True):
-            if summary:
-                st.write(summary.get("summary", "Summary not available."))
-            else:
-                st.write(f"Summary of '{document_name}' not found in the file.")
 
 
 def handle_user_query(tab, qa_chain, msgs, flag_similarity_out):
@@ -291,14 +289,17 @@ def main():
 
     tab1, tab2, tab3 = setup_streamlit()
     display_header(tab1)
+    setup_sidebar(model_name)
     (
         collection_name,
         document_name,
+    ) = setup_doc_selector()
+    (
         num_source,
         flag_mmr,
         _lambda_mult,
         flag_similarity_out,
-    ) = setup_sidebar(model_name)
+    ) = setup_rag_param()
 
     vectorstore = setup_vectorstore(collection_name)
     retriever = setup_retriever(
@@ -311,6 +312,7 @@ def main():
 
     initialize_chat_history(msgs)
     display_chat_history(tab1, msgs)
+    download_pdf_button(base_path, collection_name, document_name)
     display_pdf(tab2, document_name, collection_name)
     display_markdown(tab3, document_name, collection_name)
     display_summary(document_name)

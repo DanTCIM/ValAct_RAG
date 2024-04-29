@@ -72,6 +72,23 @@ def clear_cache():
     st.cache_data.clear()
 
 
+# def setup_doc_selector():
+#     with st.sidebar:
+#         collection_name = st.selectbox(
+#             "Select your document collection",
+#             collection_list,
+#         )
+
+#         document_name = st.selectbox(
+#             "Select your document",
+#             document_list[collection_name],
+#         )
+#     return (
+#         collection_name,
+#         document_name,
+#     )
+
+
 def md_path_creator(path, collection_name, document_name):
     base_name, _ = os.path.splitext(document_name)
     return os.path.join(path, collection_name, f"{base_name}.md")
@@ -107,12 +124,39 @@ def pdf_loader(path):
     return pdf_display
 
 
-# def show_pdf(tab, file_path):
-#     with tab:
-#         st.write(pdf_loader(file_path), unsafe_allow_html=True)
-
-
-def show_pdf(tab, file_path):
+def show_pdf(tab, file_path, width=900):
     with tab:
         with st.container(height=600):
-            st.write(pdf_viewer(file_path), unsafe_allow_html=True)
+            pdf_content = pdf_viewer(
+                input=file_path,
+                width=width,
+            )
+
+            st.write(pdf_content, unsafe_allow_html=True)
+
+
+def download_pdf_button(base_path, collection_name, document_name):
+    if document_name != "All":
+        pdf_file_path = os.path.join(base_path, collection_name, document_name)
+        with open(pdf_file_path, "rb") as pdf_file:
+            # Read the PDF file's binary data
+            pdf_bytes = pdf_file.read()
+
+            # Create the download button
+            st.sidebar.download_button(
+                label="Download selected document",
+                data=pdf_bytes,
+                file_name=document_name,
+                mime="application/octet-stream",
+                use_container_width=True,
+            )
+
+
+def display_summary(document_name):
+    if document_name != "All":
+        summary = summary_data.get(document_name)
+        with st.sidebar.expander("AI generated summary of the document", expanded=True):
+            if summary:
+                st.write(summary.get("summary", "Summary not available."))
+            else:
+                st.write(f"Summary of '{document_name}' not found in the file.")

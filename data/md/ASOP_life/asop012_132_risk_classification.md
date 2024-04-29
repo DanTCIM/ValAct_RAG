@@ -59,26 +59,16 @@ ASOP No. 12-December 2005
 	3.4.2 Risk Classes Used for Testing ..... 6
 	3.4.3 Effect of Changes ..... 6
 	3.4.4 Quantitative Analyses ..... 6
+	3.5 Reliance on Data or Other Information Supplied by Others 6
+	3.6 Documentation 6
+	Section 4. Communications and Disclosures 7
+	4.1 Communications and Disclosures 7
 
-## ASOP No. 12-December 2005
-
-3.5 Reliance on Data or Other Information Supplied by Others 6
-
-3.6 Documentation 6
-
-Section 4. Communications and Disclosures 7
-
-4.1 Communications and Disclosures 7
-
-## APPENDIXES
-
-Appendix 1—Background and Current Practices 8
-
-Background 8
-
-$\begin{array}{ll}\text { Current Practices } & 9\end{array}$
-
-Appendix 2-Comments on the Exposure Draft and Responses 10
+	## APPENDIXES
+	Appendix 1—Background and Current Practices 8
+	Background 8
+	$\begin{array}{ll}\text { Current Practices } & 9\end{array}$
+	Appendix 2-Comments on the Exposure Draft and Responses 10
 
 ## ASOP No. 12-December 2005
 
@@ -106,9 +96,6 @@ The most significant changes from the exposure draft were as follows:
 2. The task force revised the definition of "adverse selection."
 3. The task force reworded the definition of "financial or personal security system" and included examples.
 4. The words "equitable" and "fair" were added in section 3.2.1 but defined in a very limited context that is applicable only to rates.
-
-## ASOP No. 12-December 2005
-
 5. With respect to the operation of the standard, the task force added language that clarifies that this standard in all respects applies only to professional services with respect to designing, reviewing, or changing risk classification systems.
 6. Sections 4.1 and 4.2 were combined into a new section 4.1, Communications and Disclosures, which was revised for clarity. The placement of communication requirements throughout the proposed standard was examined, and a sentence regarding disclosure was removed from section 3.3.3 and incorporated into section 4.1. A similar change was made by adding a new sentence in section 4.1 to correspond to the guidance in section 3.4.1.
 
@@ -154,10 +141,6 @@ Chester J. Szczepanski
 
 Ronnie Susan Thierman
 
-## ASOP No. 12-December 2005
-
-## Actuarial Standards Board
-
 Michael A. LaMonica, Chairperson
 
 Cecil D. Bykerk
@@ -195,11 +178,7 @@ Risk classification can affect and be affected by many actuarial activities, suc
 
 If the actuary departs from the guidance set forth in this standard in order to comply with applicable law (statutes, regulations, and other legally binding authority), or for any other reason the actuary deems appropriate, the actuary should refer to section 4 .
 
-1.3 Cross References - When this standard refers to the provisions of other documents, the reference includes the referenced documents as they may be amended or restated in the
-
-## ASOP No. 12-December 2005
-
-future, and any successor to them, by whatever name called. If any amended or restated document differs materially from the originally referenced document, the actuary should consider the guidance in this standard to the extent it is applicable and appropriate.
+1.3 Cross References - When this standard refers to the provisions of other documents, the reference includes the referenced documents as they may be amended or restated in the future, and any successor to them, by whatever name called. If any amended or restated document differs materially from the originally referenced document, the actuary should consider the guidance in this standard to the extent it is applicable and appropriate.
 
 1.4 Effective Date-This standard will be effective for any professional service commenced on or after May 1, 2006.
 
@@ -225,8 +204,6 @@ The terms below are defined for use in this actuarial standard of practice.
 
 2.9 Risk Class - A set of risks grouped together under a risk classification system.
 
-## ASOP No. 12-December 2005
-
 2.10 Risk Classification System-A system used to assign risks to groups based upon the expected cost or benefit of the coverage or services provided.
 
 ## Section 3. Analysis of Issues and Recommended Practices
@@ -243,11 +220,7 @@ The actuary should consider the interdependence of risk characteristics. To the 
 
 Sometimes it is appropriate for the actuary to make inferences without specific demonstration. For example, it might not be necessary to demonstrate that persons with seriously impaired, uncorrected vision would represent higher risks as operators of motor vehicles.
 
-3.2.2 Causality-While the actuary should select risk characteristics that are related to expected outcomes, it is not necessary for the actuary to establish a cause and
-
-## ASOP No. 12-December 2005
-
-effect relationship between the risk characteristic and expected outcome in order to use a specific risk characteristic.
+3.2.2 Causality-While the actuary should select risk characteristics that are related to expected outcomes, it is not necessary for the actuary to establish a cause and effect relationship between the risk characteristic and expected outcome in order to use a specific risk characteristic.
 
 3.2.3 Objectivity-The actuary should select risk characteristics that are capable of being objectively determined. A risk characteristic is objectively determinable if it is based on readily verifiable observable facts that cannot be easily manipulated. For example, a risk classification of "blindness" is not objective, whereas a risk classification of "vision corrected to no better than 20/100" is objective.
 
@@ -263,8 +236,6 @@ effect relationship between the risk characteristic and expected outcome in orde
 
 3.3.1 Intended Use-The actuary should select a risk classification system that is appropriate for the intended use. Different sets of risk classes may be appropriate for different purposes. For example, when setting reserves for an insurance coverage, the actuary may choose to subdivide or combine some of the risk classes used as a basis for rates.
 
-## ASOP No. 12-December 2005
-
 3.3.2 Actuarial Considerations - When establishing risk classes, the actuary should consider the following, which are often interrelated:
 
 a. Adverse Selection-If the variation in expected outcomes within a risk class is too great, adverse selection is likely to occur. To the extent practical, the actuary should establish risk classes such that each has sufficient homogeneity with respect to expected outcomes to satisfy the purpose for which the risk classification system is intended.
@@ -279,11 +250,7 @@ c. Practicality—The actuary should use professional judgment in balancing the 
 
 3.4 Testing the Risk Classification System-Upon the establishment of the risk classification system and upon subsequent review, the actuary should, if appropriate, test the long-term viability of the financial or personal security system. When performing such tests subsequent to the establishment of the risk classification system, the actuary should evaluate emerging experience and determine whether there is any significant need for change.
 
-3.4.1 Effect of Adverse Selection-Adverse selection can potentially threaten the long-term viability of a financial or personal security system. The actuary should assess the potential effects of adverse selection that may result or have resulted from the design or implementation of the risk classification system. Whenever the effects of adverse selection are expected to be material, the actuary should, when
-
-## ASOP No. 12-December 2005
-
-practical, estimate the potential impact and recommend appropriate measures to mitigate the impact.
+3.4.1 Effect of Adverse Selection-Adverse selection can potentially threaten the long-term viability of a financial or personal security system. The actuary should assess the potential effects of adverse selection that may result or have resulted from the design or implementation of the risk classification system. Whenever the effects of adverse selection are expected to be material, the actuary should, when practical, estimate the potential impact and recommend appropriate measures to mitigate the impact.
 
 3.4.2 Risk Classes Used for Testing—The actuary should consider using a different set of risk classes for testing long-term viability than was used as the basis for determining the assigned values if this is likely to improve the meaningfulness of the tests. For example, if a risk classification system is gender-neutral, the actuary might separate the classes based on gender when performing a test of long-term viability.
 
@@ -304,8 +271,6 @@ e. any expected material effects of adverse selection.
 3.5 Reliance on Data or Other Information Supplied by Others - When relying on data or other information supplied by others, the actuary should refer to ASOP No. 23, Data Quality, for guidance.
 
 3.6 Documentation-The actuary should document the assumptions and methodologies used in designing, reviewing, or changing a risk classification system in compliance with the requirements of ASOP No. 41, Actuarial Communications. The actuary should also prepare and retain documentation to demonstrate compliance with the disclosure requirements of section 4.1.
-
-## ASOP No. 12-December 2005
 
 ## Section 4. Communications and Disclosures
 
@@ -385,8 +350,6 @@ The exposure draft of this revision of ASOP No. 12, Risk Classification for All 
 | Response | The task force believes it has addressed issues regarding applicable law, industry practices, business <br> practices, and testing the risk classification system under various scenarios. |
 | Comment | In the transmittal memorandum of the exposure draft, the task force asked whether the key changes from <br> the previous standard were appropriate. |
 | Response | Several commentators responded that the changes were appropriate and some suggested additional <br> changes that are discussed in this appendix. |
-
-## ASOP No. 12-December 2005
 
 | Response | One commentator expressed concern regarding the expansion of scope and the implications in actuarial <br> work that would be otherwise unrelated to risk classification and the expansion of scope to the public <br> policy arena in general. <br> The task force has added modified wording in the standard to clarify that in all cases the standard applies <br> only in respect to design, reviewing, or changing risk classification systems related to financial or <br> personal security systems. |
 | :---: | :---: |
@@ -537,8 +500,6 @@ Response The task force disagreed with the comment and made no change.
 | Comment | One commentator wanted to substitute "continuing" for "long-term" viability in the second line. The <br> commentator believed that the usual issue is the current and near-future viability of a system, not its <br> long-term prognosis. Also, another commentator said that the requirement to "test long-term viability" is <br> new and questioned its meaning. |
 | Response | The task force considered alternative wording but ultimately decided that the existing wording best <br> reflected that the actuary should check the risk classification system for viability both in the short-term <br> and in the long-term. |
 
-## ASOP No. 12-December 2005
-
 | Comment | One commentator believed that testing the system is set out as something the actuary should do, if <br> appropriate, rather than as something the actuary should consider. The commentator believed that the <br> paragraph implied a duty to test in some situations, without describing explicitly what those situations <br> would be (i.e., when testing would be "appropriate”). The commentator suspected that the situations <br> described in sections 3.4.1-3.4.3 were the kind of situations that the task force had in mind as situations <br> where long-term testing would be "appropriate.” However, as currently written, the commentator <br> thought that a stronger duty could be implied. The commentator suggested that section 3.4 itself should <br> read, “...the actuary should consider testing the long-term viability of the risk classification system. ..." <br> The task force believed that the existing wording conveyed the concept that the actuary considers <br> whether testing is appropriate and made no change. |
 | :---: | :---: |
 | Section 3.5, Reliance on Data Supplied by Others (now Reliance on Data or Other Information Supplied by <br> Others) |  |
@@ -551,8 +512,6 @@ Response The task force disagreed with the comment and made no change.
 | Comment | One commentator stated that some of the disclosures, notably section 4.2(a) and 4.2(c) (now 4.1(a) and <br> 4.1(c)), are impractical, since they might require the actuary to begin with the universe and then disclose <br> everything that is not utilized. The commentator suggested replacing these disclosure requirements with <br> a communication that defends the choice of risk classification system and notes in that defense how <br> compliance with applicable law and business practices affected the selection, rather than describing all <br> the alternatives that would have been available in the absence of such constraints. <br> The task force did not agree that the requirement to disclose significant limitations required a discussion <br> of all alternatives that would have been available in the absence of legal or business constraints. The task <br> force noted that the listed disclosures proceed from considerations required in section 3 and modified the <br> wording of the disclosure requirements to be more consistent with that section, including revising the <br> lead-in sentence to require disclosure of the significant impact of such considerations. |
 | Comment | One commentator stated that the disclosure issue is heightened by the expansion of scope into the public <br> policy arena and stated that excessive disclosure requirements may weaken the actuary's ability to <br> influence the discussion of public policy. |
 | Response | The task force disagreed with the comment and noted that, while the scope of the standard now includes <br> regulatory activities, legislative activities, and statements regarding public policy, the scope does so only <br> in the context of the performance of professional services. |
-
-## ASOP No. 12-December 2005
 
 | Response | One commentator suggested deleting section 4.2(a) (now 4.1(a)), which requires disclosure of <br> significant limitations due to compliance with applicable law, noting that other ASOPs have tended not <br> to include this requirement except where the limitations seriously distort the work product. <br> The task force disagreed with this comment, noting that significant limitations on the choice of risk <br> characteristics are likely to distort the risk classification system and therefore should be disclosed. |
 | :---: | :---: |

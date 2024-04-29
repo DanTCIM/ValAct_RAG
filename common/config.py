@@ -1,6 +1,7 @@
 import os
 import streamlit as st
 import json
+import base64
 
 base_path = "./data/pdf"
 md_path = "./data/md"
@@ -79,3 +80,28 @@ def md_loader(path):
     with open(path, "r", encoding="utf-8") as file:
         data = file.read()
     return data
+
+
+def show_pdf(tab, file_path):
+    with open(file_path, "rb") as f:
+        base64_pdf = base64.b64encode(f.read()).decode("utf-8")
+
+    pdf_display = f"""
+    <style>
+        .pdf-container {{
+            width: 100%;
+            height: calc(100vh - 15rem);
+            overflow: auto;
+        }}
+        .pdf-container iframe {{
+            width: 100%;
+            height: 100%;
+        }}
+    </style>
+    <div class="pdf-container">
+        <iframe src="data:application/pdf;base64,{base64_pdf}" type="application/pdf"></iframe>
+    </div>
+    """
+
+    with tab:
+        st.markdown(pdf_display, unsafe_allow_html=True)

@@ -7,7 +7,7 @@ md_path = "./data/md"
 
 
 # Scan a directory and return a dictionary of folders and files
-@st.cache_data
+# @st.cache_data
 def scan_directory(base_path):
     folders_files = {}
     for folder in os.listdir(base_path):
@@ -56,7 +56,7 @@ collection = [
 ]
 
 
-@st.cache_data
+# @st.cache_data
 def get_json(file_path):
     with open(file_path, "r") as file:
         data = json.load(file)

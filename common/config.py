@@ -99,7 +99,7 @@ def show_pdf(tab, file_path):
         }}
     </style>
     <div class="pdf-container">
-        <embed src="data:application/pdf;base64,{base64_pdf}" type="application/pdf"></embed>
+        <embed src="data:application/pdf;base64,{base64_pdf}" type="application/pdf">
     </div>
     """
 

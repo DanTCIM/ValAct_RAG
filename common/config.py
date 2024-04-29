@@ -93,13 +93,13 @@ def show_pdf(tab, file_path):
             height: calc(100vh - 15rem);
             overflow: auto;
         }}
-        .pdf-container iframe {{
+        .pdf-container embed {{
             width: 100%;
             height: 100%;
         }}
     </style>
     <div class="pdf-container">
-        <iframe src="data:application/pdf;base64,{base64_pdf}" type="application/pdf"></iframe>
+        <embed src="data:application/pdf;base64,{base64_pdf}" type="application/pdf"></embed>
     </div>
     """
 

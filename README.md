@@ -4,9 +4,9 @@ This project aims to create a Retrieval-Augmented Generation (RAG) process for a
 
 The collections include:
 - [Statutory Accounting Principles](./data/pdf/SAP)
-- [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_life)
-- [Cash Flow Testing and Asset Adequacy Testing](./data/pdf/CFT)
 - [Principle-Based Reserving](./data/pdf/PBR)
+- [Cash Flow Testing and Asset Adequacy Testing](./data/pdf/CFT)
+- [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_life)
 - [US GAAP](./data/pdf/GAAP)
 - [IFRS 17](./data/pdf/IFRS17)
 - [Bermuda](./data/pdf/Bermuda)

@@ -29,9 +29,9 @@ document_list = scan_directory(base_path)
 
 collection_list = [
     "SAP",
-    "ASOP_life",
-    "CFT",
     "PBR",
+    "CFT",
+    "ASOP_life",
     "GAAP",
     "IFRS17",
     "Bermuda",
@@ -44,9 +44,9 @@ collection_list = [
 
 collection = [
     "Statutory Accounting Principles (SAP)",
-    "ASOP_life",
-    "CFT",
     "PBR",
+    "CFT",
+    "ASOP_life",
     "GAAP",
     "IFRS17",
     "Bermuda",

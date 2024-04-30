@@ -8,6 +8,7 @@ __pycache__/
 
 # Secret file
 secrets.toml
+*_secret_*
 
 # Mac file
 .DS_Store

@@ -1265,7 +1265,7 @@ $=$ lapse risk charge for long-term business as calculated in accordance with pa
 
 Table E - Long-Term Risk Module Correlation Matrix
 
-| CorrLT $_{i, j}$ | $C_{\text {LTmortality }}$ | $C_{\text {LTtoploss }} C_{\text {LTrider }}$ | $C_{\text {LTmorbidity }}$ | $C_{\text {LTlongevit }}$ | $C_{\text {LTVariableAnnuity }} C_{\text {LTlaps }}$ | $C_{\text {LTexpen }}$ |  |  |
+| CorrLT $_{i, j}$ | $C_{\text {LTmortality }}$ | $C_{\text {LTtoploss }} |C_{\text {LTrider }}$ | $C_{\text {LTmorbidity }}$ | $C_{\text {LTlongevit }}$ | $C_{\text {LTVariableAnnuity }} |C_{\text {LTlaps }}$ | $C_{\text {LTexpen }}$ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | $C_{\text {LTmortality }}$ | 1 |  |  |  |  |  |  |  |
 | $C_{\text {LTstoploss }}$ | 0.75 | 1 |  |  |  |  |  |  |

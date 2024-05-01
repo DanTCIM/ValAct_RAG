@@ -221,7 +221,7 @@ def display_markdown(tab, document_name, collection_name):
     else:
         md_file_path = md_path_creator(md_path, collection_name, document_name)
         with tab:
-            md_container = st.container(height=600)
+            md_container = st.container(height=700)
             with md_container:
                 md_txt = md_loader(md_file_path)
                 st.write(md_txt, unsafe_allow_html=True)

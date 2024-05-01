@@ -9,7 +9,7 @@ md_path = "./data/md"
 
 
 # Scan a directory and return a dictionary of folders and files
-# @st.cache_data
+@st.cache_data
 def scan_directory(base_path):
     folders_files = {}
     for folder in os.listdir(base_path):
@@ -58,7 +58,7 @@ collection = [
 ]
 
 
-# @st.cache_data
+@st.cache_data
 def get_json(file_path):
     with open(file_path, "r") as file:
         data = json.load(file)
@@ -126,7 +126,7 @@ def pdf_loader(path):
 
 def show_pdf(tab, file_path, width=900):
     with tab:
-        with st.container(height=600):
+        with st.container(height=700):
             pdf_content = pdf_viewer(
                 input=file_path,
                 width=width,

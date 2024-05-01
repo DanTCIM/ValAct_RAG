@@ -36,7 +36,6 @@ collection_list = [
     "Product",
     "RiskFinance",
     "AI_BigData",
-    "",
 ]
 
 collection = [

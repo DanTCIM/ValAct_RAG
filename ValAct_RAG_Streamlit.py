@@ -27,13 +27,7 @@ from pinecone import Pinecone
 import pandas as pd
 
 
-def setup_streamlit():
-    st.set_page_config(
-        page_title="Actuarial Doc Q&A Model",
-        page_icon="📖",
-        layout="wide",
-    )
-
+def setup_tabs():
     tab1, tab2, tab3 = st.tabs(["Q&A", "PDF-doc", "TXT-doc"])
     return tab1, tab2, tab3
 
@@ -284,10 +278,15 @@ def display_sidebar_buttons(msgs):
 
 
 def main():
+    st.set_page_config(
+        page_title="Actuarial Doc Q&A Model",
+        page_icon="📖",
+        layout="wide",
+    )
     use_anthropic = True
     model_name = "claude-3-sonnet-20240229" if use_anthropic else "gpt-4-turbo"
 
-    tab1, tab2, tab3 = setup_streamlit()
+    tab1, tab2, tab3 = setup_tabs()
     display_header(tab1)
     setup_sidebar(model_name)
     (

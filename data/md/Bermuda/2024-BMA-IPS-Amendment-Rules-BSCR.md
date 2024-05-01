@@ -1198,25 +1198,20 @@ $=$ insurance risk - morbidity and disability charge for long-term business as c
 
 $=$ variable annuity guarantee risk charge for long-term business as calculated in accordance with paragraph 33; and
 
-$=$ other insurance risk charge for long-term business as calculated in
-
-| $\operatorname{CorrLT}_{i, j}$ | $C_{L T m o r t}$ | $C_{\text {LTstoploss }}$ | $C_{\text {LTrider }}$ | $C_{\text {LTmorbidi }}$ | $C_{\text {LTlongevity }}$ | $C_{\text {LTVariableA }}$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $C_{\text {LTmortality }}$ | 1 |  |  |  |  |  |
-| $C_{\text {LTstoploss }}$ | 0.75 | 1 |  |  |  |  |
-| $C_{\text {LTrider }}$ | 0.75 | 0.75 | 1 |  |  |  |
-| $C_{\text {LTmorbidity }}$ | 0.25 | 0 | 0 | 1 |  |  |
-| $C_{\text {LTlongevity }}$ | -0.5 | -0.5 | -0.5 | 0 | 1 |  |
-
-accordance with paragraph 34.
+$=$ other insurance risk charge for long-term business as calculated in accordance with paragraph 34.
 
 Table D - Long-Term Risk Module Correlation Matrix
 
-INSURANCE (PRUDENTIAL STANDARDS) (CLASS C, CLASS D AND CLASS E SOLVENCY REQUIREMENT) RULES 2024
-
+| $\operatorname{CorrLT}_{i, j}$ | $C_{L T m o r t}$ | $C_{\text {LTstoploss }}$ | $C_{\text {LTrider }}$ | $C_{\text {LTmorbidi }}$ | $C_{\text {LTlongevity }}$ | $C_{\text {LTVariableA }}$ |$C_{\text {LTotherrisk }}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| $C_{\text {LTmortality }}$ | 1 |  |  |  |  |  |  |
+| $C_{\text {LTstoploss }}$ | 0.75 | 1 |  |  |  |  |  |
+| $C_{\text {LTrider }}$ | 0.75 | 0.75 | 1 |  |  |  |  |
+| $C_{\text {LTmorbidity }}$ | 0.25 | 0 | 0 | 1 |  |  |  |
+| $C_{\text {LTlongevity }}$ | -0.5 | -0.5 | -0.5 | 0 | 1 |  |  |
 | $C_{\text {LTVariableAnmuity }}$ | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | $C_{\text {LTotherrisk }}$ | 0.125 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 1 |
+
 
 20B. The $C_{L T, N e w}$ charge calculation shall be determined in accordance with the following formula-
 
@@ -1277,15 +1272,10 @@ Table E - Long-Term Risk Module Correlation Matrix
 | $C_{\text {LTrider }}$ | 0.75 | 0.75 | 1 |  |  |  |  |  |
 | $C_{\text {LTmorbidity }}$ | 0.25 | 0.00 | 0.00 | 1 |  |  |  |  |
 | $C_{\text {LTlongevity }}$ | -0.50 | -0.50 | -0.50 | 0.00 | 1 |  |  |  |
-| $C_{\text {LTVariableAnnuity }} 0.00$ | 0.00 | 0.00 | 0.00 | 0.00 | 1 |  |  |  |
+| $C_{\text {LTVariableAnnuity }}$| 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 1 |  |  |  
 | $C_{\text {LTlapse }}$ | 0.00 | 0.00 | 0.00 | 0.00 | 0.25 | 0.00 | 1 |  |
-
-INSURANCE (PRUDENTIAL STANDARDS) (CLASS C, CLASS D AND CLASS E
-
-SOLVENCY REQUIREMENT) RULES 2024
-
 | $C_{\text {LTexpense }}$ | 0.25 | 0.5 | 0.5 | 0.5 | 0.25 | 0.5 | 0.5 | 1 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
 
 ## Fixed income investment risk
 21. The fixed income investment risk charge calculation shall be determined in accordance with the following formula-

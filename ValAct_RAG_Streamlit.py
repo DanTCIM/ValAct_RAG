@@ -54,7 +54,7 @@ def setup_sidebar(model_name):
                 "**AI's responses should not be relied upon as accurate or error-free.** The quality of the retrieved contexts and responses may depend on LLM algorithms, RAG parameters, and how questions are asked."
             )
             st.write(
-                "Actuaries are strongly advised to **evaluate for accuracy** when using AI. Download the documents to read and review the source. Read the retrieved contexts to compare to AI's responses. The process is built for educational purposes only."
+                "Actuaries are strongly advised to **evaluate for accuracy** when using AI. Read the source documents. Review the retrieved contexts to compare to AI's responses. The process is built for educational purposes only."
             )
 
 
@@ -222,7 +222,7 @@ def display_markdown(tab, document_name, collection_name):
     if document_name == "All":
         with tab:
             st.write(
-                "When you select a document, the app loads the pre-converted Markdown file and displays the content for your review. Please note that the displayed text, formulas, tables, charts, and images may contain some rendering errors due to the conversion process. To access the original content, download the PDF file using the button in the sidebar."
+                "When you select a document, the app loads the pre-converted Markdown file and displays the content for your review. Please note that the displayed text, formulas, tables, charts, and images may contain some rendering errors due to the conversion process. To access the original content, click the link in the sidebar."
             )
     else:
         md_file_path = md_path_creator(md_path, collection_name, document_name)

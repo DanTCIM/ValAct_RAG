@@ -63,6 +63,7 @@ def get_json(file_path):
 
 summary_data = get_json("summary.json")
 document_list = get_json("./data/document_list.json")
+document_link = get_json("./data/document_link.json")
 
 
 def clear_cache():

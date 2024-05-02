@@ -1,15 +1,16 @@
-import os
+# import os
 import streamlit as st
 from common.config import (
     base_path,
     md_path,
     document_list,
+    document_link,
     collection_list,
     md_path_creator,
     md_loader,
-    show_pdf,
+    # show_pdf,
     display_summary,
-    download_pdf_button,
+    # download_pdf_button,
 )
 
 from common.handler import (
@@ -28,8 +29,8 @@ import pandas as pd
 
 
 def setup_tabs():
-    tab1, tab2, tab3 = st.tabs(["Q&A", "PDF-doc", "TXT-doc"])
-    return tab1, tab2, tab3
+    tab1, tab2 = st.tabs(["Q&A", "TXT-doc"])
+    return tab1, tab2
 
 
 def display_header(tab):
@@ -68,9 +69,13 @@ def setup_doc_selector():
             "Select your document",
             document_list[collection_name],
         )
+
+        doc_link = document_link[document_name]
+
     return (
         collection_name,
         document_name,
+        doc_link,
     )
 
 
@@ -189,21 +194,28 @@ def display_chat_history(tab, msgs):
                 st.chat_message(avatars[msg.type]).write(msg.content)
 
 
-def display_pdf(tab, document_name, collection_name):
-    if document_name == "All":
-        with tab:
-            st.write(
-                "When you select a document and click the button, the app displays the selected PDF."
-            )
+# def display_pdf(tab, document_name, collection_name):
+#     if document_name == "All":
+#         with tab:
+#             st.write(
+#                 "When you select a document and click the button, the app displays the selected PDF."
+#             )
 
-    else:
-        pdf_file_path = os.path.join(base_path, collection_name, document_name)
-        st.sidebar.button(
-            "Show selected document in tab PDF-doc",
-            on_click=lambda: show_pdf(tab, pdf_file_path),
-            help="See tab PDF-doc to view the selected PDF.",
-            use_container_width=True,
-        )
+#     else:
+#         pdf_file_path = os.path.join(base_path, collection_name, document_name)
+#         st.sidebar.button(
+#             "Show selected document in tab PDF-doc",
+#             on_click=lambda: show_pdf(tab, pdf_file_path),
+#             help="See tab PDF-doc to view the selected PDF.",
+#             use_container_width=True,
+#         )
+
+
+def display_link(document_name, doc_link):
+    if document_name != "All":
+        with st.sidebar:
+            with st.container(border=True):
+                st.write(f"**View Source** (tab TXT-doc or link below): {doc_link}")
 
 
 def display_markdown(tab, document_name, collection_name):
@@ -286,12 +298,13 @@ def main():
     use_anthropic = True
     model_name = "claude-3-sonnet-20240229" if use_anthropic else "gpt-4-turbo"
 
-    tab1, tab2, tab3 = setup_tabs()
+    tab1, tab2 = setup_tabs()
     display_header(tab1)
     setup_sidebar(model_name)
     (
         collection_name,
         document_name,
+        doc_link,
     ) = setup_doc_selector()
     (
         num_source,
@@ -311,9 +324,10 @@ def main():
 
     initialize_chat_history(msgs)
     display_chat_history(tab1, msgs)
-    download_pdf_button(base_path, collection_name, document_name)
-    display_pdf(tab2, document_name, collection_name)
-    display_markdown(tab3, document_name, collection_name)
+    # download_pdf_button(base_path, collection_name, document_name)
+    display_link(document_name, doc_link)
+    # display_pdf(tab2, document_name, collection_name)
+    display_markdown(tab2, document_name, collection_name)
     display_summary(document_name)
     handle_user_query(tab1, qa_chain, msgs, flag_similarity_out)
     display_sidebar_buttons(msgs)

@@ -16,7 +16,7 @@ def clear_cache_button():
         label="Clear cache",
         use_container_width=True,
         on_click=clear_cache,
-        help="Clear the cached data.",
+        help="Reset list of documents and pregenerated summary",
     )
 
 

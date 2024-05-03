@@ -4,10 +4,20 @@ from common.config import (
     # document_list,
     # collection_list,
     collection,
+    clear_cache,
     # setup_doc_selector,
     # display_summary,
     # download_pdf_button,
 )
+
+
+def clear_cache_button():
+    st.sidebar.button(
+        label="Clear cache",
+        use_container_width=True,
+        on_click=clear_cache,
+        help="Clear the cached data.",
+    )
 
 
 def main():
@@ -90,3 +100,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    clear_cache_button()

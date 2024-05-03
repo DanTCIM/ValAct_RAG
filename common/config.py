@@ -4,6 +4,7 @@ import json
 import base64
 from streamlit_pdf_viewer import pdf_viewer
 
+
 base_path = "./data/pdf"
 md_path = "./data/md"
 
@@ -55,15 +56,29 @@ collection = [
 
 
 @st.cache_data
-def get_json(file_path):
+def get_json(file_path, file_modification_time):
     with open(file_path, "r") as file:
         data = json.load(file)
     return data
 
 
-summary_data = get_json("summary.json")
-document_list = get_json("./data/document_list.json")
-document_link = get_json("./data/document_link.json")
+def get_file_modification_time(file_path):
+    return os.path.getmtime(file_path)
+
+
+file_path_summary = "./data/summary.json"
+file_path_document_list = "./data/document_list.json"
+file_path_document_link = "./data/document_link.json"
+
+summary_data = get_json(
+    file_path_summary, get_file_modification_time(file_path_summary)
+)
+document_list = get_json(
+    file_path_document_list, get_file_modification_time(file_path_document_list)
+)
+document_link = get_json(
+    file_path_document_link, get_file_modification_time(file_path_document_link)
+)
 
 
 def clear_cache():

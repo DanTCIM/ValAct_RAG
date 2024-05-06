@@ -38,7 +38,7 @@ def load_existing_results():
 
 
 def save_results(results):
-    with open("summary.json", "w") as f:
+    with open("./data/summary.json", "w") as f:
         json.dump(results, f, indent=4)
 
 

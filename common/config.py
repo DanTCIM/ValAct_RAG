@@ -4,7 +4,6 @@ import json
 import base64
 from streamlit_pdf_viewer import pdf_viewer
 
-
 base_path = "./data/pdf"
 md_path = "./data/md"
 

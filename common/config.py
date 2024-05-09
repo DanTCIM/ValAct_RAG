@@ -54,7 +54,7 @@ collection = [
 ]
 
 
-@st.cache_data
+@st.cache_data(hash_funcs={float: str})
 def get_json(file_path, file_modification_time):
     with open(file_path, "r") as file:
         data = json.load(file)

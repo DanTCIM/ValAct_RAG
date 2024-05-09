@@ -29,16 +29,16 @@ def setup_llm_chain():
     return StuffDocumentsChain(llm_chain=llm_chain, document_variable_name="text")
 
 
-def load_existing_results():
-    if os.path.exists("summary.json"):
-        with open("summary.json", "r") as f:
+def load_existing_results(pathname):
+    if os.path.exists(pathname):
+        with open(pathname, "r") as f:
             return json.load(f)
     else:
         return {}
 
 
-def save_results(results):
-    with open("./data/summary.json", "w") as f:
+def save_results(pathname, results):
+    with open(pathname, "w") as f:
         json.dump(results, f, indent=4)
 
 
@@ -59,11 +59,11 @@ def summarize_collection(collection_name, stuff_chain, results):
     return results
 
 
-def summarize_collections(collection_list):
+def summarize_collections(pathname, collection_list):
     stuff_chain = setup_llm_chain()
-    results = load_existing_results()
+    results = load_existing_results(pathname)
 
     for collection_name in collection_list:
         results = summarize_collection(collection_name, stuff_chain, results)
 
-    save_results(results)
+    save_results(pathname, results)

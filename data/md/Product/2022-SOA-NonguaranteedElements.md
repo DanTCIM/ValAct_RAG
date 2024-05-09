@@ -1,10 +1,10 @@
-SOA Research INSTITUTE 
-
 # Overview of Nonguaranteed Elements (NGEs)
-
+SOA RESEARCH INSTITUTE<br>
 NOVEMBER | 2022
 
-AUTHORS David Cook, FSA, MAAA<br>SPONSOR<br>Individual Life and Annuity Curriculum Committee<br>Kristen Koon, FSA, MAAA<br>Zohair Motiwalla, FSA, MAAA<br>Karen Rudolph, FSA, MAAA
+AUTHORS <br>David Cook, FSA, MAAA<br>Kristen Koon, FSA, MAAA<br>Zohair Motiwalla, FSA, MAAA<br>Karen Rudolph, FSA, MAAA
+
+SPONSOR<br>Individual Life and Annuity Curriculum Committee
 
 ## Caveat and Disclaimer
 
@@ -48,17 +48,14 @@ The authors would like to thank the Society of Actuaries Project Oversight Group
 
 Project Oversight Group members
 
-Dana Lipperman, FSA, MAAA
-
-Maambo Mujala, FSA, MAAA
-
-Ben Slutsker, FSA, MAAA
+* Dana Lipperman, FSA, MAAA
+* Maambo Mujala, FSA, MAAA
+* Ben Slutsker, FSA, MAAA
 
 At the Society of Actuaries Research Institute:
 
-Doug Chandler, FSA, FCIA, Canadian retirement research actuary
-
-Dale Hall, FSA, CERA, CFA, MAAA, SOA managing director of research
+* Doug Chandler, FSA, FCIA, Canadian retirement research actuary
+* Dale Hall, FSA, CERA, CFA, MAAA, SOA managing director of research
 
 ## Section 1: Background and History of Nonguaranteed Elements in Insurance Policies
 
@@ -68,18 +65,19 @@ NGEs, as the term is normally used, do not include policyholder dividends, and d
 
 Products in the United States with NGEs were a response to problems and opportunities in the insurance market during the 1970 s and 1980 s.
 
-- $\quad$ Pricing was difficult for traditional individual guaranteed life and annuity products with long term premium and interest rate guarantees. These products had previously usually been priced with fully guaranteed premiums and policy values using experience assumptions projected over expected coverage periods. However, interest rates during the period were volatile and historically high. Benchmark 10-year US Treasury yields doubled over ten years to a high in 1981 of more than $15 \%$ before falling steeply over the next ten years. Inflation rates followed a similar trajectory. Mortality improvement rates during the decade of the 1970's were historically high, but pricing actuaries were concerned about the sustainability of those improvement rates. Traditional guaranteed nonparticipating product designs did not have sufficient flexibility to respond to rapidly changing conditions. Further, the long-term nature of their guarantees discouraged companies from pricing with favorable experience assumptions that might prove to be temporary.
-- $\quad$ Non-insurance accumulation products of the period responded to changing new money investment rates by revising credited rates, further highlighting insurance product inflexibility, and putting additional pressure on traditional insurance products.
+- Pricing was difficult for traditional individual guaranteed life and annuity products with long term premium and interest rate guarantees. These products had previously usually been priced with fully guaranteed premiums and policy values using experience assumptions projected over expected coverage periods. However, interest rates during the period were volatile and historically high. Benchmark 10-year US Treasury yields doubled over ten years to a high in 1981 of more than $15 \%$ before falling steeply over the next ten years. Inflation rates followed a similar trajectory. Mortality improvement rates during the decade of the 1970's were historically high, but pricing actuaries were concerned about the sustainability of those improvement rates. Traditional guaranteed nonparticipating product designs did not have sufficient flexibility to respond to rapidly changing conditions. Further, the long-term nature of their guarantees discouraged companies from pricing with favorable experience assumptions that might prove to be temporary.
+- Non-insurance accumulation products of the period responded to changing new money investment rates by revising credited rates, further highlighting insurance product inflexibility, and putting additional pressure on traditional insurance products.
 - The late 1970 s also saw the introduction of personal computers and software that facilitated actuarial modeling and the potential to illustrate policy values. While not an insurance development in itself, the new computational power available fundamentally enabled the development of life and annuity products with nonguaranteed elements.
 
 The consumer demand for responsive products combined with life insurer need to control the risks they assumed resulted in new nonparticipating, non-variable life and annuity products with crediting and expense elements that were not fully guaranteed. In general, the partial elimination of guarantees resulted in lower initial product prices.
 
-A variety of product designs with NGEs ultimately emerged. "Universal life" is an example. The universal life insurance design was said to
 
-## Linkage
+### Linkage
 
-Only in the earliest generation of UL products was there a direct linkage of anticipated experience factors and corresponding NGEs. In other words, where each NGE was derived from the numerical value(s) of an anticipated experience factor, with the potential addition of a load for adverse deviation and profit. The incidence of product charges necessary to cover insurer acquisition expenses led to low early account values and unattractive products. Designs quickly changed to charge and crediting structures in which those parameters reflected insureds' preferences and were expected in total and over time to cover expenses and benefits.
-"unbundle" the death protection and investment aspects of traditional whole life insurance. In its basic form, it incorporated a dynamic calculation of policy values based on premiums that could be varied at the discretion of the policyowner combined with crediting and charge elements, some of which could be varied by an insurer within limits specified in a policy. The flexibility and functioning of flexible elements came to be commonly illustrated to prospective policyowners with projections of future accumulation values, death benefit amounts and policy loan amounts at time of issue and periodically during the continuation of a policy. While the NGEs and their functioning varies considerably by product, the NGE concept is fundamental to universal life design.
+- Only in the earliest generation of UL products was there a direct linkage of anticipated experience factors and corresponding NGEs. In other words, where each NGE was derived from the numerical value(s) of an anticipated experience factor, with the potential addition of a load for adverse deviation and profit. The incidence of product charges necessary to cover insurer acquisition expenses led to low early account values and unattractive products. Designs quickly changed to charge and crediting structures in which those parameters reflected insureds' preferences and were expected in total and over time to cover expenses and benefits.
+
+
+A variety of product designs with NGEs ultimately emerged. "Universal life" is an example. The universal life insurance design was said to "unbundle" the death protection and investment aspects of traditional whole life insurance. In its basic form, it incorporated a dynamic calculation of policy values based on premiums that could be varied at the discretion of the policyowner combined with crediting and charge elements, some of which could be varied by an insurer within limits specified in a policy. The flexibility and functioning of flexible elements came to be commonly illustrated to prospective policyowners with projections of future accumulation values, death benefit amounts and policy loan amounts at time of issue and periodically during the continuation of a policy. While the NGEs and their functioning varies considerably by product, the NGE concept is fundamental to universal life design.
 
 Some of the most commercially significant early product designs were:
 
@@ -95,11 +93,11 @@ Statutory, generally accepted accounting principles (GAAP), and other insurance 
 
 Revision of NGE values has, in some cases, attracted lawsuits by policy owners. While most often arising after changes that increase costs or lower benefits, some lawsuits have been brought for an insurer's inaction. Typical complaints are that the particular change is not allowed by the terms of the policy, is inappropriately calculated, or recoups past losses or underperformance. Class action status is often sought. Court rulings have been inconsistent as of the date of this study note.
 
-The adoption and early development of NGEs in individual annuity and life insurance policies helped shape their use and treatment in the current market. The remainder of this study note covers the types of NGEs in use today, professional guidance available to the practicing actuary responsible for NGEs, model regulations affecting NGEs, practical issues facing companies offering these products, considerations for products outside the United States market and an NGE
+The adoption and early development of NGEs in individual annuity and life insurance policies helped shape their use and treatment in the current market. The remainder of this study note covers the types of NGEs in use today, professional guidance available to the practicing actuary responsible for NGEs, model regulations affecting NGEs, practical issues facing companies offering these products, considerations for products outside the United States market and an NGE case study.
 
-## Trend versus variance
+### Trend versus variance
 
-A common, but flawed, expectation is that trends in experience elements should necessarily result in changes in policy charges and credits. In fact, it is variance in experience elements from values used to set NGEs that leads to changes. For example, population and insured mortality rates have generally trended downward. If that trend was anticipated in setting NGEs, the lack of variance might lead to no pressure from that experience element to change NGE rates. case study.
+- A common, but flawed, expectation is that trends in experience elements should necessarily result in changes in policy charges and credits. In fact, it is variance in experience elements from values used to set NGEs that leads to changes. For example, population and insured mortality rates have generally trended downward. If that trend was anticipated in setting NGEs, the lack of variance might lead to no pressure from that experience element to change NGE rates. case study.
 
 ## Section 2: Context
 
@@ -149,11 +147,20 @@ Next, we will discuss how an NGE framework and determination policy can guide in
 
 ## Section 3: Professional Guidance related to NGEs
 
-## Actuarial Standards of Practice
+### Actuarial Standards of Practice
 
-<img src="https://cdn.mathpix.com/cropped/2024_04_13_1fc8f2b64378e00e094dg-10.jpg?height=790&width=491&top_left_y=560&top_left_x=277" alt="image" style="width:100%;height:auto;">
+- The Actuarial Standards Board (ASB) is a body that sets the
+standards for appropriate actuarial practice through the
+development and promulgation of Actuarial Standards of
+Practices (ASOPs or standards), providing guidance to actuaries
+who perform work in the United States. They apply to all facets of
+actuarial work, including life, health, pension, casualty, and
+enterprise risk management, and have been developed, and in
+some cases, revised, to reflect emerging industry practices and
+perspectives.
 
-Similar standards are in place for work in other countries.
+- Similar standards are in place for work in other countries.
+
 There are several Actuarial Standards of Practice (ASOPs) that apply either directly or indirectly to the development of NGEs for life insurance and annuity products. ASOP 2 (Non-guaranteed elements for life insurance and annuity products) ${ }^{1}$ is the most directly applicable guidance, although actuaries working with NGEs will typically consider other relevant ASOPS in their work as well, including but not limited to ASOP 12 (Risk Classification (for All Practice Areas)), ASOP 23 (Data Quality), ASOP 24 (Compliance with the NAIC Life Insurance Illustrations Model Regulation), ASOP 25 (Credibility Procedures), ASOP 41 (Actuarial Communications), ASOP 54 (Pricing of Life Insurance and Annuity Products) and ASOP 56 (Modeling). In recent years, updates to these standards have reflected emerging industry practice, product evolution, and advances in actuarial modeling, regulation, and governance.
 
 ASOP 2 provides guidance for the practicing actuary to consider when determining NGEs for life insurance and annuity policies written on individual policy forms, where NGEs may vary at the discretion of the insurer $^{2}$. In this context, determination applies to both the initial NGE determination at product pricing or issue, and subsequent NGE determinations for inforce business at dates after issue.
@@ -168,7 +175,7 @@ Policy classes are policies that are grouped together when determining NGEs. The
 
 ${ }^{1}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/
 
-2 http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 1.2
+${ }^{2}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 1.2
 
 ${ }^{3} \mathrm{Ibid}$ Section 3.2.1.f
 
@@ -189,23 +196,26 @@ The requirements for actuarial communications from ASOP 41 apply to any document
 
 When formulating and issuing actuarial opinions on the determination of NGEs, actuaries usually need to deal with data, such as mortality experience data or transaction data that may be used in actuarial models. ASOP 23 stipulates that actuaries that use data are not required to audit the data, but must review the data, or disclose why they did not do $\mathrm{so}^{8}$. If the actuary determines that there are significant limitations with the data, ASOP 23 requires that the actuary should disclose these limitations and any implications that may result ${ }^{10}$. For example, policies that have been inforce for many years may not have the original pricing and/or NGE determination sufficiently documented, or such documentation may no longer exist. As noted earlier, the actuary is allowed under ASOP 2 to exercise professional judgment when attempting to recreate these past determinations. Similarly, ASOP 2 also indicates that the actuary should disclose any reliances on the data used ${ }^{11}$. Such reliances do not relieve the actuary from the responsibility to review the data (and if applicable, the methodology and actuarial models that use that data) for reasonableness and consistency.
 
+ASOP 25, which discusses selecting and developing credibility procedures and the application of those procedures to sets of data ${ }^{12}$, may also be relevant during original and subsequent determination when reviewing emerging experience factors against the current NGE scale.
+
 ${ }^{4} \mathrm{Ibid}$, Section 3.4 .2
 
-$5 \mathrm{Ibid}$ Section 3.4.2.3
+${ }^{5} \mathrm{Ibid}$ Section 3.4.2.3
 
-$6 \mathrm{lbid}$ Section 3.2.b
+${ }^{6} \mathrm{lbid}$ Section 3.2.b
 
-7 lbid, as described in Sections 3, 3.10 and 4
+${ }^{7}$ lbid, as described in Sections 3, 3.10 and 4
 
-8 htp://www.actuarialstandardsboard.org/asops/data-quality/, Section 3.3
+${ }^{8}$ htp://www.actuarialstandardsboard.org/asops/data-quality/, Section 3.3
 
-$9 \mathrm{lbid}$
+${ }^{9} \mathrm{lbid}$
 
-10 Ibid, Section 3.1
+${ }^{10}$ Ibid, Section 3.1
 
 ${ }^{11} \mathrm{Ibid}^{\text {, }}$, Section 3.5
 
-ASOP 25, which discusses selecting and developing credibility procedures and the application of those procedures to sets of data ${ }^{12}$, may also be relevant during original and subsequent determination when reviewing emerging experience factors against the current NGE scale.
+${ }^{12}$ http://www.actuarialstandardsboard.org/asops/credibility-procedures/, Section 1.1
+
 
 ### 3.5 Modeling Considerations
 
@@ -213,13 +223,15 @@ When determining NGEs on inforce business, an ideal place to start might be with
 
 Regardless of the starting point of the model used in determining NGEs, the guidance of ASOP 56 is paramount. Here, the actuary can find criteria for designing, developing, selecting, modifying, using reviewing, and evaluating models.
 
-12 http://www.actuarialstandardsboard.org/asops/credibility-procedures/, Section 1.1
 
-13 http://www.actuarialstandardsboard.org/asops/modeling-3/
+
+${ }^{13}$ http://www.actuarialstandardsboard.org/asops/modeling-3/
 
 ## Section 4: Regulations affecting NGEs
 
-Because NGEs are a significant driver of a life insurance policy illustration, certain regulatory restrictions exist to protect consumers and enhance the public's education around life insurance. The NAIC's Life Insurance Illustrations Model Regulation (Model 582) provides the framework for how insurers interface with prospective insured persons ("applicants") in the United States during the marketing of their products. Every individual and group life insurance policy is subject to Model 582, with these exceptions: (1) variable life insurance policies, (2) individual and group annuity policies, (3) credit life insurance, and (4) life insurance policies with no illustrated death benefits on any individual exceeding $\$ 10,000^{14}$.
+Because NGEs are a significant driver of a life insurance policy illustration, certain regulatory restrictions exist to protect consumers and enhance the public's education around life insurance. The NAIC's Life Insurance Illustrations Model Regulation (Model 582) provides the framework for how insurers interface with prospective insured persons ("applicants") in the United States during the marketing of their products. Every individual and group life insurance policy is subject to Model 582, with these exceptions: (1) variable life insurance policies, (2) individual and group annuity policies, (3) credit life insurance, and (4) life insurance policies with no illustrated death benefits on any individual exceeding $ USD 10,000^{14}$.
+
+[^0]:    ${ }^{14}$ Model Reg 582, Section 3. Applicability and Scope
 
 Not all policies are illustrated, however. As part of the product filing process, the insurer will notify the commissioner as to whether a policy form is to be marketed with or without an illustration. For those marketed with an illustration, a basic illustration is provided to each applicant. Model 582 requires the basic illustration to include a numeric summary of the death benefits, policy values and premium outlay. Three bases are required:
 
@@ -229,7 +241,7 @@ b. Insurer's illustrated scale
 
 c. Insurer's illustrated scale but with the NGEs reduced as follows:
 
-- $\quad$ Non-guaranteed credited interest at rates that are the average of the guaranteed rates and the rates contained in the illustrated scale used.
+- Non-guaranteed credited interest at rates that are the average of the guaranteed rates and the rates contained in the illustrated scale used.
 - All non-guaranteed charges, including but not limited to, term insurance charges, mortality and expense charges, at rates that are the average of the guaranteed rates and the rates contained in the illustrated scale used.
 
 Model Regulations are promulgated by the National Association of Insurance Commissioners (NAIC) for adoption by each state. Because insurance is generally regulated by states and not the federal government, Model Regulations provide a degree of uniformity from state to state regarding the rules and requirements insurers must follow.
@@ -247,17 +259,15 @@ Model 582, together with ASOP 24, lays out the regulatory framework for life ins
 
 While Model 582 specifically deals with NGEs within insurance policies, other model regulations cover requirements on communications to policyholders, illustrations for applicants, contractual policy provisions, state-approval filing requirements and various other provisions relevant to policies with NGEs. Most of these model regulations are specific to a type of insurance contract and are listed below. These regulations may be peripheral to the actuary's involvement in product development, NGE determination or NGE redetermination.
 
-Model 235: Interest-Indexed Annuity Contracts Model Regulation.
-
-Model 250: Variable Annuity Model Regulation
-
-Model 270: Variable Life Insurance Model Regulation
-
-Model 580: Life Insurance Disclosure Model Regulation
-
-Model 585: Universal Life Insurance Model Regulation
+* Model 235: Interest-Indexed Annuity Contracts Model Regulation.
+* Model 250: Variable Annuity Model Regulation
+* Model 270: Variable Life Insurance Model Regulation
+* Model 580: Life Insurance Disclosure Model Regulation
+* Model 585: Universal Life Insurance Model Regulation
 
 Most of these model regulations also cover aspects of statutory reserve requirements. While not the focus of this paper, reserves are critical to the product development and in force management processes of blocks with NGEs. Formulaic reserve methods typically value the underlying guarantees of the policy, since the guaranteed death benefit and policy values are what the insurer is obligated to pay to an insured person when the insured qualifies for these benefits. One may think of the formulaic reserve as the floor to the statutory reserve amount. Amounts in excess of this floor amount are typically determined using cash flow modeling methods such as cash flow testing, principle-based reserve methodology and GAAP methods. For these, the NGEs are recognized in forecasted anticipated cash flows using the company's NGE policies, experience assumptions, and varying levels of margins for conservatism, depending on the reporting regime.
+
+
 
 ### 4.1 New York Regulation 210
 
@@ -295,7 +305,13 @@ ${ }^{17}$ ClA Guidance, December 2011
 
 In Singapore, the Monetary Authority of Singapore issued Notice 320: Management of Participating Life Insurance Business ${ }^{18}$. This notice sets out requirements for insurers to have in place an internal governance policy, governance and controls related to allocation of charges and expenses, and disclosures related to the management of participating life insurance business. The Monetary Authority requires adherence to this policy and sets out the roles and responsibilities of the insurance company's board of directors, senior management, and the appointed actuary. In concert, the Singapore Actuarial Society issued Standard of Actuarial Practice L03 for Appointed Actuaries on Participating Fund Management for Life Insurance Business, intended as the actuary's supplement to Notice 320. The regulations and guidance for bonus rates are mainly concerned with getting companies to set their own policy for how they will manage the fund but leaving it up to the discretion of each company to decide how to implement that in practice.
 
+${ }^{18}$ https://www.mas.gov.sg/regulation/notices/notice-320
+
 In Hong Kong, the Insurance Authority issued Guideline 16: Underwriting Long Term Insurance Business (Other than Class C Business) ${ }^{19}$ which sets out the requirements for insurers to adhere to with respect to fair treatment of customers. In particular, according to this guideline, the appointed actuary has the duty to advise the board of the company of his or her interpretation of policyholders' reasonable expectations, which needs to be considered when determining the level of NGEs - although there is no prescribed approach to NGE determination. For unit-linked business, there is a similar guideline in place (Guideline 15: Guideline on Underwriting Class C Business ${ }^{20}$ ) that requires companies to determine fees and charges in a fair manner. In late 2021, the Insurance Authority and the Securities and Futures Commission issued a respective set of requirements to their so-called "green light process" for unit-linked product approval. These requirements aim at strengthening the governance and disclosure for unitlinked business and also to ensure the principle of treating customers fairly is considered, particularly with respect to fees and charges. Under the new rules insurers will need to perform benchmarking to demonstrate their level of charges (such as cost of insurance rates, platform fees, and surrender charges) are comparable to other "alternatives" in the market.
+
+${ }{19}$ https://www.ia.org.hk/en/legislative framework/files/GL16.pdf
+
+${ }{20}$ https://www.ia.org.hk/en/legislative framework/files/GL15.pdf
 
 In Japan, there are no formal ASOPs specific to NGEs, although an ASOP for the appointed actuary function does mandate that an appointed actuary confirm that the annual policyholder dividend resource is adequately funded.
 
@@ -304,6 +320,8 @@ In Japan, there are no formal ASOPs specific to NGEs, although an ASOP for the a
 In the early 2000s, a fair amount of regulation was introduced that required insurers to ensure that NGE determinations were compatible with the original terms and conditions introduced at product pricing. Such regulations also focused on treating customers fairly (referred to as the "TCF principle"), requiring disclosure at point of sale for the circumstances of when NGEs are subject to determination and notifying policyholders in good time when changing NGEs as a result of a determination.
 
 There are not any current active UK actuarial professional standards or guidance that adds to these earlier regulations. The Association of British Insurers, a UK industry body, has published some industry guidance around examples of fair contract terms relating to NGEs ${ }^{21}$.
+
+${ }^{21}$ https://www.abi.org.uk/globalassets/sitecore/files/documents/publications/public/migrated/income-replacement/advice-on-practical-aspects-of-unfaircontract-terms-for-non-investment-protection-policies-with-reviewable-premiums.pdf
 
 Relating to NGE frameworks, with-profits (i.e., participating) insurers in the UK will publish a Principles and Practices of Financial Management ("PPFM") document that sets out how discretionary elements such as NGEs will be managed. The principles are high level, overarching statements of how the business will be run. The level of detail included in PPFMs varies between insurers. Principles and practices can be amended by insurers at any time, with[^1]written notice to policyholders required. The requirements for a PPFM in the UK are set out in the Financial Conduct Authority's Conduct of Business Sourcebook ${ }^{22}$.
 
@@ -323,6 +341,8 @@ A key part of this analysis is reviewing documentation and anticipated experienc
 
 ASOP 2 instructs actuaries to recommend the creation of an NGE Framework if one does not already exist or is incomplete ${ }^{23}$, and the framework should include periodic review of NGE scales in in force policies. This framework can serve as a guide for how to evaluate blocks of business and make the necessary revisions. The form of the framework is not specified by the ASOP. It can include existing documentation and be consistent with the company needs and governance structure.
 
+${ }^{23}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 3.1
+
 ### 6.3 Experience data
 
 Examples of anticipated experience factors listed in ASOP 2 include investment income, mortality, morbidity, policy persistency, and expense. Insurers may already have processes set up to monitor emerging experience as part of business-as-usual activities in support of periodic financial reporting processes. However, if this is performed for a larger block of business, the actuary may want to consider whether the conclusions reached are appropriate for the NGE analysis or whether more granular analysis needs to be carried out. Other considerations include, but are not limited to, the credibility of the experience, whether the existing assumptions that correspond to the anticipated experience factors are supported by the emerging experience, the materiality of changes in the experience, and the sensitivity of profitability to changes in assumptions for the anticipated experience factors.
@@ -334,6 +354,8 @@ In addition to knowing the insurer's current anticipated experience factors for 
 There is not an industry standard methodology for evaluating changes in anticipated experience factors for purposes of revising NGE scales. ASOP 2 provides some general guidance - review prior determinations, analyze experience, consider whether to recommend a revision, then determine revised NGE scales - but is far from prescriptive, and the precise methodology that is employed to revise NGE scales may vary from company to company. In addition, in the litigation that has arisen for the insurers that do revise NGE scales, particularly to cost of insurance charges, there is inconsistent case law.[^2]
 
 One example approach outlined in ASOP 2 is to revise NGE scales such that the prospective profitability from the time of revision, taking into account the prospective pattern of profits by duration, is not materially greater than that using the original NGE scales and original anticipated experience factors, holding all other assumptions constant between the projections ${ }^{24}$.
+
+${ }^{24} \mathrm{Ibid}$, Section 3.4.2.4.c
 
 ### 6.5 Litigation
 
@@ -358,6 +380,8 @@ Company $\mathrm{ABC}$ is concerned about why profits are so low relative to pri
 - Does the company have a framework or determination policy for evaluating NGEs?
 
 Company Response: An NGE Framework includes the determination policy, methodology for establishing policy classes, and any additional methods and criteria used to determine NGE scales. ABC has portions of these elements, but it does not yet have a fully complete and documented framework. To comply with the $\mathrm{ASOP}^{25}$, the actuaries at $\mathrm{ABC}$ should recommend that the framework be created.
+
+${ }^{25}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 3.1
 
 The determination policy includes the insurer's principles or objectives for determining NGEs. Portions of $A B C$ 's determination policy can be found in the governance processes and corporate policies but given the latest guidance in the newly revised ASOP 2, ABC should revisit the determination policy and expand it to include elements suggested by the ASOP. Note that a determination policy should include a timetable for periodic review of NGEs, so ABC should set up a repeatable process and continue to perform this analysis on a regular basis.
 
@@ -419,21 +443,3 @@ Some combination of these types of revisions could be appropriate for each produ
 ### 7.1 Conclusion
 
 There are a range of acceptable decisions that can be made after evaluating NGEs. Different actuaries may make different recommendations, and different insurers may make different decisions on how to manage profitability levels. Any revisions to NGE scales should ultimately be decided by (and coordinated with) other key stakeholders within the insurance company. ASOP 2 does not require insurers to revise NGE scales, but it does require periodic review and documentation of the associated analysis and results, whether a revision is recommended or not.
-
-
-[^0]:    ${ }^{14}$ Model Reg 582, Section 3. Applicability and Scope
-
-[^1]:    18 https://www.mas.gov.sg/regulation/notices/notice-320
-
-    19 https://www.ia.org.hk/en/legislative framework/files/GL16.pdf
-
-    20 https://www.ia.org.hk/en/legislative framework/files/GL15.pdf
-
-    ${ }^{21}$ https://www.abi.org.uk/globalassets/sitecore/files/documents/publications/public/migrated/income-replacement/advice-on-practical-aspects-of-unfaircontract-terms-for-non-investment-protection-policies-with-reviewable-premiums.pdf
-
-[^2]:    ${ }^{23}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 3.1
-
-[^3]:    ${ }^{24} \mathrm{Ibid}$, Section 3.4.2.4.c
-
-[^4]:    ${ }^{25}$ http://www.actuarialstandardsboard.org/asops/asop-no-2-nonguaranteed-elements-for-life-insurance-and-annuity-products/, Section 3.1
-

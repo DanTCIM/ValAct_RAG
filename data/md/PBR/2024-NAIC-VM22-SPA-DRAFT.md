@@ -776,15 +776,15 @@ Table 6.12: Base Lapse Rates for Fixed Annuities with Guaranteed Living Benefits
 
 For contracts in which there is no account value or surrender benefit, such as some contracts within the Payout Annuity Reserving Category and Longevity Reinsurance Reserving Category, this section is not applicable.
 
-6.	Annuitizations
+### 6.	Annuitizations
 
 - a. The annuitization rate for contracts shall be 0% at all projection intervals. 
 
-7.	Index Transfers and Future Deposits
+### 7.	Index Transfers and Future Deposits
 - a.	No transfers between fixed and index strategies or accounts shall be assumed in the projection unless required by the contract (e.g., contractual rights given to the insurer to implement a contractually specified portfolio insurance management strategy). When transfers must be modeled, to the extent not inconsistent with contract language, the allocation of transfers to indices, accounts, or funds must be in proportion to the contract’s current allocation to funds.
 - b.	No future deposits to account value shall be assumed unless required by the terms of the contract, in which case they must be modeled. When future deposits must be modeled, to the extent not inconsistent with contract language, the allocation of the deposit to funds must be in proportion to the contract’s current allocation to such funds.
 
-8.	Mortality
+### 8.	Mortality
 The following mortality rates shall be used:
 - a. Individual annuity contracts within the Accumulation Reserving Category shall use the mortality rates in Section 6.C.3.h.i with Projection Scale G2 mortality improvement factors applied from December 31, 2021 up until each future projection year.
 
@@ -796,7 +796,7 @@ The following mortality rates shall be used:
 
 - d. Group annuities, international business, and contracts within the Longevity Reinsurance Category shall use the mortality rates in Section 6.C.3.h.iv with Projection Scale AA mortality improvement factors applied from the valuation date up until each future projection year. However, if the company’s prudent estimate assumption is used in Section 6.C.3.h.iv and already reflects mortality improvement from December 31, 2021 up until the projection year, then Projection Scale AA mortality improvement factors shall not be used.
 
-9.	Account Value Depletions  
+### 9.	Account Value Depletions  
 
 The following assumptions shall be used when a contract’s Account Value reaches zero:
 - a. 	If the contract has a guaranteed living benefit, the contract shall take benefits that are equal in amount each year to the guaranteed maximum annual withdrawal amount.
@@ -805,7 +805,7 @@ The following assumptions shall be used when a contract’s Account Value reache
 
 - c. 	If the contract has no minimum guaranteed benefits, the contract should be terminated according to contractual terms.
 
-10.	Other Voluntary Contract Terminations  
+### 10.	Other Voluntary Contract Terminations  
 For contracts that have other elective provisions that allow a contract holder to terminate the contract voluntarily, the termination rate shall be calculated as detailed above in Section 6.C.5 with the following adjustments:
 - a. 	If the contract holder is not yet eligible to terminate the contract under the elective provisions, the termination rate shall be zero.
 
@@ -815,7 +815,7 @@ For contracts that have other elective provisions that allow a contract holder t
 
 - d. 	For contracts with guaranteed living benefits, for all contract years in which a withdrawal is projected, the termination rate obtained from Section 6.C.5 shall be additionally multiplied by 60%.
 
-11.	Crediting Rates and Investment Spread
+### 11.	Crediting Rates and Investment Spread
 
 - a. This section applies to all contracts that provide crediting rates after initial issuance.
 

@@ -7,22 +7,6 @@ from streamlit_pdf_viewer import pdf_viewer
 base_path = "./data/pdf"
 md_path = "./data/md"
 
-# Scan a directory and return a dictionary of folders and files
-# @st.cache_data
-# def scan_directory(base_path):
-#     folders_files = {}
-#     for folder in os.listdir(base_path):
-#         folder_path = os.path.join(base_path, folder)
-#         if os.path.isdir(folder_path):
-#             files = ["All"]
-#             for file in os.listdir(folder_path):
-#                 # Exclude system files like .DS_Store
-#                 if file != ".DS_Store":
-#                     files.append(file)
-#             files[1:] = sorted(files[1:])
-#             folders_files[folder] = files
-#     return folders_files
-
 collection_list = [
     "SAP",
     "PBR",

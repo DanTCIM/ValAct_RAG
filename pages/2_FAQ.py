@@ -32,7 +32,7 @@ def main():
     with st.expander("What large language model (LLM) is used?"):
         st.write(
             """
-            The application uses Anthropic's Claude 3 model for generating responses. The model is chosen due to its ability to get input size as large as 200 thousand tokens (about 400-500 pages of texts). Claude 3 is also used to develop the summary of each document.
+            The application uses Anthropic's Claude 3.5 Sonnet model for generating responses. The model is chosen due to its ability to get input size as large as 200 thousand tokens (about 400-500 pages of texts). Claude 3 is also used to develop the summary of each document.
         """
         )
 

@@ -296,7 +296,7 @@ def main():
         layout="wide",
     )
     use_anthropic = True
-    model_name = "claude-3-sonnet-20240229" if use_anthropic else "gpt-4-turbo"
+    model_name = "claude-3-5-sonnet-20240620" if use_anthropic else "gpt-4o"
 
     tab1, tab2 = setup_tabs()
     display_header(tab1)

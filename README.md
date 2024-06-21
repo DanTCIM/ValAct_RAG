@@ -18,14 +18,14 @@ The collections include:
 
 However, RAG is not without challenges, i.e., hallucination and inaccuracy. The project allows verifiability by providing the context an LLM used to arrive at those answers. This process enables actuaries to validate the LLM's answers, empowering them to make informed decisions. By combining the capabilities of LLM with verifiability, this RAG process offers actuaries a robust tool to leverage LLM technology effectively and extract maximum value.
 
-The current example uses Anthropic's Claude 3 Sonnet. The context window size is 200k tokens, which makes it suitable for understanding lengthy documents.
+The current example uses Anthropic's Claude 3.5 Sonnet. The context window size is 200k tokens, which makes it suitable for understanding lengthy documents.
 
 The RAG process used LangChain, a framework for developing applications powered by LLMs.
 
 ## 2. Output
 ### 2.1 Demo App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://valact-search.streamlit.app/)  
-Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/) powered by Claude 3.
+Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/) powered by Claude 3.5.
 
 ## 3. Model
 ### 3.1 Conceptual Flow

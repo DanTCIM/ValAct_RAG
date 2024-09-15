@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PDF files
+data/pdf/*
+
 # Draft files
 *XXX*
 

@@ -118,11 +118,11 @@ def load_md_file(md_file):
 
 def split_md_by_headers(page_content):
     headers_to_split_on = [
-        ("#", "Header 1"),
+        #    ("#", "Header 1"),
         ("##", "Header 2"),
-        ("###", "Header 3"),
-        ("####", "Header 4"),
-        ("#####", "Header 5"),
+        #    ("###", "Header 3"),
+        #    ("####", "Header 4"),
+        #    ("#####", "Header 5"),
     ]
     markdown_splitter = MarkdownHeaderTextSplitter(
         headers_to_split_on=headers_to_split_on,
@@ -141,7 +141,7 @@ def split_md_by_content(
 ):
     all_splits = []
     for doc in md_header_splits:
-        if len(doc.page_content) > 4000:
+        if len(doc.page_content) > 12000:
             if IsSemantic:
                 text_splitter = SemanticChunker(
                     embeddings=embeddings_model,

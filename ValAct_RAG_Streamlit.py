@@ -1,5 +1,12 @@
 # import os
 import streamlit as st
+
+st.set_page_config(
+    page_title="Actuarial Doc Q&A Model",
+    page_icon="📖",
+    layout="wide",
+)
+
 from common.config import (
     base_path,
     md_path,
@@ -290,11 +297,11 @@ def display_sidebar_buttons(msgs):
 
 
 def main():
-    st.set_page_config(
-        page_title="Actuarial Doc Q&A Model",
-        page_icon="📖",
-        layout="wide",
-    )
+    #    st.set_page_config(
+    #        page_title="Actuarial Doc Q&A Model",
+    #        page_icon="📖",
+    #        layout="wide",
+    #    )
     use_anthropic = True
     model_name = "claude-3-7-sonnet-20250219" if use_anthropic else "gpt-4o"
     # claude-3-5-sonnet-20241022

@@ -4,19 +4,15 @@ import pandas as pd
 import numpy as np
 from fredapi import Fred
 from langchain_experimental.agents import create_pandas_dataframe_agent
-from langchain.callbacks import StreamlitCallbackHandler
-from langchain.chat_models import ChatOpenAI
+from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
+from langchain_community.chat_models import ChatOpenAI
 import os
+import tabulate
 
 
-def main():
-    st.set_page_config(page_title="Treasury", page_icon="📈")
-    st.title("FRED Treasury Data")
-
-    # Load FRED API key
+@st.cache_data(ttl=86400)  # Cache result for 1 day (86400 seconds)
+def load_fred_data():
     fred = Fred(api_key=st.secrets["FRED_API_KEY"])
-
-    # Define treasury series
     series_ids = {
         "3 Month": "DGS3MO",
         "5 Year": "DGS5",
@@ -24,7 +20,6 @@ def main():
         "30 Year": "DGS30",
     }
 
-    # Download from FRED
     df_list = []
     for label, code in series_ids.items():
         series = fred.get_series(code)
@@ -33,6 +28,15 @@ def main():
     combined_df = pd.concat(df_list, axis=1)
     combined_df.index.name = "Date"
     combined_df = combined_df.dropna(how="all").reset_index()
+
+    return combined_df, list(series_ids.keys())
+
+
+def main():
+    st.set_page_config(page_title="Treasury", page_icon="📈")
+    st.title("FRED Treasury Data")
+
+    combined_df, output_list = load_fred_data()
 
     # Prepare data for chart
     melted_df = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
@@ -44,7 +48,6 @@ def main():
     y_end = np.ceil(melted_df["Yield"].max() * 2) / 2
 
     # Dropdown for filtering
-    output_list = list(series_ids.keys())
     input_dropdown = alt.binding_radio(
         options=output_list + [None],
         labels=[label + " " for label in output_list] + ["All"],

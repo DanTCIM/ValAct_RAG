@@ -29,14 +29,27 @@ def load_fred_data():
     combined_df.index.name = "Date"
     combined_df = combined_df.dropna(how="all").reset_index()
 
-    return combined_df, list(series_ids.keys())
+    todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
+
+    combined_df["Date"] = pd.to_datetime(combined_df["Date"])
+
+    # Create a copy so we don't mutate the main DataFrame
+    month_end_df = combined_df.copy()
+    month_end_df = month_end_df.sort_values("Date")
+    month_end_df["YearMonth"] = month_end_df["Date"].dt.to_period("M")
+    month_end_data = month_end_df.groupby("YearMonth").last().reset_index(drop=True)
+    month_end_data = month_end_data[month_end_data["Date"] >= "2022-01-01"]
+    month_end_data = month_end_data.set_index("Date")
+    month_end_data.index = month_end_data.index.strftime("%Y-%m-%d")
+
+    return combined_df, list(series_ids.keys()), todays_date, month_end_data
 
 
 def main():
     st.set_page_config(page_title="Treasury", page_icon="📈")
     st.title("FRED Treasury Data")
 
-    combined_df, output_list = load_fred_data()
+    combined_df, output_list, todays_date, month_end_data = load_fred_data()
 
     # Prepare data for chart
     melted_df = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
@@ -106,6 +119,20 @@ def main():
 
     # Show chart
     st.altair_chart(final_chart, theme=None, use_container_width=True)
+
+    with st.sidebar:
+        st.subheader("Month-End Data Table")
+        st.dataframe(month_end_data[output_list])
+
+        st.write(f"Data source: FRED as of {todays_date}")
+        st.markdown("[FRED Treasury Rates](https://fred.stlouisfed.org/categories/115)")
+
+        st.markdown(
+            """
+            You can find the code and the documentation of the project in 
+            [GitHub](https://github.com/DanTCIM/TreasuryYieldTracker.git).
+        """
+        )
 
     # LLM section
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]

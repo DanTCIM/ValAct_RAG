@@ -1,10 +1,15 @@
-langchain
-langchain-openai
-langchain-community
-langchain-anthropic
-langchain-pinecone==0.1.0
+langchain==0.3.25
+langchain-openai==0.3.21
+langchain-community==0.3.24
+langchain-anthropic==0.3.15
+langchain-pinecone==0.2.8
+langchain-experimental==0.3.4
 streamlit
 streamlit-pdf-viewer==0.0.10
 pinecone-client==3.2.2
 ipython  # For display, Markdown, Latex functionalities
 python-dotenv
+fredapi==0.5.2
+altair==5.5.0
+numpy==1.26.4
+pandas==2.2.3

@@ -127,13 +127,6 @@ def main():
         st.write(f"Data source: FRED as of {todays_date}")
         st.markdown("[FRED Treasury Rates](https://fred.stlouisfed.org/categories/115)")
 
-        st.markdown(
-            """
-            You can find the code and the documentation of the project in 
-            [GitHub](https://github.com/DanTCIM/TreasuryYieldTracker.git).
-        """
-        )
-
     # LLM section
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 

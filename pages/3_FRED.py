@@ -106,12 +106,12 @@ def main():
     # Quarter lines
     start_date = melted_df["Date"].min()
     end_date = melted_df["Date"].max()
-    quarter_starts_df = pd.DataFrame(
-        {"Date": pd.date_range(start=start_date, end=end_date, freq="QS")}
+    quarter_ends_df = pd.DataFrame(
+        {"Date": pd.date_range(start=start_date, end=end_date, freq="Q")}
     )
 
     quarter_lines = (
-        alt.Chart(quarter_starts_df)
+        alt.Chart(quarter_ends_df)
         .mark_rule(color="gray", strokeWidth=1)
         .encode(x="Date:T")
     )

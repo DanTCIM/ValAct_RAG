@@ -18,6 +18,8 @@ def load_fred_data():
         "5 Year": "DGS5",
         "10 Year": "DGS10",
         "30 Year": "DGS30",
+        "A Spread": "BAMLC0A3CA",
+        "BBB Spread": "BAMLC0A4CBBB",
     }
 
     df_list = []
@@ -46,8 +48,8 @@ def load_fred_data():
 
 
 def main():
-    st.set_page_config(page_title="Treasury", page_icon="📈")
-    st.title("FRED Treasury Data")
+    st.set_page_config(page_title="Yield Data", page_icon="📈")
+    st.title("FRED Yield Data")
 
     combined_df, output_list, todays_date, month_end_data = load_fred_data()
 
@@ -126,6 +128,12 @@ def main():
 
         st.write(f"Data source: FRED as of {todays_date}")
         st.markdown("[FRED Treasury Rates](https://fred.stlouisfed.org/categories/115)")
+        st.markdown(
+            "[ICE BofA Single-A US Corporate Index Option-Adjusted Spread](https://fred.stlouisfed.org/series/BAMLC0A3CA)"
+        )
+        st.markdown(
+            "[ICE BofA BBB US Corporate Index Option-Adjusted Spread](https://fred.stlouisfed.org/series/BAMLC0A4CBBB)"
+        )
 
     # LLM section
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
@@ -134,13 +142,18 @@ def main():
         "Clear conversation history"
     ):
         st.session_state["messages"] = [
-            {"role": "assistant", "content": "Welcome to Treasury Yield Tracker!"}
+            {
+                "role": "assistant",
+                "content": "Welcome to Fred Treasury Yield and Corp Spread Tracker!",
+            }
         ]
 
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
-    if prompt := st.chat_input(placeholder="Ask questions on the interest rate data."):
+    if prompt := st.chat_input(
+        placeholder="Ask questions on the interest rate and spread data."
+    ):
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.chat_message("user").write(prompt)
 

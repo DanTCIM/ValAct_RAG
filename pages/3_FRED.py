@@ -127,7 +127,9 @@ def main():
         st.dataframe(month_end_data[output_list])
 
         st.write(f"Data source: FRED as of {todays_date}")
-        st.markdown("[FRED Treasury Rates](https://fred.stlouisfed.org/categories/115)")
+        st.markdown(
+            "[Constant Maturity Treasury (CMT) Rates](https://fred.stlouisfed.org/categories/115)"
+        )
         st.markdown(
             "[ICE BofA Single-A US Corporate Index Option-Adjusted Spread](https://fred.stlouisfed.org/series/BAMLC0A3CA)"
         )

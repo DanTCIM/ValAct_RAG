@@ -5,7 +5,9 @@ import numpy as np
 from fredapi import Fred
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
+
+# from langchain_community.chat_models import ChatOpenAI
 import os
 import tabulate
 
@@ -24,16 +26,20 @@ def load_fred_data():
 
     df_list = []
     for label, code in series_ids.items():
-        series = fred.get_series(code)
-        df_list.append(series.rename(label).to_frame())
+        # series = fred.get_series(code)
+        # df_list.append(series.rename(label).to_frame())
+        try:
+            series = fred.get_series(code)
+            df_list.append(series.rename(label).to_frame())
+        except Exception as e:
+            st.warning(f"Failed to fetch series '{label}' ({code}): {e}")
 
     combined_df = pd.concat(df_list, axis=1)
     combined_df.index.name = "Date"
     combined_df = combined_df.dropna(how="all").reset_index()
 
-    todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
-
     combined_df["Date"] = pd.to_datetime(combined_df["Date"])
+    todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
 
     # Create a copy so we don't mutate the main DataFrame
     month_end_df = combined_df.copy()
@@ -159,7 +165,9 @@ def main():
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.chat_message("user").write(prompt)
 
-        llm = ChatOpenAI(temperature=0, model="gpt-4o", streaming=True)
+        llm = ChatOpenAI(
+            model="gpt-5", streaming=True
+        )  # removed "temperature=0," from the argument
         pandas_df_agent = create_pandas_dataframe_agent(
             llm,
             combined_df,
@@ -170,7 +178,8 @@ def main():
 
         with st.chat_message("assistant"):
             st_cb = StreamlitCallbackHandler(st.container(), expand_new_thoughts=False)
-            response = pandas_df_agent.run(st.session_state.messages, callbacks=[st_cb])
+            response = pandas_df_agent.run(prompt, callbacks=[st_cb])
+            # response = pandas_df_agent.run(st.session_state.messages, callbacks=[st_cb]) # updated the code as per the following recommendation: Feed the prompt, not the message list, to the agent
             st.session_state.messages.append({"role": "assistant", "content": response})
             st.write(response)
 

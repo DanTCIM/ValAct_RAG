@@ -24,7 +24,9 @@ from common.handler import (
     StreamHandler,
     PrintRetrievalHandler,
 )
-from langchain_community.chat_models import ChatOpenAI
+
+# from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI as OpenAIChat  # prefer official provider
 from langchain_anthropic import ChatAnthropic
 from langchain.memory import ConversationBufferMemory
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
@@ -33,6 +35,15 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 import pandas as pd
+from langchain.retrievers import ContextualCompressionRetriever
+from langchain.retrievers.document_compressors import EmbeddingsFilter
+
+# ==== RAG retrieval tuning constants ====
+FETCH_K = 80  # hidden candidate pool for retrieval
+MAX_CONTEXT_DOCS = 40  # after compression
+USE_THRESHOLD = False  # filter out weak matches
+SCORE_THRESHOLD = 0.1  # only if USE_THRESHOLD = True
+# =========================================
 
 
 def setup_tabs():
@@ -128,12 +139,17 @@ def setup_vectorstore(collection_name):
 
 
 def setup_retriever(vectorstore, document_name, num_source, flag_mmr, _lambda_mult):
-    search_kwargs = {"k": num_source}
+    search_kwargs = {"k": FETCH_K}
 
     if document_name != "All":
         search_kwargs["filter"] = {"source": document_name}
 
-    if flag_mmr:
+    if USE_THRESHOLD:
+        retriever = vectorstore.as_retriever(
+            search_type="similarity_score_threshold",
+            search_kwargs={**search_kwargs, "score_threshold": SCORE_THRESHOLD},
+        )
+    elif flag_mmr:
         retriever = vectorstore.as_retriever(
             search_type="mmr",
             search_kwargs={**search_kwargs, "lambda_mult": _lambda_mult},
@@ -163,10 +179,10 @@ def setup_llm(use_anthropic, model_name):
             streaming=True,
         )
     else:
-        llm = ChatOpenAI(
-            model_name=model_name,
-            openai_api_key=st.secrets["OPENAI_API_KEY"],
-            temperature=0,
+        llm = OpenAIChat(
+            model=model_name,
+            api_key=st.secrets["OPENAI_API_KEY"],
+            # temperature=0, #gpt-5 does not accept temperature setup
             streaming=True,
         )
     return llm
@@ -174,7 +190,10 @@ def setup_llm(use_anthropic, model_name):
 
 def setup_qa_chain(llm, retriever, memory):
     qa_chain = ConversationalRetrievalChain.from_llm(
-        llm, retriever=retriever, memory=memory, verbose=True
+        llm,
+        retriever=retriever,
+        memory=memory,
+        verbose=True,
     )
     return qa_chain
 
@@ -296,6 +315,15 @@ def display_sidebar_buttons(msgs):
         )
 
 
+def maybe_wrap_with_compression(retriever):
+    compressor = EmbeddingsFilter(
+        embeddings=OpenAIEmbeddings(model="text-embedding-3-large"), k=MAX_CONTEXT_DOCS
+    )
+    return ContextualCompressionRetriever(
+        base_compressor=compressor, base_retriever=retriever
+    )
+
+
 def main():
     #    st.set_page_config(
     #        page_title="Actuarial Doc Q&A Model",
@@ -303,8 +331,11 @@ def main():
     #        layout="wide",
     #    )
     use_anthropic = True
-    model_name = "claude-3-7-sonnet-20250219" if use_anthropic else "gpt-4o"
+    model_name = "claude-opus-4-1-20250805" if use_anthropic else "gpt-5"
+    # claude-3-7-sonnet-20250219
     # claude-3-5-sonnet-20241022
+    # claude-opus-4-1-20250805
+    # claude-sonnet-4-20250514
 
     tab1, tab2 = setup_tabs()
     display_header(tab1)
@@ -322,9 +353,10 @@ def main():
     ) = setup_rag_param()
 
     vectorstore = setup_vectorstore(collection_name)
-    retriever = setup_retriever(
+    base_retriever = setup_retriever(
         vectorstore, document_name, num_source, flag_mmr, _lambda_mult
     )
+    retriever = maybe_wrap_with_compression(base_retriever)
 
     msgs, memory = setup_memory()
     llm = setup_llm(use_anthropic, model_name)

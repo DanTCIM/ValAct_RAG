@@ -351,6 +351,10 @@ def handle_user_query(tab, qa_chain, msgs, flag_similarity_out, num_source):
 def main():
     use_anthropic = True
     model_name = "claude-opus-4-1-20250805" if use_anthropic else "gpt-5"
+    # claude-3-7-sonnet-20250219
+    # claude-3-5-sonnet-20241022
+    # claude-opus-4-1-20250805
+    # claude-sonnet-4-20250514
 
     tab1, tab2 = setup_tabs()
     display_header(tab1)

@@ -349,8 +349,8 @@ def handle_user_query(tab, qa_chain, msgs, flag_similarity_out, num_source):
 
 # ===== Main =====
 def main():
-    use_anthropic = True
-    model_name = "claude-opus-4-5-20251101" if use_anthropic else "gpt-5"
+    use_anthropic = False
+    model_name = "claude-opus-4-5-20251101" if use_anthropic else "gpt-5.2"
     # claude-3-7-sonnet-20250219
     # claude-3-5-sonnet-20241022
     # claude-opus-4-1-20250805

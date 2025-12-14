@@ -344,7 +344,21 @@ def handle_user_query(tab, qa_chain, msgs, flag_similarity_out, num_source):
                     calculate_similarity=flag_similarity_out,  # optional similarity calc
                 )
                 stream_handler = StreamHandler(st.empty())
-                qa_chain.run(user_query, callbacks=[retrieval_handler, stream_handler])
+                # qa_chain.run(user_query, callbacks=[retrieval_handler, stream_handler])
+                try:
+                    qa_chain.run(
+                        user_query, callbacks=[retrieval_handler, stream_handler]
+                    )
+                except ResponseNotRead:
+                    st.error(
+                        "The model response could not be read. Verify the selected model name "
+                        "and API credentials, then try again."
+                    )
+                except Exception as exc:  # noqa: BLE001
+                    st.error(
+                        "The model call failed. Check the app logs for details and try a "
+                        "different query or model."
+                    )
 
 
 # ===== Main =====

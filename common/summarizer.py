@@ -13,7 +13,7 @@ os.environ["ANTHROPIC_API_KEY"] = os.getenv("ANTHROPIC_API_KEY")
 
 
 def setup_llm_chain():
-    llm = ChatAnthropic(model_name="claude-sonnet-4-5-20250929", temperature=0)
+    llm = ChatAnthropic(model_name="claude-opus-4-5-20251101", temperature=0)
 
     prompt_template = """Write a summary of the following document using the format provided. The summary includes the title, publisher and published date if available, purpose and scope, key points, conclusion and implications, and key words. The summary should be comprehensive yet brief, aiming for a reading time of no more than one minute. Avoid any translation or substitution of actuarial terms in the document. When starting a summary, begin the summary with "Title:" without saying "Here is a summary". Here is the summary format:
 

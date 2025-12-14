@@ -166,7 +166,7 @@ def main():
         st.chat_message("user").write(prompt)
 
         llm = ChatOpenAI(
-            model="gpt-5", streaming=True
+            model="gpt-5.2", streaming=True
         )  # removed "temperature=0," from the argument
         pandas_df_agent = create_pandas_dataframe_agent(
             llm,

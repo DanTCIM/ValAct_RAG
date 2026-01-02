@@ -20,7 +20,7 @@ References
 2025 is a structural re-write, not a minor refresh:
 
 - clearer regulatory intent
-- stronger ALM + projection linkage
+- stronger ALM + projection linkage (e.g., asset projections)
 - more mandatory flags, identifiers, and consistency checks
 - clearer treatment of affiliated / connected assets
 - reduced ambiguity around what must be completed by whom
@@ -55,7 +55,7 @@ References
 	* Assets
 	* ALM
 	* SBA
-	* Asset Projections
+	* Asset Projections (new in 2025)
 	* Liquidity
 * Explicit separation between:
 	* Static asset description
@@ -157,7 +157,7 @@ This is the single biggest change in practice.
 
 * New dedicated sections:
 	* ALM
-	* Asset Projections
+	* Asset Projections (new)
 	* Liquidity Sources (optional / on request)
 * Assets must now:
 	* Map cleanly to projection IDs
@@ -181,7 +181,7 @@ References
 - Balance sheet date rolled forward (1 Jan 2025 → 1 Jan 2026)
 - SBA vs Standard Approach language strengthened
 	- Explicit quote-style emphasis on “no splitting of liabilities”
-	- If SBA eligibility fails under stress → entire business may need to revert to Standard Approach
+	- If SBA eligibility fails under stress → use Standard Approach
 	- Partial fallback must be disclosed
 - Liquidity stress mechanics unchanged but review for definitions tightening
 
@@ -222,7 +222,7 @@ References
 ### Thematic analysis
 - **E1:** BMA discretion elevated and ongoing
 	- Approval ≠ permanence
-	- Stress results, asset mix, or governance drift can trigger reversion to Standard Approach
+	- BMA's discretion can revert SBA to Standard Approach
 - **E2–E3:** Attestations and model change policy become accountability gates
 	- Emphasis on change triggers, materiality, BMA visibility, pre- vs. post-approval changes
 - **E4:** Well-matched portfolios treated as constraints

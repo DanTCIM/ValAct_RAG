@@ -9,7 +9,9 @@ from langchain_openai import ChatOpenAI
 import os
 
 
-JGB_LOCAL_CSV = "data/yield/jgbcme_2025.csv"
+JGB_ALL_CSV = (
+    "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/historical/jgbcme_all.csv"
+)
 JGB_REMOTE_CSV = (
     "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv"
 )
@@ -17,23 +19,22 @@ JGB_REMOTE_CSV = (
 
 @st.cache_data(ttl=86400)  # Cache result for 1 day (86400 seconds)
 def load_jgb_data():
-    output_list = ["1Y", "10Y", "30Y"]
+    output_list = ["1Y", "10Y", "30Y", "40Y"]
 
-    local_df = pd.read_csv(JGB_LOCAL_CSV, header=1)
-    local_df["Date"] = pd.to_datetime(local_df["Date"], errors="coerce")
+    all_df = pd.read_csv(JGB_ALL_CSV, header=1, encoding="cp932")
+    all_df["Date"] = pd.to_datetime(all_df["Date"], errors="coerce")
 
     remote_df = None
     try:
         remote_df = pd.read_csv(JGB_REMOTE_CSV, header=1, encoding="cp932")
         remote_df["Date"] = pd.to_datetime(remote_df["Date"], errors="coerce")
-        remote_df = remote_df[remote_df["Date"] >= "2026-01-01"]
     except Exception as e:
         st.warning(f"Failed to fetch JGB web CSV: {e}")
 
     if remote_df is not None:
-        combined_df = pd.concat([local_df, remote_df], axis=0, ignore_index=True)
+        combined_df = pd.concat([all_df, remote_df], axis=0, ignore_index=True)
     else:
-        combined_df = local_df.copy()
+        combined_df = all_df.copy()
 
     combined_df = combined_df.sort_values("Date").drop_duplicates(subset=["Date"])
     combined_df = combined_df[["Date"] + output_list]
@@ -58,6 +59,7 @@ def main():
     combined_df, output_list, todays_date, month_end_data = load_jgb_data()
 
     melted_df = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
+    melted_df["Yield"] = pd.to_numeric(melted_df["Yield"], errors="coerce")
     melted_df.dropna(subset=["Yield"], inplace=True)
     melted_df = melted_df[melted_df["Date"] >= "2022-09-01"]
 

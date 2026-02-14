@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  valact-rag:
+    build: .
+    container_name: valact_rag_app
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    restart: unless-stopped

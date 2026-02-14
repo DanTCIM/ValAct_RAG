@@ -3,6 +3,7 @@ port = 8501
 headless = true
 enableCORS = false
 enableXsrfProtection = false
+runOnSave = true  # <--- Add this line
 
 [browser]
 gatherUsageStats = false

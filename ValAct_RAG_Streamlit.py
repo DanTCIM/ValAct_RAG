@@ -10,8 +10,8 @@ st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖", layou
 from common.config import (
     base_path,
     md_path,
-    document_list,
-    document_link,
+    get_document_list,
+    get_document_link,
     collection_list,
     md_path_creator,
     md_loader,
@@ -86,6 +86,8 @@ def setup_sidebar(model_name):
 
 
 def setup_doc_selector():
+    document_list = get_document_list()
+    document_link = get_document_link()
     with st.sidebar:
         collection_name = st.selectbox(
             "Select your document collection", collection_list

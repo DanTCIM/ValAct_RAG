@@ -351,22 +351,17 @@ def handle_user_query(tab, qa_chain, msgs, flag_similarity_out, num_source):
                     qa_chain.run(
                         user_query, callbacks=[retrieval_handler, stream_handler]
                     )
-                except ResponseNotRead:
-                    st.error(
-                        "The model response could not be read. Verify the selected model name "
-                        "and API credentials, then try again."
-                    )
                 except Exception as exc:  # noqa: BLE001
                     st.error(
                         "The model call failed. Check the app logs for details and try a "
-                        "different query or model."
+                        f"different query or model.\n\nDetails: {exc}"
                     )
 
 
 # ===== Main =====
 def main():
-    use_anthropic = False
-    model_name = "claude-opus-4-5-20251101" if use_anthropic else "gpt-5.4"
+    use_anthropic = True
+    model_name = "claude-sonnet-4-6" if use_anthropic else "gpt-5.5"
     # claude-3-7-sonnet-20250219
     # claude-3-5-sonnet-20241022
     # claude-opus-4-1-20250805

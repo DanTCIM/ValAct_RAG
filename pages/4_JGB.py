@@ -148,7 +148,7 @@ def main():
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.chat_message("user").write(prompt)
 
-        llm = ChatOpenAI(model="gpt-5.2", streaming=True)
+        llm = ChatOpenAI(model="gpt-5.5", streaming=True)
         pandas_df_agent = create_pandas_dataframe_agent(
             llm,
             combined_df,

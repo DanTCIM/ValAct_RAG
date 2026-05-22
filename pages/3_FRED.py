@@ -34,6 +34,14 @@ def load_fred_data():
     combined_df["Date"] = pd.to_datetime(combined_df["Date"])
     todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
 
+    # Weekly resample for the long-range chart only (perf).
+    chart_df = (
+        combined_df.set_index("Date")
+        .resample("W-FRI")
+        .last()
+        .reset_index()
+    )
+
     month_end_df = combined_df.sort_values("Date").copy()
     month_end_df["YearMonth"] = month_end_df["Date"].dt.to_period("M")
     month_end_data = month_end_df.groupby("YearMonth").last().reset_index(drop=True)
@@ -41,11 +49,11 @@ def load_fred_data():
     month_end_data = month_end_data.set_index("Date")
     month_end_data.index = month_end_data.index.strftime("%Y-%m-%d")
 
-    return combined_df, list(series_ids.keys()), todays_date, month_end_data
+    return combined_df, chart_df, list(series_ids.keys()), todays_date, month_end_data
 
 
-def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
-    melted = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
+def _render_chart(chart_df: pd.DataFrame, output_list: list[str]):
+    melted = chart_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
     melted = melted.dropna(subset=["Yield"])
     melted = melted[melted["Date"] >= "2022-09-01"]
 
@@ -100,8 +108,8 @@ def main():
     st.set_page_config(page_title="Yield Data", page_icon="📈")
     st.title("FRED Yield Data")
 
-    combined_df, output_list, todays_date, month_end_data = load_fred_data()
-    _render_chart(combined_df, output_list)
+    combined_df, chart_df, output_list, todays_date, month_end_data = load_fred_data()
+    _render_chart(chart_df, output_list)
 
     with st.sidebar:
         st.subheader("Month-End Data Table")

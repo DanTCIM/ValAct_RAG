@@ -1,3 +1,6 @@
+import io
+import urllib.request
+
 import altair as alt
 import numpy as np
 import pandas as pd
@@ -6,49 +9,39 @@ import streamlit as st
 from valact.yield_chat import render_chat_panel
 
 
-JGB_ALL_CSV = (
-    "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/historical/jgbcme_all.csv"
-)
-JGB_REMOTE_CSV = (
-    "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv"
-)
+PARQUET_URL = "https://pub-bedeea83f4c04f0abb342c6e246f8db5.r2.dev/jgb/yields.parquet"
+OUTPUT_TENORS = ["1Y", "10Y", "30Y", "40Y"]
 
 
 @st.cache_data(ttl=86400, show_spinner=False)
 def load_jgb_data():
-    output_list = ["1Y", "10Y", "30Y", "40Y"]
-
-    all_df = pd.read_csv(JGB_ALL_CSV, header=1, encoding="cp932")
-    all_df["Date"] = pd.to_datetime(all_df["Date"], errors="coerce")
-
-    remote_df = None
-    try:
-        remote_df = pd.read_csv(JGB_REMOTE_CSV, header=1, encoding="cp932")
-        remote_df["Date"] = pd.to_datetime(remote_df["Date"], errors="coerce")
-    except Exception as exc:
-        st.warning(f"Failed to fetch JGB web CSV: {exc}")
-
-    combined_df = pd.concat([all_df, remote_df], axis=0, ignore_index=True) if remote_df is not None else all_df.copy()
-    combined_df = combined_df.sort_values("Date").drop_duplicates(subset=["Date"])
-    combined_df = combined_df[["Date"] + output_list]
-
-    for c in output_list:
-        combined_df[c] = pd.to_numeric(combined_df[c], errors="coerce")
+    # Cloudflare R2 public URLs reject the default Python-urllib UA with 403.
+    req = urllib.request.Request(PARQUET_URL, headers={"User-Agent": "ValAct-RAG/1.0"})
+    with urllib.request.urlopen(req) as resp:
+        combined_df = pd.read_parquet(io.BytesIO(resp.read()))
 
     todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
 
-    month_end_df = combined_df.sort_values("Date").copy()
+    # Weekly resample for the long-range chart only (perf).
+    chart_df = (
+        combined_df.set_index("Date")
+        .resample("W-FRI")
+        .last()
+        .reset_index()
+    )
+
+    month_end_df = combined_df.copy()
     month_end_df["YearMonth"] = month_end_df["Date"].dt.to_period("M")
     month_end_data = month_end_df.groupby("YearMonth").last().reset_index(drop=True)
     month_end_data = month_end_data[month_end_data["Date"] >= "2022-01-01"]
     month_end_data = month_end_data.set_index("Date")
     month_end_data.index = month_end_data.index.strftime("%Y-%m-%d")
 
-    return combined_df, output_list, todays_date, month_end_data
+    return combined_df, chart_df, todays_date, month_end_data
 
 
-def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
-    melted = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
+def _render_chart(chart_df: pd.DataFrame):
+    melted = chart_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
     melted["Yield"] = pd.to_numeric(melted["Yield"], errors="coerce")
     melted = melted.dropna(subset=["Yield"])
     melted = melted[melted["Date"] >= "2022-09-01"]
@@ -57,8 +50,8 @@ def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
     y_end = np.ceil(melted["Yield"].max() * 2) / 2
 
     radio = alt.binding_radio(
-        options=output_list + [None],
-        labels=[label + " " for label in output_list] + ["All"],
+        options=OUTPUT_TENORS + [None],
+        labels=[label + " " for label in OUTPUT_TENORS] + ["All"],
         name="Ticker: ",
     )
     selection = alt.selection_point(fields=["Ticker"], bind=radio)
@@ -69,7 +62,7 @@ def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
         .encode(
             x="Date:T",
             y=alt.Y("Yield:Q", scale=alt.Scale(domain=[y_start, y_end])),
-            color=alt.Color("Ticker:N", sort=output_list),
+            color=alt.Color("Ticker:N", sort=OUTPUT_TENORS),
         )
         .add_params(selection)
         .transform_filter(selection)
@@ -104,12 +97,12 @@ def main():
     st.set_page_config(page_title="JGB Yield Data", page_icon="📈")
     st.title("JGB Yield Data")
 
-    combined_df, output_list, todays_date, month_end_data = load_jgb_data()
-    _render_chart(combined_df, output_list)
+    combined_df, chart_df, todays_date, month_end_data = load_jgb_data()
+    _render_chart(chart_df)
 
     with st.sidebar:
         st.subheader("Month-End Data Table")
-        st.dataframe(month_end_data[output_list])
+        st.dataframe(month_end_data[OUTPUT_TENORS])
         st.write(f"Data source: MOF JGB as of {todays_date}")
         st.markdown(
             "[JGB Interest Rate - MOF](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/)"
@@ -117,7 +110,7 @@ def main():
 
     render_chat_panel(
         df=combined_df,
-        series_columns=output_list,
+        series_columns=OUTPUT_TENORS,
         label="Japanese Government Bond yields (JGB, MOF)",
         latest_date=todays_date,
         welcome="Welcome to JGB Yield Tracker!",

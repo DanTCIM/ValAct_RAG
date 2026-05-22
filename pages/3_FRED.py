@@ -1,37 +1,25 @@
+import io
+import urllib.request
+
 import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-from fredapi import Fred
 
-from valact.settings import get_secrets
 from valact.yield_chat import render_chat_panel
+
+
+PARQUET_URL = "https://pub-bedeea83f4c04f0abb342c6e246f8db5.r2.dev/fred/yields.parquet"
+OUTPUT_LIST = ["3 Month", "5 Year", "10 Year", "30 Year", "A Spread", "BBB Spread"]
 
 
 @st.cache_data(ttl=86400, show_spinner=False)
 def load_fred_data():
-    fred = Fred(api_key=get_secrets().fred)
-    series_ids = {
-        "3 Month": "DGS3MO",
-        "5 Year": "DGS5",
-        "10 Year": "DGS10",
-        "30 Year": "DGS30",
-        "A Spread": "BAMLC0A3CA",
-        "BBB Spread": "BAMLC0A4CBBB",
-    }
+    # Cloudflare R2 public URLs reject the default Python-urllib UA with 403.
+    req = urllib.request.Request(PARQUET_URL, headers={"User-Agent": "ValAct-RAG/1.0"})
+    with urllib.request.urlopen(req) as resp:
+        combined_df = pd.read_parquet(io.BytesIO(resp.read()))
 
-    df_list = []
-    for label, code in series_ids.items():
-        try:
-            series = fred.get_series(code)
-            df_list.append(series.rename(label).to_frame())
-        except Exception as exc:
-            st.warning(f"Failed to fetch series '{label}' ({code}): {exc}")
-
-    combined_df = pd.concat(df_list, axis=1)
-    combined_df.index.name = "Date"
-    combined_df = combined_df.dropna(how="all").reset_index()
-    combined_df["Date"] = pd.to_datetime(combined_df["Date"])
     todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
 
     # Weekly resample for the long-range chart only (perf).
@@ -49,10 +37,10 @@ def load_fred_data():
     month_end_data = month_end_data.set_index("Date")
     month_end_data.index = month_end_data.index.strftime("%Y-%m-%d")
 
-    return combined_df, chart_df, list(series_ids.keys()), todays_date, month_end_data
+    return combined_df, chart_df, todays_date, month_end_data
 
 
-def _render_chart(chart_df: pd.DataFrame, output_list: list[str]):
+def _render_chart(chart_df: pd.DataFrame):
     melted = chart_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
     melted = melted.dropna(subset=["Yield"])
     melted = melted[melted["Date"] >= "2022-09-01"]
@@ -61,8 +49,8 @@ def _render_chart(chart_df: pd.DataFrame, output_list: list[str]):
     y_end = np.ceil(melted["Yield"].max() * 2) / 2
 
     radio = alt.binding_radio(
-        options=output_list + [None],
-        labels=[label + " " for label in output_list] + ["All"],
+        options=OUTPUT_LIST + [None],
+        labels=[label + " " for label in OUTPUT_LIST] + ["All"],
         name="Ticker: ",
     )
     selection = alt.selection_point(fields=["Ticker"], bind=radio)
@@ -73,7 +61,7 @@ def _render_chart(chart_df: pd.DataFrame, output_list: list[str]):
         .encode(
             x="Date:T",
             y=alt.Y("Yield:Q", scale=alt.Scale(domain=[y_start, y_end])),
-            color=alt.Color("Ticker:N", sort=output_list),
+            color=alt.Color("Ticker:N", sort=OUTPUT_LIST),
         )
         .add_params(selection)
         .transform_filter(selection)
@@ -108,12 +96,12 @@ def main():
     st.set_page_config(page_title="Yield Data", page_icon="📈")
     st.title("FRED Yield Data")
 
-    combined_df, chart_df, output_list, todays_date, month_end_data = load_fred_data()
-    _render_chart(chart_df, output_list)
+    combined_df, chart_df, todays_date, month_end_data = load_fred_data()
+    _render_chart(chart_df)
 
     with st.sidebar:
         st.subheader("Month-End Data Table")
-        st.dataframe(month_end_data[output_list])
+        st.dataframe(month_end_data[OUTPUT_LIST])
         st.write(f"Data source: FRED as of {todays_date}")
         st.markdown(
             "[Constant Maturity Treasury (CMT) Rates](https://fred.stlouisfed.org/categories/115)"
@@ -127,7 +115,7 @@ def main():
 
     render_chat_panel(
         df=combined_df,
-        series_columns=output_list,
+        series_columns=OUTPUT_LIST,
         label="US Treasury yields and IG corporate spreads (FRED)",
         latest_date=todays_date,
         welcome="Welcome to FRED Treasury Yield and Corporate Spread Tracker!",

@@ -91,7 +91,6 @@ class Secrets:
     pinecone: str
     cohere: str | None
     voyage: str | None
-    fred: str | None
 
 
 def get_secrets() -> Secrets:
@@ -101,5 +100,4 @@ def get_secrets() -> Secrets:
         pinecone=_secret("PINECONE_API_KEY") or "",
         cohere=_secret("COHERE_API_KEY"),
         voyage=_secret("VOYAGE_API_KEY"),
-        fred=_secret("FRED_API_KEY"),
     )

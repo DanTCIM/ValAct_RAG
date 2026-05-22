@@ -4,7 +4,7 @@ on:
   schedule:
     # 10:00 UTC daily ≈ 19:00 JST (after MoF posts the day's CSV).
     # GitHub cron uses UTC; adjust as needed.
-    - cron: "0 10 * * *"
+    - cron: "0 10 * * 1-5"
   workflow_dispatch:  # lets you trigger it manually from the Actions tab
 
 jobs:

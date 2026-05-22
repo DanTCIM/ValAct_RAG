@@ -4,8 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Actuarial Doc Q&A Model", page_icon="📖", layout="wide")
 
-from valact.rag import answer_stream, expand_parents, rerank, retrieve
-from valact.settings import ANTHROPIC_MODEL, MAX_CONTEXT_PARENTS, RERANK_TOP_N, RETRIEVE_TOP_K
+from valact.settings import ANTHROPIC_MODEL
 from valact.ui import (
     format_sources_block,
     render_chat_history,
@@ -57,6 +56,11 @@ def main():
     if user_query := st.chat_input(
         placeholder="What is your question on the selected collection/document?"
     ):
+        # Defer heavy SDK imports (anthropic/pinecone/voyageai) until the first
+        # query so the page paints before clients load.
+        from valact.rag import answer_stream, expand_parents, rerank, retrieve
+        from valact.settings import MAX_CONTEXT_PARENTS, RERANK_TOP_N, RETRIEVE_TOP_K
+
         st.session_state.messages.append({"role": "user", "content": user_query})
         with tab_qa:
             st.chat_message("user").write(user_query)

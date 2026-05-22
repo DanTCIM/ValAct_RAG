@@ -90,7 +90,7 @@ def _slice(df: pd.DataFrame, start: str, end: str) -> pd.DataFrame:
 def _resample(window: pd.DataFrame, frequency: str, cols: list[str]) -> pd.DataFrame:
     if frequency == "daily" or window.empty:
         return window[["Date", *cols]]
-    rule = {"monthly": "M", "quarterly": "Q"}.get(frequency, "M")
+    rule = {"monthly": "ME", "quarterly": "QE"}.get(frequency, "ME")
     resampled = (
         window.set_index("Date")[cols]
         .resample(rule)

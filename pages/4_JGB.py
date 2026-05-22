@@ -93,7 +93,7 @@ def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
     )
 
     quarter_ends = pd.DataFrame(
-        {"Date": pd.date_range(start=melted["Date"].min(), end=melted["Date"].max(), freq="Q")}
+        {"Date": pd.date_range(start=melted["Date"].min(), end=melted["Date"].max(), freq="QE")}
     )
     quarter_lines = alt.Chart(quarter_ends).mark_rule(color="gray", strokeWidth=1).encode(x="Date:T")
 

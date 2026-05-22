@@ -32,7 +32,14 @@ def main():
     with st.expander("What large language model (LLM) is used?"):
         st.write(
             """
-            The application uses Anthropic's Claude 3.5 Sonnet model for generating responses. The model is chosen due to its ability to get input size as large as 200 thousand tokens (about 400-500 pages of texts). Claude 3 is also used to develop the summary of each document.
+            The application uses an Anthropic Claude model — chosen for its long context window and strong reasoning on technical and regulatory text. The specific model version is configured in the application settings and is shown in the sidebar disclaimer of the main Q&A page; it may be updated over time as newer Claude releases become available. Claude is also used to generate the AI summary of each document.
+        """
+        )
+
+    with st.expander("Is the retrieval reranked?"):
+        st.write(
+            """
+            Yes. The pipeline first retrieves the top 40 most similar chunks from Pinecone (with optional MMR diversity). It then passes those 40 candidates to Cohere's rerank model, which orders them by true relevance to the query. The top 10 reranked chunks are expanded to their parent header blocks and sent to the LLM as context. Reranking is the largest single quality win in modern RAG and costs ~200-400 ms per query.
         """
         )
 
@@ -45,7 +52,9 @@ def main():
 
     with st.expander("What embedding model is used?"):
         st.write(
-            "This application uses the OpenAI embeddings large model for generating text embeddings."
+            """
+            The application uses Voyage AI's `voyage-finance-2` model — a domain-tuned embedding model trained on financial, accounting, and regulatory text, producing 1024-dimensional vectors. It was chosen over a general-purpose embedding model (e.g. OpenAI's `text-embedding-3-large`) because actuarial documents heavily overlap with finance terminology, and a domain-tuned model produces measurably better retrieval ordering on this corpus.
+        """
         )
 
     with st.expander("What is a vector database?"):
@@ -78,9 +87,9 @@ def main():
     ):
         st.write(
             """
-            One can use a fixed number of tokens or pages as a straightforward method for chunking, but the application chose to use an embedding similarity method. This approach aims to create more coherent and semantically meaningful chunks by grouping text based on their embeddings' similarity.
+            The application uses header-aware chunking: documents are split first by Markdown section headers (#, ##, ###) so each chunk corresponds to a coherent section. Sections longer than ~1,200 tokens are sub-split into ~800-token pieces with a small overlap, using true tiktoken token counts.
 
-            A fixed number of tokens or pages can be used for chunking, and this can be computationally cheaper. Generally, smaller chunks are preferred for question-answering applications where precise retrieval is crucial, while larger chunks may be better suited for summarization or information extraction tasks that require more context.
+            Each fine chunk is embedded and indexed in Pinecone, but it also carries a `parent_id` pointing to its full section. After reranking, the parent sections (not the fine chunks) are sent to the LLM — this gives the model the larger context it needs while keeping retrieval precise at the chunk level. This pattern is often called *parent-document retrieval*.
         """
         )
 

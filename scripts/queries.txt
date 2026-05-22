@@ -1,0 +1,13 @@
+# Bench queries for ValAct_RAG. Format: collection|document_or_All|query
+# Lines starting with # are skipped.
+
+PBR|All|What is the deterministic reserve under VM-20?
+PBR|All|Explain the difference between the net premium reserve and the modeled reserve.
+ASOP_life|All|What disclosures are required under ASOP 22 for statements of opinion?
+GAAP|All|How are LDTI reserve assumptions reviewed and updated?
+SAP|All|Explain the AG 48 collateral requirements for XXX/AXXX captives.
+CFT|All|What scenarios are required for asset adequacy analysis under New York Regulation 126?
+Bermuda|All|What is the BSCR target capital level and how is it calculated?
+IFRS17|All|How does the variable fee approach differ from the general measurement model?
+Asset|All|What credit risk factors apply to NAIC-2 bonds under C1 capital?
+RiskFinance|All|How does coinsurance with funds withheld affect statutory capital?

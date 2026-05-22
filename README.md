@@ -18,14 +18,14 @@ The collections include:
 
 However, RAG is not without challenges, i.e., hallucination and inaccuracy. The project allows verifiability by providing the context an LLM used to arrive at those answers. This process enables actuaries to validate the LLM's answers, empowering them to make informed decisions. By combining the capabilities of LLM with verifiability, this RAG process offers actuaries a robust tool to leverage LLM technology effectively and extract maximum value.
 
-The current example uses Anthropic's Claude 3.5 Sonnet. The context window size is 200k tokens, which makes it suitable for understanding lengthy documents.
+The current example uses an Anthropic Claude model with a long context window suitable for understanding lengthy actuarial documents and citing across multiple sources in a single answer. The specific Claude version is configured in `valact/settings.py` (`ANTHROPIC_MODEL`) and may be updated over time as newer releases become available.
 
-The RAG process used LangChain, a framework for developing applications powered by LLMs.
+The retrieval pipeline calls Pinecone, Voyage, Cohere, and Anthropic SDKs directly (no LangChain orchestration layer in the hot path) for low latency. Documents are chunked with `langchain-text-splitters` during ingestion only.
 
 ## 2. Output
 ### 2.1 Demo App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://valact-search.streamlit.app/)  
-Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/) powered by Claude 3.5.
+Explore the potentials of RAG by visiting the Streamlit web app (https://valact-search.streamlit.app/), powered by Anthropic Claude.
 
 ## 3. Model
 ### 3.1 Conceptual Flow
@@ -38,12 +38,47 @@ For applications in practice, one should note that RAG is not perfect and can st
 ![RAG concept](./images/RAG_concept.png)
 
 ### 3.2 RAG Implementation Steps
-    1. Select PDF documents from a collection to perform RAG 
-    2. Convert PDF into markdown files for effective loading (MathPix service seems superior to open source processes)
-    3. Load markdown files to texts and split them into chunks using semantics method
-    4. Convert the chunks into a vector database (Chroma DB) using the OpenAI embedding model (text-embedding-3-large)
-    5. Retrieve and use LLM to generate
-    6. Output responses and context for a user to verify
+    1. Select PDF documents from a collection to perform RAG
+    2. Convert PDFs to Markdown for effective loading (MathPix preserves formulas and tables better than open-source tooling)
+    3. Split each Markdown file by section headers (#, ##, ###); sub-split any header block longer than ~1,200 tokens into ~800-token chunks with 100-token overlap (true tiktoken token counts)
+    4. Embed each chunk with Voyage AI's voyage-finance-2 model (1024 dim, finance-tuned) and upsert to Pinecone (cosine similarity, one namespace per collection); also store the original header block as a "parent" in a sidecar JSONL for later expansion
+    5. At query time: retrieve top-40 candidates from Pinecone (optional MMR diversity), rerank to top-10 with Cohere rerank, expand each to its parent header block, and stream the answer from Anthropic Claude with prompt caching on the system + context block
+    6. Output the response alongside the cited source sections for the user to verify
+
+### 3.3 Pipeline Diagram
+```
+PDF -> Markdown -> chunk + parent block
+                          |
+                          v
+                  Voyage voyage-finance-2 (1024d)
+                          |
+                          v
+                  Pinecone (per-collection namespaces)
+                          |
+   query --> embed --> top_k=40 --> Cohere rerank --> top_n=10
+                                                          |
+                                                          v
+                                        parent-block expansion (sidecar JSONL)
+                                                          |
+                                                          v
+                                 Anthropic Claude (streamed, prompt-cached)
+```
+
+### 3.4 Local Development
+```
+# Ingestion (one-time, or per-collection re-runs):
+python -m ingest.run --all --purge               # full rebuild
+python -m ingest.run --collection SAP            # one collection
+python -m ingest.run --collection SAP --file F.pdf  # one file (idempotent)
+
+# Run the app:
+streamlit run Valuation_search.py
+
+# Latency benchmark:
+python scripts/bench.py --runs 2
+```
+
+Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `FRED_API_KEY` (yield-data page). `OPENAI_API_KEY` is optional — only used if you switch `EMBED_PROVIDER` back to `"openai"` in `valact/settings.py`.
 
 ## 4. Author
 Dan Kim 
@@ -59,8 +94,9 @@ Dan Kim
 This project is licensed under the Apache License 2.0- see the LICENSE.md file for details.
 
 ## 7. Acknowledgments and References
-- https://python.langchain.com/docs/use_cases/question_answering/quickstart
-- https://python.langchain.com/docs/use_cases/question_answering/sources
-- https://chat.langchain.com/
-- https://ollama.ai/
-- https://www.trychroma.com/
+- Anthropic Claude — https://docs.anthropic.com/
+- Voyage AI embeddings (voyage-finance-2) — https://docs.voyageai.com/
+- Cohere Rerank — https://docs.cohere.com/docs/rerank-2
+- Pinecone vector database — https://docs.pinecone.io/
+- MathPix Markdown PDF conversion — https://mathpix.com/
+- LangChain text splitters (header-aware chunking) — https://python.langchain.com/docs/concepts/text_splitters/

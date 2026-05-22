@@ -1,12 +1,9 @@
-import streamlit as st
 import altair as alt
-import pandas as pd
 import numpy as np
-from langchain_experimental.agents import create_pandas_dataframe_agent
-from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
-from langchain_openai import ChatOpenAI
+import pandas as pd
+import streamlit as st
 
-import os
+from valact.yield_chat import render_chat_panel
 
 
 JGB_ALL_CSV = (
@@ -17,7 +14,7 @@ JGB_REMOTE_CSV = (
 )
 
 
-@st.cache_data(ttl=86400)  # Cache result for 1 day (86400 seconds)
+@st.cache_data(ttl=86400, show_spinner=False)
 def load_jgb_data():
     output_list = ["1Y", "10Y", "30Y", "40Y"]
 
@@ -28,21 +25,19 @@ def load_jgb_data():
     try:
         remote_df = pd.read_csv(JGB_REMOTE_CSV, header=1, encoding="cp932")
         remote_df["Date"] = pd.to_datetime(remote_df["Date"], errors="coerce")
-    except Exception as e:
-        st.warning(f"Failed to fetch JGB web CSV: {e}")
+    except Exception as exc:
+        st.warning(f"Failed to fetch JGB web CSV: {exc}")
 
-    if remote_df is not None:
-        combined_df = pd.concat([all_df, remote_df], axis=0, ignore_index=True)
-    else:
-        combined_df = all_df.copy()
-
+    combined_df = pd.concat([all_df, remote_df], axis=0, ignore_index=True) if remote_df is not None else all_df.copy()
     combined_df = combined_df.sort_values("Date").drop_duplicates(subset=["Date"])
     combined_df = combined_df[["Date"] + output_list]
 
+    for c in output_list:
+        combined_df[c] = pd.to_numeric(combined_df[c], errors="coerce")
+
     todays_date = combined_df["Date"].max().strftime("%Y-%m-%d")
 
-    month_end_df = combined_df.copy()
-    month_end_df = month_end_df.sort_values("Date")
+    month_end_df = combined_df.sort_values("Date").copy()
     month_end_df["YearMonth"] = month_end_df["Date"].dt.to_period("M")
     month_end_data = month_end_df.groupby("YearMonth").last().reset_index(drop=True)
     month_end_data = month_end_data[month_end_data["Date"] >= "2022-01-01"]
@@ -52,29 +47,24 @@ def load_jgb_data():
     return combined_df, output_list, todays_date, month_end_data
 
 
-def main():
-    st.set_page_config(page_title="JGB Yield Data", page_icon="📈")
-    st.title("JGB Yield Data")
+def _render_chart(combined_df: pd.DataFrame, output_list: list[str]):
+    melted = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
+    melted["Yield"] = pd.to_numeric(melted["Yield"], errors="coerce")
+    melted = melted.dropna(subset=["Yield"])
+    melted = melted[melted["Date"] >= "2022-09-01"]
 
-    combined_df, output_list, todays_date, month_end_data = load_jgb_data()
+    y_start = np.floor(melted["Yield"].min() * 2) / 2
+    y_end = np.ceil(melted["Yield"].max() * 2) / 2
 
-    melted_df = combined_df.melt(id_vars="Date", var_name="Ticker", value_name="Yield")
-    melted_df["Yield"] = pd.to_numeric(melted_df["Yield"], errors="coerce")
-    melted_df.dropna(subset=["Yield"], inplace=True)
-    melted_df = melted_df[melted_df["Date"] >= "2022-09-01"]
-
-    y_start = np.floor(melted_df["Yield"].min() * 2) / 2
-    y_end = np.ceil(melted_df["Yield"].max() * 2) / 2
-
-    input_dropdown = alt.binding_radio(
+    radio = alt.binding_radio(
         options=output_list + [None],
         labels=[label + " " for label in output_list] + ["All"],
         name="Ticker: ",
     )
-    selection = alt.selection_point(fields=["Ticker"], bind=input_dropdown)
+    selection = alt.selection_point(fields=["Ticker"], bind=radio)
 
-    base_chart = (
-        alt.Chart(melted_df)
+    base = (
+        alt.Chart(melted)
         .mark_line()
         .encode(
             x="Date:T",
@@ -85,83 +75,55 @@ def main():
         .transform_filter(selection)
     )
 
-    selector = alt.selection_point(
-        encodings=["x"], on="mouseover", nearest=True, empty=False
-    )
+    hover = alt.selection_point(encodings=["x"], on="mouseover", nearest=True, empty=False)
     rule = (
-        alt.Chart(melted_df)
+        alt.Chart(melted)
         .mark_rule()
         .encode(
             x="Date:T",
-            opacity=alt.condition(selector, alt.value(1), alt.value(0)),
+            opacity=alt.condition(hover, alt.value(1), alt.value(0)),
             color=alt.value("gray"),
         )
-        .add_params(selector)
+        .add_params(hover)
     )
     text = (
-        base_chart.mark_text(align="left", dx=5, dy=-10, fontWeight="bold", fontSize=15)
-        .encode(text=alt.condition(selector, "Yield:Q", alt.value(" "), format=".2f"))
-        .transform_filter(selector)
+        base.mark_text(align="left", dx=5, dy=-10, fontWeight="bold", fontSize=15)
+        .encode(text=alt.condition(hover, "Yield:Q", alt.value(" "), format=".2f"))
+        .transform_filter(hover)
     )
 
-    start_date = melted_df["Date"].min()
-    end_date = melted_df["Date"].max()
-    quarter_ends_df = pd.DataFrame(
-        {"Date": pd.date_range(start=start_date, end=end_date, freq="Q")}
+    quarter_ends = pd.DataFrame(
+        {"Date": pd.date_range(start=melted["Date"].min(), end=melted["Date"].max(), freq="Q")}
     )
+    quarter_lines = alt.Chart(quarter_ends).mark_rule(color="gray", strokeWidth=1).encode(x="Date:T")
 
-    quarter_lines = (
-        alt.Chart(quarter_ends_df)
-        .mark_rule(color="gray", strokeWidth=1)
-        .encode(x="Date:T")
-    )
+    st.altair_chart(alt.layer(base, rule, text, quarter_lines), theme=None, use_container_width=True)
 
-    final_chart = alt.layer(base_chart, rule, text, quarter_lines)
 
-    st.altair_chart(final_chart, theme=None, use_container_width=True)
+def main():
+    st.set_page_config(page_title="JGB Yield Data", page_icon="📈")
+    st.title("JGB Yield Data")
+
+    combined_df, output_list, todays_date, month_end_data = load_jgb_data()
+    _render_chart(combined_df, output_list)
 
     with st.sidebar:
         st.subheader("Month-End Data Table")
         st.dataframe(month_end_data[output_list])
-
         st.write(f"Data source: MOF JGB as of {todays_date}")
         st.markdown(
             "[JGB Interest Rate - MOF](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/)"
         )
 
-    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
-
-    if "messages" not in st.session_state or st.sidebar.button(
-        "Clear conversation history"
-    ):
-        st.session_state["messages"] = [
-            {
-                "role": "assistant",
-                "content": "Welcome to JGB Yield Tracker!",
-            }
-        ]
-
-    for msg in st.session_state.messages:
-        st.chat_message(msg["role"]).write(msg["content"])
-
-    if prompt := st.chat_input(placeholder="Ask questions on the JGB yield data."):
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        st.chat_message("user").write(prompt)
-
-        llm = ChatOpenAI(model="gpt-5.5", streaming=True)
-        pandas_df_agent = create_pandas_dataframe_agent(
-            llm,
-            combined_df,
-            verbose=True,
-            agent_type="openai-tools",
-            allow_dangerous_code=True,
-        )
-
-        with st.chat_message("assistant"):
-            st_cb = StreamlitCallbackHandler(st.container(), expand_new_thoughts=False)
-            response = pandas_df_agent.run(prompt, callbacks=[st_cb])
-            st.session_state.messages.append({"role": "assistant", "content": response})
-            st.write(response)
+    render_chat_panel(
+        df=combined_df,
+        series_columns=output_list,
+        label="Japanese Government Bond yields (JGB, MOF)",
+        latest_date=todays_date,
+        welcome="Welcome to JGB Yield Tracker!",
+        placeholder="Ask questions on the JGB yield data.",
+        state_key="jgb_messages",
+    )
 
 
 if __name__ == "__main__":

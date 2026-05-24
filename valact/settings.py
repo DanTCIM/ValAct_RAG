@@ -82,6 +82,9 @@ PARENTS_PATH = "./data/parents"
 SUMMARY_PATH = "./data/summary.json"
 DOCUMENT_LIST_PATH = "./data/document_list.json"
 DOCUMENT_LINK_PATH = "./data/document_link.json"
+INBOX_PATH = "./data/inbox"
+INBOX_MANIFEST_PATH = "./data/inbox/manifest.csv"
+ADD_DOC_STATE_PATH = "./.add_doc_state"
 
 
 @dataclass(frozen=True)
@@ -91,6 +94,8 @@ class Secrets:
     pinecone: str
     cohere: str | None
     voyage: str | None
+    mathpix_app_id: str | None
+    mathpix_app_key: str | None
 
 
 def get_secrets() -> Secrets:
@@ -100,4 +105,6 @@ def get_secrets() -> Secrets:
         pinecone=_secret("PINECONE_API_KEY") or "",
         cohere=_secret("COHERE_API_KEY"),
         voyage=_secret("VOYAGE_API_KEY"),
+        mathpix_app_id=_secret("MATHPIX_APP_ID"),
+        mathpix_app_key=_secret("MATHPIX_APP_KEY") or _secret("MATHPIX_API_KEY"),
     )

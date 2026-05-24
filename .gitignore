@@ -181,3 +181,7 @@ cython_debug/
 # by valact.clients.get_parents(). Keep out of git to slim the repo.
 data/parents/
 
+# Ingest workflow state — runtime only
+.add_doc_state/
+data/inbox/manifest.csv
+

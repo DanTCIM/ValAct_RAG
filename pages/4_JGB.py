@@ -94,23 +94,24 @@ def _render_chart(chart_df: pd.DataFrame):
     st.altair_chart(alt.layer(base, rule, text, quarter_lines), theme=None, use_container_width=True)
 
     # JPY/USD chart below the yield chart, same x-axis range.
-    fx_df = chart_df[["Date", FX_COLUMN]].dropna(subset=[FX_COLUMN])
-    fx_df = fx_df[fx_df["Date"] >= "2022-09-01"]
-    fx_min = np.floor(fx_df[FX_COLUMN].min() / 5) * 5
-    fx_max = np.ceil(fx_df[FX_COLUMN].max() / 5) * 5
+    if FX_COLUMN in chart_df.columns:
+        fx_df = chart_df[["Date", FX_COLUMN]].dropna(subset=[FX_COLUMN])
+        fx_df = fx_df[fx_df["Date"] >= "2022-09-01"]
+        fx_min = np.floor(fx_df[FX_COLUMN].min() / 5) * 5
+        fx_max = np.ceil(fx_df[FX_COLUMN].max() / 5) * 5
 
-    fx_chart = (
-        alt.Chart(fx_df)
-        .mark_line(color="#FFA500")
-        .encode(
-            x=alt.X("Date:T", axis=alt.Axis(title="")),
-            y=alt.Y(f"{FX_COLUMN}:Q", scale=alt.Scale(domain=[fx_min, fx_max]),
-                    axis=alt.Axis(title="JPY/USD")),
+        fx_chart = (
+            alt.Chart(fx_df)
+            .mark_line(color="#FFA500")
+            .encode(
+                x=alt.X("Date:T", axis=alt.Axis(title="")),
+                y=alt.Y(f"{FX_COLUMN}:Q", scale=alt.Scale(domain=[fx_min, fx_max]),
+                        axis=alt.Axis(title="JPY/USD")),
+            )
+            .properties(height=180)
         )
-        .properties(height=180)
-    )
-    st.subheader("JPY/USD Exchange Rate (FRED DEXJPUS)")
-    st.altair_chart(fx_chart, theme=None, use_container_width=True)
+        st.subheader("JPY/USD Exchange Rate (FRED DEXJPUS)")
+        st.altair_chart(fx_chart, theme=None, use_container_width=True)
 
 
 def main():

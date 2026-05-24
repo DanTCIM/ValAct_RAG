@@ -11,10 +11,13 @@ from pathlib import Path
 
 import boto3
 import pandas as pd
+from fredapi import Fred
 
 BUCKET = "market-data"
 KEY = "jgb/yields.parquet"
 OUTPUT_TENORS = ["1Y", "10Y", "30Y", "40Y"]
+FRED_FX_SERIES = "DEXJPUS"
+FX_COLUMN = "JPY/USD"
 
 JGB_ALL_CSV = "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/historical/jgbcme_all.csv"
 JGB_REMOTE_CSV = "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv"
@@ -43,6 +46,15 @@ def build_df() -> pd.DataFrame:
     df = df[["Date"] + OUTPUT_TENORS].sort_values("Date")
     for c in OUTPUT_TENORS:
         df[c] = pd.to_numeric(df[c], errors="coerce")
+
+    fred = Fred(api_key=get_secret("FRED_API_KEY"))
+    fx = fred.get_series(FRED_FX_SERIES).rename(FX_COLUMN).to_frame()
+    fx.index.name = "Date"
+    fx = fx.reset_index()
+    fx["Date"] = pd.to_datetime(fx["Date"])
+
+    df = df.merge(fx, on="Date", how="left")
+    df[FX_COLUMN] = df[FX_COLUMN].ffill()
     return df
 
 

@@ -6,6 +6,7 @@ Run in CI:      see .github/workflows/update_eur.yml
 
 import io
 import os
+import time
 import tomllib
 from pathlib import Path
 
@@ -38,9 +39,24 @@ def get_secret(key: str) -> str:
     raise RuntimeError(f"Missing secret: {key}")
 
 
+def _get_series(fred: Fred, code: str, retries: int = 3) -> pd.Series:
+    delay = 15
+    for attempt in range(retries):
+        try:
+            return fred.get_series(code)
+        except ValueError as e:
+            # fredapi converts HTTP timeouts/5xx into ValueError(None); real FRED
+            # errors (bad key, unknown series) carry a non-None message string.
+            if str(e) != "None" or attempt == retries - 1:
+                raise
+            print(f"FRED {code} transient error, retry {attempt + 1}/{retries - 1} in {delay}s…")
+            time.sleep(delay)
+            delay *= 2
+
+
 def build_df() -> pd.DataFrame:
     fred = Fred(api_key=get_secret("FRED_API_KEY"))
-    frames = [fred.get_series(code).rename(label).to_frame() for label, code in SERIES_IDS.items()]
+    frames = [_get_series(fred, code).rename(label).to_frame() for label, code in SERIES_IDS.items()]
     df = pd.concat(frames, axis=1)
     df.index.name = "Date"
     df = df.dropna(how="all").reset_index()

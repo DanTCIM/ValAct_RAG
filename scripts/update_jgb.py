@@ -6,6 +6,7 @@ Run in CI:      see .github/workflows/update_jgb.yml
 
 import io
 import os
+import time
 import tomllib
 from pathlib import Path
 
@@ -37,6 +38,19 @@ def get_secret(key: str) -> str:
     raise RuntimeError(f"Missing secret: {key}")
 
 
+def _get_series(fred: Fred, code: str, retries: int = 3) -> pd.Series:
+    delay = 15
+    for attempt in range(retries):
+        try:
+            return fred.get_series(code)
+        except ValueError as e:
+            if str(e) != "None" or attempt == retries - 1:
+                raise
+            print(f"FRED {code} transient error, retry {attempt + 1}/{retries - 1} in {delay}s…")
+            time.sleep(delay)
+            delay *= 2
+
+
 def build_df() -> pd.DataFrame:
     all_df = pd.read_csv(JGB_ALL_CSV, header=1, encoding="cp932")
     remote_df = pd.read_csv(JGB_REMOTE_CSV, header=1, encoding="cp932")
@@ -48,7 +62,7 @@ def build_df() -> pd.DataFrame:
         df[c] = pd.to_numeric(df[c], errors="coerce")
 
     fred = Fred(api_key=get_secret("FRED_API_KEY"))
-    fx = fred.get_series(FRED_FX_SERIES).rename(FX_COLUMN).to_frame()
+    fx = _get_series(fred, FRED_FX_SERIES).rename(FX_COLUMN).to_frame()
     fx.index.name = "Date"
     fx = fx.reset_index()
     fx["Date"] = pd.to_datetime(fx["Date"])

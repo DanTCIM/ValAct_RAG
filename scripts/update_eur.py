@@ -45,8 +45,6 @@ def _get_series(fred: Fred, code: str, retries: int = 3) -> pd.Series:
         try:
             return fred.get_series(code)
         except ValueError as e:
-            # fredapi converts HTTP timeouts/5xx into ValueError(None); real FRED
-            # errors (bad key, unknown series) carry a non-None message string.
             if str(e) != "None" or attempt == retries - 1:
                 raise
             print(f"FRED {code} transient error, retry {attempt + 1}/{retries - 1} in {delay}s…")

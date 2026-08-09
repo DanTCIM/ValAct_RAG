@@ -84,6 +84,7 @@ def lint_md(md_path: Path, pdf_path: Path) -> list[ReviewIssue]:
     resp = client.messages.create(
         model=ANTHROPIC_MODEL,
         max_tokens=REVIEW_MAX_TOKENS,
+        thinking={"type": "disabled"},
         messages=[
             {
                 "role": "user",

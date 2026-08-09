@@ -37,6 +37,7 @@ def summarize_md(md_path: Path, collection: str, *, max_chars: int = 120_000) ->
     resp = client.messages.create(
         model=ANTHROPIC_MODEL,
         max_tokens=SUMMARY_MAX_TOKENS,
+        thinking={"type": "disabled"},
         messages=[
             {
                 "role": "user",

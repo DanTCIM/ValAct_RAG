@@ -47,6 +47,7 @@ def _time_first_token(query: str, parents) -> tuple[float, int]:
         system=system,
         messages=messages,
         max_tokens=256,
+        thinking={"type": "disabled"},
     ) as stream:
         for chunk in stream.text_stream:
             if first is None and chunk:

@@ -297,7 +297,7 @@ def answer_stream(
     history: list[dict],
     parents: list[ParentDoc],
     *,
-    max_tokens: int = 1024,
+    max_tokens: int = 4096,
 ) -> Iterator[str]:
     client = get_anthropic_client()
     system, messages = build_messages(query, history, parents)

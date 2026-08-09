@@ -30,7 +30,7 @@ EMBED_DIM = 1024
 # Single source of truth for the chat LLM. Used by the main RAG answer pipeline
 # (valact.rag.answer_stream) and the FRED/JGB tool-use chat (valact.yield_chat).
 # Change this in one place to update everywhere.
-ANTHROPIC_MODEL = "claude-sonnet-4-6"
+ANTHROPIC_MODEL = "claude-sonnet-5"
 
 COHERE_RERANK_MODEL = "rerank-v3.5"
 

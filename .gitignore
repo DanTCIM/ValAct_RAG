@@ -6,6 +6,7 @@ __pycache__/
 # PDF files
 data/pdf/*
 data/sunset/*
+*.pdf
 
 # Draft files
 *XXX*

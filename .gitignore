@@ -10,6 +10,7 @@ data/sunset/*
 
 # Draft files
 *XXX*
+data/research/*
 
 # Secret file
 secrets.toml

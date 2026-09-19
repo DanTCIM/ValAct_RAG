@@ -15,3 +15,4 @@ altair>=5.5
 fredapi>=0.5
 tabulate>=0.9
 python-dotenv>=1.0
+httpx>=0.25

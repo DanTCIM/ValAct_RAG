@@ -9,7 +9,11 @@ import pandas as pd
 import streamlit as st
 
 from valact.settings import (
+    AUTO_OPTION,
+    AUTO_PRECHECK_THRESHOLD,
+    AUTO_TOP_VISIBLE,
     BASE_MD_PATH,
+    COLLECTION_LABELS,
     COLLECTIONS,
     DOCUMENT_LINK_PATH,
     DOCUMENT_LIST_PATH,
@@ -59,8 +63,10 @@ def render_header(tab):
             "Life Actuarial Document Q&A Machine using Retrieval Augmented Generation (RAG)"
         )
         st.write(
-            "Please see the sidebar to select a collection of documents. "
-            "You can choose a specific document for an exclusive search within that document only."
+            f"**{AUTO_OPTION}** (the default) suggests the most relevant document collections "
+            "for your question and lets you search several at once. "
+            "Or pick a single collection in the sidebar, and optionally one document, "
+            "for an exclusive search within that document only."
         )
 
 
@@ -81,10 +87,86 @@ def render_doc_selector() -> tuple[str, str, str]:
     document_list = get_document_list()
     document_link = get_document_link()
     with st.sidebar:
-        collection = st.selectbox("Select your document collection", COLLECTIONS)
+        collection = st.selectbox(
+            "Select your document collection",
+            [AUTO_OPTION] + COLLECTIONS,
+            help=f"{AUTO_OPTION} suggests collections per question and can search several.",
+        )
+        if collection == AUTO_OPTION:
+            # No single namespace to scope a document to, so the document
+            # selector (and the summary/link/viewer it drives) stays hidden.
+            return AUTO_OPTION, "All", ""
         document = st.selectbox("Select your document", document_list[collection])
         link = document_link.get(document, "")
     return collection, document, link
+
+
+def _domain_label(collection: str, prob: float | None) -> str:
+    label = COLLECTION_LABELS.get(collection, collection)
+    if label == collection:
+        text = collection
+    else:
+        text = f"{collection} — {label}"
+    return text if prob is None else f"{text} · {prob:.0%}"
+
+
+def render_domain_picker(
+    container,
+    ranking: list[tuple[str, float]] | None,
+    query: str,
+) -> list[str] | None:
+    """Ranked domain checkboxes. Returns the picks on submit, else None.
+
+    `ranking` is None when Jev is unavailable: every domain is then offered
+    unranked and unchecked, so a question can still be searched.
+    """
+    ranked = ranking is not None
+    rows: list[tuple[str, float | None]] = (
+        list(ranking) if ranked else [(c, None) for c in COLLECTIONS]
+    )
+    # Always keep the top suggestion checked so one click can search.
+    preselected = {
+        c for c, p in rows if p is not None and p >= AUTO_PRECHECK_THRESHOLD
+    }
+    if ranked and not preselected:
+        preselected = {rows[0][0]}
+
+    with container:
+        with st.form(key=f"domain_picker_{abs(hash(query))}"):
+            if ranked:
+                st.markdown(f"**Suggested collections for:** {query}")
+            else:
+                st.warning(
+                    "Auto-ranking unavailable — pick the collections to search manually."
+                )
+                st.markdown(f"**Collections for:** {query}")
+
+            picked: dict[str, bool] = {}
+            for collection, prob in rows[:AUTO_TOP_VISIBLE]:
+                picked[collection] = st.checkbox(
+                    _domain_label(collection, prob),
+                    value=collection in preselected,
+                    key=f"pick_{collection}_{abs(hash(query))}",
+                )
+            rest = rows[AUTO_TOP_VISIBLE:]
+            if rest:
+                with st.expander(f"Other collections ({len(rest)})"):
+                    for collection, prob in rest:
+                        picked[collection] = st.checkbox(
+                            _domain_label(collection, prob),
+                            value=collection in preselected,
+                            key=f"pick_{collection}_{abs(hash(query))}",
+                        )
+
+            submitted = st.form_submit_button("Search selected collections", type="primary")
+
+    if not submitted:
+        return None
+    selected = [c for c, on in picked.items() if on]
+    if not selected:
+        container.error("Select at least one collection to search.")
+        return None
+    return selected
 
 
 def render_rag_params() -> tuple[int, bool, float]:
@@ -149,8 +231,10 @@ def render_chat_history(tab, messages: Iterable[dict]):
                 st.chat_message(role).write(content)
 
 
-def format_sources_block(parents, num_source: int) -> str:
+def format_sources_block(parents, num_source: int, collections=None) -> str:
     parts = []
+    if collections:
+        parts.append(f"**Collections searched:** {', '.join(collections)}\n")
     for i, p in enumerate(parents[:num_source], start=1):
         score = (
             f"\n* **Relevance: {round((p.best_rerank_score or 0) * 100)}%**"
@@ -159,6 +243,7 @@ def format_sources_block(parents, num_source: int) -> str:
         )
         parts.append(
             f"### Retrieval {i}\n"
+            f"* **Collection: {p.collection}**\n"
             f"* **Document: {p.source_file}**\n"
             f"* **Section: {p.section_path}**{score}\n\n"
             f"{p.text}\n"
@@ -166,9 +251,11 @@ def format_sources_block(parents, num_source: int) -> str:
     return "\n\n".join(parts)
 
 
-def render_sources_now(container, parents, num_source: int):
+def render_sources_now(container, parents, num_source: int, collections=None):
     status = container.status("**Context Retrieval**", expanded=False)
-    status.markdown(format_sources_block(parents, num_source), unsafe_allow_html=True)
+    status.markdown(
+        format_sources_block(parents, num_source, collections), unsafe_allow_html=True
+    )
     status.update(state="complete")
 
 

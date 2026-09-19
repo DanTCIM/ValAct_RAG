@@ -82,7 +82,7 @@ def main():
     for i, (collection, document, query) in enumerate(queries, start=1):
         run_retrieval(
             query,
-            collection=collection,
+            collections=(collection,),
             document=document if document != "All" else None,
             top_k=args.top_k,
             top_n=args.top_n,
@@ -93,7 +93,7 @@ def main():
             timings = StageTimings()
             _docs, parents = run_retrieval(
                 query,
-                collection=collection,
+                collections=(collection,),
                 document=document if document != "All" else None,
                 top_k=args.top_k,
                 top_n=args.top_n,

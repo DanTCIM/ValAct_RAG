@@ -1,0 +1,19 @@
+# Extra routing-eval queries. Format: expected_collection|query
+# Complements scripts/queries.txt (which is shared with bench.py) by covering
+# the collections it misses and a few deliberately cross-domain questions.
+
+Cayman|What are the CIMA licensing requirements for a Class D insurer?
+Cayman|Who can be recognized as an appointed actuary under CIMA rules?
+Product|How are lapse and surrender assumptions set for term and whole life?
+Product|What does AG 49-A change about indexed universal life illustrations?
+AI_BigData|What does the NAIC AI model bulletin expect insurers to govern?
+AI_BigData|How should actuaries address data bias in predictive models?
+Asset|What are the NAIC considerations for CLO investments?
+IFRS17|How is the contractual service margin unlocked each period?
+ASOP_life|What does ASOP 56 require when validating a model?
+CFT|When is AG 53 asset adequacy documentation required?
+PBR|How is the stochastic exclusion ratio test applied?
+SAP|How is negative IMR admitted under INT 23-01?
+Bermuda|What approvals does the BMA require to use the scenario-based approach?
+RiskFinance|How do rating agency capital models differ from statutory RBC?
+GAAP|How are market risk benefits remeasured under LDTI?

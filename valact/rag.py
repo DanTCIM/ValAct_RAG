@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import time
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
 from typing import Iterator
 
@@ -125,29 +126,63 @@ def _mmr(query_vec: list[float], docs: list[Doc], k: int, lambda_mult: float) ->
     return [docs[i] for i in selected]
 
 
+def _query_namespaces(
+    qv: list[float],
+    collections: tuple[str, ...],
+    *,
+    fetch_k: int,
+    use_mmr: bool,
+    document: str | None,
+) -> list[Doc]:
+    """Query one namespace per collection in parallel and merge the hits.
+
+    Scores are comparable across namespaces (one index, one embedding model),
+    so the merged list is sorted globally and trimmed back to fetch_k -- later
+    stages (MMR, rerank) then see the same candidate count as a single-domain
+    search. The document filter only applies to a single-collection search;
+    document selection is disabled in Auto mode.
+    """
+    index = get_pinecone_index()
+    doc_filter = _pinecone_filter(document) if len(collections) == 1 else None
+
+    def _one(collection: str) -> list[Doc]:
+        resp = index.query(
+            vector=qv,
+            top_k=fetch_k,
+            namespace=collection,
+            include_metadata=True,
+            include_values=use_mmr,
+            filter=doc_filter,
+        )
+        matches = resp.get("matches", []) if isinstance(resp, dict) else resp.matches
+        return _docs_from_matches(matches, collection)
+
+    if len(collections) == 1:
+        docs = _one(collections[0])
+    else:
+        docs = []
+        with ThreadPoolExecutor(max_workers=len(collections)) as pool:
+            for hits in pool.map(_one, collections):
+                docs.extend(hits)
+        docs.sort(key=lambda d: d.score, reverse=True)
+        docs = docs[:fetch_k]
+    return docs
+
+
 def _retrieve_impl(
     query: str,
     *,
-    collection: str,
+    collections: tuple[str, ...],
     document: str | None,
     top_k: int,
     use_mmr: bool,
     lambda_mult: float,
 ) -> list[Doc]:
-    index = get_pinecone_index()
     qv = embed_query(query)
-
     fetch_k = int(top_k * 1.5) if use_mmr else top_k
-    resp = index.query(
-        vector=qv,
-        top_k=fetch_k,
-        namespace=collection,
-        include_metadata=True,
-        include_values=use_mmr,
-        filter=_pinecone_filter(document),
+    docs = _query_namespaces(
+        qv, collections, fetch_k=fetch_k, use_mmr=use_mmr, document=document
     )
-    matches = resp.get("matches", []) if isinstance(resp, dict) else resp.matches
-    docs = _docs_from_matches(matches, collection)
     if use_mmr:
         docs = _mmr(qv, docs, k=top_k, lambda_mult=lambda_mult)
     return docs
@@ -157,7 +192,7 @@ def _retrieve_impl(
 def retrieve(
     query: str,
     *,
-    collection: str,
+    collections: tuple[str, ...],
     document: str | None = None,
     top_k: int = RETRIEVE_TOP_K,
     use_mmr: bool = True,
@@ -165,7 +200,7 @@ def retrieve(
 ) -> list[Doc]:
     return _retrieve_impl(
         query,
-        collection=collection,
+        collections=collections,
         document=document,
         top_k=top_k,
         use_mmr=use_mmr,
@@ -323,7 +358,7 @@ class StageTimings:
 def run_retrieval(
     query: str,
     *,
-    collection: str,
+    collections: tuple[str, ...],
     document: str | None = None,
     top_k: int = RETRIEVE_TOP_K,
     top_n: int = RERANK_TOP_N,
@@ -339,18 +374,10 @@ def run_retrieval(
         timings.embed_s = time.perf_counter() - t
 
     t = time.perf_counter()
-    index = get_pinecone_index()
     fetch_k = int(top_k * 1.5) if use_mmr else top_k
-    resp = index.query(
-        vector=qv,
-        top_k=fetch_k,
-        namespace=collection,
-        include_metadata=True,
-        include_values=use_mmr,
-        filter=_pinecone_filter(document),
+    docs = _query_namespaces(
+        qv, collections, fetch_k=fetch_k, use_mmr=use_mmr, document=document
     )
-    matches = resp.get("matches", []) if isinstance(resp, dict) else resp.matches
-    docs = _docs_from_matches(matches, collection)
     if use_mmr:
         docs = _mmr(qv, docs, k=top_k, lambda_mult=lambda_mult)
     if timings:

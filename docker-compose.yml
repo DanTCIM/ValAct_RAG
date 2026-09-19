@@ -13,4 +13,5 @@ services:
       - COHERE_API_KEY=${COHERE_API_KEY}
       - VOYAGE_API_KEY=${VOYAGE_API_KEY}
       - FRED_API_KEY=${FRED_API_KEY}
+      - OPENROUTER_VALACT_KEY=${OPENROUTER_VALACT_KEY}
     restart: unless-stopped

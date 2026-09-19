@@ -38,6 +38,7 @@ For applications in practice, one should note that RAG is not perfect and can st
 ![RAG concept](./images/RAG_concept.png)
 
 ### 3.2 RAG Implementation Steps
+    0. Pick the collection(s) to search: **Auto** (the default) sends the question to Jev, TypeSafe's System One decision model, which scores every collection for relevance in one ~300 ms call; the ranked collections are then shown as checkboxes (likely ones pre-checked) and the search runs across all of the ones confirmed. Choosing a single collection by hand instead keeps the original flow, including the optional single-document filter
     1. Select PDF documents from a collection to perform RAG
     2. Convert PDFs to Markdown for effective loading (MathPix preserves formulas and tables better than open-source tooling)
     3. Split each Markdown file by section headers (#, ##, ###); sub-split any header block longer than ~1,200 tokens into ~800-token chunks with 100-token overlap (true tiktoken token counts)
@@ -55,7 +56,12 @@ PDF -> Markdown -> chunk + parent block
                           v
                   Pinecone (per-collection namespaces)
                           |
-   query --> embed --> top_k=40 --> Cohere rerank --> top_n=10
+   query --> Jev (System One) --> ranked collections --> user confirms
+                          |
+   query --> embed --> top_k=40 across the selected namespaces
+                          |
+                          v
+                 merge by score --> Cohere rerank --> top_n=10
                                                           |
                                                           v
                                         parent-block expansion (sidecar JSONL)
@@ -76,9 +82,19 @@ streamlit run Valuation_search.py
 
 # Latency benchmark:
 python scripts/bench.py --runs 2
+
+# Collection-routing accuracy (Auto mode):
+python scripts/eval_router.py --threshold 0.7
 ```
 
-Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `FRED_API_KEY` (yield-data page). `OPENAI_API_KEY` is optional — only used if you switch `EMBED_PROVIDER` back to `"openai"` in `valact/settings.py`.
+Auto mode calls Jev through OpenRouter's Decisions API (`POST /api/alpha/decisions`), which is a
+separate endpoint from chat completions — chat SDKs do not work against it. One yes/no question per
+collection goes out in a single request, so a question spanning two domains can score high on both.
+If the call fails for any reason, the picker still appears with every collection listed and
+unranked, so the app never depends on Jev being up. Routing behavior is tuned in `valact/settings.py`
+(`COLLECTION_DESCRIPTIONS`, `AUTO_PRECHECK_THRESHOLD`, `AUTO_TOP_VISIBLE`).
+
+Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `FRED_API_KEY` (yield-data page), `OPENROUTER_VALACT_KEY` (Jev collection routing in Auto mode; without it the app falls back to a manual pick). `OPENAI_API_KEY` is optional — only used if you switch `EMBED_PROVIDER` back to `"openai"` in `valact/settings.py`.
 
 ## 4. Author
 Dan Kim 

@@ -24,7 +24,7 @@ try:
 except ImportError:
     pass
 
-from valact.router import _rank_impl
+from valact.router import _route_impl
 from valact.settings import AUTO_PRECHECK_THRESHOLD
 
 QUERIES_PATH = Path(__file__).resolve().parent / "queries.txt"
@@ -64,12 +64,13 @@ def main() -> int:
 
     for expected, query in cases:
         t0 = time.perf_counter()
-        ranking = _rank_impl(query)
+        route = _route_impl(query)
         latencies.append((time.perf_counter() - t0) * 1000)
-        if ranking is None:
+        if route is None:
             print(f"FAILED  {query[:60]}")
             continue
 
+        ranking = route.ranking
         order = [c for c, _ in ranking]
         scores = dict(ranking)
         above = [c for c, p in ranking if p >= args.threshold] or order[:1]

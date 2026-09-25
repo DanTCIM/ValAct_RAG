@@ -316,17 +316,6 @@ def build_messages(
     return system, messages
 
 
-def history_aware_query(query: str, history: list[dict]) -> str:
-    last_user = None
-    for turn in reversed(history):
-        if turn.get("role") == "user":
-            last_user = turn.get("content", "")
-            break
-    if not last_user:
-        return query
-    return f"{last_user}\n{query}"
-
-
 def answer_stream(
     query: str,
     history: list[dict],

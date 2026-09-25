@@ -81,6 +81,17 @@ JEV_TIMEOUT_S = 5.0
 AUTO_PRECHECK_THRESHOLD = 0.7
 AUTO_TOP_VISIBLE = 5  # remaining domains go under an expander
 
+# Below this P(on-topic) the Auto picker warns and pre-checks nothing, so an
+# off-topic question costs no retrieval or answer call unless the user insists.
+# Tuned on scripts/eval_gates.py.
+AUTO_OFFTOPIC_THRESHOLD = 0.3
+
+# Follow-up detection (both modes, only when a previous question exists). At or
+# above this P(follow-up), routing and retrieval search on the previous
+# question(s) joined with the new one. Tuned on scripts/eval_gates.py.
+FOLLOWUP_THRESHOLD = 0.5
+MAX_CONTEXT_QUESTIONS = 3  # cap on questions chained into one search query
+
 # Short display names, shown in the Auto picker and used as the taxonomy
 # catalog when ingest/classify.py files a new document.
 COLLECTION_LABELS = {

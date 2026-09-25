@@ -38,7 +38,8 @@ For applications in practice, one should note that RAG is not perfect and can st
 ![RAG concept](./images/RAG_concept.png)
 
 ### 3.2 RAG Implementation Steps
-    0. Pick the collection(s) to search: **Auto** (the default) sends the question to Jev, TypeSafe's System One decision model, which scores every collection for relevance in one ~300 ms call; the ranked collections are then shown as checkboxes (likely ones pre-checked) and the search runs across all of the ones confirmed. Choosing a single collection by hand instead keeps the original flow, including the optional single-document filter
+    0. Pick the collection(s) to search: **Auto** (the default) sends the question to Jev, TypeSafe's System One decision model, which scores every collection for relevance in one ~300 ms call; the ranked collections are then shown as checkboxes (likely ones pre-checked) and the search runs across all of the ones confirmed. Choosing a single collection by hand instead keeps the original flow, including the optional single-document filter. The same call also scores whether the question is actuarial at all; an off-topic question gets a warning and nothing pre-checked, so it costs no search unless the user insists
+    0a. Follow-ups (both modes): when there is a previous question, Jev first decides whether the new one depends on it ("what about VM-21?"). If so, routing and retrieval search on the earlier question(s) joined with the new one (up to 3), and the sources panel shows the combined query. `scripts/eval_gates.py` measures both decisions against labeled cases in `scripts/gate_cases.txt`
     1. Select PDF documents from a collection to perform RAG
     2. Convert PDFs to Markdown for effective loading (MathPix preserves formulas and tables better than open-source tooling)
     3. Split each Markdown file by section headers (#, ##, ###); sub-split any header block longer than ~1,200 tokens into ~800-token chunks with 100-token overlap (true tiktoken token counts)
@@ -56,9 +57,11 @@ PDF -> Markdown -> chunk + parent block
                           v
                   Pinecone (per-collection namespaces)
                           |
-   query --> Jev (System One) --> ranked collections --> user confirms
+   query --> Jev: follow-up? --> search query (+ earlier questions if yes)
                           |
-   query --> embed --> top_k=40 across the selected namespaces
+   search query --> Jev (System One) --> ranked collections + on-topic --> user confirms
+                          |
+   search query --> embed --> top_k=40 across the selected namespaces
                           |
                           v
                  merge by score --> Cohere rerank --> top_n=10

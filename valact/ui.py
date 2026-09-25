@@ -9,6 +9,7 @@ import pandas as pd
 import streamlit as st
 
 from valact.settings import (
+    AUTO_OFFTOPIC_THRESHOLD,
     AUTO_OPTION,
     AUTO_PRECHECK_THRESHOLD,
     AUTO_TOP_VISIBLE,
@@ -112,15 +113,24 @@ def _domain_label(collection: str, prob: float | None) -> str:
 
 def render_domain_picker(
     container,
-    ranking: list[tuple[str, float]] | None,
+    route,
     query: str,
+    search_query: str | None = None,
 ) -> list[str] | None:
     """Ranked domain checkboxes. Returns the picks on submit, else None.
 
-    `ranking` is None when Jev is unavailable: every domain is then offered
-    unranked and unchecked, so a question can still be searched.
+    `route` (valact.router.Route) is None when Jev is unavailable: every domain
+    is then offered unranked and unchecked, so a question can still be
+    searched. A question Jev reads as off-topic is ranked but pre-checks
+    nothing, so it only costs a search if the user picks collections anyway.
     """
+    ranking = route.ranking if route is not None else None
     ranked = ranking is not None
+    off_topic = (
+        route is not None
+        and route.on_topic is not None
+        and route.on_topic < AUTO_OFFTOPIC_THRESHOLD
+    )
     rows: list[tuple[str, float | None]] = (
         list(ranking) if ranked else [(c, None) for c in COLLECTIONS]
     )
@@ -130,9 +140,16 @@ def render_domain_picker(
     }
     if ranked and not preselected:
         preselected = {rows[0][0]}
+    if off_topic:
+        preselected = set()
 
     with container:
         with st.form(key=f"domain_picker_{abs(hash(query))}"):
+            if off_topic:
+                st.warning(
+                    "This doesn't look like an actuarial or insurance question, so no "
+                    "collection is pre-selected. Pick collections to search anyway."
+                )
             if ranked:
                 st.markdown(f"**Suggested collections for:** {query}")
             else:
@@ -140,6 +157,11 @@ def render_domain_picker(
                     "Auto-ranking unavailable — pick the collections to search manually."
                 )
                 st.markdown(f"**Collections for:** {query}")
+            if search_query and search_query != query:
+                st.caption(
+                    "Read as a follow-up — searching on: "
+                    + " / ".join(search_query.splitlines())
+                )
 
             picked: dict[str, bool] = {}
             for collection, prob in rows[:AUTO_TOP_VISIBLE]:
@@ -231,10 +253,18 @@ def render_chat_history(tab, messages: Iterable[dict]):
                 st.chat_message(role).write(content)
 
 
-def format_sources_block(parents, num_source: int, collections=None) -> str:
+def format_sources_block(
+    parents, num_source: int, collections=None, search_query: str | None = None
+) -> str:
     parts = []
     if collections:
         parts.append(f"**Collections searched:** {', '.join(collections)}\n")
+    if search_query:
+        parts.append(
+            "**Read as a follow-up — searched on:** "
+            + " / ".join(search_query.splitlines())
+            + "\n"
+        )
     for i, p in enumerate(parents[:num_source], start=1):
         score = (
             f"\n* **Relevance: {round((p.best_rerank_score or 0) * 100)}%**"

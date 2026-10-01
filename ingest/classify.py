@@ -58,7 +58,7 @@ def suggest_collection(pdf_path: Path) -> Suggestion:
     resp = client.messages.create(
         model=ANTHROPIC_MODEL,
         max_tokens=CLASSIFY_MAX_TOKENS,
-        thinking={"type": "disabled"},
+        thinking={"type": "between_tools"},
         system=_SYSTEM,
         messages=[
             {

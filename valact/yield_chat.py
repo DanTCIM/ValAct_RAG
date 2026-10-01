@@ -196,7 +196,7 @@ def chat_about_yields(
             tools=tools,
             messages=messages,
             max_tokens=4096,
-            thinking={"type": "disabled"},
+            thinking={"type": "between_tools"},
         ) as stream:
             for delta in stream.text_stream:
                 text_so_far += delta

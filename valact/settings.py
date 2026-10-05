@@ -23,7 +23,6 @@ def _secret(name: str, default: str | None = None) -> str | None:
 PINECONE_INDEX = "valact-rag-v3"
 PINECONE_INDEX_LEGACY = "valact-rag"
 
-EMBED_PROVIDER = "voyage"  # "voyage" or "openai"
 EMBED_MODEL = "voyage-finance-2"
 EMBED_DIM = 1024
 
@@ -206,7 +205,6 @@ ADD_DOC_STATE_PATH = "./.add_doc_state"
 
 @dataclass(frozen=True)
 class Secrets:
-    openai: str
     anthropic: str
     pinecone: str
     cohere: str | None
@@ -218,7 +216,6 @@ class Secrets:
 
 def get_secrets() -> Secrets:
     return Secrets(
-        openai=_secret("OPENAI_API_KEY") or "",
         anthropic=_secret("ANTHROPIC_API_KEY") or "",
         pinecone=_secret("PINECONE_API_KEY") or "",
         cohere=_secret("COHERE_API_KEY"),

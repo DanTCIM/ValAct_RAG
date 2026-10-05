@@ -97,7 +97,7 @@ If the call fails for any reason, the picker still appears with every collection
 unranked, so the app never depends on Jev being up. Routing behavior is tuned in `valact/settings.py`
 (`COLLECTION_DESCRIPTIONS`, `AUTO_PRECHECK_THRESHOLD`, `AUTO_TOP_VISIBLE`).
 
-Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `FRED_API_KEY` (yield-data page), `OPENROUTER_VALACT_KEY` (Jev collection routing in Auto mode; without it the app falls back to a manual pick). `OPENAI_API_KEY` is optional — only used if you switch `EMBED_PROVIDER` back to `"openai"` in `valact/settings.py`.
+Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `FRED_API_KEY` (yield-data page), `OPENROUTER_VALACT_KEY` (Jev collection routing in Auto mode; without it the app falls back to a manual pick).
 
 ## 4. Author
 Dan Kim 

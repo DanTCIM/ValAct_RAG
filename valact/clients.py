@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import Any
 
 from anthropic import Anthropic
-from openai import OpenAI
 from pinecone import Pinecone
 
 from valact.settings import (
@@ -46,11 +45,6 @@ except ImportError:
 @_cache_resource(show_spinner=False)
 def _secrets() -> Secrets:
     return get_secrets()
-
-
-@_cache_resource(show_spinner=False)
-def get_openai_client() -> OpenAI:
-    return OpenAI(api_key=_secrets().openai)
 
 
 @_cache_resource(show_spinner=False)

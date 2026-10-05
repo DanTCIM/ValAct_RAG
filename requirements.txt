@@ -1,12 +1,10 @@
 anthropic>=0.40
-openai>=1.55
 pinecone>=5.0
 cohere>=5.13
 voyageai>=0.3
 tiktoken>=0.8
 langchain-text-splitters>=0.3
 langchain-experimental>=0.3
-langchain-openai>=0.3
 langchain-community>=0.3
 streamlit>=1.40
 pandas>=2.2

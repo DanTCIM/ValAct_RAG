@@ -21,7 +21,6 @@ def _secret(name: str, default: str | None = None) -> str | None:
 
 
 PINECONE_INDEX = "valact-rag-v3"
-PINECONE_INDEX_LEGACY = "valact-rag"
 
 EMBED_MODEL = "voyage-finance-2"
 EMBED_DIM = 1024

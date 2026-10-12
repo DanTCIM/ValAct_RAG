@@ -1,14 +1,16 @@
-anthropic>=0.40
-pinecone>=5.0
-cohere>=5.13
-voyageai>=0.3
-tiktoken>=0.8
-langchain-text-splitters>=0.3
-streamlit>=1.40
-pandas>=2.2
-numpy>=1.26
-altair>=5.5
-fredapi>=0.5
-tabulate>=0.9
-python-dotenv>=1.0
-httpx>=0.25
+# Exact pins = versions verified working in the old conda env (2026-10-12).
+# Local: uv venv --python 3.12 && uv pip sync requirements.txt  (Docker installs the same pins)
+anthropic==0.52.2
+pinecone==7.0.2
+cohere==6.1.0
+voyageai==0.3.7
+tiktoken==0.9.0
+langchain-text-splitters==0.3.8
+streamlit==1.33.0  # 1.32.2 caps packaging<24, conflicts with pinecone 7 (pip ignored it; uv won't)
+pandas==2.2.3
+numpy==1.26.4
+altair==5.2.0
+fredapi==0.5.2
+tabulate==0.9.0
+python-dotenv==1.0.1
+httpx==0.25.2

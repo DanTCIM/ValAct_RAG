@@ -75,13 +75,16 @@ PDF -> Markdown -> chunk + parent block
 
 ### 3.4 Local Development
 ```
+# One-time setup (uv):
+uv venv --python 3.12 && uv pip install -r requirements.txt
+
 # Ingestion (one-time, or per-collection re-runs):
-python -m ingest.run --all --purge               # full rebuild
-python -m ingest.run --collection SAP            # one collection
-python -m ingest.run --collection SAP --file F.pdf  # one file (idempotent)
+uv run python -m ingest.run --all --purge               # full rebuild
+uv run python -m ingest.run --collection SAP            # one collection
+uv run python -m ingest.run --collection SAP --file F.pdf  # one file (idempotent)
 
 # Run the app:
-streamlit run Valuation_search.py
+uv run streamlit run Valuation_search.py
 
 # Latency benchmark:
 python scripts/bench.py --runs 2

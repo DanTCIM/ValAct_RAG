@@ -26,7 +26,7 @@ class ReviewIssue:
 
 _SAFE_CATEGORIES = {"header_hierarchy", "ocr_artifact", "image_link", "joined_paragraph"}
 
-_LINT_INSTRUCTION = """You are reviewing a Markdown file that was OCR'd from a PDF (via MathPix).
+_LINT_INSTRUCTION = """You are reviewing a Markdown file that was converted from a PDF (via docling).
 The PDF is provided as ground truth. Find places where the Markdown structure or text diverges from the PDF in ways that would degrade RAG retrieval quality.
 
 Focus on these categories ONLY:

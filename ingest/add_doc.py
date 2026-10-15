@@ -411,7 +411,7 @@ def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="python -m ingest.add_doc",
         description=(
-            "End-to-end document ingestion: PDF → MD (MathPix) → Claude review → "
+            "End-to-end document ingestion: PDF → MD (docling) → Claude review → "
             "summary → manifest JSONs → vector DB."
         ),
     )

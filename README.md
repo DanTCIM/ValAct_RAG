@@ -6,7 +6,7 @@ The collections include:
 - [Statutory Accounting Principles](./data/pdf/SAP)
 - [Principle-Based Reserving](./data/pdf/PBR)
 - [Cash Flow Testing and Asset Adequacy Testing](./data/pdf/CFT)
-- [Actuarial Standards of Practice related to Life Insurance](./data/pdf/ASOP_life)
+- [Actuarial Standards of Practice & professionalism (USQS, CPD)](./data/pdf/ASOP_life)
 - [US GAAP](./data/pdf/GAAP)
 - [IFRS 17](./data/pdf/IFRS17)
 - [Bermuda](./data/pdf/Bermuda)
@@ -41,7 +41,7 @@ For applications in practice, one should note that RAG is not perfect and can st
     0. Pick the collection(s) to search: **Auto** (the default) sends the question to Jev, TypeSafe's System One decision model, which scores every collection for relevance in one ~300 ms call; the ranked collections are then shown as checkboxes (likely ones pre-checked) and the search runs across all of the ones confirmed. Choosing a single collection by hand instead keeps the original flow, including the optional single-document filter. The same call also scores whether the question is actuarial at all; an off-topic question gets a warning and nothing pre-checked, so it costs no search unless the user insists
     0a. Follow-ups (both modes): when there is a previous question, Jev first decides whether the new one depends on it ("what about VM-21?"). If so, routing and retrieval search on the earlier question(s) joined with the new one (up to 3), and the sources panel shows the combined query. `scripts/eval_gates.py` measures both decisions against labeled cases in `scripts/gate_cases.txt`
     1. Select PDF documents from a collection to perform RAG
-    2. Convert PDFs to Markdown for effective loading (MathPix preserves formulas and tables better than open-source tooling)
+    2. Convert PDFs to Markdown for effective loading (locally with docling; a Claude lint pass then checks the Markdown against the PDF)
     3. Split each Markdown file by section headers (#, ##, ###); sub-split any header block longer than ~1,200 tokens into ~800-token chunks with 100-token overlap (true tiktoken token counts)
     4. Embed each chunk with Voyage AI's voyage-finance-2 model (1024 dim, finance-tuned) and upsert to Pinecone (cosine similarity, one namespace per collection); also store the original header block as a "parent" in a sidecar JSONL for later expansion
     5. At query time: retrieve top-40 candidates from Pinecone (optional MMR diversity), rerank to top-10 with Cohere rerank, expand each to its parent header block, and stream the answer from Anthropic Claude with prompt caching on the system + context block
@@ -102,7 +102,7 @@ unranked, so the app never depends on Jev being up. Routing behavior is tuned in
 
 Required secrets (in `.streamlit/secrets.toml` locally, or Streamlit Cloud dashboard for production): `ANTHROPIC_API_KEY` (chat LLM), `PINECONE_API_KEY` (vector store), `COHERE_API_KEY` (reranker), `VOYAGE_API_KEY` (embeddings), `OPENROUTER_VALACT_KEY` (Jev collection routing in Auto mode; without it the app falls back to a manual pick).
 
-Not needed by the running app: `FRED_API_KEY` lives in GitHub Actions secrets for the scheduled yield-data refresh workflows (add it locally only to run `scripts/update_*.py` by hand); `MATHPIX_APP_ID` / `MATHPIX_APP_KEY` are only for local PDF ingestion (`ingest/add_doc.py`).
+Not needed by the running app: `FRED_API_KEY` lives in GitHub Actions secrets for the scheduled yield-data refresh workflows (add it locally only to run `scripts/update_*.py` by hand). Local PDF ingestion (`ingest/add_doc.py`) needs no extra key; it runs docling in an isolated `uv run` env, so `uv` must be on PATH.
 
 ## 4. Author
 Dan Kim 
@@ -122,5 +122,5 @@ This project is licensed under the Apache License 2.0- see the LICENSE.md file f
 - Voyage AI embeddings (voyage-finance-2) — https://docs.voyageai.com/
 - Cohere Rerank — https://docs.cohere.com/docs/rerank-2
 - Pinecone vector database — https://docs.pinecone.io/
-- MathPix Markdown PDF conversion — https://mathpix.com/
+- Docling PDF-to-Markdown conversion — https://github.com/docling-project/docling
 - LangChain text splitters (header-aware chunking) — https://python.langchain.com/docs/concepts/text_splitters/

@@ -96,7 +96,7 @@ COLLECTION_LABELS = {
     "SAP": "Statutory accounting & NAIC valuation",
     "PBR": "Principle-based reserving (Valuation Manual)",
     "CFT": "Cash flow testing & asset adequacy",
-    "ASOP_life": "Actuarial Standards of Practice",
+    "ASOP_life": "Actuarial standards & professionalism",
     "GAAP": "US GAAP (LDTI)",
     "IFRS17": "IFRS 17",
     "Bermuda": "Bermuda (BMA)",
@@ -133,8 +133,11 @@ COLLECTION_DESCRIPTIONS = {
         "US Actuarial Standards of Practice issued by the Actuarial Standards Board: the numbered "
         "ASOPs covering data quality, credibility, modeling, actuarial communications, risk "
         "classification, reinsurance, nonguaranteed elements, illustrations, pricing, capital "
-        "adequacy, ERM, and statements of actuarial opinion. Questions about professional "
-        "standards and what an ASOP requires."
+        "adequacy, ERM, and statements of actuarial opinion. Also actuarial professionalism and "
+        "qualification: the American Academy of Actuaries U.S. Qualification Standards (USQS), "
+        "basic and specific education requirements, and the SOA continuing professional "
+        "development (CPD) requirement, CPD hours and compliance. Questions about professional "
+        "standards, what an ASOP requires, and who is qualified to sign an opinion."
     ),
     "GAAP": (
         "US GAAP accounting for long-duration insurance contracts: FASB ASU 2018-12 (LDTI), "
@@ -208,8 +211,6 @@ class Secrets:
     pinecone: str
     cohere: str | None
     voyage: str | None
-    mathpix_app_id: str | None
-    mathpix_app_key: str | None
     openrouter_valact: str | None
 
 
@@ -219,7 +220,5 @@ def get_secrets() -> Secrets:
         pinecone=_secret("PINECONE_API_KEY") or "",
         cohere=_secret("COHERE_API_KEY"),
         voyage=_secret("VOYAGE_API_KEY"),
-        mathpix_app_id=_secret("MATHPIX_APP_ID"),
-        mathpix_app_key=_secret("MATHPIX_APP_KEY") or _secret("MATHPIX_API_KEY"),
         openrouter_valact=_secret("OPENROUTER_VALACT_KEY"),
     )

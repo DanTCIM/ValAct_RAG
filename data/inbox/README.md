@@ -16,7 +16,7 @@ uv run python -m ingest.add_doc scaffold --suggest
 uv run python -m ingest.add_doc run
 ```
 
-That's it. Six stages run per PDF: MathPix convert → Claude lint+safe-fix → Claude summary → JSON manifests → embed+upsert → move PDF to `data/pdf/{collection}/`.
+That's it. Six stages run per PDF: docling convert (local) → Claude lint+safe-fix → Claude summary → JSON manifests → embed+upsert → move PDF to `data/pdf/{collection}/`.
 
 ## Variations
 
@@ -70,7 +70,7 @@ uv run python -m ingest.add_doc one --pdf data/pdf/{collection}/X.pdf \
 ## Code map (when something needs changing)
 
 - `ingest/add_doc.py` — CLI orchestrator. The six `_stage_*` functions are the pipeline stages.
-- `ingest/pdf2md.py` — MathPix wrapper (`MATHPIX_APP_ID` + `MATHPIX_APP_KEY` in `.streamlit/secrets.toml`).
+- `ingest/pdf2md.py` — local PDF → Markdown via docling (no API key), run in an isolated `uv run --with docling==…` env so it never touches the app's pins.
 - `ingest/md_review.py` — Claude lint + safe-fix.
 - `ingest/summarize.py` — Claude summary generator.
 - `ingest/classify.py` — optional category suggester (uses Anthropic PDF input).
@@ -81,7 +81,7 @@ uv run python -m ingest.add_doc one --pdf data/pdf/{collection}/X.pdf \
 
 ## Common gotchas
 
-- **MathPix credentials live in `.streamlit/secrets.toml`** (not `.env`). Both `MATHPIX_APP_ID` and `MATHPIX_APP_KEY` are required.
+- **No MathPix** (retired 2026-10-15). docling extracts equations as plain text, not LaTeX, and can miss headings drawn as graphics — check the lint report and the MD closely.
 - **Collection must be one of the 12** in `valact/settings.py` `COLLECTIONS`. Typos will be rejected at run time.
 - **`run` won't process a row with empty `collection`** — fill it in the CSV.
 - **URLs aren't auto-detected.** If you don't supply one, pass `--allow-missing-urls`.
